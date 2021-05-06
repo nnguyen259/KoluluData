@@ -1934,12 +1934,11 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 8 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_DoubleUp:832590867734724618> **30% DA Up**",
                             "<:Status_TripleUp:832601877920350218> **15% TA Up**",
-                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**",
                             "<:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**"
                         ]
                     },
@@ -1949,7 +1948,7 @@
                     "name": "Bal-Sagoth",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.\nBuff increased to <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
                     ],
                     "type": [
                         "3"
@@ -1958,7 +1957,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**"
@@ -1970,7 +1969,8 @@
                     "name": "Power Within",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 100 ",
                     "text": [
-                        "Absorb 15% of a foe's mode bar and 10% of all allies' charge bars.\nFoe mode bar absorption increased to 20%.\nFoe mode bar absorption increased to 40%.\nAllies' charge bars absorption reduced to 5% (Amira gains 20% charge bar for each ally absorbed).\nAlso gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
+                        "Absorb 40% of a foe's mode bar and 5% of all allies' charge bars (Amira gains 20% charge bar for each ally absorbed).",
+                        "Gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
                     ],
                     "type": [
                         "3"
@@ -1979,19 +1979,35 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
-                    "duration": {},
+                    "cooldown": "10 turns ",
+                    "duration": {
+                      "10^t":[
+                        "Half-God Half-Demon"
+                      ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
                     ],
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 45\u21e7 Lvl 90 ",
                     "text": [
-                        "Activate Half-God Half-Demon mode.\nGain Dark element qualities and reduce Light damage taken by 25%.\nNormal attacks and charge attacks deal bonus Dark damage."
+                        "Activate Half-God Half-Demon mode.\nGain Dark element qualities and reduce Light damage taken by 25%.\nNormal attacks and charge attacks deal bonus Dark damage.",
+                        "(Uses 100% of charge bar)."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 None of the buffs and effects of Half-God Half-Demon mode are visible status buffs.",
+                          "\u2022 Using Half-God Half-Demon when Amira is already transformed will have no effect and its cooldown will be set to 1 turn.",
+                          "\u2022 The Bonus Dark Damage from Amira's transformation doesn't reduce the normal Damage by 50% like other Bonus Damage buffs but reduces the elemental modifier from 100% to 50%. Accordingly, it is not affected by any Light elemental modifier increases, such as Lucifer or <:Status_LightAtkUp:832596750144503828> Light ATK Up, but will benefit from Dark elemental modifier increases, such as Bahamut or <:Status_DarkAtkUp:832588129894006794> Dark ATK Up. This allows her to scale stronger with Dark elemental buffs compared to others."
+                        ]
+                      }
+                  ]
                 }
             ],
             []
@@ -1999,12 +2015,11 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": " 8 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_DoubleUp:832590867734724618> **30% DA Up**",
                             "<:Status_TripleUp:832601877920350218> **15% TA Up**",
-                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**",
                             "<:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**"
                         ]
                     },
@@ -2014,7 +2029,7 @@
                     "name": "Bal-Sagoth",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.\nBuff increased to <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
                     ],
                     "type": [
                         "3"
@@ -2023,7 +2038,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**"
@@ -2035,7 +2050,7 @@
                     "name": "Power Within",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 100 ",
                     "text": [
-                        "Absorb 15% of a foe's mode bar and 10% of all allies' charge bars.\nFoe mode bar absorption increased to 20%.\nFoe mode bar absorption increased to 40%.\nAllies' charge bars absorption reduced to 5% (Amira gains 20% charge bar for each ally absorbed).\nAlso gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
+                        "Absorb 20% of a foe's mode bar and 10% of all allies' charge bars."
                     ],
                     "type": [
                         "3"
@@ -2044,8 +2059,12 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
-                    "duration": {},
+                    "cooldown": "10 turns ",
+                    "duration": {
+                      "8^t":[
+                        "Half-God Half-Demon"
+                      ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
                     ],
@@ -2056,7 +2075,18 @@
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 None of the buffs and effects of Half-God Half-Demon mode are visible status buffs.",
+                          "\u2022 Using Half-God Half-Demon when Amira is already transformed will have no effect and its cooldown will be set to 1 turn.",
+                          "\u2022 The Bonus Dark Damage from Amira's transformation doesn't reduce the normal Damage by 50% like other Bonus Damage buffs but reduces the elemental modifier from 100% to 50%. Accordingly, it is not affected by any Light elemental modifier increases, such as Lucifer or <:Status_LightAtkUp:832596750144503828> Light ATK Up, but will benefit from Dark elemental modifier increases, such as Bahamut or <:Status_DarkAtkUp:832588129894006794> Dark ATK Up. This allows her to scale stronger with Dark elemental buffs compared to others."
+                        ]
+                      }
+                  ]
                 }
             ],
             []
@@ -2064,7 +2094,7 @@
         "PROMO": [
             [
                 {
-                    "cooldown": " 5 turns ",
+                    "cooldown": "5 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
@@ -2076,7 +2106,7 @@
                     "name": "Interlude",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced."
+                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -2085,7 +2115,7 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**",
@@ -2098,7 +2128,8 @@
                     "name": "Pivot Blow",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 90 ",
                     "text": [
-                        "5-hit Light damage to random foes.\nGain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced.\nAlso gain <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
+                        "5-hit Light damage to random foes.",
+                        "Gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up** and <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
                     ],
                     "type": [
                         "1"
@@ -2132,7 +2163,9 @@
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 75 ",
                     "text": [
-                        "Gain Dark element qualities.\n(Activate Half-God Half-Demon mode.)\n(Consumes 100% of charge bar.)\n"
+                        "Gain Dark element qualities.",
+                        "(Activate Half-God Half-Demon mode.)",
+                        "(Consumes 100% of charge bar.)"
                     ],
                     "type": [
                         "3"
@@ -2143,7 +2176,7 @@
         "PROMO_4": [
             [
                 {
-                    "cooldown": " 5 turns ",
+                    "cooldown": "5 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
@@ -2155,7 +2188,7 @@
                     "name": "Interlude",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced."
+                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -2164,11 +2197,10 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**",
-                            "<:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**"
+                            "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
                         ]
                     },
                     "icon": [
@@ -2177,8 +2209,8 @@
                     "name": "Pivot Blow",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 90 ",
                     "text": [
-                        "5-hit Light damage to random foes.\nGain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced.\nAlso gain <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
-                    ],
+                        "5-hit Light damage to random foes.",
+                        "Gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."                    ],
                     "type": [
                         "1"
                     ]
@@ -2186,7 +2218,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/18_3.png"
@@ -2203,7 +2235,7 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
+                    "cooldown": "10 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
@@ -2211,7 +2243,9 @@
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 75 ",
                     "text": [
-                        "Gain Dark element qualities.\n(Activate Half-God Half-Demon mode.)\n(Consumes 100% of charge bar.)\n"
+                        "Gain Dark element qualities.",
+                        "(Activate Half-God Half-Demon mode.)",
+                        "(Consumes 100% of charge bar.)"
                     ],
                     "type": [
                         "3"
@@ -2222,7 +2256,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**"
@@ -2234,7 +2268,9 @@
                     "name": "Summer's End",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "400% Dark damage to a foe (Damage cap: ~630,000).\nInflict <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**.\nGain **Instant Charge**."
+                        "400% Dark damage to a foe (Damage cap: ~630,000).",
+                        "Inflict <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**.",
+                        "Gain **Instant Charge**."
                     ],
                     "type": [
                         "1"
@@ -2243,7 +2279,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "1^t": [
                             "<:Status_Substitute:832601501934288916> **Substitute (All-Ally)**"
@@ -2255,16 +2291,54 @@
                     "name": "Radiant Heart",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Gain <:Status_Substitute:832601501934288916> **Substitute (All-Ally)**.\n(Consumes up to 3 <:status_69371:832604145114546217> **Satiety** lvls.\nAdditional buffs based on number consumed.)\n"
+                        "Gain <:Status_Substitute:832601501934288916> **Substitute (All-Ally)**.",
+                        "Consumes up to 3 <:status_69371:832604145114546217> **Satiety** lvls.",
+                        "Additional buffs based on number consumed."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "Amira gains up to 3 additional buffs that last for 1 turn based on the number of <:status_69371:832604145114546217> Satiety lvls consumed.",
+                        "text": [
+                          "\u200b"
+                        ]
+                      },
+                      {
+                        "inLine" : true,
+                        "title" : "<:status_69371:832604145114546217> Satiety Consumed",
+                        "text": [
+                          "\u200b",
+                          "1",
+                          "\u200b",
+                          "\u200b",
+                          "2",
+                          "\u200b",
+                          "\u200b",
+                          "\u200b",
+                          "3"
+                        ]
+                      },
+                      {
+                        "inLine" : true,
+                        "title" : "Additional Effects",
+                        "text": [
+                          "\u200b",
+                          "Also gain <:Status_Armored:832577248602095656> **100% / 50% Armored**.",
+                          "\u200b",
+                          "Also gain <:Status_CriticalUp:832587322133970986> **50% / 50% Critical Hit Rate Up**.",
+                          "\u200b",
+                          "Also gain <:Status_Adversity:834386783583862794> **20% DMG Amplified**."
+                        ]
+                      }
+                  ]
                 }
             ],
             [
                 {
-                    "cooldown": " 0 turns ",
+                    "cooldown": "0 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:status_69371:832604145114546217> **Satiety**"
@@ -2276,7 +2350,9 @@
                     "name": "Maximum Overload",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Restore caster's HP (Healing cap: 800) and remove 1 debuff.\nRecover 2 <:status_69371:832604145114546217> **Satiety** lvls.\n(Consumes 20% of charge bar.)\n"
+                        "Restore caster's HP (Healing cap: 800) and remove 1 debuff.",
+                        "Recover 2 <:status_69371:832604145114546217> **Satiety** lvls.",
+                        "(Consumes 20% of charge bar.)"
                     ],
                     "type": [
                         "2"

@@ -1045,7 +1045,8 @@
                 "duration": {},
                 "name": "Hidden Key",
                 "text": [
-                    "While in Half-God Half-Demon mode:30% boost to ATK, 30% boost to DEF, 100% boost to double attack rate, 10% boost to triple attack rate, and immunity to debuffs.\nCounters upon taking damage (1 time)."
+                    "**While in Half-God Half-Demon mode**:",
+                    "30% boost to ATK, 30% boost to DEF, 100% boost to double attack rate, 10% boost to triple attack rate, and immunity to debuffs.\nCounters upon taking damage (1 time)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1055,7 +1056,26 @@
                 "text": [
                     "Chance to boost ATK with every one-foe attack (Stackable)"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "```",
+                          "╔══════╦════════╦════════╗",
+                          "║ Rank ║ ATK Up ║ Chance ║",
+                          "╠══════╬════════╬════════╣",
+                          "║   1  ║        ║   ?%   ║",
+                          "╠══════╣        ╠════════╣",
+                          "║   2  ║   10%  ║   ?%   ║",
+                          "╠══════╣        ╠════════╣",
+                          "║   3  ║        ║   10%  ║",
+                          "╚══════╩════════╩════════╝",
+                          "```"
+                        ]
+                      }
+                  ]
             }
         ],
         "BASE_4": [
@@ -1064,14 +1084,6 @@
                 "name": "One-Winged Demon",
                 "text": [
                     "Charge bar fills up 20% faster."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Hidden Key",
-                "text": [
-                    "While in Half-God Half-Demon mode:30% boost to ATK, 30% boost to DEF, 100% boost to double attack rate, 10% boost to triple attack rate, and immunity to debuffs.\nCounters upon taking damage (1 time)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1095,9 +1107,10 @@
             },
             {
                 "duration": {},
-                "name": "Hidden KeyVerification needed.",
+                "name": "Hidden Key",
                 "text": [
-                    "While in Half-God Half-Demon mode:Boost to ATK, DEF, double attack rate, triple attack rate, chance to counter, and debuff immunity."
+                    "**While in Half-God Half-Demon mode**:",
+                    "Boost to ATK, DEF, double attack rate, triple attack rate, chance to counter, and debuff immunity."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1121,9 +1134,10 @@
             },
             {
                 "duration": {},
-                "name": "Hidden KeyVerification needed.",
+                "name": "Hidden Key",
                 "text": [
-                    "While in Half-God Half-Demon mode:Boost to ATK, DEF, double attack rate, triple attack rate, chance to counter, and debuff immunity."
+                    "**While in Half-God Half-Demon mode**:",
+                    "Boost to ATK, DEF, double attack rate, triple attack rate, chance to counter, and debuff immunity."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1141,7 +1155,8 @@
                 "duration": {},
                 "name": "I'm Hungry...",
                 "text": [
-                    "<:status_69371:832604145114546217> **Satiety** lvl is 3 at battle start (Max: 5).\n(At end of turn when Amira's charge bar is 20% or higher: Activate Maximum Overload.)\n"
+                    "<:status_69371:832604145114546217> **Satiety** lvl is 3 at battle start (Max: 5).",
+                    "**At end of turn when Amira's charge bar is 20% or higher**: Activate __**Maximum Overload**__."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1149,9 +1164,20 @@
                 "duration": {},
                 "name": "Drifting Gourmand",
                 "text": [
-                    "When <:status_69371:832604145114546217> **Satiety** lvl is 1 or above: 40% boost to ATK, 300% boost to DEF, boost to hostility, deal multiattacks, and consume <:status_69371:832604145114546217> **Satiety** lvls to counter based on number of times damage is taken (Max: 5 hits)."
+                    "**When <:status_69371:832604145114546217> Satiety lvl is 1 or above**:",
+                    "40% boost to ATK, 300% boost to DEF, boost to hostility, deal multiattacks, and consume <:status_69371:832604145114546217> **Satiety** lvls to counter based on number of times damage is taken (Max: 5 hits)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 Counter damage is 200%.",
+                          "\u2022 In a 4-man party, the chance she gets targeted is 80% (Hostility increased by +110)."
+                        ]
+                      }
+                  ]
             }
         ]
     },

@@ -796,17 +796,17 @@
     "Amira": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,650",
+            "atk": "10,270",
             "element": "Light",
             "gender": [
                 "Female"
             ],
-            "hp": "1,470",
+            "hp": "1,740",
             "id": "3040051000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_03.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [5\u2605]",
             "profile": "This half-demon girl searches for traces of her mother. An unreliable tip points her toward the arctic and so to the arctic she goes. The land she seeks is distant, shrouded in mystery, but she never wavers. After a long, long search, a clue appears before her.",
             "race": [
                 "Other"
@@ -833,10 +833,10 @@
             ],
             "hp": "1,470",
             "id": "3040051000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [4\u2605]",
             "profile": "This half-demon girl searches for traces of her mother. An unreliable tip points her toward the arctic and so to the arctic she goes. The land she seeks is distant, shrouded in mystery, but she never wavers. After a long, long search, a clue appears before her.",
             "race": [
                 "Other"
@@ -847,7 +847,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_02.jpg",
             "type": "Special",
             "va": [
                 "Risa Shimizu"
@@ -856,17 +856,17 @@
         },
         "PROMO": {
             "5star": "Yes",
-            "atk": "7,000",
+            "atk": "8,200",
             "element": "Light",
             "gender": [
                 "Female"
             ],
-            "hp": "1,200",
+            "hp": "1,640",
             "id": "3030065000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_03.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira (Promo)",
             "profile": "This girl traveled here from a distant land in search of her mother. The way she happily (and messily) stuffs her cheeks with food makes her look half her age, but any who witness just how much she can put away is struck dumb with awe.",
             "race": [
                 "Other"
@@ -893,10 +893,10 @@
             ],
             "hp": "1,200",
             "id": "3030065000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira (Promo)",
             "profile": "This girl traveled here from a distant land in search of her mother. The way she happily (and messily) stuffs her cheeks with food makes her look half her age, but any who witness just how much she can put away is struck dumb with awe.",
             "race": [
                 "Other"
@@ -907,7 +907,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_02.jpg",
             "type": "Attack",
             "va": [
                 "Risa Shimizu"
@@ -926,7 +926,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040287000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "4",
-            "name": "Amira",
+            "name": "Amira (Summer)",
             "profile": "Though finding her mother is her number one priority, this girl also treasures the time she spends with friends. Taking a load off on a bright beach, she hopes to one day tell her mother about the fun she\u2019s had alongside her companions.",
             "race": [
                 "Other"

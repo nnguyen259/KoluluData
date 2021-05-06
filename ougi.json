@@ -346,11 +346,19 @@
     },
     "Amira": {
         "BASE": [
+          {
+              "duration": {},
+              "name": "Avantesia",
+              "text": [
+                  "450% Light damage to a foe."
+              ]
+          },
             {
                 "duration": {},
-                "name": "Half-God Half-Demon mode:Inhuman Rampage",
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
                 "text": [
-                    "500% Light damage to a foe (Damage cap: ~1,685,000) and; 250% Dark damage to a foe (Damage cap: ~350,000).\n1-turn cut to Amira's skill cooldowns."
+                    "500% Light damage to a foe (Damage cap: ~1,685,000) and 250% Dark damage to a foe (Damage cap: ~350,000).",
+                    "1-turn cut to Amira's skill cooldowns."
                 ]
             }
         ],
@@ -361,12 +369,26 @@
                 "text": [
                     "450% Light damage to a foe."
                 ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
+                "text": [
+                    "500% Light damage to a foe (Damage cap: ~1,685,000) and 250% Dark damage to a foe (Damage cap: ~350,000)."
+                ]
             }
         ],
         "PROMO": [
             {
                 "duration": {},
-                "name": "Half-God Half-Demon mode:Inhuman Rampage",
+                "name": "Avantesia",
+                "text": [
+                    "Big Light damage to a foe."
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
                 "text": [
                     "Massive Light and Dark damage to a foe."
                 ]
@@ -379,6 +401,13 @@
                 "text": [
                     "Big Light damage to a foe."
                 ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
+                "text": [
+                    "Massive Light and Dark damage to a foe."
+                ]
             }
         ],
         "SUMMER": [
@@ -386,7 +415,9 @@
                 "duration": {},
                 "name": "Valley of the Damned",
                 "text": [
-                    "925% Dark damage to a foe (Damage cap: ~1,960,000) and;325% Light damage to a foe (Damage cap: ~500,000).\nConsume 3 <:status_69371:832604145114546217> **Satiety** lvls.\n(Can only be used when <:status_69371:832604145114546217> **Satiety** lvl is 3 or above.)\n"
+                    "925% Dark damage to a foe (Damage cap: ~1,960,000) and 325% Light damage to a foe (Damage cap: ~500,000).",
+                    "Consume 3 <:status_69371:832604145114546217> **Satiety** lvls.",
+                    "(Can only be used when <:status_69371:832604145114546217> **Satiety** lvl is 3 or above.)"
                 ]
             }
         ]
