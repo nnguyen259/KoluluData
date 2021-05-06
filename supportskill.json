@@ -813,7 +813,17 @@
                 "text": [
                     "Gain 1 <:Status_Everstrong_Spirit_1:832592396574785557> **Everstrong Spirit** stack when targeted by a foe (Max: 10)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : true,
+                      "title" : "When Aliza is targeted multiple times within a turn, she'll still only gain 1 stack of <:Status_Everstrong_Spirit_1:832592396574785557> Everstrong Spirit.",
+                      "text": [
+                        "\u2022 **Effect**: Double attack rate is boosted (Stackable / Can't be removed).",
+                        "\u2022 **Strength**: 10% (Max: 100%)."
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -821,7 +831,26 @@
                 "text": [
                     "Lessen wind DMG"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data":[
+                  {
+                      "inLine" : true,
+                      "title" : "\u200b",
+                      "text": [
+                        "```",
+                        "╔══════╦═══════════╗",
+                        "║ Rank ║ Reduction ║",
+                        "╠══════╬═══════════╣",
+                        "║   1  ║     5%    ║",
+                        "╠══════╬═══════════╣",
+                        "║   2  ║     8%    ║",
+                        "╠══════╬═══════════╣",
+                        "║   3  ║    10%    ║",
+                        "╚══════╩═══════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             }
         ],
         "DUO": [
@@ -903,7 +932,26 @@
                 "text": [
                     "Chance to lower foe's debuff resistance with every one-foe attack (Stackable)"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2022 After every auto attack, has a chance to inflict <:Status_DebuffResDown:832588130741125150> 5% Debuff Res. Down (Stack / Max: 10%).",
+                      "text": [
+                        "```",
+                        "╔══════╦═════════════════╦════════╗",
+                        "║ Rank ║ Debuff Res Down ║ Chance ║",
+                        "╠══════╬═════════════════╬════════╣",
+                        "║   1  ║                 ║   ?%   ║",
+                        "╠══════╣                 ╠════════╣",
+                        "║   2  ║        5%       ║   ?%   ║",
+                        "╠══════╣                 ╠════════╣",
+                        "║   3  ║                 ║   0%   ║",
+                        "╚══════╩═════════════════╩════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             }
         ],
         "SUMMER": [
@@ -913,7 +961,19 @@
                 "text": [
                     "Restores 20% of HP (Healing cap: 2000) when HP hits 50% or below (1 time)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "<:Status_Corn_on_the_Cobbin:839893555157794867> Corn-on-the-Cobbin':",
+                      "text": [
+                        "\u2022 **Effect**: Restores HP when HP hits 50% or below (1 time / Can't be removed).",
+                        "\u2022 Almeida starts the battle with <:Status_Corn_on_the_Cobbin:839893555157794867> **Corn-on-the-Cobbin'**, which is consumed when its condition is met.",
+                        "\u2022 If Almeida is revived (including <:Status_AutoRevive:832605672788066324> **Autorevive**), <:Status_Corn_on_the_Cobbin:839893555157794867> **Corn-on-the-Cobbin'** is restored and reusable again, even if it was used previously in battle.",
+                        "\u2022 Healing occurs at the end of the turn."
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -958,14 +1018,6 @@
                 "name": "Book of the Art of War",
                 "text": [
                     "Charge bar fills up 10% faster."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Lexicon of Combat",
-                "text": [
-                    "5% boost to debuff success rate for all allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },

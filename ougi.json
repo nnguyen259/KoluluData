@@ -265,21 +265,8 @@
                 },
                 "name": "Fangs of the Dragon",
                 "text": [
-                    "Massive Fire damage to a foe.\nGain <:Status_CriticalUp:832587322133970986> **50% / 80% Critical Hit Rate Up**."
-                ]
-            }
-        ],
-        "DUO": [
-            {
-                "duration": {
-                    "3.5^t": [
-                        "<:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**",
-                        "<:Status_Bonus_Damage:832584447911264276> **50% Bonus Wind DMG**"
-                    ]
-                },
-                "name": "Flaming Tempest",
-                "text": [
-                    "Massive Wind damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**.\n<:Status_Steel_and_Dust_1:832601501364387850> **Steel & Dust** lvl rises by 1.\n(When <:Status_Steel_and_Dust_1:832601501364387850> **Steel & Dust** is at 5: Buff increased to <:Status_Bonus_Damage:832584447911264276> **50% Bonus Wind DMG**.)\n"
+                    "Massive Fire damage to a foe.",
+                    "Gain <:Status_CriticalUp:832587322133970986> **50% / 80% Critical Hit Rate Up**."
                 ]
             }
         ],
@@ -301,7 +288,8 @@
                 },
                 "name": "Azure Firestorm",
                 "text": [
-                    "Big Water damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **40% Bonus Water DMG**."
+                    "Big Water damage to a foe",
+                    "Gain <:Status_Bonus_Damage:832584447911264276> **40% Bonus Water DMG**."
                 ]
             }
         ]
@@ -325,7 +313,8 @@
                 },
                 "name": "Mine Your Manners",
                 "text": [
-                    "Big Earth damage to a foe.\nInflict <:Status_EarthResDown:832591143694106656> **10% Earth DEF Down**."
+                    "Big Earth damage to a foe.",
+                    "Inflict <:Status_EarthResDown:832591143694106656> **10% Earth DEF Down**."
                 ]
             }
         ]
@@ -340,7 +329,8 @@
                 },
                 "name": "Untergang Rune",
                 "text": [
-                    "Massive Water damage to a foe.\nAll Water allies gain <:Status_CriticalUpWater:832587864280793139> **70% / 20% Critical Hit Rate Up**."
+                    "Massive Water damage to a foe.",
+                    "All Water allies gain <:Status_CriticalUpWater:832587864280793139> **70% / 20% Critical Hit Rate Up**."
                 ]
             }
         ],
