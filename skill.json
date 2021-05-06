@@ -28249,7 +28249,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": " 8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Uplift:832602899460521994> **10% Uplifted**"
