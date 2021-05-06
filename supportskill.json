@@ -10199,7 +10199,7 @@
                       "inLine" : false,
                       "title" : "Does not work with <:Status_AutoRevive:832605672788066324> **Autorevive** or <:Status_Undead_Curse:834405717997387797> **Undead Curse**.",
                       "text": [
-                        "If an ally is revived, Luna does not gain a stack of Status Shadow.pngShadow."
+                        "If an ally is revived, Luna does not gain a stack of <:Status_Shadow:832599791611019324> **Shadow**."
                       ]
                   }
                 ]
