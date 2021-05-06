@@ -27728,7 +27728,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Revitalize:832599167606980638> **Revitalize**",
@@ -27753,7 +27753,7 @@
             ],
             [
                 {
-                    "cooldown": " 6 turns5 turns ",
+                    "cooldown": " 5 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/324_1.png"
@@ -27797,7 +27797,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Bonus_Damage:832584447911264276> **20% Bonus Water DMG**"
@@ -27818,7 +27818,7 @@
             ],
             [
                 {
-                    "cooldown": " 14 turns12 turns ",
+                    "cooldown": " 12 turns ",
                     "duration": {
                         "6^t": [
                             "<:Status_DA_Down_6:834389926543884319> **100% DA Down**",
@@ -27873,7 +27873,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 6 turns5 turns ",
+                    "cooldown": " 5 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1068_1.png"
@@ -27890,7 +27890,7 @@
             ],
             [
                 {
-                    "cooldown": " 6 turns5 turns ",
+                    "cooldown": " 5 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DarkDEFDownStack:834390038597992499> **10% Dark DEF Down (Stackable / Max: 30%)**"
@@ -28000,7 +28000,7 @@
         "SR": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/21_1.png"
@@ -28008,7 +28008,7 @@
                     "name": "Shadow Barrage",
                     "obtain": " Lvl 1\u21e7 Lvl 45 \u21ee Lvl 80 ",
                     "text": [
-                        "3-hit Dark damage to random foes (Damage cap: ~100,000 per hit).\nDamage increased to 120%.\nNumber of hits increased to 4."
+                        "4-hit Dark damage to random foes (Damage cap: ~100,000 per hit).\nDamage increased to 120%."
                     ],
                     "type": [
                         "1"
@@ -28017,7 +28017,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_Blind:832583965428678656> **Blinded**"
@@ -28038,7 +28038,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/17_1.png"
@@ -28058,7 +28058,7 @@
         "SR_4": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/21_1.png"
@@ -28066,7 +28066,7 @@
                     "name": "Shadow Barrage",
                     "obtain": " Lvl 1\u21e7 Lvl 45 \u21ee Lvl 80 ",
                     "text": [
-                        "3-hit Dark damage to random foes (Damage cap: ~100,000 per hit).\nDamage increased to 120%.\nNumber of hits increased to 4."
+                        "3-hit Dark damage to random foes (Damage cap: ~100,000 per hit).\nDamage increased to 120%."
                     ],
                     "type": [
                         "1"
@@ -28075,7 +28075,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 6 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_Blind:832583965428678656> **Blinded**"
@@ -28087,7 +28087,7 @@
                     "name": "Demon-Slay",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Dark damage to a foe (Damage cap: ~220,000).\nInflict <:Status_Blind:832583965428678656> **Blinded**.\nDamage increased."
+                        "Dark damage to a foe (Damage cap: ~220,000).\nInflict <:Status_Blind:832583965428678656> **Blinded**."
                     ],
                     "type": [
                         "1"
@@ -28096,7 +28096,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": " 7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/17_1.png"
@@ -28104,7 +28104,7 @@
                     "name": "Whitefire Blade",
                     "obtain": " Lvl 35\u21e7 Lvl 90 ",
                     "text": [
-                        "Dark damage to a foe (Damage cap: ~280,000).\nBonus Fire damage to a <:Status_Burned:832584524088082433> **Burned** foe.\nDamage increased."
+                        "Dark damage to a foe (Damage cap: ~280,000).\nBonus Fire damage to a <:Status_Burned:832584524088082433> **Burned** foe."
                     ],
                     "type": [
                         "1"
@@ -28118,7 +28118,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 6 turns5 turns ",
+                    "cooldown": " 5 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/383_3.png"
@@ -28135,7 +28135,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": " 7 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DefenseDown:832588131140108339> **10% DEF Down**",
@@ -28183,7 +28183,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 5 turns4 turns ",
+                    "cooldown": " 4 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/356_4.png"
@@ -28208,10 +28208,20 @@
                     "name": "Lost Heart",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "All other allies gain <:Status_Black_Butterfly:834387210886971423> **Black Butterfly**."
+                        "All other allies gain <:Status_Black_Butterfly:834387210886971423> **Black Butterfly**. *(Requires 1 <:Status_Shadow:832599791611019324> **Shadow**.)*"
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "<:Status_Black_Butterfly:834387210886971423> **Black Butterfly** deals 700% Dark damage (damage cap: ~1,160,000) when an ally with <:Status_Black_Butterfly:834387210886971423> **Black Butterfly** is knocked out.",
+                          "text": [
+                            "Does not work with <:Status_AutoRevive:832605672788066324> **Autorevive** or <:Status_Undead_Curse:834405717997387797> **Undead Curse**. If an ally is revived, Luna does not deal damage.",
+                            "If Luna is knocked out or swapped, *the effect doesn't activate* (Verification needed.)"
+                          ]
+                      }
                     ]
                 }
             ],
@@ -28225,7 +28235,7 @@
                     "name": "Death's Corruption",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "1000% Dark damage to a foe (Damage cap: ~800,000)."
+                        "1000% Dark damage to a foe (Damage cap: ~800,000). (Requires 3 <:Status_Shadow:832599791611019324> **Shadow**. Costs 20% charge bar.)"
                     ],
                     "type": [
                         "1"

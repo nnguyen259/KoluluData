@@ -9908,7 +9908,16 @@
                 "text": [
                     "3% boost to Lucio's effect per turn passed (Max: 30%).\n3% reduced Dark DEF per turn passed (Max: -30%)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "This support skill uses the amount of turns passed to determine the strength of the effect.",
+                      "text": [
+                        "This means that even if Lucio is in the backline, or is knocked out and then revived, the effectiveness still increases until the maximum has been reached."
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -9916,7 +9925,32 @@
                 "text": [
                     "<:Status_Wings_of_Justice_New:832603102473486386> **Wings of Justice** lvl rises by 1 upon triple attack (Max: 6).\n(Boost to multiattack rate based on <:Status_Wings_of_Justice_New:832603102473486386> **Wings of Justice** lvl.\nSharp boost to stats at lvl 6.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "<:Status_Wings_of_Justice_New:832603102473486386> **Wings of Justice** increases Lucio's multiattack rate.",
+                      "text": [
+                        "At lvl 6, <:Status_Wings_of_Justice_New:832603102473486386> **Wings of Justice** grants additional effects.",
+                        "```",
+                        "╔════════════╦══════════════════════╗",
+                        "║   Effect   ║       Strength       ║",
+                        "╠════════════╬══════════════════════╣",
+                        "║    DA Up   ║         100%         ║",
+                        "╠════════════╬══════════════════════╣",
+                        "║    TA Up   ║          45%         ║",
+                        "╠════════════╬══════════════════════╣",
+                        "║   ATK Up   ║          30%         ║",
+                        "╠════════════╬══════════════════════╣",
+                        "║ DMG Cap Up ║          20%         ║",
+                        "╠════════════╬══════════════════════╣",
+                        "║   Refresh  ║     10% of max HP    ║",
+                        "║            ║ (Healing Cap: 1000). ║",
+                        "╚════════════╩══════════════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -9938,7 +9972,16 @@
                 "text": [
                     "Immunity to <:Status_Sleep:832601206110945311> **Sleep**.\nRestore 5% of Lucio's max HP every 3 turns.\nGain 1 <:Status_Coffee_Break:832585964673040404> **Coffee Break** every 3 turns."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Currently assumed to have no healing cap.",
+                      "text": [
+                        "\u2800"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {
@@ -9950,7 +9993,30 @@
                 "text": [
                     "Gain 1 <:Status_Coffee_Break:832585964673040404> **Coffee Break** upon using skills (Max: 5).\n(Boost to C.A. specs based on number of Coffee Breaks.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2800",
+                      "text": [
+                        "```",
+                        "╔═════╦══════════╦══════════════╗",
+                        "║ Lvl ║ C.A. DMG ║ C.A. DMG Cap ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  1  ║    20%   ║      10%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  2  ║    40%   ║      20%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  3  ║    60%   ║      30%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  4  ║    80%   ║      40%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  5  ║   100%   ║      50%     ║",
+                        "╚═════╩══════════╩══════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             }
         ]
     },
@@ -9962,7 +10028,32 @@
                 "text": [
                     "Raise <:Status_Demon_Pursuit:832588449369686116> **Demon Pursuit** lvl upon using a damage skill (Max: 6).\n(Boost to ATK and C.A. specs based on Demon Pursuit lvl.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2800",
+                      "text": [
+                        "```",
+                        "╔═══╦═════╦══════════╦══════════════╗",
+                        "║Lvl║ ATK ║ C.A. DMG ║ C.A. DMG Cap ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 1 ║  6% ║    20%   ║      5%      ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 2 ║ 12% ║    40%   ║      10%     ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 3 ║ 18% ║    60%   ║      15%     ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 4 ║ 24% ║    80%   ║      20%     ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 5 ║ 30% ║   100%   ║      25%     ║",
+                        "╠═══╬═════╬══════════╬══════════════╣",
+                        "║ 6 ║ 50% ║   150%   ║      45%     ║",
+                        "╚═══╩═════╩══════════╩══════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -10014,7 +10105,26 @@
                 "text": [
                     "Boost to skill damage against <:Status_Blind:832583965428678656> **Blinded** foes."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2800",
+                      "text": [
+                        "```",
+                        "╔══════╦═════════════════╗",
+                        "║ Rank ║ Skill DMG Boost ║",
+                        "╠══════╬═════════════════╣",
+                        "║  1*  ║       10%       ║",
+                        "╠══════╬═════════════════╣",
+                        "║  2*  ║       20%       ║",
+                        "╠══════╬═════════════════╣",
+                        "║  3*  ║       30%       ║",
+                        "╚══════╩═════════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             }
         ],
         "SR_4": [
@@ -10032,7 +10142,26 @@
                 "text": [
                     "Boost to skill damage against <:Status_Blind:832583965428678656> **Blinded** foes."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2800",
+                      "text": [
+                        "```",
+                        "╔══════╦═════════════════╗",
+                        "║ Rank ║ Skill DMG Boost ║",
+                        "╠══════╬═════════════════╣",
+                        "║  1*  ║       10%       ║",
+                        "╠══════╬═════════════════╣",
+                        "║  2*  ║       20%       ║",
+                        "╠══════╬═════════════════╣",
+                        "║  3*  ║       30%       ║",
+                        "╚══════╩═════════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             }
         ]
     },
@@ -10064,7 +10193,16 @@
                 "text": [
                     "Gain 1 <:Status_Shadow:832599791611019324> **Shadow** when an ally is knocked out (Max: 3)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Does not work with <:Status_AutoRevive:832605672788066324> **Autorevive** or <:Status_Undead_Curse:834405717997387797> **Undead Curse**.",
+                      "text": [
+                        "If an ally is revived, Luna does not gain a stack of Status Shadow.pngShadow."
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -10072,13 +10210,32 @@
                 "text": [
                     "Boost to C.A. DMG and C.A. DMG cap based on <:Status_Shadow:832599791611019324> **Shadow** lvl"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u2800",
+                      "text": [
+                        "```",
+                        "╔═════╦══════════╦══════════════╗",
+                        "║ Lvl ║ C.A. DMG ║ C.A. DMG Cap ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  1  ║   400%   ║      15%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  2  ║   500%   ║      35%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  3  ║   600%   ║      55%     ║",
+                        "╚═════╩══════════╩══════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
                 "name": "Extended Mastery Support Skill",
                 "text": [
-                    "Boost to ATK based on Shadow lvl"
+                    "Boost to ATK based on <:Status_Shadow:832599791611019324> **Shadow** lvl"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }

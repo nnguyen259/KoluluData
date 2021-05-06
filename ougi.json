@@ -5009,7 +5009,7 @@
                 "duration": {},
                 "name": "Oops! Misfire!",
                 "text": [
-                    ""
+                    "**Ludmila's Charge Attack has five possible outcomes, based on the animation.**\n\nAttempts to fire, but a puff of smoke comes out: Nothing happens.\n\nAttempts to fire, but it explodes: Inflict <:Status_Blind:832583965428678656> **Blind** on self and cover her own HP bar.\n\nAttempts to fire, but confetti shoots out: All allies gain 20% charge bar.\n\nFires a shot that bounces off the enemy: Up to three random allies takes 2000 plain damage.\n\nFires a shot straight forward: 1000% Dark damage to one foe (Damage cap: ~2,715,000). Only this outcome will contribute to a Chain Burst."
                 ]
             }
         ]
