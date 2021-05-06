@@ -169,6 +169,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainhp",
                 "domaindef",
                 "domainwinddmg",
@@ -2610,6 +2613,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domaindebuffacc",
                 "domainskilldmgcap",
                 "domaincadmgcap",
@@ -4649,6 +4655,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainskilldmg",
                 "domainskilldmgcap",
                 "domainskilldmgcap",
@@ -5698,6 +5707,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainhp",
                 "domainda",
                 "domainta",
@@ -6022,6 +6034,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainatk",
                 "domainnadmg",
                 "domainnadmg",
@@ -6317,6 +6332,9 @@
                 "hp",
                 "reflect",
                 "supportskill"
+            ],
+            [
+                "domainicon"
             ],
             [
                 "domainatk",
@@ -8359,6 +8377,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainatk",
                 "domaincadmg",
                 "domaincadmgcap",
@@ -9685,6 +9706,9 @@
                 "supportskill"
             ],
             [
+                "domainicon"
+            ],
+            [
                 "domainhp",
                 "domaindef",
                 "domaindef",
@@ -10337,6 +10361,9 @@
                 "crithit",
                 "cadmg",
                 "supportskill"
+            ],
+            [
+                "domainicon"
             ],
             [
                 "domainatk",
@@ -12245,6 +12272,9 @@
                 "cadmgcap",
                 "cadmgcap",
                 "supportskill"
+            ],
+            [
+                "domainicon"
             ],
             [
                 "domaindarkatk",
