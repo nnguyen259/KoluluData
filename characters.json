@@ -606,40 +606,6 @@
             ],
             "weapon": "Magma Gauntlet"
         },
-        "DUO": {
-            "5star": "No",
-            "atk": "5,020",
-            "element": "Wind",
-            "gender": [
-                "Male",
-                "Female"
-            ],
-            "hp": "1,290",
-            "id": "3040233000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040233000_02.png",
-            "jpname": "\u52c7\u8005\u3068\u59eb\u541b \u30b9\u30bf\u30f3\uff06\u30a2\u30ea\u30fc\u30b6",
-            "max_evo": "4",
-            "name": "Stan and Aliza",
-            "profile": "After countless trials, the two paths meet and intertwine once more. The strength of their hearts and the depth of their bond will determine if this is destiny, or simply a waypoint for the two adventurers.",
-            "race": [
-                "Erune",
-                "Draph"
-            ],
-            "rarity": "SSR",
-            "recruitment": "Premium Draw",
-            "series": [],
-            "specialties": [
-                "Sabre",
-                "Melee"
-            ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040233000_02.jpg",
-            "type": "Attack",
-            "va": [
-                "Toshiki Masuda",
-                "Natsumi Takamori"
-            ],
-            "weapon": "Golden Dragon"
-        },
         "EVENT": {
             "5star": "No",
             "atk": "6,300",
@@ -652,7 +618,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030015000_02.png",
             "jpname": "\u30a2\u30ea\u30fc\u30b6",
             "max_evo": "4",
-            "name": "Aliza",
+            "name": "Aliza (Event)",
             "profile": "Aliza found an affluent life to be stifling. It wasn't the life for her, so she cast off her bonds, trained her mind and body, and set off on an adventure.",
             "race": [
                 "Draph"
@@ -673,7 +639,7 @@
         "WATER": {
             "5star": "No",
             "atk": "6,490",
-            "element": "water",
+            "element": "Water",
             "gender": [
                 "Female"
             ],
@@ -682,7 +648,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030242000_02.png",
             "jpname": "\u30a2\u30ea\u30fc\u30b6",
             "max_evo": "4",
-            "name": "Aliza",
+            "name": "Aliza (Water)",
             "profile": "A young woman sets out on a different path from that of her childhood sweetheart. A martial arts tournament opens her eyes to just how vast the world is, and she sets about training in hopes of reaching new horizons. No matter the challenge, her smile never wavers.",
             "race": [
                 "Draph"
@@ -744,7 +710,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030250000_02.png",
             "jpname": "\u30a2\u30eb\u30e1\u30a4\u30c0",
             "max_evo": "4",
-            "name": "Almeida",
+            "name": "Almeida (Summer)",
             "profile": "The woman of the mountain has come down to the shore for a vacation. Not having any experience with such occurrences, she is caught off guard. However, once she finds a project she can take the lead on, she returns to her normal self. Her desire is to make the ideal weapon for that ideal someone.",
             "race": [
                 "Draph"
@@ -768,17 +734,17 @@
     "Altair": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,000",
+            "atk": "9,500",
             "element": "Water",
             "gender": [
                 "Male"
             ],
-            "hp": "1,600",
+            "hp": "1,900",
             "id": "3040001000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040001000_03.png",
             "jpname": "\u30a2\u30eb\u30bf\u30a4\u30eb",
             "max_evo": "5",
-            "name": "Altair",
+            "name": "Altair [5\u2605]",
             "profile": "A peerless young tactician in search of messages from antiquity. By studying the spirit of ages past, he prepares to create his own future.",
             "race": [
                 "Human"
@@ -805,10 +771,10 @@
             ],
             "hp": "1,600",
             "id": "3040001000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040001000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040001000_02.png",
             "jpname": "\u30a2\u30eb\u30bf\u30a4\u30eb",
             "max_evo": "5",
-            "name": "Altair",
+            "name": "Altair [4\u2605]",
             "profile": "A peerless young tactician in search of messages from antiquity. By studying the spirit of ages past, he prepares to create his own future.",
             "race": [
                 "Human"
@@ -819,7 +785,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040001000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040001000_02.jpg",
             "type": "Balanced",
             "va": [
                 "Daisuke Ono"
@@ -830,17 +796,17 @@
     "Amira": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,650",
+            "atk": "10,270",
             "element": "Light",
             "gender": [
                 "Female"
             ],
-            "hp": "1,470",
+            "hp": "1,740",
             "id": "3040051000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_03.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [5\u2605]",
             "profile": "This half-demon girl searches for traces of her mother. An unreliable tip points her toward the arctic and so to the arctic she goes. The land she seeks is distant, shrouded in mystery, but she never wavers. After a long, long search, a clue appears before her.",
             "race": [
                 "Other"
@@ -867,10 +833,10 @@
             ],
             "hp": "1,470",
             "id": "3040051000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [4\u2605]",
             "profile": "This half-demon girl searches for traces of her mother. An unreliable tip points her toward the arctic and so to the arctic she goes. The land she seeks is distant, shrouded in mystery, but she never wavers. After a long, long search, a clue appears before her.",
             "race": [
                 "Other"
@@ -881,7 +847,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_02.jpg",
             "type": "Special",
             "va": [
                 "Risa Shimizu"
@@ -890,17 +856,17 @@
         },
         "PROMO": {
             "5star": "Yes",
-            "atk": "7,000",
+            "atk": "8,200",
             "element": "Light",
             "gender": [
                 "Female"
             ],
-            "hp": "1,200",
+            "hp": "1,640",
             "id": "3030065000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_03.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira (Promo)",
             "profile": "This girl traveled here from a distant land in search of her mother. The way she happily (and messily) stuffs her cheeks with food makes her look half her age, but any who witness just how much she can put away is struck dumb with awe.",
             "race": [
                 "Other"
@@ -927,10 +893,10 @@
             ],
             "hp": "1,200",
             "id": "3030065000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira (Promo)",
             "profile": "This girl traveled here from a distant land in search of her mother. The way she happily (and messily) stuffs her cheeks with food makes her look half her age, but any who witness just how much she can put away is struck dumb with awe.",
             "race": [
                 "Other"
@@ -941,7 +907,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_02.jpg",
             "type": "Attack",
             "va": [
                 "Risa Shimizu"
@@ -960,7 +926,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040287000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "max_evo": "4",
-            "name": "Amira",
+            "name": "Amira (Summer)",
             "profile": "Though finding her mother is her number one priority, this girl also treasures the time she spends with friends. Taking a load off on a bright beach, she hopes to one day tell her mother about the fun she\u2019s had alongside her companions.",
             "race": [
                 "Other"

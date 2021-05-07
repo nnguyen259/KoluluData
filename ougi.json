@@ -265,21 +265,8 @@
                 },
                 "name": "Fangs of the Dragon",
                 "text": [
-                    "Massive Fire damage to a foe.\nGain <:Status_CriticalUp:832587322133970986> **50% / 80% Critical Hit Rate Up**."
-                ]
-            }
-        ],
-        "DUO": [
-            {
-                "duration": {
-                    "3.5^t": [
-                        "<:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**",
-                        "<:Status_Bonus_Damage:832584447911264276> **50% Bonus Wind DMG**"
-                    ]
-                },
-                "name": "Flaming Tempest",
-                "text": [
-                    "Massive Wind damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**.\n<:Status_Steel_and_Dust_1:832601501364387850> **Steel & Dust** lvl rises by 1.\n(When <:Status_Steel_and_Dust_1:832601501364387850> **Steel & Dust** is at 5: Buff increased to <:Status_Bonus_Damage:832584447911264276> **50% Bonus Wind DMG**.)\n"
+                    "Massive Fire damage to a foe.",
+                    "Gain <:Status_CriticalUp:832587322133970986> **50% / 80% Critical Hit Rate Up**."
                 ]
             }
         ],
@@ -301,7 +288,8 @@
                 },
                 "name": "Azure Firestorm",
                 "text": [
-                    "Big Water damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **40% Bonus Water DMG**."
+                    "Big Water damage to a foe",
+                    "Gain <:Status_Bonus_Damage:832584447911264276> **40% Bonus Water DMG**."
                 ]
             }
         ]
@@ -325,7 +313,8 @@
                 },
                 "name": "Mine Your Manners",
                 "text": [
-                    "Big Earth damage to a foe.\nInflict <:Status_EarthResDown:832591143694106656> **10% Earth DEF Down**."
+                    "Big Earth damage to a foe.",
+                    "Inflict <:Status_EarthResDown:832591143694106656> **10% Earth DEF Down**."
                 ]
             }
         ]
@@ -340,7 +329,8 @@
                 },
                 "name": "Untergang Rune",
                 "text": [
-                    "Massive Water damage to a foe.\nAll Water allies gain <:Status_CriticalUpWater:832587864280793139> **70% / 20% Critical Hit Rate Up**."
+                    "Massive Water damage to a foe.",
+                    "All Water allies gain <:Status_CriticalUpWater:832587864280793139> **70% / 20% Critical Hit Rate Up**."
                 ]
             }
         ],
@@ -356,11 +346,19 @@
     },
     "Amira": {
         "BASE": [
+          {
+              "duration": {},
+              "name": "Avantesia",
+              "text": [
+                  "450% Light damage to a foe."
+              ]
+          },
             {
                 "duration": {},
-                "name": "Half-God Half-Demon mode:Inhuman Rampage",
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
                 "text": [
-                    "500% Light damage to a foe (Damage cap: ~1,685,000) and; 250% Dark damage to a foe (Damage cap: ~350,000).\n1-turn cut to Amira's skill cooldowns."
+                    "500% Light damage to a foe (Damage cap: ~1,685,000) and 250% Dark damage to a foe (Damage cap: ~350,000).",
+                    "1-turn cut to Amira's skill cooldowns."
                 ]
             }
         ],
@@ -371,12 +369,26 @@
                 "text": [
                     "450% Light damage to a foe."
                 ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
+                "text": [
+                    "500% Light damage to a foe (Damage cap: ~1,685,000) and 250% Dark damage to a foe (Damage cap: ~350,000)."
+                ]
             }
         ],
         "PROMO": [
             {
                 "duration": {},
-                "name": "Half-God Half-Demon mode:Inhuman Rampage",
+                "name": "Avantesia",
+                "text": [
+                    "Big Light damage to a foe."
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
                 "text": [
                     "Massive Light and Dark damage to a foe."
                 ]
@@ -389,6 +401,13 @@
                 "text": [
                     "Big Light damage to a foe."
                 ]
+            },
+            {
+                "duration": {},
+                "name": "Half-God Half-Demon mode: Inhuman Rampage",
+                "text": [
+                    "Massive Light and Dark damage to a foe."
+                ]
             }
         ],
         "SUMMER": [
@@ -396,7 +415,9 @@
                 "duration": {},
                 "name": "Valley of the Damned",
                 "text": [
-                    "925% Dark damage to a foe (Damage cap: ~1,960,000) and;325% Light damage to a foe (Damage cap: ~500,000).\nConsume 3 <:status_69371:832604145114546217> **Satiety** lvls.\n(Can only be used when <:status_69371:832604145114546217> **Satiety** lvl is 3 or above.)\n"
+                    "925% Dark damage to a foe (Damage cap: ~1,960,000) and 325% Light damage to a foe (Damage cap: ~500,000).",
+                    "Consume 3 <:status_69371:832604145114546217> **Satiety** lvls.",
+                    "(Can only be used when <:status_69371:832604145114546217> **Satiety** lvl is 3 or above.)"
                 ]
             }
         ]

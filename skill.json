@@ -1376,7 +1376,7 @@
                     "name": "Q.E.D.",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "f"
+                        "Effect changes based on number of turns passed."
                     ],
                     "type": [
                         "3"
@@ -1391,37 +1391,37 @@
                           ]
                       },
                       {
-                        "inLine" : true,
-                        "title" : "Remainder",
+                        "inLine" : false,
+                        "title" : "Remainder: 1",
                         "text": [
-                          "1",
-                          "2",
-                          "3",
-                          "0"
+                          "\u2022 **Effect**: <:Status_AttackUp:832581064555364362> **ATK Up**, <:Status_Defiance:832588448593346600> **C.A. DMG Up**, <:Status_Defiance:832588448593346600> **C.B. DMG Up**",
+                          "\u2022 **Strength**(Per loop): 5%, 10%, 15%, 15%, 20% "
                         ]
                       },
                       {
-                        "inLine" : true,
-                        "title" : "Effect",
+                        "inLine" : false,
+                        "title" : "Remainder: 2",
                         "text": [
-                          "<:Status_AttackUp:832581064555364362> ATK Up",
-                          "<:Status_Defiance:832588448593346600> C.A. DMG Up",
-                          "<:Status_Defiance:832588448593346600> C.B. DMG Up",
-                          "2",
-                          "3",
-                          "0"
+                          "\u2022 **Effect**: <:Status_DefenseUp:832588447800885249> **DEF Up**",
+                          "\u2022 **Strength**(Per loop): 5%, 10%, 15%, 15%, 20% ",
+                          "\u2022 **Effect**: <:Status_Veil:832602900122828840> Debuff Res. Up",
+                          "\u2022 **Strength**(Per loop): 10%, 10%, 20%, 30%, 40% "
                         ]
                       },
                       {
-                        "inLine" : true,
-                        "title" : "Strength",
+                        "inLine" : false,
+                        "title" : "Remainder: 3",
                         "text": [
-                          "5%, 10%, 15%, 15%, 20%",
-                          "<:Status_Defiance:832588448593346600> C.A. DMG Up",
-                          "<:Status_Defiance:832588448593346600> C.B. DMG Up",
-                          "2",
-                          "3",
-                          "0"
+                          "\u2022 **Effect**: Restore 25% + 400 HP (up to specified cap)",
+                          "\u2022 **Strength**(Per loop): 500, 500, 1000, 1500, 2000"
+                        ]
+                      },
+                      {
+                        "inLine" : false,
+                        "title" : "Remainder: 0",
+                        "text": [
+                          "\u2022 **Effect**: <:Status_DoubleUp:832590867734724618> **DA Up**, <:Status_TripleUp:832601877920350218> **TA Up** ",
+                          "\u2022 **Strength**(Per loop): 5%, ?, 10%, ?, <15%"
                         ]
                       }
                     ]
@@ -1437,11 +1437,25 @@
                     "name": "Debate",
                     "obtain": " Lvl 25 ",
                     "text": [
-                        "f"
+                        "Change damage based on the last digit of main allies' total HP."
                     ],
                     "type": [
                         "1"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 Damage is based on the sum of all four allies' current HP.",
+                          "\u2022 The last digit of the current HP sum determines the power.",
+                          "\u2022 7 always deals 1000% Plain Damage while all other numbers deal 100%-500% Water damage.",
+                          "- 0 deals the least damage.",
+                          "- 5 deals the most damage.",
+                          "- 7 has a damage cap of 77,777."
+                        ]
+                      }
+                  ]
                 }
             ],
             [],
@@ -1452,7 +1466,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
                         "2^t": [
                             "<:Status_Counter:832587321567477780> **Counters on Dodge (3 times)**",
@@ -1465,7 +1479,8 @@
                     "name": "Waves of Fire",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)** and <:Status_Substitute:832601501934288916> **Substitute**."
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)** and <:Status_Substitute:832601501934288916> **Substitute**.",
+                        "(Uses 25% of charge bar.)"
                     ],
                     "type": [
                         "1"
@@ -1474,7 +1489,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_CriticalUp:832587322133970986> **50% / 80% Critical Hit Rate Up**",
@@ -1508,70 +1523,9 @@
                     "name": "Thunder",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "200% Fire damage to all foes (Damage cap: ~500,000).\n(Boost damage up to 300% as number of foes increase.)\nGain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)**."
-                    ],
-                    "type": [
-                        "1"
-                    ]
-                }
-            ],
-            []
-        ],
-        "DUO": [
-            [
-                {
-                    "cooldown": " 6 turns5 turns ",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/965_1.png"
-                    ],
-                    "name": "Heart, Be Braver",
-                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
-                    "text": [
-                        "6-hit, 150% Wind damage to a foe (Damage cap: ~110,000 per hit).\nRestore caster's HP.\n( upon each cast [Max: 3 times].)\n"
-                    ],
-                    "type": [
-                        "1"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": " 9 turns8 turns ",
-                    "duration": {
-                        "2^t": [
-                            "<:Status_TripleUp:832601877920350218> **Guaranteed TA**",
-                            "<:Status_Strength:832601501335289908> **Strength**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/966_3.png"
-                    ],
-                    "name": "Firestorm Blossom",
-                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
-                    "text": [
-                        "Gain <:Status_TripleUp:832601877920350218> **Guaranteed TA** and <:Status_Strength:832601501335289908> **Strength**."
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": " 9 turns ",
-                    "duration": {
-                        "3^t": [
-                            "<:Status_Lions_Roar:834401527116464160> **Lion's Roar**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/967_1.png"
-                    ],
-                    "name": "Roaring Spirit",
-                    "obtain": " Lvl 45 ",
-                    "text": [
-                        "1000% Wind damage to a foe (Damage cap: ~1,550,000).\nGain <:Status_Lions_Roar:834401527116464160> **Lion's Roar**.\n(Can only be used when <:Status_Steel_and_Dust_1:832601501364387850> **Steel & Dust** lvl is at 5.)\n"
+                        "200% Fire damage to all foes (Damage cap: ~500,000).",
+                        "(Boost damage up to 300% as number of foes increase.",
+                        "Gain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50% / Can't be removed)**."
                     ],
                     "type": [
                         "1"
@@ -1583,7 +1537,7 @@
         "EVENT": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/49_3.png"
@@ -1591,7 +1545,8 @@
                     "name": "Scarlet Streak",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Fire damage to a foe.\nGain <:Status_Uplift:832602899460521994> **Charge Bar +20%**Damage increased to 250%-300%."
+                        "Damage increased to 250%-300% Fire damage to a foe.",
+                        "Gain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."
                     ],
                     "type": [
                         "3"
@@ -1600,10 +1555,9 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "1^t": [
-                            "<:Status_Counter:832587321567477780> **Counters on Dodge (1 time)**",
                             "<:Status_Counter:832587321567477780> **Counters on Dodge (2 times)**"
                         ]
                     },
@@ -1613,7 +1567,7 @@
                     "name": "Starfire",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (1 time)**.\nIncreased to <:Status_Counter:832587321567477780> **Counters on Dodge (2 times)**."
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (2 times)**."
                     ],
                     "type": [
                         "1"
@@ -1622,7 +1576,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "1^t": [
                             "<:Status_AttackUp:832581064555364362> **100% ATK Up**"
@@ -1646,7 +1600,7 @@
         "WATER": [
             [
                 {
-                    "cooldown": " 6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/49_1.png"
@@ -1654,7 +1608,8 @@
                     "name": "Let Off Steam",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Water damage to all foes.\n(Boost to damage as number of foes decreases.\n[Damage cap: ~280,000])Effect enhanced."
+                        "Water damage to all foes.",
+                        "(Boost to damage as number of foes decreases. [Damage cap: ~280,000])."
                     ],
                     "type": [
                         "1"
@@ -1663,7 +1618,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **C.A. DMG Up (1 time)**"
@@ -1675,7 +1630,8 @@
                     "name": "Aqua Wreath",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Restore caster's HP.\nGain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **C.A. DMG Up (1 time)**."
+                        "Restore caster's HP.",
+                        "Gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **C.A. DMG Up (1 time)**."
                     ],
                     "type": [
                         "3"
@@ -1684,7 +1640,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Strength:832601501335289908> **Strength**"
@@ -1696,7 +1652,8 @@
                     "name": "Flying Feet of Fury",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Water damage to a foe (Damage cap: ~400,000).\nGain <:Status_Strength:832601501335289908> **Strength**."
+                        "Water damage to a foe (Damage cap: ~400,000).",
+                        "Gain <:Status_Strength:832601501335289908> **Strength**."
                     ],
                     "type": [
                         "1"
@@ -1710,28 +1667,29 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 10 turns9 turns ",
+                    "cooldown": "9 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DebuffResDown:832588130741125150> **20% Debuff Res.Down**"
                         ]
                     },
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/65_5.png"
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/65_1.png"
                     ],
                     "name": "Drill Bit",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Earth damage to a foe.\nInflict <:Status_DebuffResDown:832588130741125150> **20% Debuff Res.Down**."
+                        "Earth damage to a foe.",
+                        "Inflict <:Status_DebuffResDown:832588130741125150> **20% Debuff Res.Down**."
                     ],
                     "type": [
-                        "5"
+                        "1"
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 5 turns4 turns ",
+                    "cooldown": "4 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DefenseDownStack:832588193722400818> **DEF Down (Stackable)**"
@@ -1743,7 +1701,8 @@
                     "name": "Deep Drilling",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Earth damage to a foe.\nInflict <:Status_DefenseDownStack:832588193722400818> **DEF Down (Stackable)**."
+                        "Earth damage to a foe.",
+                        "Inflict <:Status_DefenseDownStack:832588193722400818> **DEF Down (Stackable)**."
                     ],
                     "type": [
                         "1"
@@ -1752,7 +1711,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "2^t": [
                             "<:Status_AttackUp:832581064555364362> **15% ATK Up**",
@@ -1777,7 +1736,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "5^t": [
                             "<:Status_DEF_Down_5:834390040003608586> **25% DEF Down**"
@@ -1789,7 +1748,8 @@
                     "name": "Drilling Holes",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Earth damage to a foe (Damage cap: ~420,000).\nInflict <:Status_DEF_Down_5:834390040003608586> **25% DEF Down**."
+                        "Earth damage to a foe (Damage cap: ~420,000).",
+                        "Inflict <:Status_DEF_Down_5:834390040003608586> **25% DEF Down**."
                     ],
                     "type": [
                         "1"
@@ -1798,7 +1758,7 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/144_3.png"
@@ -1815,7 +1775,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Bonus_Damage:832584447911264276> **30% Bonus Earth DMG**",
@@ -1842,11 +1802,9 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **20% ATK Up**",
-                            "<:Status_DefenseUp:832588447800885249> **20% DEF Up**",
                             "<:Status_AttackUp:832581064555364362> **30% ATK Up**",
                             "<:Status_DefenseUp:832588447800885249> **30% DEF Up**",
                             "<:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**"
@@ -1858,7 +1816,7 @@
                     "name": "Battleplan: Surround",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** and <:Status_DefenseUp:832588447800885249> **20% DEF Up**.\nBuffs increased to <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_DefenseUp:832588447800885249> **30% DEF Up**.\nAll allies also gain <:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**."
+                        "All allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up**, <:Status_DefenseUp:832588447800885249> **30% DEF Up**, <:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -1867,11 +1825,9 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "180^s": [
-                            "<:Status_AttackDown:832581064211955722> **ATK Down**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
                             "<:Status_AttackDown:832581064211955722> **20% ATK Down**",
                             "<:Status_DefenseDown:832588131140108339> **20% DEF Down**",
                             "<:Status_WaterResDown:832603014933643324> **10% Water DEF Down**"
@@ -1883,7 +1839,7 @@
                     "name": "Battleplan: Crane Down",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "Inflict <:Status_AttackDown:832581064211955722> **ATK Down** and <:Status_DefenseDown:832588131140108339> **DEF Down** on all foes.\nDebuffs increased to <:Status_AttackDown:832581064211955722> **20% ATK Down** and <:Status_DefenseDown:832588131140108339> **20% DEF Down**.\nDebuff success rate increased.\nAlso inflict <:Status_WaterResDown:832603014933643324> **10% Water DEF Down** on all foes."
+                        "Inflict <:Status_AttackDown:832581064211955722> **20% ATK Down**, <:Status_DefenseDown:832588131140108339> **20% DEF Down** and <:Status_WaterResDown:832603014933643324> **10% Water DEF Down** on all foes."
                     ],
                     "type": [
                         "4"
@@ -1892,7 +1848,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/57_3.png"
@@ -1912,14 +1868,11 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **20% ATK Up**",
-                            "<:Status_DefenseUp:832588447800885249> **20% DEF Up**",
                             "<:Status_AttackUp:832581064555364362> **30% ATK Up**",
-                            "<:Status_DefenseUp:832588447800885249> **30% DEF Up**",
-                            "<:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**"
+                            "<:Status_DefenseUp:832588447800885249> **30% DEF Up**"
                         ]
                     },
                     "icon": [
@@ -1928,7 +1881,7 @@
                     "name": "Battleplan: Surround",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** and <:Status_DefenseUp:832588447800885249> **20% DEF Up**.\nBuffs increased to <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_DefenseUp:832588447800885249> **30% DEF Up**.\nAll allies also gain <:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**."
+                        "All allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_DefenseUp:832588447800885249> **30% DEF Up**."
                     ],
                     "type": [
                         "3"
@@ -1937,14 +1890,11 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "180^s": [
-                            "<:Status_AttackDown:832581064211955722> **ATK Down**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
                             "<:Status_AttackDown:832581064211955722> **20% ATK Down**",
-                            "<:Status_DefenseDown:832588131140108339> **20% DEF Down**",
-                            "<:Status_WaterResDown:832603014933643324> **10% Water DEF Down**"
+                            "<:Status_DefenseDown:832588131140108339> **20% DEF Down**"
                         ]
                     },
                     "icon": [
@@ -1953,7 +1903,7 @@
                     "name": "Battleplan: Crane Down",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "Inflict <:Status_AttackDown:832581064211955722> **ATK Down** and <:Status_DefenseDown:832588131140108339> **DEF Down** on all foes.\nDebuffs increased to <:Status_AttackDown:832581064211955722> **20% ATK Down** and <:Status_DefenseDown:832588131140108339> **20% DEF Down**.\nDebuff success rate increased.\nAlso inflict <:Status_WaterResDown:832603014933643324> **10% Water DEF Down** on all foes."
+                        "Inflict <:Status_AttackDown:832581064211955722> **20% ATK Down** and <:Status_DefenseDown:832588131140108339> **20% DEF Down** on all foes."
                     ],
                     "type": [
                         "4"
@@ -1962,7 +1912,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/57_3.png"
@@ -1984,12 +1934,11 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 8 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_DoubleUp:832590867734724618> **30% DA Up**",
                             "<:Status_TripleUp:832601877920350218> **15% TA Up**",
-                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**",
                             "<:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**"
                         ]
                     },
@@ -1999,7 +1948,7 @@
                     "name": "Bal-Sagoth",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.\nBuff increased to <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
                     ],
                     "type": [
                         "3"
@@ -2008,7 +1957,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**"
@@ -2020,7 +1969,8 @@
                     "name": "Power Within",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 100 ",
                     "text": [
-                        "Absorb 15% of a foe's mode bar and 10% of all allies' charge bars.\nFoe mode bar absorption increased to 20%.\nFoe mode bar absorption increased to 40%.\nAllies' charge bars absorption reduced to 5% (Amira gains 20% charge bar for each ally absorbed).\nAlso gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
+                        "Absorb 40% of a foe's mode bar and 5% of all allies' charge bars (Amira gains 20% charge bar for each ally absorbed).",
+                        "Gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
                     ],
                     "type": [
                         "3"
@@ -2029,19 +1979,35 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
-                    "duration": {},
+                    "cooldown": "10 turns ",
+                    "duration": {
+                      "10^t":[
+                        "Half-God Half-Demon"
+                      ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
                     ],
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 45\u21e7 Lvl 90 ",
                     "text": [
-                        "Activate Half-God Half-Demon mode.\nGain Dark element qualities and reduce Light damage taken by 25%.\nNormal attacks and charge attacks deal bonus Dark damage."
+                        "Activate Half-God Half-Demon mode.\nGain Dark element qualities and reduce Light damage taken by 25%.\nNormal attacks and charge attacks deal bonus Dark damage.",
+                        "(Uses 100% of charge bar)."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 None of the buffs and effects of Half-God Half-Demon mode are visible status buffs.",
+                          "\u2022 Using Half-God Half-Demon when Amira is already transformed will have no effect and its cooldown will be set to 1 turn.",
+                          "\u2022 The Bonus Dark Damage from Amira's transformation doesn't reduce the normal Damage by 50% like other Bonus Damage buffs but reduces the elemental modifier from 100% to 50%. Accordingly, it is not affected by any Light elemental modifier increases, such as Lucifer or <:Status_LightAtkUp:832596750144503828> Light ATK Up, but will benefit from Dark elemental modifier increases, such as Bahamut or <:Status_DarkAtkUp:832588129894006794> Dark ATK Up. This allows her to scale stronger with Dark elemental buffs compared to others."
+                        ]
+                      }
+                  ]
                 }
             ],
             []
@@ -2049,12 +2015,11 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": " 8 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_DoubleUp:832590867734724618> **30% DA Up**",
                             "<:Status_TripleUp:832601877920350218> **15% TA Up**",
-                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**",
                             "<:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**"
                         ]
                     },
@@ -2064,7 +2029,7 @@
                     "name": "Bal-Sagoth",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.\nBuff increased to <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
                     ],
                     "type": [
                         "3"
@@ -2073,7 +2038,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**"
@@ -2085,7 +2050,7 @@
                     "name": "Power Within",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 100 ",
                     "text": [
-                        "Absorb 15% of a foe's mode bar and 10% of all allies' charge bars.\nFoe mode bar absorption increased to 20%.\nFoe mode bar absorption increased to 40%.\nAllies' charge bars absorption reduced to 5% (Amira gains 20% charge bar for each ally absorbed).\nAlso gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**."
+                        "Absorb 20% of a foe's mode bar and 10% of all allies' charge bars."
                     ],
                     "type": [
                         "3"
@@ -2094,8 +2059,12 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
-                    "duration": {},
+                    "cooldown": "10 turns ",
+                    "duration": {
+                      "8^t":[
+                        "Half-God Half-Demon"
+                      ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
                     ],
@@ -2106,7 +2075,18 @@
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "\u2022 None of the buffs and effects of Half-God Half-Demon mode are visible status buffs.",
+                          "\u2022 Using Half-God Half-Demon when Amira is already transformed will have no effect and its cooldown will be set to 1 turn.",
+                          "\u2022 The Bonus Dark Damage from Amira's transformation doesn't reduce the normal Damage by 50% like other Bonus Damage buffs but reduces the elemental modifier from 100% to 50%. Accordingly, it is not affected by any Light elemental modifier increases, such as Lucifer or <:Status_LightAtkUp:832596750144503828> Light ATK Up, but will benefit from Dark elemental modifier increases, such as Bahamut or <:Status_DarkAtkUp:832588129894006794> Dark ATK Up. This allows her to scale stronger with Dark elemental buffs compared to others."
+                        ]
+                      }
+                  ]
                 }
             ],
             []
@@ -2114,7 +2094,7 @@
         "PROMO": [
             [
                 {
-                    "cooldown": " 5 turns ",
+                    "cooldown": "5 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
@@ -2126,7 +2106,7 @@
                     "name": "Interlude",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced."
+                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -2135,7 +2115,7 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**",
@@ -2148,7 +2128,8 @@
                     "name": "Pivot Blow",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 90 ",
                     "text": [
-                        "5-hit Light damage to random foes.\nGain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced.\nAlso gain <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
+                        "5-hit Light damage to random foes.",
+                        "Gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up** and <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
                     ],
                     "type": [
                         "1"
@@ -2182,7 +2163,9 @@
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 75 ",
                     "text": [
-                        "Gain Dark element qualities.\n(Activate Half-God Half-Demon mode.)\n(Consumes 100% of charge bar.)\n"
+                        "Gain Dark element qualities.",
+                        "(Activate Half-God Half-Demon mode.)",
+                        "(Consumes 100% of charge bar.)"
                     ],
                     "type": [
                         "3"
@@ -2193,7 +2176,7 @@
         "PROMO_4": [
             [
                 {
-                    "cooldown": " 5 turns ",
+                    "cooldown": "5 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
@@ -2205,7 +2188,7 @@
                     "name": "Interlude",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced."
+                        "All allies gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -2214,11 +2197,10 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**",
-                            "<:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**"
+                            "<:Status_LightAtkUp:832596750144503828> **Light ATK Up**"
                         ]
                     },
                     "icon": [
@@ -2227,8 +2209,8 @@
                     "name": "Pivot Blow",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 90 ",
                     "text": [
-                        "5-hit Light damage to random foes.\nGain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**.\nEffect enhanced.\nAlso gain <:Status_Bonus_Damage:832584447911264276> **Bonus Light DMG**."
-                    ],
+                        "5-hit Light damage to random foes.",
+                        "Gain <:Status_LightAtkUp:832596750144503828> **Light ATK Up**."                    ],
                     "type": [
                         "1"
                     ]
@@ -2236,7 +2218,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/18_3.png"
@@ -2253,7 +2235,7 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns ",
+                    "cooldown": "10 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/101_3.png"
@@ -2261,7 +2243,9 @@
                     "name": "Half-God Half-Demon",
                     "obtain": " Lvl 75 ",
                     "text": [
-                        "Gain Dark element qualities.\n(Activate Half-God Half-Demon mode.)\n(Consumes 100% of charge bar.)\n"
+                        "Gain Dark element qualities.",
+                        "(Activate Half-God Half-Demon mode.)",
+                        "(Consumes 100% of charge bar.)"
                     ],
                     "type": [
                         "3"
@@ -2272,7 +2256,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**"
@@ -2284,7 +2268,9 @@
                     "name": "Summer's End",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "400% Dark damage to a foe (Damage cap: ~630,000).\nInflict <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**.\nGain **Instant Charge**."
+                        "400% Dark damage to a foe (Damage cap: ~630,000).",
+                        "Inflict <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**.",
+                        "Gain **Instant Charge**."
                     ],
                     "type": [
                         "1"
@@ -2293,7 +2279,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "1^t": [
                             "<:Status_Substitute:832601501934288916> **Substitute (All-Ally)**"
@@ -2305,16 +2291,54 @@
                     "name": "Radiant Heart",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Gain <:Status_Substitute:832601501934288916> **Substitute (All-Ally)**.\n(Consumes up to 3 <:status_69371:832604145114546217> **Satiety** lvls.\nAdditional buffs based on number consumed.)\n"
+                        "Gain <:Status_Substitute:832601501934288916> **Substitute (All-Ally)**.",
+                        "Consumes up to 3 <:status_69371:832604145114546217> **Satiety** lvls.",
+                        "Additional buffs based on number consumed."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "Amira gains up to 3 additional buffs that last for 1 turn based on the number of <:status_69371:832604145114546217> Satiety lvls consumed.",
+                        "text": [
+                          "\u200b"
+                        ]
+                      },
+                      {
+                        "inLine" : true,
+                        "title" : "<:status_69371:832604145114546217> Satiety Consumed",
+                        "text": [
+                          "\u200b",
+                          "1",
+                          "\u200b",
+                          "\u200b",
+                          "2",
+                          "\u200b",
+                          "\u200b",
+                          "\u200b",
+                          "3"
+                        ]
+                      },
+                      {
+                        "inLine" : true,
+                        "title" : "Additional Effects",
+                        "text": [
+                          "\u200b",
+                          "Also gain <:Status_Armored:832577248602095656> **100% / 50% Armored**.",
+                          "\u200b",
+                          "Also gain <:Status_CriticalUp:832587322133970986> **50% / 50% Critical Hit Rate Up**.",
+                          "\u200b",
+                          "Also gain <:Status_Adversity:834386783583862794> **20% DMG Amplified**."
+                        ]
+                      }
+                  ]
                 }
             ],
             [
                 {
-                    "cooldown": " 0 turns ",
+                    "cooldown": "0 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:status_69371:832604145114546217> **Satiety**"
@@ -2326,7 +2350,9 @@
                     "name": "Maximum Overload",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Restore caster's HP (Healing cap: 800) and remove 1 debuff.\nRecover 2 <:status_69371:832604145114546217> **Satiety** lvls.\n(Consumes 20% of charge bar.)\n"
+                        "Restore caster's HP (Healing cap: 800) and remove 1 debuff.",
+                        "Recover 2 <:status_69371:832604145114546217> **Satiety** lvls.",
+                        "(Consumes 20% of charge bar.)"
                     ],
                     "type": [
                         "2"
