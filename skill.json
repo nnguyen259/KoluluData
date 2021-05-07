@@ -28265,12 +28265,22 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Certain skills cannot be copied. A \"NO EFFECT\" message will appear if Facsimile II is used after one of these skills.",
+                          "text": [
+                            "The success rate of debuffs copied is influenced by Lunalu's own debuff success rate and not by the ally from which the skill was copied.",
+                            "Please refer to the [gbf.wiki](https://gbf.wiki/) for facimile compatability."
+                          ]
+                      }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": " 7 turns ",
                     "duration": {
                         "4^t": [
                             "<:Status_Hype1:832594542321598505> **Hype**",
@@ -28291,12 +28301,21 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Cannot cast if Lunalu's <:Status_Max_HP_Down_Stack:832597008178348092> **Max HP Lowered (Stackable)** is at least 90%.",
+                          "text": [
+                            "\u2800"
+                          ]
+                      }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " Ready in /8 turns ",
+                    "cooldown": " Ready in 3 turns/8 turns ",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_Max_HP_Down_Stack:832597008178348092> **10% Max HP Lowered (Stackable / Max: 100%)**"
@@ -28312,6 +28331,15 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Cannot cast if Lunalu's <:Status_Max_HP_Down_Stack:832597008178348092> **Max HP Lowered (Stackable)** is at 100%.",
+                          "text": [
+                            "\u2800"
+                          ]
+                      }
                     ]
                 }
             ],
@@ -28320,7 +28348,7 @@
         "R": [
             [
                 {
-                    "cooldown": " 12 turns10 turns ",
+                    "cooldown": " 10 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/184_3.png"
@@ -28332,6 +28360,16 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Certain skills cannot be copied. A \"NO EFFECT\" message will appear if Facsimile II is used after one of these skills.",
+                          "text": [
+                            "The success rate of debuffs copied is influenced by Lunalu's own debuff success rate and not by the ally from which the skill was copied.",
+                            "Please refer to the [gbf.wiki](https://gbf.wiki/) for facimile compatability."
+                          ]
+                      }
                     ]
                 }
             ],
@@ -28364,7 +28402,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 12 turns10 turns ",
+                    "cooldown": " 10 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/184_3.png"
@@ -28376,6 +28414,16 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Certain skills cannot be copied. A \"NO EFFECT\" message will appear if Facsimile II is used after one of these skills.",
+                          "text": [
+                            "The success rate of debuffs copied is influenced by Lunalu's own debuff success rate and not by the ally from which the skill was copied.",
+                            "Please refer to the [gbf.wiki](https://gbf.wiki/) for facimile compatability."
+                          ]
+                      }
                     ]
                 }
             ],
@@ -28399,6 +28447,15 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "\u2800",
+                          "text": [
+                            "See the [gbf.wiki Hype page](https://gbf.wiki/Hype) for more information on the <:Status_Hype1:832594542321598505> **Hype** status effect."
+                          ]
+                      }
                     ]
                 }
             ],

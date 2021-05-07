@@ -10249,7 +10249,16 @@
                 "text": [
                     "Boost to all allies' ATK and DEF as Lunalu's max HP decreases."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Boost to all allies' ATK and DEF by 5% for every stack of <:Status_Max_HP_Down_Stack:832597008178348092> **10% Max HP Lowered (Stackable / Max: 50%)**.",
+                      "text": [
+                          "\u2800"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -10257,7 +10266,26 @@
                 "text": [
                     "Boost to Dark allies' charge attack specs upon finalizing a <:Status_Page_1:832604699391688774> **Page** (Max: 3 Pages)"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "All Dark allies gains buffs based on the number of <:Status_Page_1:832604699391688774> **Page** stacks on Lunalu:",
+                      "text": [
+                        "```",
+                        "╔═════╦══════════╦══════════════╗",
+                        "║ Lvl ║ C.A. DMG ║ C.A. DMG Cap ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  1  ║    20%   ║      5%      ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  2  ║    30%   ║      10%     ║",
+                        "╠═════╬══════════╬══════════════╣",
+                        "║  3  ║    40%   ║      15%     ║",
+                        "╚═════╩══════════╩══════════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
@@ -10265,7 +10293,20 @@
                 "text": [
                     "Chance to \"Ooh-ooh-aaahhh!\" upon drinking Handsome Gorilla DA"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Chance for dark allies to gain <:Status_Gorilla:840184190241996840> **Gorilla** upon using Ability **Handsome Gorilla DA**",
+                      "text": [
+                        "<:Status_Gorilla:840184190241996840> **Gorilla's** ATK boost equals 25% ATK when above 75% HP and decreases linearly when below 75% HP, down to 10% ATK at 0% HP.",
+                        "<:Status_Gorilla:840184190241996840> **Gorilla** stacks additively with <:Status_Strength:832601501335289908> **Strength**.",
+                        "Allies with <:Status_Gorilla:840184190241996840> **Gorilla** will have their voices replaced with gorilla sounds.",
+                        "The voice change has no effect on gameplay.",
+                        "<:Status_Gorilla:840184190241996840> **Gorilla** is the same status effect granted by the summon **Gorilla**."
+                      ]
+                  }
+                ]
             }
         ],
         "R": [
