@@ -428,7 +428,8 @@
                 "duration": {},
                 "name": "Novaya Zvezda",
                 "text": [
-                    "Big Water damage to a foe.\nBonus Dark damage when foe is <:Status_Charm:832585566574215168> **Charmed**."
+                    "Big Water damage to a foe.",
+                    "Bonus Dark damage when foe is <:Status_Charm:832585566574215168> **Charmed**."
                 ]
             }
         ]
@@ -466,7 +467,8 @@
                 "duration": {},
                 "name": "Soaring Monkey: Walloping Wave",
                 "text": [
-                    "450% Water damage to a foe.\n2-turn cut to Land of Lotuses's cooldown.\n(400% Bonus Water damage to a foe with <:status_7113:832604359434305606> **Mizuzaru** [Damage cap: ~635,000].)\n"
+                    "450% Water damage to a foe.\n2-turn cut to Land of Lotuses's cooldown.",
+                    "400% Bonus Water damage to a foe with <:status_7113:832604359434305606> **Mizuzaru** (Damage cap: ~635,000)."
                 ]
             }
         ]

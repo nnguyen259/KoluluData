@@ -1201,7 +1201,26 @@
                 "text": [
                     "Inflict <:Status_AttackDown:832581064211955722> **ATK Down** upon dealing multiattacks."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text": [
+                          "```",
+                          "╔══════╦══════════╗",
+                          "║ Rank ║ ATK Down ║",
+                          "╠══════╬══════════╣",
+                          "║   1  ║          ║",
+                          "╠══════╣          ║",
+                          "║   2  ║    5%    ║",
+                          "╠══════╣          ║",
+                          "║   3  ║          ║",
+                          "╚══════╩══════════╝",
+                          "```"
+                        ]
+                      }
+                  ]
             }
         ]
     },
@@ -1213,7 +1232,17 @@
                 "text": [
                     "5% chance to dodge a foe's one-ally attack for all allies."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "5% chance for all allies to dodge one-ally attacks.",
+                        "text": [
+                          "\u2022 Can still activate when the enemy uses a normal attack that hits all allies.",
+                          "\u2022 Activates on a turn basis. Thus, if activated, all allies on that turn will dodge."
+                        ]
+                      }
+                  ]
             },
             {
                 "duration": {
@@ -1225,7 +1254,22 @@
                 "text": [
                     "Gain <:Status_Infinite_Diversity:832594644234665984> **Infinite Diversity** upon using charge attack (Effect ends upon dodging)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "<:Status_Infinite_Diversity:832594644234665984> Infinite Diversity grants Andira the following buffs:",
+                        "text": [
+                          "\u2022 20% ATK Up",
+                          "\u2022 20% DA Up",
+                          "\u2022 10% TA Up",
+                          "\u2022 20% Bonus Wind DMG",
+                          "\u2022 Dodge all attacks from foes",
+                          "Effect ends upon dodging a foe's attack.",
+                          "When used in conjunction with any Mirror Image buff, this buff's dodge will proc first"
+                        ]
+                      }
+                  ]
             },
             {
                 "duration": {},
@@ -1233,7 +1277,26 @@
                 "text": [
                     "Slight chance of a 1-turn cut to skill cooldown with every one-foe attack"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "<:Status_Infinite_Diversity:832594644234665984> Infinite Diversity grants Andira the following buffs:",
+                        "text": [
+                          "```",
+                          "╔══════╦════════╗",
+                          "║ Rank ║ Chance ║",
+                          "╠══════╬════════╣",
+                          "║   1  ║   ?%   ║",
+                          "╠══════╬════════╣",
+                          "║   2  ║   ?%   ║",
+                          "╠══════╬════════╣",
+                          "║   3  ║   5%   ║",
+                          "╚══════╩════════╝",
+                          "```"
+                        ]
+                      }
+                  ]
             }
         ],
         "BASE_4": [
@@ -1246,24 +1309,31 @@
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
             {
-                "duration": {
-                    "Indefinite^i": [
-                        "<:Status_Infinite_Diversity:832594644234665984> **Infinite Diversity**"
-                    ]
-                },
-                "name": "Infinite Diversity",
-                "text": [
-                    "Gain <:Status_Infinite_Diversity:832594644234665984> **Infinite Diversity** upon using charge attack (Effect ends upon dodging)."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
                 "duration": {},
                 "name": "Extended Mastery Support Skill",
                 "text": [
                     "Slight chance of a 1-turn cut to skill cooldown with every one-foe attack"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                      {
+                        "inLine" : false,
+                        "title" : "<:Status_Infinite_Diversity:832594644234665984> Infinite Diversity grants Andira the following buffs:",
+                        "text": [
+                          "```",
+                          "╔══════╦════════╗",
+                          "║ Rank ║ Chance ║",
+                          "╠══════╬════════╣",
+                          "║   1  ║   ?%   ║",
+                          "╠══════╬════════╣",
+                          "║   2  ║   ?%   ║",
+                          "╠══════╬════════╣",
+                          "║   3  ║   5%   ║",
+                          "╚══════╩════════╝",
+                          "```"
+                        ]
+                      }
+                  ]
             }
         ],
         "EVENT": [
@@ -1293,7 +1363,8 @@
                 },
                 "name": "Infinite Diversity",
                 "text": [
-                    "<:Status_Infinite_Diversity:832594644234665984> **Infinite Diversity** to Andira upon using charge attack.\n(When in effect: Charge attack activates twice.\nDodges all attacks from foes.\n[Ends upon dodging.\n])"
+                    "<:Status_Infinite_Diversity:832594644234665984> **Infinite Diversity** to Andira upon using charge attack.",
+                    "**When in effect**: Charge attack activates twice. Dodges all attacks from foes. Ends upon dodging."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1305,7 +1376,8 @@
                 },
                 "name": "All-Season Fashion",
                 "text": [
-                    "Starts battle with <:status_7115:832604359048822785> **Golden Band**.\n(Consumed at end of turn if 10th turn or later.\nWhen consumed: Removes all debuffs from Water allies.\nFully restores HP.\nBoosts Andira's multiattack rate.)\n"
+                    "Starts battle with <:status_7115:832604359048822785> **Golden Band**. (Consumed at end of turn if 10th turn or later.)",
+                    "**When consumed**: Removes all debuffs from Water allies. Fully restores HP. Boosts Andira's multiattack rate.)"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }

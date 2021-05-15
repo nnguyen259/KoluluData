@@ -984,12 +984,12 @@
     "Andira": {
         "BASE": {
             "5star": "Yes",
-            "atk": "7,560",
+            "atk": "8,940",
             "element": "Wind",
             "gender": [
                 "Female"
             ],
-            "hp": "1,400",
+            "hp": "1,660",
             "id": "3040071000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040071000_03.png",
             "jpname": "\u30a2\u30f3\u30c1\u30e9",
@@ -1024,10 +1024,10 @@
             ],
             "hp": "1,400",
             "id": "3040071000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040071000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040071000_02.png",
             "jpname": "\u30a2\u30f3\u30c1\u30e9",
             "max_evo": "5",
-            "name": "Andira",
+            "name": "Andira [4\u2605]",
             "profile": "Guardian of the West-Southwest as one of the Twelve Heavenly Generals. Often seeing dreams of the utopia her ancestors set out for, she departs on a journey herself after a certain fateful encounter. The unwavering resolve of this monkey goddess makes her an invaluable asset to the crew.",
             "race": [
                 "Erune"
@@ -1041,7 +1041,7 @@
                 "Staff",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040071000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040071000_02.jpg",
             "type": "Balanced",
             "va": [
                 "Aya Uchida"
@@ -1060,7 +1060,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030170000_02.png",
             "jpname": "\u30a2\u30f3\u30c1\u30e9",
             "max_evo": "4",
-            "name": "Andira",
+            "name": "Andira (Event)",
             "profile": "The Queen of Monkeys returns to cast away all worldly desires and restore peace to the sky. Every year she bestows her grace upon the sky, and every year she continues her journey with a smile.",
             "race": [
                 "Erune"
@@ -1092,7 +1092,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040330000_02.png",
             "jpname": "\u30a2\u30f3\u30c1\u30e9",
             "max_evo": "4",
-            "name": "Andira",
+            "name": "Andira (Summer)",
             "profile": null,
             "race": [
                 "Erune"
