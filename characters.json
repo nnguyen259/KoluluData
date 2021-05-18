@@ -305,6 +305,38 @@
             ],
             "weapon": "Hauteclaire"
         },
+        "DARK": {
+            "5star": "No",
+            "atk": "11,275",
+            "element": "Dark",
+            "gender": [
+                "Male"
+            ],
+            "hp": "945",
+            "id": "3030177000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040334000_02.png",
+            "jpname": "\u30a2\u30eb\u30d9\u30fc\u30eb",
+            "link": "https://gbf.wiki/Albert_(Dark)",
+            "max_evo": "4",
+            "name": "Albert (Dark)",
+            "original": "Albert_(Dark)",
+            "profile": "The Thunderswift Lord never stops battling. He firmly believes the journey he's been on thus far is tied to a glorious future. His burning ambitions scatter dark clouds, bringing sunshine to his homeland.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Sabre"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040334000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Hikaru Midorikawa"
+            ],
+            "weapon":"Schwarz Lightning"
+        },
         "EVENT": {
             "5star": "No",
             "atk": "3,150",
@@ -16732,6 +16764,40 @@
             ],
             "weapon": "Venustas"
         },
+        "GRAND": {
+            "5star": "No",
+            "atk": "11,830",
+            "element": "Wind",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,000",
+            "id": "3040335000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040335000_02.png",
+            "jpname": "\u30ca\u30eb\u30e1\u30a2",
+            "link": "https://gbf.wiki/Narmaya_(Grand)",
+            "max_evo": "4",
+            "name": "Narmaya (Grand)",
+            "original": "Narmaya_(Grand)",
+            "profile": "This sword master returns to her roots in an attempt to break through the wall that hinders her progress. Each restored memory of her past encounters becomes a stepping stone, allowing her to ascend to greater heights.",
+            "race": [
+                "Draph"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Gala",
+            "series": [
+                "grand"
+            ],
+            "specialties": [
+                "Katana"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040335000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Mao Ichimichi"
+            ],
+            "weapon": "Evanescence"
+        },
         "HOLIDAY": {
             "5star": "No",
             "atk": "10,885",
@@ -23981,6 +24047,74 @@
                 "Rina Sat\u014d"
             ],
             "weapon": null
+        }
+    },
+    "Tikoh": {
+        "BASE": {
+            "5star": "NO",
+            "atk": "4,710",
+            "element": "Light",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,749",
+            "id": "3040337000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040337000_02.png",
+            "jpname": "\u30a8\u30c3\u30bb\u30eb",
+            "link": "https://gbf.wiki/Tikoh",
+            "max_evo": "4",
+            "name": "Tikoh",
+            "original": "Tikoh",
+            "profile": "During her travels, this doctor used her divine rod to fuse with the soul of a young child in order to save her. Although she originally embarked on her journey to help people, she's since gained a thirst for vengeance. Both light and darkness exist as potential threads in her future, but only time will tell what path she ultimately treads.",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040337000_02.jpg",
+            "type": "Heal",
+            "va": [
+                "Yoshino Nanj\u014d"
+            ],
+            "weapon": "Lancet"
+        }
+      },
+    "Troue": {
+        "BASE": {
+            "5star": "No",
+            "atk": "7,840",
+            "element": "Water",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,168",
+            "id": "3040336000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040336000_02.png",
+            "jpname": "\u30c8\u30eb\u30fc",
+            "link": "https://gbf.wiki/Troue",
+            "max_evo": "4",
+            "name": "Troue",
+            "original": "Troue",
+            "profile": "\u200b",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Sabre"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040336000_02.jpg",
+            "type": "Special",
+            "va": [
+                "Shun Horie"
+            ],
+            "weapon": "Reveiller"
         }
     },
     "Tsubasa": {
