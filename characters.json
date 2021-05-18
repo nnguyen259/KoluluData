@@ -22415,6 +22415,70 @@
             "weapon": null
         }
     },
+    "Tikoh": {
+        "BASE": {
+            "5star": "NO",
+            "atk": "4,710",
+            "element": "Light",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,749",
+            "id": "3040337000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040337000_02.png",
+            "jpname": "\u30a8\u30c3\u30bb\u30eb",
+            "max_evo": "4",
+            "name": "Tikoh",
+            "profile": "\u200b",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040337000_02.jpg",
+            "type": "Heal",
+            "va": [
+                "Yoshino Nanj\u014d"
+            ],
+            "weapon": "Lancet"
+        }
+      },
+    "Troue": {
+        "BASE": {
+            "5star": "No",
+            "atk": "7,840",
+            "element": "Water",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,168",
+            "id": "3040336000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040336000_02.png",
+            "jpname": "\u30c8\u30eb\u30fc",
+            "max_evo": "4",
+            "name": "Troue",
+            "profile": "\u200b",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Sabre"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040336000_02.jpg",
+            "type": "Special",
+            "va": [
+                "Shun Horie"
+            ],
+            "weapon": "Reveiller"
+        }
+    },
     "Tsubasa": {
         "BASE": {
             "5star": "No",

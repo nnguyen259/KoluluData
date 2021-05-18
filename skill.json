@@ -49181,6 +49181,174 @@
                 }
             ]
         ]
+      },
+      "Tikoh": {
+          "BASE": [
+              [
+                  {
+                      "cooldown": "12 turns",
+                      "duration": {
+                          "5^t": [
+                              "<:Status_7139:844294284147425290> **Anestesia**"
+                          ]
+                      },
+                      "icon": [
+                          "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1470_3.png"
+                      ],
+                      "name": "Anestesia",
+                      "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                      "text": [
+                          "<:Status_7139:844294284147425290> **Special buffs to light allies** (Boost to ATK and DEF) / Reduce turn-based DMG taken."
+                      ],
+                      "type": [
+                          "3"
+                      ],
+                      "data":[
+                        {
+                            "inLine" : false,
+                            "title" : "<:Status_7139:844294284147425290> **Anestesia**:",
+                            "text": [
+                              "\u2022 100% ATK Up",
+                              "\u2022 100% DEF Up",
+                              "\u2022 50% reduced turn based damage (Can't be removed)"
+                            ]
+                        }
+                      ]
+                  }
+              ],
+              [
+                  {
+                      "cooldown": "9 turns",
+                      "duration": {
+                          "3^t": [
+                              "<:Status_Heal:832593788375400470> **50% Healing Up**",
+                              "<:Status_Heal:832593788375400470> **50% Healing Cap Up**"
+                          ]
+                      },
+                      "icon": [
+                          "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1471_1.png"
+                      ],
+                      "name": "Iniezione",
+                      "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                      "text": [
+                          "450% Light damage to all foes (Damage cap: ~730,000).",
+                          "Gain <:Status_Heal:832593788375400470> **50% Healing Up**, <:Status_Heal:832593788375400470> **50% Healing Cap Up**, and **Instant Charge**."
+                      ],
+                      "type": [
+                          "1"
+                      ]
+                  }
+              ],
+              [
+                  {
+                      "cooldown": "0 turns",
+                      "duration": {},
+                      "icon": [
+                          "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1472_2.png"
+                      ],
+                      "name": "Assistenza",
+                      "obtain": " Lvl 45 ",
+                      "text": [
+                          "Switch to <:Status_7140:844299588496130160> **Intensive Care mode**."
+                      ],
+                      "type": [
+                          "2"
+                      ],
+                      "data":[
+                        {
+                            "inLine" : false,
+                            "title" : "<:Status_7140:844299588496130160> **Intensive Care mode**:",
+                            "text": [
+                              "\u2022 **At end of turn**: Restore 20% of Light allies' HP (Healing cap: 1000) and remove 1 debuff.",
+                              "\u2022 Can't normal attack. Ends upon recast."
+                            ]
+                        }
+                      ]
+                  }
+              ],
+              []
+          ]
+    },
+    "Troue": {
+        "BASE": [
+            [
+                {
+                    "cooldown": "8 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_CriticalUp:832587322133970986> **50% / 50% Critical Hit Rate Up**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1468_3.png"
+                    ],
+                    "name": "Souvenance",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "Use the Gift of Visions to replicate caster's or an ally's skill.",
+                        "Gain <:Status_CriticalUp:832587322133970986> **50% / 50% Critical Hit Rate Up**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_WaterDEFDownStack:834407045120786455> **Water DEF Down (Stackable)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1469_1.png"
+                    ],
+                    "name": "Reprise",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "5-hit Water damage to random foes (Damage cap: ~95,000 per hit).",
+                        "Inflict <:Status_WaterDEFDownStack:834407045120786455> **Water DEF Down (Stackable)**."
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "<:Status_WaterDEFDownStack:834407045120786455> Water DEF Down (Stackable):",
+                          "text": [
+                            "\u2022 **Strength**: 10% (Max: 40%)"
+                          ]
+                      }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "8 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Blind_3:834387211566841876> **Blinded**",
+                            "<:Status_Petrified_3:832598586352730112> **Petrified**",
+                            "<:Status_Accuracy_Lowered_3:834386454825140224> **Accuracy Lowered**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1179_4.png"
+                    ],
+                    "name": "Roncevaux",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Inflict <:Status_Blind_3:834387211566841876> **Blinded**, <:Status_Petrified_3:832598586352730112> **Petrified**, and <:Status_Accuracy_Lowered_3:834386454825140224> **Accuracy Lowered** on a foe."
+                    ],
+                    "type": [
+                        "4"
+                    ]
+                }
+            ],
+            []
+        ]
     },
     "Tsubasa": {
         "BASE": [

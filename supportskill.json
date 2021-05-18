@@ -17352,6 +17352,57 @@
             }
         ]
     },
+    "Tikoh": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Soul-Binding Rod",
+                "text": [
+                    "**When a foe uses a special attack**: Activate **__Iniezione__**. 2-turn cut to Anestesia's cooldown."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Heavenly Dispensation",
+                "text": [
+                    "Add 1 blue potion at battle start. (Takes effect even when Tikoh is a sub ally.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ]
+    },
+    "Troue": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Visions of a Hero",
+                "text": [
+                    "Raise **Sacred Recollection** lvl by 1 upon critical hits (Max: 5).",
+                    "Boost to stats based on lvl.(Upon critical hit at lvl 5: 3-hit Water damage to random foes [Damage cap: ~20,000 per hit])."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Sacred Recollection:",
+                      "text": [
+                        "Gain 20% DA Up, 5% TA Up, 20% DEF Up, 20% Debuff Res. Up per level"
+                      ]
+                  }
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Surpass the Past and Grasp the Future",
+                "text": [
+                    "30% / 30% Boost to water allies' critical hit rate.",
+                    "3,000 Supplement to critical hits."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ]
+    },
     "Tsubasa": {
         "BASE": [
             {

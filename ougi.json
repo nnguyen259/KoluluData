@@ -8642,6 +8642,38 @@
             }
         ]
     },
+    "Tikoh": {
+        "BASE": [
+            {
+                "duration": {
+                    "0.5^t": [
+                        "<:Status_Vaccine:844292943548383263> **Vaccine**"
+                    ]
+                },
+                "name": "Conte de la Memoire",
+                "text": [
+                    "450% Light damage to a foe.",
+                    "All allies gain <:Status_Vaccine:844292943548383263> **Vaccine**."
+                ]
+            }
+        ]
+    },
+    "Troue": {
+        "BASE": [
+            {
+                "duration": {
+                    "3.5^t": [
+                        "<:Status_Keen:832595932620783736> **Keen**"
+                    ]
+                },
+                "name": "Conte de la Memoire",
+                "text": [
+                    "450% Water damage to a foe.",
+                    "All allies gain <:Status_Keen:832595932620783736> **Keen**."
+                ]
+            }
+        ]
+    },
     "Tsubasa": {
         "BASE": [
             {
