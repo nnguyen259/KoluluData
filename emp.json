@@ -17055,6 +17055,56 @@
             ]
         ]
     },
+    "Tikoh": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "hp",
+                "debuffres",
+                "healing"
+            ],
+            [
+                "atk",
+                "def",
+                "da",
+                "ta",
+                "lightatk"
+            ],
+            [
+                "def",
+                "hp",
+                "skilldmgcap",
+                "healing",
+                "lock"
+            ]
+        ]
+    },
+    "Troue": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "debuffres",
+                "oda",
+                "modebar"
+            ],
+            [
+                "atk",
+                "def",
+                "da",
+                "ta",
+                "wateratk"
+            ],
+            [
+                "ta",
+                "crithit",
+                "crithit",
+                "crithit",
+                "lock"
+            ]
+        ]
+    },
     "Tsubasa": {
         "BASE": [
             [
