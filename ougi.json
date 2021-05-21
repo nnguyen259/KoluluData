@@ -2421,11 +2421,31 @@
                     "3.5^t": [
                         "<:Status_EarthAtkUp:832591143799226398> **30% Earth ATK Up**",
                         "<:Status_DoubleUp:832590867734724618> **30% DA Up**"
+                    ],
+                    "180^s": [
+                      " <:Status_EarthDEFDownStack:845378621534371891> **10% Earth DEF Down (Stackable / Max: 30%)**"
+                    ]
+                },
+                "name": "Die Bandekanone",
+                "text": [
+                    "Massive Earth damage to a foe.",
+                    "Inflict <:Status_EarthDEFDownStack:845378621534371891> **10% Earth DEF Down (Stackable / Max: 30%)**.",
+                    "All allies gain <:Status_EarthAtkUp:832591143799226398> **30% Earth ATK Up** and <:Status_DoubleUp:832590867734724618> **30% DA Up**."
+                ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {
+                    "3.5^t": [
+                        "<:Status_EarthAtkUp:832591143799226398> **30% Earth ATK Up**",
+                        "<:Status_DoubleUp:832590867734724618> **30% DA Up**"
                     ]
                 },
                 "name": "Die Jaegerkanone",
                 "text": [
-                    "Massive Earth damage to a foe.\nAll allies gain <:Status_EarthAtkUp:832591143799226398> **30% Earth ATK Up** and <:Status_DoubleUp:832590867734724618> **30% DA Up**."
+                    "450% Earth damage to a foe.",
+                    "All allies gain <:Status_EarthAtkUp:832591143799226398> **30% Earth ATK Up** and <:Status_DoubleUp:832590867734724618> **30% DA Up**."
                 ]
             }
         ],
@@ -9642,9 +9662,21 @@
         "BASE": [
             {
                 "duration": {},
+                "name": "Tentacle Saltatio",
+                "text": [
+                    "Massive Wind damage to a foe.",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +20%**.",
+                    "1-turn cut to Yurius' skill cooldowns."
+                ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {},
                 "name": "Duke Lamina",
                 "text": [
-                    "Massive Wind damage to a foe.\nGain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."
+                    "Massive Wind damage to a foe.",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."
                 ]
             }
         ]

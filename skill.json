@@ -13593,20 +13593,23 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Counter:832587321567477780> **Counters on Dodge (3 times)**",
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**"
+                            "<:Status_Counter:832587321567477780> **Counters on Dodge (4 times)**",
+                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
+                            "<:Status_CriticalUp:832587322133970986> **100% / 50% Critical Hit Rate Up**",
+                            "<:Status_Keen:832595932620783736> **Keen**"
                         ]
                     },
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/23_1.png"
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1479_1.png"
                     ],
                     "name": "Intercept II",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)** and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\n(Consumes 30% of charge bar.)\n"
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (4 times)** and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.",
+                        "Also gain <:Status_CriticalUp:832587322133970986> **100% / 50% Critical Hit Rate Up** and <:Status_Keen:832595932620783736> **Keen**."
                     ],
                     "type": [
                         "1"
@@ -13615,7 +13618,7 @@
             ],
             [
                 {
-                    "cooldown": " 10 turns9 turns ",
+                    "cooldown": "9 turns",
                     "duration": {
                         "5^t": [
                             "<:Status_Armed:834386889640378379> **Armed**",
@@ -13632,12 +13635,23 @@
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Armed:834386889640378379> Armed grants the following effects:",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 100% / 50% Critical Up.",
+                                "\u2022 50% C.A. DMG Up",
+                                "\u2022 25% C.A. DMG Cap Up"
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 12 turns ",
+                    "cooldown": "12 turns",
                     "duration": {
                         "2^t": [
                             "<:Status_Uplift:832602899460521994> **Autoignition**"
@@ -13649,7 +13663,120 @@
                     "name": "Autoignition",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain **Instant Charge** and <:Status_Uplift:832602899460521994> **Autoignition**.\nRemove 1 debuff from caster."
+                        "Gain **Instant Charge** and <:Status_Uplift:832602899460521994> **Autoignition+**:",
+                        "\u2022 Gain <:Status_CA_Reactivation:834389295753199626> **C.A. Reactivation (1 time)** when <:Status_Uplift:832602899460521994> **Autoignition+** ends.",
+                        "Remove all debuffs from caster."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "Eugen does not gain<:Status_CA_Reactivation:834389295753199626> C.A. Reactivation (1 time) if <:Status_Uplift:832602899460521994> Autoignition+ is dispelled. This includes dispel from allies.",
+                            "inLine": false,
+                            "text": [
+                                "\u200b"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+              {
+                  "cooldown": "10 turns",
+                  "duration": {
+                      "Indefinite^i": [
+                          "<:Status_7135_1:845383356019638272> **Bluesky Bullet**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1481_1.png"
+                  ],
+                  "name": "Autoignition",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                      "1000% Earth damage to a foe (Damage cap: ~1,300,000).",
+                      "Gain 5 <:Status_7135_1:845383356019638272> **Bluesky Bullet**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+            ]
+        ],
+        "BASE_4": [
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Counter:832587321567477780> **Counters on Dodge (3 times)**",
+                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/23_1.png"
+                    ],
+                    "name": "Intercept II",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)** and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.",
+                        "(Consumes 30% of charge bar.)"
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "9 turns",
+                    "duration": {
+                        "5^t": [
+                            "<:Status_Armed:834386889640378379> **Armed**",
+                            "<:Status_Uplift:832602899460521994> **20% Uplifted**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/898_3.png"
+                    ],
+                    "name": "Sudden Attack",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Grant an Earth ally <:Status_Armed:834386889640378379> **Armed** and <:Status_Uplift:832602899460521994> **20% Uplifted**."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Armed:834386889640378379> Armed grants the following effects:",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 100% / 50% Critical Up.",
+                                "\u2022 50% C.A. DMG Up",
+                                "\u2022 25% C.A. DMG Cap Up"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "2^t": [
+                            "<:Status_Uplift:832602899460521994> **Autoignition**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/18_3.png"
+                    ],
+                    "name": "Autoignition",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Gain **Instant Charge** and <:Status_Uplift:832602899460521994> **Autoignition**.",
+                        "Remove 1 debuff from caster."
                     ],
                     "type": [
                         "3"
@@ -54806,7 +54933,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 1 turn0 turns ",
+                    "cooldown": "0 turns ",
                     "duration": {
                         "180^s": [
                             "<:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**",
@@ -54819,16 +54946,68 @@
                     "name": "Discover Truth",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**, and a on all foes.\n(Consumes 10% of charge bar.)\n"
+                        "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**, and a on all foes.",
+                        "(Consumes 10% of charge bar.)"
                     ],
                     "type": [
                         "4"
-                    ]
+                    ],
+                    "data": [
+                      {
+                          "inLine" : false,
+                          "title" : "Discover Truth randomly inflicts one of the following debuffs on all foes:",
+                          "text": [
+                            "\u200b"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Status",
+                          "text": [
+                            "<:Status_Poison:832598586335428660> **Poisoned**",
+                            "<:Status_Putrefy:834402938204979240> **Putrefied**",
+                            "<:Status_Petrified_3:832598586352730112> **Petrified**",
+                            "<:Status_Sleep_3:832601206353952829> **Sleep**",
+                            "<:Status_Charm_3:834389296445784075> **Charmed**",
+                            "<:Status_Blind_3:834387211566841876> **Blinded**",
+                            "<:Status_Paralyzed_2:834402844601483325> **Paralyzed**",
+                            "<:Status_Accuracy_Lowered_2:834386454578593813> **Accuracy Lowered**"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Chance",
+                          "text": [
+                            "19.2%",
+                            "18.4%",
+                            "14.2%",
+                            "13.8%",
+                            "12.6%",
+                            "12.4%",
+                            "5.2%",
+                            "4.2%"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Durations",
+                          "text": [
+                            "180 seconds",
+                            "180 seconds",
+                            "3 turns",
+                            "3 turns",
+                            "3 turns",
+                            "3 turns",
+                            "1-2 turns",
+                            "2 turns"
+                          ]
+                      }
+                  ]
                 }
             ],
             [
                 {
-                    "cooldown": " 6 turns5 turns ",
+                    "cooldown": "5 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/96_3.png"
@@ -54836,7 +55015,8 @@
                     "name": "Power Extraction",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.\nIf successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**."
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.",
+                        "If successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**."
                     ],
                     "type": [
                         "3"
@@ -54845,7 +55025,144 @@
             ],
             [
                 {
-                    "cooldown": " 5 turns ",
+                    "cooldown": "5 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1463_4.png"
+                    ],
+                    "name": "Negation",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Remove 1 buff from a foe.",
+                        "(Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%** upon successfully removing a buff).",
+                        "Also inflict <:Status_WindResDown:832603016032813088> **25% Wind DEF Down**."
+                    ],
+                    "type": [
+                        "4"
+                    ]
+                }
+            ],
+            [
+              {
+                  "cooldown": "7 turns",
+                  "duration": {
+                    "180^s": [
+                      "<:Status_Corrosion:845390247558643712> **Corrosions**"
+                    ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1464_1.png"
+                  ],
+                  "name": "Depleter",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                      "500% Wind damage to a foe (Damage cap:~635.000).",
+                      "Inflict <:Status_Corrosion:845390247558643712> **Corrosion**.",
+                      "Restore caster's HP (Healing cap: 2000).",
+                      "(When foe has 10 or more debuffs: Activates twice.)"
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+            ]
+        ],
+        "BASE_4": [
+            [
+                {
+                    "cooldown": "0 turns ",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**",
+                            "<:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/738_4.png"
+                    ],
+                    "name": "Discover Truth",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**, and a on all foes.",
+                        "(Consumes 10% of charge bar.)"
+                    ],
+                    "type": [
+                        "4"
+                    ],
+                    "data": [
+                      {
+                          "inLine" : false,
+                          "title" : "Discover Truth randomly inflicts one of the following debuffs on all foes:",
+                          "text": [
+                            "\u200b"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Status",
+                          "text": [
+                            "<:Status_Poison:832598586335428660> **Poisoned**",
+                            "<:Status_Putrefy:834402938204979240> **Putrefied**",
+                            "<:Status_Petrified_3:832598586352730112> **Petrified**",
+                            "<:Status_Sleep_3:832601206353952829> **Sleep**",
+                            "<:Status_Charm_3:834389296445784075> **Charmed**",
+                            "<:Status_Blind_3:834387211566841876> **Blinded**",
+                            "<:Status_Paralyzed_2:834402844601483325> **Paralyzed**",
+                            "<:Status_Accuracy_Lowered_2:834386454578593813> **Accuracy Lowered**"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Chance",
+                          "text": [
+                            "19.2%",
+                            "18.4%",
+                            "14.2%",
+                            "13.8%",
+                            "12.6%",
+                            "12.4%",
+                            "5.2%",
+                            "4.2%"
+                          ]
+                      },
+                      {
+                          "inLine" : true,
+                          "title" : "Durations",
+                          "text": [
+                            "180 seconds",
+                            "180 seconds",
+                            "3 turns",
+                            "3 turns",
+                            "3 turns",
+                            "3 turns",
+                            "1-2 turns",
+                            "2 turns"
+                          ]
+                      }
+                  ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/96_3.png"
+                    ],
+                    "name": "Power Extraction",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.",
+                        "If successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/739_4.png"
@@ -54853,7 +55170,8 @@
                     "name": "Negation",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Remove 1 buff from a foe.\n(Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%** upon successfully removing a buff)."
+                        "Remove 1 buff from a foe.",
+                        "(Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%** upon successfully removing a buff)."
                     ],
                     "type": [
                         "4"

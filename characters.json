@@ -6115,7 +6115,40 @@
     },
     "Eugen": {
         "BASE": {
-            "5star": "No",
+            "5star": "Yes",
+            "atk": "11,750",
+            "element": "Earth",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,670",
+            "id": "3040077000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040077000_03.png",
+            "jpname": "\u30aa\u30a4\u30b2\u30f3",
+            "max_evo": "5",
+            "name": "Eugen",
+            "profile": "This crafty musketeer finally shares the regret he's kept to himself all these years. The very girl intertwined with all this would feel indignant for her mother. Yet he continues to wait in high hopes.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Gala",
+            "series": [
+                "grand"
+            ],
+            "specialties": [
+                "Gun"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040077000_03.jpg",
+            "type": "Attack",
+            "va": [
+                "Keiji Fujiwara",
+                "Kazuhiro Yamaji"
+            ],
+            "weapon": "AK-4A"
+        },
+        "BASE_4": {
+            "5star": "Yes",
             "atk": "9,900",
             "element": "Earth",
             "gender": [
@@ -6125,8 +6158,8 @@
             "id": "3040077000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040077000_02.png",
             "jpname": "\u30aa\u30a4\u30b2\u30f3",
-            "max_evo": "4",
-            "name": "Eugen",
+            "max_evo": "5",
+            "name": "Eugen [4\u2605]",
             "profile": "This crafty musketeer finally shares the regret he's kept to himself all these years. The very girl intertwined with all this would feel indignant for her mother. Yet he continues to wait in high hopes.",
             "race": [
                 "Human"
@@ -24954,7 +24987,38 @@
     },
     "Yurius": {
         "BASE": {
-            "5star": "No",
+            "5star": "Yes",
+            "atk": "8,900",
+            "element": "Wind",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,260",
+            "id": "3040199000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040199000_03.png",
+            "jpname": "\u30e6\u30ea\u30a6\u30b9",
+            "max_evo": "5",
+            "name": "Yurius",
+            "profile": "A researcher who once fell prey to evil. He strives to never walk that path again as he works to rebuild his homeland. When he stares into the ominous clouds that cover Levin, his eyes reflect an even deeper shade of darkened resolution.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Sabre",
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040199000_03.jpg",
+            "type": "Special",
+            "va": [
+                "Hidenobu Kiuchi"
+            ],
+            "weapon": "Returner Staff"
+        },
+        "BASE_4": {
+            "5star": "Yes",
             "atk": "8,900",
             "element": "Wind",
             "gender": [
@@ -24964,8 +25028,8 @@
             "id": "3040199000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040199000_02.png",
             "jpname": "\u30e6\u30ea\u30a6\u30b9",
-            "max_evo": "4",
-            "name": "Yurius",
+            "max_evo": "5",
+            "name": "Yurius[4\u2605]",
             "profile": "A researcher who once fell prey to evil. He strives to never walk that path again as he works to rebuild his homeland. When he stares into the ominous clouds that cover Levin, his eyes reflect an even deeper shade of darkened resolution.",
             "race": [
                 "Human"

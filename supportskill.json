@@ -5015,6 +5015,43 @@
             },
             {
                 "duration": {},
+                "name": "Detonation Rounds",
+                "text": [
+                    "10% boost to critical hit damage cap.",
+                    "100% Bonus damage based on number of <:Status_7135_1:845383356019638272> **Bluesky Bullet** upon using charge attack (Damage cap: ~180,000 per hit / Max: 5 hits).",
+                    "Consume 1 <:Status_7135_1:845383356019638272> **Bluesky Bullet** upon normal attacks to deal 150% Earth damage to a foe (Damage cap: ~630,000)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {
+                    "Indefinite^i": [
+                        "<:Status_AttackUpStack:832581064383791144> **ATK Up (Stackable / Max: 30%)**"
+                    ]
+                },
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Gain <:Status_AttackUpStack:832581064383791144> **ATK Up (Stackable / Max: 30%)** upon charge attacks."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {
+                    "Indefinite^i": [
+                        "<:Status_CB_DMG_Up_Stack:832585053317759028> **20% C.B. DMG Up (Stackable / Max: 100%)**",
+                        "<:Status_CB_DMG_Cap_Up_Stack:832585053359570954> **6% C.B. DMG Cap Up (Stackable / Max: 30%)**"
+                    ]
+                },
+                "name": "Tunguska Butterfly",
+                "text": [
+                    "Gain <:Status_CB_DMG_Up_Stack:832585053317759028> **20% C.B. DMG Up (Stackable / Max: 100%)** and <:Status_CB_DMG_Cap_Up_Stack:832585053359570954> **6% C.B. DMG Cap Up (Stackable / Max: 30%)** when targeted by a foe."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
                 "name": "Headshot",
                 "text": [
                     "10% boost to critical hit damage cap."
@@ -19172,9 +19209,104 @@
                 "duration": {},
                 "name": "Truth Seeker",
                 "text": [
-                    "<:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl rises upon using skills.\n(Boost to C.A. Specs based on <:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl [Max: 10].)\n"
+                    "<:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl rises upon using skills.",
+                    "(Boost to C.A. Specs based on <:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl [Max: 10].)",
+                    "Also supplement damage dealt based on <:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u200b",
+                      "text": [
+                        "```",
+                        "╔════╦═════════╦═════════╦══════════╗",
+                        "║ Lv ║ C.A.DMG ║ C.A Cap ║ Supp DMG ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  1 ║   10%   ║    5%   ║   2000   ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  2 ║   20%   ║   10%   ║   4000   ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  3 ║   30%   ║   15%   ║   6000   ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  4 ║   40%   ║   20%   ║   8000   ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  5 ║   50%   ║   25%   ║  10,000  ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  6 ║   60%   ║   30%   ║  12,000  ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  7 ║   70%   ║   35%   ║  14,000  ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  8 ║   80%   ║   40%   ║  16,000  ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║  9 ║   90%   ║   45%   ║  18,000  ║",
+                        "╠════╬═════════╬═════════╬══════════╣",
+                        "║ 10 ║   100%  ║   50%   ║  20,000  ║",
+                        "╚════╩═════════╩═════════╩══════════╝",
+                        "```"
+                      ]
+                  }
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Dynamic Knowledge",
+                "text": [
+                    "Boost to multiattack rate based on number of foe's debuffs."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Boost to charge bar at battle start."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {},
+                "name": "Truth Seeker",
+                "text": [
+                    "<:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl rises upon using skills.",
+                    "(Boost to C.A. Specs based on <:Status_Truth_Seeker_1:832601878071607356> **Truth Seeker** lvl [Max: 10].)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "\u200b",
+                      "text": [
+                        "```",
+                        "╔═════╦═══════════╦══════════╗",
+                        "║ Lvl ║ C.A. DMG  ║ C.A. Cap ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  1  ║     7%    ║    3%    ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  2  ║    14%    ║    6%    ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  3  ║    21%    ║    9%    ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  4  ║    28%    ║    12%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  5  ║    35%    ║    15%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  6  ║    42%    ║    18%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  7  ║    49%    ║    21%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  8  ║    56%    ║    24%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  9  ║    63%    ║    27%   ║",
+                        "╠═════╬═══════════╬══════════╣",
+                        "║  10 ║    70%    ║    30%   ║",
+                        "╚═════╩═══════════╩══════════╝",
+                        "```"
+                      ]
+                  }
+                ]
             },
             {
                 "duration": {},
