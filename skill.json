@@ -2866,10 +2866,10 @@
         ]
     },
     "Ange": {
-        "BASE": [
+        "HALLOWEEN": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**",
@@ -2891,7 +2891,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/64_1.png"
@@ -2899,7 +2899,7 @@
                     "name": "Savage Thrust",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "150%-200 Dark damage to all foes.\nDamage increased to 200%-250%."
+                        "200%-250% Dark damage to all foes."
                     ],
                     "type": [
                         "1"
@@ -2908,7 +2908,7 @@
             ],
             [
                 {
-                    "cooldown": " 9 turns ",
+                    "cooldown": "9 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/17_1.png"
@@ -2925,15 +2925,13 @@
             ],
             []
         ],
-        "SR": [
+        "BASE": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
                             "<:Status_Substitute:832601501934288916> **Protect the damsels I shall!**"
                         ]
                     },
@@ -2943,7 +2941,8 @@
                     "name": "Flowing Step",
                     "obtain": " Lvl 1\u21e7 Lvl 45 \u21ee Lvl 90 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**.\nSelf-inflict <:Status_DefenseDown:832588131140108339> **DEF Down**.\nCounter damage increased.\nCounter damage further increased to 250%.\nNo longer self-inflict <:Status_DefenseDown:832588131140108339> **DEF Down**.\nAlso gain <:Status_Substitute:832601501934288916> **Protect the damsels I shall!**, causing Ange to receive one-ally attacks in place of female allies."
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**.",
+                        "Also gain <:Status_Substitute:832601501934288916> **Protect the damsels I shall!**, causing Ange to receive one-ally attacks in place of female allies."
                     ],
                     "type": [
                         "1"
@@ -2952,10 +2951,9 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_DoubleUp:832590867734724618> **DA Up**",
                             "<:Status_DoubleUp:832590867734724618> **DA Up**"
                         ]
                     },
@@ -2965,7 +2963,7 @@
                     "name": "Strain",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 80 ",
                     "text": [
-                        "Gain <:Status_DoubleUp:832590867734724618> **DA Up**.\n<:Status_DoubleUp:832590867734724618> **DA Up** increased."
+                        "Gain <:Status_DoubleUp:832590867734724618> **DA Up**."
                     ],
                     "type": [
                         "3"
@@ -2974,7 +2972,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **ATK Up**",
@@ -2987,7 +2985,8 @@
                     "name": "Prince Heart",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Restore caster's HP.\nGain <:Status_AttackUp:832581064555364362> **ATK Up** and <:Status_DefenseUp:832588447800885249> **DEF Up**."
+                        "Restore caster's HP.",
+                        "Gain <:Status_AttackUp:832581064555364362> **ATK Up** and <:Status_DefenseUp:832588447800885249> **DEF Up**."
                     ],
                     "type": [
                         "2"
@@ -2996,16 +2995,14 @@
             ],
             []
         ],
-        "SR_4": [
+        "BASE_4": [
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
-                            "<:Status_DefenseDown:832588131140108339> **DEF Down**",
-                            "<:Status_Substitute:832601501934288916> **Protect the damsels I shall!**"
+                            "<:Status_DefenseDown:832588131140108339> **DEF Down**"
                         ]
                     },
                     "icon": [
@@ -3014,7 +3011,8 @@
                     "name": "Flowing Step",
                     "obtain": " Lvl 1\u21e7 Lvl 45 \u21ee Lvl 90 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**.\nSelf-inflict <:Status_DefenseDown:832588131140108339> **DEF Down**.\nCounter damage increased.\nCounter damage further increased to 250%.\nNo longer self-inflict <:Status_DefenseDown:832588131140108339> **DEF Down**.\nAlso gain <:Status_Substitute:832601501934288916> **Protect the damsels I shall!**, causing Ange to receive one-ally attacks in place of female allies."
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (5 times)**.",
+                        "Self-inflict <:Status_DefenseDown:832588131140108339> **DEF Down**."
                     ],
                     "type": [
                         "1"
@@ -3023,10 +3021,9 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns6 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_DoubleUp:832590867734724618> **DA Up**",
                             "<:Status_DoubleUp:832590867734724618> **DA Up**"
                         ]
                     },
@@ -3036,7 +3033,7 @@
                     "name": "Strain",
                     "obtain": " Lvl 1\u21e7 Lvl 65 \u21ee Lvl 80 ",
                     "text": [
-                        "Gain <:Status_DoubleUp:832590867734724618> **DA Up**.\n<:Status_DoubleUp:832590867734724618> **DA Up** increased."
+                        "Gain <:Status_DoubleUp:832590867734724618> **DA Up**."
                     ],
                     "type": [
                         "3"
@@ -3045,7 +3042,7 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **ATK Up**",
@@ -3058,7 +3055,8 @@
                     "name": "Prince Heart",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Restore caster's HP.\nGain <:Status_AttackUp:832581064555364362> **ATK Up** and <:Status_DefenseUp:832588447800885249> **DEF Up**."
+                        "Restore caster's HP.",
+                        "Gain <:Status_AttackUp:832581064555364362> **ATK Up** and <:Status_DefenseUp:832588447800885249> **DEF Up**."
                     ],
                     "type": [
                         "2"
@@ -3072,10 +3070,9 @@
         "BASE": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**",
                             "<:Status_Bonus_Damage:832584447911264276> **40% Extra Superior Element DMG**"
                         ]
                     },
@@ -3085,25 +3082,52 @@
                     "name": "All of Creation",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "6-hit, 125% all-elemental damage to random foes (Damage cap: ~65,000 per hit).\nGain <:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**.\nDamage increased to 150% per hit.\nNow hits all foes.\nDamage increased to 200% per hit.\nDamage cap increased to ~107,000 per hit.\nBuff increased to <:Status_Bonus_Damage:832584447911264276> **40% Extra Superior Element DMG**.\nAlso inflict all-elemental ATK Down and DEF Down on all foes."
+                        "6-hit, 200% all-elemental damage to all foes (Damage cap: ~107,000 per hit).",
+                        "Gain <:Status_Bonus_Damage:832584447911264276> **40% Extra Superior Element DMG**.",
+                        "Inflict all-elemental ATK Down and DEF Down on all foes."
                     ],
                     "type": [
                         "1"
+                    ],
+                    "data": [
+                        {
+                            "title": "Ele ATK Down/Ele DEF Down overview",
+                            "inLine": false,
+                            "text": [
+                                "```",
+                                "╔═════╦═════╦════════╦═════╦════════╗",
+                                "║ Ele ║ ATK ║Accuracy║ DEF ║Accuracy║",
+                                "╠═════╬═════╬════════╬═════╬════════╣",
+                                "║Fire ║     ║        ║ 20% ║  100%  ║",
+                                "╠═════╣     ║        ╠═════╬════════╣",
+                                "║Water║ 10% ║   85%  ║     ║        ║",
+                                "╠═════╣     ║        ║     ║        ║",
+                                "║Earth║     ║        ║     ║        ║",
+                                "╠═════╬═════╬════════╣     ║        ║",
+                                "║Wind ║ 20% ║  100%  ║ 10% ║   85%  ║",
+                                "╠═════╬═════╬════════╣     ║        ║",
+                                "║Light║     ║        ║     ║        ║",
+                                "╠═════╣ 10% ║   85%  ║     ║        ║",
+                                "║Dark ║     ║        ║     ║        ║",
+                                "╚═════╩═════╩════════╩═════╩════════╝",
+                                "```"
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {},
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/32_1.png",
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1407_1.png"
                     ],
                     "name": "All is Vanity",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "400% Fire damage to all foes (Damage cap: ~420,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**."
+                        "400% Fire damage to all foes (Damage cap: ~420,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**."
                     ],
                     "type": [
                         "1",
@@ -3113,11 +3137,8 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
-                        "3^t": [
-                            "<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**"
-                        ],
                         "5^t": [
                             "<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**"
                         ]
@@ -3128,16 +3149,29 @@
                     "name": "Hidden Tiger, Crouching Dragon",
                     "obtain": " Lvl 45\u21e7 Lvl 95 ",
                     "text": [
-                        "All allies gain <:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**.\nEffect enhanced.\n<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon** duration increased to 5 turns."
+                        "All allies gain <:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Sheep:834405115116781619> Hidden Tiger, Crouching Dragon has the following effects:",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 80% / 30% Critical Up",
+                                "\u2022 50% DA Up",
+                                "\u2022 50% ATK Up (Normal Modifier)",
+                                "\u2022 50% Debuff Resistance Up",
+                                "\u2022 50% Charge Bar Gain Up"
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 6 turns ",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Strength:832601501335289908> **Strength**"
@@ -3149,10 +3183,21 @@
                     "name": "Fleece of Champions",
                     "obtain": " Lvl 90 ",
                     "text": [
-                        "Restore 20% of all allies' HP (Healing cap: 2015) and remove 1 debuff.\nAll allies gain <:Status_Strength:832601501335289908> **Strength**."
+                        "Restore 20% of all allies' HP (Healing cap: 2015) and remove 1 debuff.",
+                        "All allies gain <:Status_Strength:832601501335289908> **Strength**."
                     ],
                     "type": [
                         "2"
+                    ],
+                    "data": [
+                        {
+                            "title": " <:Status_Strength:832601501335289908> Strength: ",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 **Strength**: 15%-5%",
+                                "\u2022 **Stacking**: Teamwide"
+                            ]
+                        }
                     ]
                 }
             ]
@@ -3160,11 +3205,10 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**",
-                            "<:Status_Bonus_Damage:832584447911264276> **40% Extra Superior Element DMG**"
+                            "<:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**"
                         ]
                     },
                     "icon": [
@@ -3173,7 +3217,8 @@
                     "name": "All of Creation",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "6-hit, 125% all-elemental damage to random foes (Damage cap: ~65,000 per hit).\nGain <:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**.\nDamage increased to 150% per hit.\nNow hits all foes.\nDamage increased to 200% per hit.\nDamage cap increased to ~107,000 per hit.\nBuff increased to <:Status_Bonus_Damage:832584447911264276> **40% Extra Superior Element DMG**.\nAlso inflict all-elemental ATK Down and DEF Down on all foes."
+                        "6-hit, 150% all-elemental damage to random foes (Damage cap: ~65,000 per hit).",
+                        "Gain <:Status_Bonus_Damage:832584447911264276> **20% Extra Superior Element DMG**."
                     ],
                     "type": [
                         "1"
@@ -3182,16 +3227,16 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {},
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/32_1.png",
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1407_1.png"
                     ],
                     "name": "All is Vanity",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "400% Fire damage to all foes (Damage cap: ~420,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**."
+                        "400% Fire damage to all foes (Damage cap: ~420,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**."
                     ],
                     "type": [
                         "1",
@@ -3201,12 +3246,9 @@
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**"
-                        ],
-                        "5^t": [
                             "<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**"
                         ]
                     },
@@ -3216,34 +3258,27 @@
                     "name": "Hidden Tiger, Crouching Dragon",
                     "obtain": " Lvl 45\u21e7 Lvl 95 ",
                     "text": [
-                        "All allies gain <:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**.\nEffect enhanced.\n<:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon** duration increased to 5 turns."
+                        "All allies gain <:Status_Sheep:834405115116781619> **Hidden Tiger, Crouching Dragon**."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Sheep:834405115116781619> Hidden Tiger, Crouching Dragon has the following effects:",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 30% / 30% Critical Up",
+                                "\u2022 30% DA Up",
+                                "\u2022 50% ATK Up (Normal Modifier)",
+                                "\u2022 50% Debuff Resistance Up",
+                                "\u2022 50% Charge Bar Gain Up"
+                            ]
+                        }
                     ]
                 }
             ],
-            [
-                {
-                    "cooldown": " 6 turns ",
-                    "duration": {
-                        "3^t": [
-                            "<:Status_Strength:832601501335289908> **Strength**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/552_2.png"
-                    ],
-                    "name": "Fleece of Champions",
-                    "obtain": " Lvl 90 ",
-                    "text": [
-                        "Restore 20% of all allies' HP (Healing cap: 2015) and remove 1 debuff.\nAll allies gain <:Status_Strength:832601501335289908> **Strength**."
-                    ],
-                    "type": [
-                        "2"
-                    ]
-                }
-            ]
+            []
         ],
         "EVENT": [
             [
@@ -3260,20 +3295,28 @@
                     "name": "Inseparability",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Gain <:Status_DefenseUp:832588447800885249> **Clingy**.\nCan't attack on that turn."
+                        "Gain <:Status_DefenseUp:832588447800885249> **Clingy**.",
+                        "Can't attack on that turn."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_DefenseUp:832588447800885249> Clingy: ",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 Takes no DMG or debuffs while in effect."
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 8 turns7 turns ",
+                    "cooldown": "7 turns ",
                     "duration": {
                         "3^t": [
-                            "<:Status_Uplift:832602899460521994> **10% Charge Bar Gain Up**",
-                            "<:Status_Veil:832602900122828840> **10% Debuff Res.Up**",
                             "<:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up**",
                             "<:Status_Veil:832602900122828840> **20% Debuff Res.Up**"
                         ]
@@ -3284,7 +3327,7 @@
                     "name": "Hidden Tiger, Crouching Dragon",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "All allies gain <:Status_Uplift:832602899460521994> **10% Charge Bar Gain Up** and <:Status_Veil:832602900122828840> **10% Debuff Res.Up**.\nBuffs increased to <:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up** and <:Status_Veil:832602900122828840> **20% Debuff Res.Up**."
+                        "All allies gain <:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up** and <:Status_Veil:832602900122828840> **20% Debuff Res.Up**."
                     ],
                     "type": [
                         "3"
@@ -3293,7 +3336,7 @@
             ],
             [
                 {
-                    "cooldown": " 8 turns ",
+                    "cooldown": "8 turns ",
                     "duration": {
                         "3^t": [
                             "<:Status_Strength:832601501335289908> **Strength**",
@@ -3318,7 +3361,7 @@
         "SUMMER": [
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/60_1.png"
@@ -3326,16 +3369,42 @@
                     "name": "All of Creation",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "6-hit, 100% all-elemental damage to all foes (Damage cap: ~100,000 per hit).\nInflict all-elemental DEF Down."
+                        "6-hit, 100% all-elemental damage to all foes (Damage cap: ~100,000 per hit).",
+                        "Inflict all-elemental DEF Down."
                     ],
                     "type": [
                         "1"
+                    ],
+                    "data": [
+                        {
+                            "title": "Ele DEF Down overview",
+                            "inLine": false,
+                            "text": [
+                                "```",
+                                "╔═══════╦══════════╦══════════╗",
+                                "║  Ele  ║ DEF Doww ║ Accuracy ║",
+                                "╠═══════╬══════════╬══════════╣",
+                                "║  Fire ║    10%   ║          ║",
+                                "╠═══════╬══════════╣          ║",
+                                "║ Water ║    10%   ║    85%   ║",
+                                "╠═══════╬══════════╣          ║",
+                                "║ Earth ║    10%   ║          ║",
+                                "╠═══════╬══════════╬══════════╣",
+                                "║  Wind ║    20%   ║   100%   ║",
+                                "╠═══════╬══════════╬══════════╣",
+                                "║ Light ║    10%   ║          ║",
+                                "╠═══════╬══════════╣    85%   ║",
+                                "║  Dark ║    10%   ║          ║",
+                                "╚═══════╩══════════╩══════════╝",
+                                "```"
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": " 7 turns6 turns ",
+                    "cooldown": "6 turns ",
                     "duration": {
                         "1^t": [
                             "<:Status_TripleUp:832601877920350218> **Guaranteed TA**"

@@ -1116,7 +1116,7 @@
         }
     },
     "Ange": {
-        "BASE": {
+        "HALLOWEEN": {
             "5star": "No",
             "atk": "7,500",
             "element": "Dark",
@@ -1148,14 +1148,14 @@
             ],
             "weapon": "Dracula Harp"
         },
-        "SR": {
+        "BASE": {
             "5star": "Yes",
-            "atk": "6,250",
+            "atk": "7,500",
             "element": "Water",
             "gender": [
                 "Female"
             ],
-            "hp": "1,250",
+            "hp": "1,500",
             "id": "3030012000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030012000_03.png",
             "jpname": "\u30a2\u30f3\u30b8\u30a7",
@@ -1178,7 +1178,7 @@
             ],
             "weapon": "Royal Rapier"
         },
-        "SR_4": {
+        "BASE_4": {
             "5star": "Yes",
             "atk": "6,250",
             "element": "Water",
@@ -1187,7 +1187,7 @@
             ],
             "hp": "1,250",
             "id": "3030012000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030012000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030012000_02.png",
             "jpname": "\u30a2\u30f3\u30b8\u30a7",
             "max_evo": "5",
             "name": "Ange",
@@ -1201,7 +1201,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030012000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030012000_02.jpg",
             "type": "Balanced",
             "va": [
                 "Sanae Kobayashi"
@@ -1212,12 +1212,12 @@
     "Anila": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,815",
+            "atk": "10,415",
             "element": "Fire",
             "gender": [
                 "Female"
             ],
-            "hp": "1,715",
+            "hp": "2,015",
             "id": "3040027000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040027000_03.png",
             "jpname": "\u30a2\u30cb\u30e9",
@@ -1252,10 +1252,10 @@
             ],
             "hp": "1,715",
             "id": "3040027000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040027000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040027000_02.png",
             "jpname": "\u30a2\u30cb\u30e9",
             "max_evo": "5",
-            "name": "Anila",
+            "name": "Anila [4\u2605]",
             "profile": "One of the Twelve Divine Generals, she protects the south-southwest. This gentle lamb of a goddess abhors conflict and prays for world peace. She endured isolation for what seemed like an eternity, but now seeks out new lands, guided by the stars.",
             "race": [
                 "Draph"

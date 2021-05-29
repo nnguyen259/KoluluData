@@ -1281,7 +1281,7 @@
                 "data": [
                       {
                         "inLine" : false,
-                        "title" : "<:Status_Infinite_Diversity:832594644234665984> Infinite Diversity grants Andira the following buffs:",
+                        "title" : "\u200b",
                         "text": [
                           "```",
                           "╔══════╦════════╗",
@@ -1384,7 +1384,7 @@
         ]
     },
     "Ange": {
-        "BASE": [
+        "HALLOWEEN": [
             {
                 "duration": {},
                 "name": "Masquerade Prince",
@@ -1402,7 +1402,7 @@
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
-        "SR": [
+        "BASE": [
             {
                 "duration": {},
                 "name": "Bravado",
@@ -1420,7 +1420,7 @@
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
-        "SR_4": [
+        "BASE_4": [
             {
                 "duration": {},
                 "name": "Bravado",
@@ -1445,7 +1445,8 @@
                 "duration": {},
                 "name": "Queen of Sheep",
                 "text": [
-                    "10% boost to Fire allies' ATK when not debuffed.\n30% boost to Fire allies' DEF when debuffed."
+                    "10% boost to Fire allies' ATK when not debuffed.",
+                    "30% boost to Fire allies' DEF when debuffed."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1453,9 +1454,31 @@
                 "duration": {},
                 "name": "Everything's Coming Up Fluffy",
                 "text": [
-                    "Boost to Fire allies' double attack rate based on how high Anila's HP is.\nBoost to Fire allies' DEF based on how low Anila's HP is."
+                    "Boost to Fire allies' double attack rate based on how high Anila's HP is.",
+                    "Boost to Fire allies' DEF based on how low Anila's HP is."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔════════════╦═══════╦════════╗",
+                            "║ Anila's HP ║ DA Up ║ DEF Up ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║ 100% - 76% ║  15%  ║   0%   ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  75% - 51% ║  10%  ║   10%  ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  50% - 26% ║   5%  ║   30%  ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  25% - 0%  ║   0%  ║   50%  ║",
+                            "╚════════════╩═══════╩════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1463,7 +1486,26 @@
                 "text": [
                     "Slight chance of a 1-turn cut to skill cooldown with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════╗",
+                            "║ Rank ║ Chance ║",
+                            "╠══════╬════════╣",
+                            "║   1  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   2  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   3  ║   5%   ║",
+                            "╚══════╩════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
@@ -1473,15 +1515,28 @@
                 "text": [
                     "10% boost to Fire allies' ATK when not debuffed.\n30% boost to Fire allies' DEF when debuffed."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Everything's Coming Up Fluffy",
-                "text": [
-                    "Boost to Fire allies' double attack rate based on how high Anila's HP is.\nBoost to Fire allies' DEF based on how low Anila's HP is."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔════════════╦═══════╦════════╗",
+                            "║ Anila's HP ║ DA Up ║ DEF Up ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║ 100% - 76% ║  15%  ║   0%   ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  75% - 51% ║  10%  ║   10%  ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  50% - 26% ║   5%  ║   30%  ║",
+                            "╠════════════╬═══════╬════════╣",
+                            "║  25% - 0%  ║   0%  ║   50%  ║",
+                            "╚════════════╩═══════╩════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1489,7 +1544,26 @@
                 "text": [
                     "Slight chance of a 1-turn cut to skill cooldown with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════╗",
+                            "║ Rank ║ Chance ║",
+                            "╠══════╬════════╣",
+                            "║   1  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   2  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   3  ║   5%   ║",
+                            "╚══════╩════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "EVENT": [
@@ -1523,7 +1597,8 @@
                 "duration": {},
                 "name": "All-Season Fashion",
                 "text": [
-                    "When Wind allies are not debuffed: 10% boost to ATK.\nWhen Wind allies are debuffed: 30% boost to DEF."
+                    "When Wind allies are not debuffed: 10% boost to ATK.",
+                    "When Wind allies are debuffed: 30% boost to DEF."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }

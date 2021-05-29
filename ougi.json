@@ -474,7 +474,7 @@
         ]
     },
     "Ange": {
-        "BASE": [
+        "HALLOWEEN": [
             {
                 "duration": {},
                 "name": "Fleur Tourbillon",
@@ -483,7 +483,7 @@
                 ]
             }
         ],
-        "SR": [
+        "BASE": [
             {
                 "duration": {
                     "3.5^t": [
@@ -492,11 +492,12 @@
                 },
                 "name": "Bourgeon Flueri",
                 "text": [
-                    "Massive Water damage to a foe.\nGain <:Status_CriticalUp:832587322133970986> **??% / 30% Critical Hit Rate Up**."
+                    "Massive Water damage to a foe.",
+                    "Gain <:Status_CriticalUp:832587322133970986> **??% / 30% Critical Hit Rate Up**."
                 ]
             }
         ],
-        "SR_4": [
+        "BASE_4": [
             {
                 "duration": {},
                 "name": "Fleur Tourbillon",
@@ -516,7 +517,8 @@
                 },
                 "name": "Fury of the Ram",
                 "text": [
-                    "550% Fire damage to a foe.\nAll allies gain <:Status_Shield:832599448872943648> **Shield (1000)**."
+                    "550% Fire damage to a foe.",
+                    "All allies gain <:Status_Shield:832599448872943648> **Shield (1000)**."
                 ]
             }
         ],
@@ -547,7 +549,9 @@
                 },
                 "name": "Flock to the Future",
                 "text": [
-                    "450% Wind damage to a foe.\nGain <:status_6945:832604144481206372> **Ram Rondo**.\n(Next First Initiation affects all allies.)\nEnd cooldown for First Initiation"
+                    "450% Wind damage to a foe.",
+                    "Gain <:status_6945:832604144481206372> **Ram Rondo** (Next __First Initiation__ affects all allies.)",
+                    "End cooldown for __First Initiation__."
                 ]
             }
         ]
