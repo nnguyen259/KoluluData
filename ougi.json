@@ -5891,6 +5891,18 @@
             }
         ]
     },
+    "Miranda": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Charming Lesson",
+                "text": [
+                    "450% Fire damage to a foe.",
+                    "Remove 1 debuff from all allies."
+                ]
+            }
+        ]
+    },
     "Mugen": {
         "BASE": [
             {
@@ -7844,6 +7856,23 @@
                 "name": "If Inner EyeNext charge attack's DMG and DMG cap will be boosted (Can't be removed)Strength: 190% C.A. DMG Up, 90% C.A. DMG Cap Up is active:Mahakala",
                 "text": [
                     "Massive Fire damage to a foe.\nConsume <:Status_Inner_Eye:832594644419739678> **Inner Eye**."
+                ]
+            }
+        ]
+    },
+    "Sho": {
+        "BASE": [
+            {
+                "duration": {
+                    "Indefinite^i": [
+                        "<:Status_Dodge_1:832590866371182602> **Dodge All (1 time)**"
+                    ]
+                },
+                "name": "Wheelie Nocturne",
+                "text": [
+                  "450% Wind damage to a foe.",
+                  "Gain <:Status_Dodge_1:832590866371182602> **Dodge All (1 time)**.",
+                  "**When below 25% HP**: Also remove 1 buff from a foe."
                 ]
             }
         ]

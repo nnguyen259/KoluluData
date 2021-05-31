@@ -12188,6 +12188,38 @@
             }
         ]
     },
+    "Miranda": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Academy Instructor",
+                "text": [
+                    "1-turn cut to skill cooldowns when a foe uses a special attack.",
+                    "(If the foe uses an **Incanted Attack**, 3-turn cut instead.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Incanted Attack:",
+                      "text": [
+                        "\u2022 Incanted Attacks only occur in Battle System 2.0.",
+                        "\u2022 Incanted Attacks glow purple on the lower right side of the foe's HP bar."
+                      ]
+                  }
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Abracadabra",
+                "text": [
+                  "Raise Light Arts lvl by 1 when a Fire ally uses a skill.",
+                  "**When used at lvl 7**: Activates __Lucent Charm__. Resets Light Arts lvl."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ]
+    },
     "Mugen": {
         "BASE": [
             {
@@ -15814,6 +15846,37 @@
                     "Lessen Wind damage."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ]
+    },
+    "Sho": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Make Way for the Destiny Nocturnes",
+                "text": [
+                    "1-turn cut to skill cooldowns when a foe uses a special attack.",
+                    "(If the foe uses a **Stance Attack**, also ends cooldown for __King's March__.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Stance Attack:",
+                      "text": [
+                        "\u2022 Stance Attacks only occur in Battle System 2.0.",
+                        "\u2022 Stance Attacks glow yellow on the lower right side of the foe's HP bar."
+                      ]
+                  }
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Let Me Show You Who's King",
+                "text": [
+                  "**When Sho is below 25% HP before attacking**: Guaranteed triple attacks, 20% Bonus Wind DMG effect, and all allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%** at end of turn."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
         ]
     },

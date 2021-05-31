@@ -11628,6 +11628,31 @@
             ]
         ]
     },
+    "Miranda": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "hp",
+                "debuffres",
+                "healing"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "hp",
+                "stamina",
+                "stamina",
+                "healing",
+                "lock"
+            ]
+        ]
+    },
     "Mugen": {
         "BASE": [
             [
@@ -15416,6 +15441,31 @@
                 "ta",
                 "ta",
                 "supportskill"
+            ]
+        ]
+    },
+    "Sho": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "atk",
+                "crithit",
+                "enmity",
+                "enmity",
+                "lock"
             ]
         ]
     },

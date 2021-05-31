@@ -33342,6 +33342,81 @@
             []
         ]
     },
+    "Miranda": {
+        "BASE": [
+            [
+                {
+                    "cooldown": "6 turns ",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_FireAtkUp:832592559683010590> **30% Fire ATK Up**",
+                            "<:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1473_3.png"
+                    ],
+                    "name": "Lucent Charm",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                      "All allies gain <:Status_FireAtkUp:832592559683010590> **30% Fire ATK Up** and <:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up**.",
+                      "Restore 20% of all allies' HP (Healing cap: 2000)."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                      "Indefinite^i": [
+                        "<:Status_Veil:832602900122828840> **Veil**",
+                        "<:Status_Repel:832599166844403743> **Unchallenged (1 time)**",
+                        "<:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel**"
+                      ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1474_3.png"
+                    ],
+                    "name": "Enchanting Mirage",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "All allies gain <:Status_Veil:832602900122828840> **Veil**, <:Status_Repel:832599166844403743> **Unchallenged (1 time)** and <:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns ",
+                    "duration": {
+                      "Indefinite^i": [
+                        "<:Status_Shield:832599448872943648> **Shield (5000)**"
+                      ],
+                      "5^t": [
+                        "<:Status_WindResUp:834407287879237652> **30% Wind DMG Lowered**"
+                      ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1475_3.png"
+                    ],
+                    "name": "Enchanting Fantasys",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Fill 1 charge diamond on a foe. If successful, all allies gain <:Status_Shield:832599448872943648> **Shield (5000)** and <:Status_WindResUp:834407287879237652> **30% Wind DMG Lowered**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ]
+    },
     "Mugen": {
         "BASE": [
             [
@@ -44508,6 +44583,85 @@
                     "obtain": " Lvl 45 ",
                     "text": [
                         "Gain <:Status_TripleUp:832601877920350218> **Guaranteed TA**, <:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)**, <:Status_WindResUp:834407287879237652> **20% Wind DMG Lowered**, and <:Status_CriticalUp:832587322133970986> **80% / 20% Critical Hit Rate Up**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ]
+    },
+    "Sho": {
+        "BASE": [
+            [
+                {
+                    "cooldown": "9 turns ",
+                    "duration": {
+                        "2^t": [
+                            "<:Status_Repel:832599166844403743> **Unchallenged**"
+                        ],
+                        "8^t": [
+                            "<:Status_Jammed:832595932305424394> **Jammed**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1476_3.png"
+                    ],
+                    "name": "Full Throttle",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "Sacrifice 80% of caster's current HP to gain <:Status_Repel:832599166844403743> **Unchallenged** and <:Status_Jammed:832595932305424394> **Jammed**.",
+                        "**When below 25% HP**: Also gain Status <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**"
+                    ],
+                    "type": [
+                        "3",
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns ",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Adversity:834386783583862794> **10% DMG Amplified**",
+                            "<:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1477_3.png"
+                    ],
+                    "name": "King's March",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Gain <:Status_Adversity:834386783583862794> **10% DMG Amplified** and <:Status_Bonus_Damage:832584447911264276> **20% Bonus Wind DMG**.",
+                        "**When below 25% HP**: Affects all allies."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "7 turns ",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**",
+                            "<:Status_CA_DMG_Cap:834389296139731014> **10% C.A. DMG Cap Up (1 time)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1478_3.png"
+                    ],
+                    "name": "It's Showtime!",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                      "Fill 1 charge diamond on a foe. If successful, all allies gain <:Status_Uplift:832602899460521994> **Charge Bar +30%**, <:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**, and <:Status_CA_DMG_Cap:834389296139731014> **10% C.A. DMG Cap Up (1 time)**."
                     ],
                     "type": [
                         "3"
