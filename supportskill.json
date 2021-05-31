@@ -276,9 +276,9 @@
                 "duration": {},
                 "name": "The Sun Reversed",
                 "text": [
-                    "When Sub Ally: 20% boost to Fire allies' healing specs.\nRemove 1 debuff from a Fire ally when that ally takes turn-based damage."
+                    "**When Sub Ally:** 20% boost to Fire allies' healing specs.\nRemove 1 debuff from a Fire ally when that ally takes turn-based damage."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -288,9 +288,9 @@
                 },
                 "name": "The Hierophant Upright",
                 "text": [
-                    "When Switching to Main Ally: Fire allies gain <:Status_Blessed_Radiance:832583965403250718> **Blessed Radiance**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Fire allies gain <:Status_Blessed_Radiance:832583965403250718> **Blessed Radiance**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png",
                 "data":[
                   {
                       "inLine" : false,
@@ -310,6 +310,14 @@
                     "Chance to withstand lethal turn-based damage (Leaves 1 HP)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Random cut to Alanaan's skill cooldowns when MC uses __Heat of The Sun__'s charge attack (Max: 5 turns)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -1721,7 +1729,7 @@
                 "text": [
                     "Chance to Substitute for another ally with the lowest HP."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -1768,7 +1776,7 @@
                 "text": [
                     "Chance to Substitute for another ally with the lowest HP."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_5": [
@@ -3119,9 +3127,9 @@
                 "duration": {},
                 "name": "The Hanged Man Reversed",
                 "text": [
-                    "When Sub Ally: When all equipped weapons are different, 20% boost to Earth allies' ATK, 50% boost to DEF, and 10% boost to damage cap."
+                    "**When Sub Ally:** When all equipped weapons are different, 20% boost to Earth allies' ATK, 50% boost to DEF, and 10% boost to damage cap."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -3134,9 +3142,9 @@
                 },
                 "name": "The Fool Upright",
                 "text": [
-                    "When Switching to Main Ally: <:Status_Jack_of_Spades:832595932159279104> **Spade**, <:Status_Jack_of_Hearts:832595931936587807> **Heart**, <:Status_Jack_of_Diamonds:832595931768815696> **Diamond**, and <:Status_Jack_of_Clubs:832595931521220609> **Club** all rise by a random number.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: <:Status_Jack_of_Spades:832595932159279104> **Spade**, <:Status_Jack_of_Hearts:832595931936587807> **Heart**, <:Status_Jack_of_Diamonds:832595931768815696> **Diamond**, and <:Status_Jack_of_Clubs:832595931521220609> **Club** all rise by a random number.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -3145,6 +3153,14 @@
                     "Lessen Water damage for all allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "**Upon using charge attacks**: Randomly raise two of Spade Rank, Heart Rank, Diamond Rank, or Club Rank by 1 (Max: 4)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -3763,7 +3779,7 @@
                 "duration": {},
                 "name": "UV Is No Joke! \u2606=(\u309d\u03c9\uff65)",
                 "text": [
-                    "When Sub Ally: Lessen Earth damage taken for main allies by 5%."
+                    "**When Sub Ally:** Lessen Earth damage taken for main allies by 5%."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -5047,9 +5063,9 @@
                 "duration": {},
                 "name": "Temperance Reversed",
                 "text": [
-                    "When Sub Ally: All Wind allies gain a random buff upon Wind chain burst."
+                    "**When Sub Ally:** All Wind allies gain a random buff upon Wind chain burst."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -5059,9 +5075,9 @@
                 },
                 "name": "The Hermit Upright",
                 "text": [
-                    "When Switching to Main Ally: Estarriola gains <:Status_Dreamscape:832590971329445959> **Dreamscape**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Estarriola gains <:Status_Dreamscape:832590971329445959> **Dreamscape**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -5070,6 +5086,18 @@
                     "Boost all allies' ATK and restore all allies' HP at turn start."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {
+                  "Indefinite^i": [
+                      "<:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel**"
+                  ]
+                },
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "All Wind allies gain <:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel** upon activating Temperance Reversed with the chain burst Galeburst."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -5776,7 +5804,7 @@
                 "text": [
                     "Reduce damage taken from foes with <:Status_Forfeit:834395141090836481> **Forfeit**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -6008,7 +6036,7 @@
                 "text": [
                     "Boost to Light allies' <:Status_Zombie:832603102958845972> **Zombified** and <:Status_Cursed:835496962849374248> **Cursed** resistance."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -6218,9 +6246,9 @@
                 "duration": {},
                 "name": "The Devil Reversed",
                 "text": [
-                    "When Sub Ally: Extend Fire allies' debuff durations to foes by 1 turn."
+                    "**When Sub Ally:** Extend Fire allies' debuff durations to foes by 1 turn."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -6230,9 +6258,9 @@
                 },
                 "name": "Strength Upright",
                 "text": [
-                    "When Switching to Main Ally: Fraux gains <:Status_Solid_Fortitude:832601206437183489> **Solid Fortitude**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Fraux gains <:Status_Solid_Fortitude:832601206437183489> **Solid Fortitude**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -6241,6 +6269,14 @@
                     "Boost to critical hit against foes with <:Status_Red_Heat_1:832599166412390420> **Red Heat**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "End cooldown for __Indominus__ upon using charge attack."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -6314,7 +6350,7 @@
                 "duration": {},
                 "name": "Casual Friday",
                 "text": [
-                    "When Sub Ally: Refresh effect to Fire allies on Fridays (JST) (Healing cap: 250)"
+                    "**When Sub Ally:** Refresh effect to Fire allies on Fridays (JST) (Healing cap: 250)"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -6530,9 +6566,9 @@
                 "duration": {},
                 "name": "The Star Reversed",
                 "text": [
-                    "When Sub Ally: Caps Dark damage taken by Light allies at 10,000 per hit."
+                    "**When Sub Ally:** Caps Dark damage taken by Light allies at 10,000 per hit."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -6542,9 +6578,9 @@
                 },
                 "name": "The Chariot Upright",
                 "text": [
-                    "When Switching To Main Ally: Geisenborger gains <:Status_StarSpangled_Pummel:832601390110212096> **Star-Spangled Pummel**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Geisenborger gains <:Status_StarSpangled_Pummel:832601390110212096> **Star-Spangled Pummel**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -6553,6 +6589,18 @@
                     "Lessen Dark damage for all allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {
+                  "2.5^t": [
+                    "<:Status_Bonus_Damage:832584447911264276> **70% Bonus Light DMG**"
+                  ]
+                },
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Geisenborger gains <:Status_Bonus_Damage:832584447911264276> **70% Bonus Light DMG** when MC uses __Shooting of The Star__'s charge attack."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -6840,9 +6888,9 @@
                 "duration": {},
                 "name": "The Moon Reversed",
                 "text": [
-                    "When Sub Ally:+1% boost to Water allies' ATK based on number of turns passed (Max: 20% at 20 turns).\n+2% boost to Water allies' DEF based on number of turns passed (Max: 40% at 20 turns)."
+                    "**When Sub Ally:**+1% boost to Water allies' ATK based on number of turns passed (Max: 20% at 20 turns).\n+2% boost to Water allies' DEF based on number of turns passed (Max: 40% at 20 turns)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -6852,9 +6900,9 @@
                 },
                 "name": "The High Priestess Upright",
                 "text": [
-                    "When Switching to Main Ally: Haaselia gains <:Status_Torah:832601876586954764> **Torah**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Haaselia gains <:Status_Torah:832601876586954764> **Torah**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -6863,6 +6911,14 @@
                     "Gain Boost to ATK (Stackable) upon using linked skills."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Restore all allies' HP upon using linked skills."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -8191,7 +8247,7 @@
                 "duration": {},
                 "name": "Bay Watcher",
                 "text": [
-                    "When Sub Ally: 150 HP boost to Water allies' healing cap."
+                    "**When Sub Ally:** 150 HP boost to Water allies' healing cap."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -8753,9 +8809,9 @@
                 "duration": {},
                 "name": "Judgement Reversed",
                 "text": [
-                    "When Sub Ally:Refresh 5% of Wind allies' HP after each turn when not debuffed (Healing cap: 350).\n30% boost to Wind allies' ATK when debuffed."
+                    "**When Sub Ally:**Refresh 5% of Wind allies' HP after each turn when not debuffed (Healing cap: 350).\n30% boost to Wind allies' ATK when debuffed."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -8765,9 +8821,9 @@
                 },
                 "name": "The Emperor Upright",
                 "text": [
-                    "When Switching to Main Ally: All Wind allies gain <:Status_Recurring_Anthem:832599166168989717> **Recurring Anthem**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: All Wind allies gain <:Status_Recurring_Anthem:832599166168989717> **Recurring Anthem**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -8776,6 +8832,14 @@
                     "Lessen Earth damage for all allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "**Upon using charge attack**: Restore all allies' HP and remove 1 debuff."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -9649,7 +9713,7 @@
                 "duration": {},
                 "name": "Backup Fire",
                 "text": [
-                    "When Sub Ally: When a Water chain burst activates: Water damage to a foe based on number of chains."
+                    "**When Sub Ally:** When a Water chain burst activates: Water damage to a foe based on number of chains."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -10056,17 +10120,17 @@
                 },
                 "name": "The Tower Reversed",
                 "text": [
-                    "When Sub Ally: Earth allies gain <:Status_Skill_DMG_Cap_Up:832599898687668276> **6% Skill DMG Cap Up (Stackable / Max: 30%)** upon casting a skill (Max: 5)."
+                    "**When Sub Ally:** Earth allies gain <:Status_Skill_DMG_Cap_Up:832599898687668276> **6% Skill DMG Cap Up (Stackable / Max: 30%)** upon casting a skill (Max: 5)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {},
                 "name": "The Magician Upright",
                 "text": [
-                    "When Switching to Main Ally: Lobelia gains 10 <:Status_Magic_Crest:832596887194435604> **Magic Crest**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Lobelia gains 10 <:Status_Magic_Crest:832596887194435604> **Magic Crest**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -10075,6 +10139,19 @@
                     "Gain Boost to DEF (Stackable) upon using linked skills."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {
+                  "Indefinite^i":[
+                    "<:Status_AttackUpStack:832581064383791144> **3% ATK Up (Stackable / Max: 15%)**",
+                    "<:Status_DefenseUpStack:832588448413122560> **3% DEF Up (Stackable / Max: 15%)**"
+                  ]
+                },
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Earth allies gain <:Status_AttackUpStack:832581064383791144> **3% ATK Up (Stackable / Max: 15%)** and <:Status_DefenseUpStack:832588448413122560> **3% DEF Up (Stackable / Max: 15%)** upon their activating __The Tower Reversed__."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -10914,9 +10991,9 @@
                 },
                 "name": "Justice Reversed",
                 "text": [
-                    "When Sub Ally: 300% Water damage to all foes when a Water ally casts a buff-removing skill (Damage cap: ~480,000).\nInflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)**."
+                    "**When Sub Ally:** 300% Water damage to all foes when a Water ally casts a buff-removing skill (Damage cap: ~480,000).\nInflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -10926,9 +11003,9 @@
                 },
                 "name": "The Empress Upright",
                 "text": [
-                    "When Switching to Main Ally: All Water allies gain <:Status_Righteous_Indignation:832599274055270421> **Righteous Indignation**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: All Water allies gain <:Status_Righteous_Indignation:832599274055270421> **Righteous Indignation**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -10937,6 +11014,14 @@
                     "Damage reduction to all allies against foes with <:Status_Unrighteousness_Local_1:832602639333064794> **Unrighteousness**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Guts effect to water allies upon activating __The Empress Upright__."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -11852,7 +11937,7 @@
                 "duration": {},
                 "name": "Let's Play Together!",
                 "text": [
-                    "You can do it! I'm right behind you!(When Sub Ally: At the start of each turn, ~33% chance to cast Wish for Joy.)\n"
+                    "You can do it! I'm right behind you!(**When Sub Ally:** At the start of each turn, ~33% chance to cast Wish for Joy.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -12861,9 +12946,9 @@
                 },
                 "name": "Death Reversed",
                 "text": [
-                    "Only when MC's element is Dark: MC starts battle with <:Status_Loves_Redemption_13:832596886258057217> **Death Reversed (13 times)**.\nWhen Sub Ally: MC can withstand lethal damage until end of turn when MC is above 25% HP (Leaves 1 HP).\n(<:Status_Loves_Redemption_13:832596886258057217> **Death Reversed** lowers by 1 at end of turn upon taking lethal damage.)\n"
+                    "Only when MC's element is Dark: MC starts battle with <:Status_Loves_Redemption_13:832596886258057217> **Death Reversed (13 times)**.\n**When Sub Ally:** MC can withstand lethal damage until end of turn when MC is above 25% HP (Leaves 1 HP).\n(<:Status_Loves_Redemption_13:832596886258057217> **Death Reversed** lowers by 1 at end of turn upon taking lethal damage.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/829_3.png"
             },
             {
                 "duration": {
@@ -12873,9 +12958,9 @@
                 },
                 "name": "The Lovers Upright",
                 "text": [
-                    "When Switching to Main Ally: All Dark allies gain <:Status_Thirsting:832601876268712006> **Thirsting**.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: All Dark allies gain <:Status_Thirsting:832601876268712006> **Thirsting**.\n(Can't be reactivated.)\n"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/830_3.png"
             },
             {
                 "duration": {},
@@ -12884,6 +12969,14 @@
                     "Boost to ATK and hostility."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Domain Bonus Ability",
+                "text": [
+                    "Raise Nier's <:Status_Loves_Redemption_13:832596886258057217> **Love's Redemption** by 6 when MC uses Weapon __Pain of Death__'s charge attack (Max: 13)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets/img/sp/ui/icon/ability/m/1426_3.png"
             }
         ]
     },
@@ -13527,7 +13620,7 @@
                 "duration": {},
                 "name": "I Must Keep Thinking",
                 "text": [
-                    "When Sub Ally: 5% Dark damage reduction to all allies."
+                    "**When Sub Ally:** 5% Dark damage reduction to all allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -14048,7 +14141,7 @@
                 },
                 "name": "R-Rawr!",
                 "text": [
-                    "When Sub Ally: Slight chance to inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)** on all foes at end of turn."
+                    "**When Sub Ally:** Slight chance to inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)** on all foes at end of turn."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -14060,7 +14153,7 @@
                 },
                 "name": "Show Me the Candy",
                 "text": [
-                    "When Switching to Main Ally: Raise <:status_6979:832604201959817217> **Lone Wolf Trick** lvl by 5.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Raise <:status_6979:832604201959817217> **Lone Wolf Trick** lvl by 5.\n(Can't be reactivated.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -15413,7 +15506,7 @@
                 "text": [
                     "Raise <:Status_Heavenly_Howl:832594035705249832> **Heavenly Howl** lvl at start of battle."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -15623,7 +15716,7 @@
                 "duration": {},
                 "name": "Grandbutler Knows Best",
                 "text": [
-                    "When Sub Ally: Refresh 3% of all allies' HP at the end of a turn (Healing cap: 150)."
+                    "**When Sub Ally:** Refresh 3% of all allies' HP at the end of a turn (Healing cap: 150)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -16120,7 +16213,7 @@
                 "duration": {},
                 "name": "Bullet Burst",
                 "text": [
-                    "When Sub Ally: 200% bonus Light damage to a foe upon the chain burst Ascension (Damage cap: ~600,000)."
+                    "**When Sub Ally:** 200% bonus Light damage to a foe upon the chain burst Ascension (Damage cap: ~600,000)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -16146,7 +16239,7 @@
                 "duration": {},
                 "name": "Ocean Bullet",
                 "text": [
-                    "When Sub Ally: 300% Bonus Earth damage to a foe upon the chain burst Diastrofism (Damage cap: ~600,000)."
+                    "**When Sub Ally:** 300% Bonus Earth damage to a foe upon the chain burst Diastrofism (Damage cap: ~600,000)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -16327,7 +16420,7 @@
                 "duration": {},
                 "name": "Zeyen Priestess",
                 "text": [
-                    "When Sub Ally: 200 HP boost to Light allies' healing cap."
+                    "**When Sub Ally:** 200 HP boost to Light allies' healing cap."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -17315,7 +17408,7 @@
                 "text": [
                     "Chance to end cooldown for Berserk Forge upon using a charge attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -17670,7 +17763,7 @@
                 "text": [
                     "Boost to multiattack rate based on foe's number of debuffs."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
         "BASE_4": [
@@ -18468,7 +18561,7 @@
                 "duration": {},
                 "name": "Cheering From the Shadows, Internally",
                 "text": [
-                    "When Sub Ally: 5% boost to Dark allies' C.A. DMG."
+                    "**When Sub Ally:** 5% boost to Dark allies' C.A. DMG."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -18829,7 +18922,7 @@
                 },
                 "name": "R-Rawr!",
                 "text": [
-                    "When Sub Ally: Slight chance to inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)** on all foes at end of turn."
+                    "**When Sub Ally:** Slight chance to inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 30%)** on all foes at end of turn."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -18841,7 +18934,7 @@
                 },
                 "name": "Show Me the Candy",
                 "text": [
-                    "When Switching to Main Ally: Raise <:status_6979:832604201959817217> **Lone Wolf Trick** lvl by 5.\n(Can't be reactivated.)\n"
+                    "**When Switching to Main Ally**: Raise <:status_6979:832604201959817217> **Lone Wolf Trick** lvl by 5.\n(Can't be reactivated.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -18865,7 +18958,7 @@
                 },
                 "name": "Jingle Bells",
                 "text": [
-                    "Santa's on his way!(When Sub Ally: Chance for all main allies to gain <:Status_Hype1:832594542321598505> **Hype**.)\n"
+                    "Santa's on his way!(**When Sub Ally:** Chance for all main allies to gain <:Status_Hype1:832594542321598505> **Hype**.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -19115,7 +19208,7 @@
                 "duration": {},
                 "name": "Mini Skyfarer",
                 "text": [
-                    "When Sub Ally: 5% boost to all allies' DEF.\n5% chance to give <:Status_Uplift:832602899460521994> **Charge Bar +10%** to all allies at end of turn."
+                    "**When Sub Ally:** 5% boost to all allies' DEF.\n5% chance to give <:Status_Uplift:832602899460521994> **Charge Bar +10%** to all allies at end of turn."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
