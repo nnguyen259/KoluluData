@@ -16425,6 +16425,40 @@
             "weapon": "Tr\u00ed Bandia"
         }
     },
+    "Miranda": {
+        "BASE": {
+            "5star": "No",
+            "atk": "6,200",
+            "element": "Fire",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,800",
+            "id": "3040339000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040339000_02.png",
+            "jpname": "\u30df\u30e9\u30f3\u30c0",
+            "link": "https://gbf.wiki/Ms._Miranda",
+            "max_evo": "4",
+            "name": "Ms. Miranda",
+            "original": "Ms._Miranda",
+            "profile": "\u200b",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040339000_02.jpg",
+            "type": "Heal",
+            "va": [
+                "Kikuko Inoue"
+            ],
+            "weapon": "Charming Broom"
+        }
+    },
     "Mugen": {
         "BASE": {
             "5star": "No",
@@ -21778,6 +21812,40 @@
                 "Sh\u014d Hayami"
             ],
             "weapon": "Purifying Thunderbolt"
+        }
+    },
+    "Sho": {
+        "BASE": {
+            "5star": "No",
+            "atk": "10,500",
+            "element": "Wind",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,100",
+            "id": "3040338000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040338000_02.png",
+            "jpname": "\u30b7\u30e7\u30a6",
+            "link": "https://gbf.wiki/Sho",
+            "max_evo": "4",
+            "name": "Sho",
+            "original": "Sho",
+            "profile": "\u200b",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Melee"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040338000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Kisho Taniyama"
+            ],
+            "weapon": "Destiny Knuckles"
         }
     },
     "Shura": {
