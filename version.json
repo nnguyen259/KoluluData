@@ -1,5 +1,9 @@
 {
-    "Abby": {},
+    "Abby": {
+        "SR" : {
+            "version" : "PROMO"
+        }
+    },
     "Agielba": {},
     "Aglovale": {},
     "Airi_Totoki": {},
@@ -96,7 +100,12 @@
     "Europa": {},
     "Eustace": {},
     "Ezecrain": {},
-    "Farrah": {},
+    "Farrah": {
+        "DUO" : {
+            "character" : "Farrah_Juri",
+            "version" : "BASE"
+        }
+    },
     "Farrah_Juri": {},
     "Feather": {},
     "Feena": {},
