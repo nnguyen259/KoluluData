@@ -282,11 +282,11 @@
             ],
             "hp": "1,280",
             "id": "3040045000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040045000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040045000_02.png",
             "jpname": "\u30a2\u30eb\u30d9\u30fc\u30eb",
             "link": "https://gbf.wiki/Albert",
             "max_evo": "5",
-            "name": "Albert",
+            "name": "Albert [4\u2605]",
             "original": "Albert",
             "profile": "This knight is determined to find his friend who has been twisted and consumed by power. He moves like the lightning he controls; appearing with a flash and a roar that turns plains thick with enemies into plains thick with ash.",
             "race": [
@@ -298,7 +298,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040045000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040045000_02.png",
             "type": "Attack",
             "va": [
                 "Hikaru Midorikawa"
@@ -414,11 +414,11 @@
             ],
             "hp": "900",
             "id": "3030003000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030003000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030003000_02.png",
             "jpname": "\u30a2\u30ec\u30af",
             "link": "https://gbf.wiki/Alec",
             "max_evo": "5",
-            "name": "Alec",
+            "name": "Alec [4\u2605]",
             "original": "Alec",
             "profile": "This boy's thunderous power and fiery intensity come naturally. These abilities have twisted his worldview, but not his sense of right and wrong.",
             "race": [
@@ -430,7 +430,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030003000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030003000_02.png",
             "type": "Attack",
             "va": [
                 "Megumi Han"
@@ -612,42 +612,6 @@
             ],
             "weapon": "Magma Gauntlet"
         },
-        "DUO": {
-            "5star": "No",
-            "atk": "5,020",
-            "element": "Wind",
-            "gender": [
-                "Male",
-                "Female"
-            ],
-            "hp": "1,290",
-            "id": "3040233000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040233000_02.png",
-            "jpname": "\u52c7\u8005\u3068\u59eb\u541b \u30b9\u30bf\u30f3\uff06\u30a2\u30ea\u30fc\u30b6",
-            "link": "https://gbf.wiki/Stan_and_Aliza",
-            "max_evo": "4",
-            "name": "Stan and Aliza",
-            "original": "Stan_and_Aliza",
-            "profile": "After countless trials, the two paths meet and intertwine once more. The strength of their hearts and the depth of their bond will determine if this is destiny, or simply a waypoint for the two adventurers.",
-            "race": [
-                "Erune",
-                "Draph"
-            ],
-            "rarity": "SSR",
-            "recruitment": "Premium Draw",
-            "series": [],
-            "specialties": [
-                "Sabre",
-                "Melee"
-            ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040233000_02.jpg",
-            "type": "Attack",
-            "va": [
-                "Toshiki Masuda",
-                "Natsumi Takamori"
-            ],
-            "weapon": "Golden Dragon"
-        },
         "EVENT": {
             "5star": "No",
             "atk": "6,300",
@@ -823,11 +787,11 @@
             ],
             "hp": "1,600",
             "id": "3040001000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040001000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040001000_02.png",
             "jpname": "\u30a2\u30eb\u30bf\u30a4\u30eb",
             "link": "https://gbf.wiki/Altair",
             "max_evo": "5",
-            "name": "Altair",
+            "name": "Altair [4\u2605]",
             "original": "Altair",
             "profile": "A peerless young tactician in search of messages from antiquity. By studying the spirit of ages past, he prepares to create his own future.",
             "race": [
@@ -839,7 +803,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040001000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040001000_02.png",
             "type": "Balanced",
             "va": [
                 "Daisuke Ono"
@@ -889,11 +853,11 @@
             ],
             "hp": "1,470",
             "id": "3040051000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040051000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "link": "https://gbf.wiki/Amira",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [4\u2605]",
             "original": "Amira",
             "profile": "This half-demon girl searches for traces of her mother. An unreliable tip points her toward the arctic and so to the arctic she goes. The land she seeks is distant, shrouded in mystery, but she never wavers. After a long, long search, a clue appears before her.",
             "race": [
@@ -905,7 +869,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040051000_02.png",
             "type": "Special",
             "va": [
                 "Risa Shimizu"
@@ -953,11 +917,11 @@
             ],
             "hp": "1,200",
             "id": "3030065000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030065000_02.png",
             "jpname": "\u30a2\u30fc\u30df\u30e9",
             "link": "https://gbf.wiki/Amira_(Promo)",
             "max_evo": "5",
-            "name": "Amira",
+            "name": "Amira [4\u2605]",
             "original": "Amira_(Promo)",
             "profile": "This girl traveled here from a distant land in search of her mother. The way she happily (and messily) stuffs her cheeks with food makes her look half her age, but any who witness just how much she can put away is struck dumb with awe.",
             "race": [
@@ -969,7 +933,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030065000_02.png",
             "type": "Attack",
             "va": [
                 "Risa Shimizu"
@@ -1092,11 +1056,11 @@
             ],
             "hp": "1,400",
             "id": "3040071000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040071000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040071000_02.png",
             "jpname": "\u30a2\u30f3\u30c1\u30e9",
             "link": "https://gbf.wiki/Andira",
             "max_evo": "5",
-            "name": "Andira",
+            "name": "Andira [4\u2605]",
             "original": "Andira",
             "profile": "Guardian of the West-Southwest as one of the Twelve Heavenly Generals. Often seeing dreams of the utopia her ancestors set out for, she departs on a journey herself after a certain fateful encounter. The unwavering resolve of this monkey goddess makes her an invaluable asset to the crew.",
             "race": [
@@ -1111,7 +1075,7 @@
                 "Staff",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040071000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040071000_02.png",
             "type": "Balanced",
             "va": [
                 "Aya Uchida"
@@ -1265,11 +1229,11 @@
             ],
             "hp": "1,250",
             "id": "3030012000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030012000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030012000_02.png",
             "jpname": "\u30a2\u30f3\u30b8\u30a7",
             "link": "https://gbf.wiki/Ange",
             "max_evo": "5",
-            "name": "Ange",
+            "name": "Ange [4\u2605]",
             "original": "Ange",
             "profile": "Someday she wants to be like the prince everyone dreams about. Her ideal figure is a prince more wonderful than everyone else. She conducts herself gallantly, but in reality she believes in the dream of a fateful meeting.",
             "race": [
@@ -1281,7 +1245,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030012000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030012000_02.png",
             "type": "Balanced",
             "va": [
                 "Sanae Kobayashi"
@@ -1334,11 +1298,11 @@
             ],
             "hp": "1,715",
             "id": "3040027000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040027000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040027000_02.png",
             "jpname": "\u30a2\u30cb\u30e9",
             "link": "https://gbf.wiki/Anila",
             "max_evo": "5",
-            "name": "Anila",
+            "name": "Anila [4\u2605]",
             "original": "Anila",
             "profile": "One of the Twelve Divine Generals, she protects the south-southwest. This gentle lamb of a goddess abhors conflict and prays for world peace. She endured isolation for what seemed like an eternity, but now seeks out new lands, guided by the stars.",
             "race": [
@@ -1353,7 +1317,7 @@
                 "Spear",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040027000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040027000_02.png",
             "type": "Balanced",
             "va": [
                 "Aoi Y\u016bki"
@@ -1610,11 +1574,11 @@
             ],
             "hp": "1,911",
             "id": "3040030000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040030000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040030000_02.png",
             "jpname": "\u30a6\u30fc\u30ce",
             "link": "https://gbf.wiki/Anre",
             "max_evo": "6",
-            "name": "Anre",
+            "name": "Anre [4\u2605]",
             "original": "Anre",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. The only sage of their number, Anre was the one who gathered the Eternals together. He continues to protect the balance of peace, wielding great power in the hopes of one day ridding the world of sadness.",
             "race": [
@@ -1628,7 +1592,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040030000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040030000_02.png",
             "type": "Defense",
             "va": [
                 "Ry\u016bsei Nakao"
@@ -1644,11 +1608,11 @@
             ],
             "hp": "1,911",
             "id": "3040030000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040030000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040030000_03.png",
             "jpname": "\u30a6\u30fc\u30ce",
             "link": "https://gbf.wiki/Anre",
             "max_evo": "6",
-            "name": "Anre",
+            "name": "Anre [5\u2605]",
             "original": "Anre",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. The only sage of their number, Anre was the one who gathered the Eternals together. He continues to protect the balance of peace, wielding great power in the hopes of one day ridding the world of sadness.",
             "race": [
@@ -1662,7 +1626,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040030000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040030000_03.png",
             "type": "Defense",
             "va": [
                 "Ry\u016bsei Nakao"
@@ -1784,11 +1748,11 @@
             ],
             "hp": "910",
             "id": "3030071000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030071000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030071000_02.png",
             "jpname": "\u53cc\u8449\u674f",
             "link": "https://gbf.wiki/Anzu_Futaba",
             "max_evo": "5",
-            "name": "Anzu Futaba",
+            "name": "Anzu Futaba [4\u2605]",
             "original": "Anzu_Futaba",
             "profile": "Anzu is a young girl who landed in a sky far away, guided by a dazzling light. Although she seemed unaffected by arriving in a different world, she began to show slight interest in a quest on a garish gambling airship.",
             "race": [
@@ -1802,7 +1766,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030071000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030071000_02.png",
             "type": "Special",
             "va": [
                 "Hiromi Igarashi"
@@ -1853,11 +1817,11 @@
             ],
             "hp": "1,440",
             "id": "3040076000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040076000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040076000_02.png",
             "jpname": "\u30a2\u30aa\u30a4\u30c9\u30b9",
             "link": "https://gbf.wiki/Aoidos",
             "max_evo": "5",
-            "name": "Aoidos",
+            "name": "Aoidos [4\u2605]",
             "original": "Aoidos",
             "profile": "Strumming an unusual instrument, this young musician holds an ideal that reaches far beyond his spotlight on a brilliant stage. With ambition as his guide, his journey through the sky promises a rediscovery of both mysteriously lost memories and of himself.",
             "race": [
@@ -1870,7 +1834,7 @@
                 "Harp",
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040076000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040076000_02.png",
             "type": "Special",
             "va": [
                 "Kisho Taniyama"
@@ -1963,11 +1927,11 @@
             ],
             "hp": "1,000",
             "id": "3040183000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040183000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040183000_02.png",
             "jpname": "\u685c\u5185\u68a8\u5b50\uff06\u9ad8\u6d77\u5343\u6b4c\uff06\u6e21\u8fba \u66dc",
             "link": "https://gbf.wiki/Aqours_Second-Years",
             "max_evo": "5",
-            "name": "Aqours Second-Years",
+            "name": "Aqours Second-Years [4\u2605]",
             "original": "Aqours_Second-Years",
             "profile": "Originally from another world, the girls of Aqours ended up here somehow\u2014but that didn't stop them from putting on a concert to bring smiles to the people. Their infectious passion spreading far and wide, the bond these three have formed through their mutual support of one another acts to inspire the skydwellers.",
             "race": [
@@ -1982,7 +1946,7 @@
                 "Sabre",
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040183000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040183000_02.png",
             "type": "Balanced",
             "va": [
                 "Rikako Aida",
@@ -2211,11 +2175,11 @@
             ],
             "hp": "1,160",
             "id": "3040019000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040019000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040019000_02.png",
             "jpname": "\u30a2\u30eb\u30eb\u30e1\u30a4\u30e4",
             "link": "https://gbf.wiki/Arulumaya",
             "max_evo": "5",
-            "name": "Arulumaya",
+            "name": "Arulumaya [4\u2605]",
             "original": "Arulumaya",
             "profile": "Visions float to the surface of her crystal ball-visions that are always true. She hesitates to speak of what she sees, for she knows the crushing weight of destiny and how it can drive men mad.",
             "race": [
@@ -2227,7 +2191,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040019000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040019000_02.png",
             "type": "Special",
             "va": [
                 "Maaya Sakamoto"
@@ -2513,11 +2477,11 @@
             ],
             "hp": "1,440",
             "id": "3040084000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040084000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040084000_02.png",
             "jpname": "\u30a2\u30a4\u30eb",
             "link": "https://gbf.wiki/Ayer",
             "max_evo": "5",
-            "name": "Ayer",
+            "name": "Ayer [4\u2605]",
             "original": "Ayer",
             "profile": "Born into a happy home, Ayer is driven by his true nature to seek a new world. Although he feels alive in the arena, will he ultimately find true happiness there? Only the skies hold the answer.",
             "race": [
@@ -2529,7 +2493,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040084000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040084000_02.png",
             "type": "Special",
             "va": [
                 "Kensho Ono"
@@ -3119,11 +3083,11 @@
             ],
             "hp": "1,500",
             "id": "3040082000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040082000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040082000_02.png",
             "jpname": "\u9ed2\u9a0e\u58eb",
             "link": "https://gbf.wiki/Black_Knight",
             "max_evo": "5",
-            "name": "Black Knight",
+            "name": "Black Knight [4\u2605]",
             "original": "Black_Knight",
             "profile": "Robbed of the friend that once cured her loneliness, she has devoted her life to seeing her dear friend smile once again. For all the hardships she has had to endure, just when it all seemed to have been for naught, she received a miracle. As she awaits the day of her companion's awakening, she fights to keep the approaching evil at bay.",
             "race": [
@@ -3138,7 +3102,7 @@
                 "Sabre",
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040082000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040082000_02.png",
             "type": "Attack",
             "va": [
                 "Romi Park"
@@ -3361,11 +3325,11 @@
             ],
             "hp": "1,600",
             "id": "3040009000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040009000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040009000_02.png",
             "jpname": "\u30ab\u30ea\u30aa\u30b9\u30c8\u30ed",
             "link": "https://gbf.wiki/Cagliostro",
             "max_evo": "5",
-            "name": "Cagliostro",
+            "name": "Cagliostro [4\u2605]",
             "original": "Cagliostro",
             "profile": "This supreme genius and pioneer of alchemy transcended time by making herself into an immaterial being. Awakened from her age-old seal, she is now re-enlightening the world according to her own whims.",
             "race": [
@@ -3377,7 +3341,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040009000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040009000_02.png",
             "type": "Heal",
             "va": [
                 "Sakura Tange"
@@ -4340,11 +4304,11 @@
             ],
             "hp": "1,450",
             "id": "3040010000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040010000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040010000_02.png",
             "jpname": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6",
             "link": "https://gbf.wiki/Charlotta",
             "max_evo": "5",
-            "name": "Charlotta",
+            "name": "Charlotta [4\u2605]",
             "original": "Charlotta",
             "profile": "This Holy Knight has a sacred pledge in her heart, and an oversized weapon in her hand. As the leader of the highly praised Order of Holy Knights, her character is unimpeachable. Her sole worry is the fact that she is not growing.",
             "race": [
@@ -4356,7 +4320,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040010000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040010000_02.png",
             "type": "Balanced",
             "va": [
                 "Kaori Nazuka"
@@ -4642,11 +4606,11 @@
             ],
             "hp": "1,650",
             "id": "3040018000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040018000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040018000_02.png",
             "jpname": "\u30af\u30ea\u30b9\u30c6\u30a3\u30fc\u30ca",
             "link": "https://gbf.wiki/Christina",
             "max_evo": "5",
-            "name": "Christina",
+            "name": "Christina [4\u2605]",
             "original": "Christina",
             "profile": "The casino\u2014a place where greed and passion are shuffled together like a deck of cards. This is her kingdom, and she is its empress. Though passionate when it comes to betting, she treats all her subjects fairly. Beloved, a long line of gamblers kneel before her, declaring themselves her willing slaves.",
             "race": [
@@ -4659,7 +4623,7 @@
                 "Gun",
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040018000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040018000_02.png",
             "type": "Balanced",
             "va": [
                 "Marina Inoue"
@@ -5461,11 +5425,11 @@
             ],
             "hp": "1,240",
             "id": "3030017000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030017000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030017000_02.png",
             "jpname": "\u30c0\u30cc\u30a2",
             "link": "https://gbf.wiki/Danua",
             "max_evo": "5",
-            "name": "Danua",
+            "name": "Danua [4\u2605]",
             "original": "Danua",
             "profile": "When she lost her parents and older brother, Danua also lost her voice. The only thing she has left to remind her of happier days are some dolls. She searches for a way to raise the spirits of her family, as well as get revenge.",
             "race": [
@@ -5477,7 +5441,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030017000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030017000_02.png",
             "type": "Special",
             "va": [
                 "Nozomi Sasaki"
@@ -5561,11 +5525,11 @@
             ],
             "hp": "1,600",
             "id": "3040004000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040004000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040004000_02.png",
             "jpname": "\u30ec\u30fb\u30d5\u30a3\u30fc\u30a8",
             "link": "https://gbf.wiki/De_La_Fille",
             "max_evo": "5",
-            "name": "De La Fille",
+            "name": "De La Fille [4\u2605]",
             "original": "De_La_Fille",
             "profile": "Daughter of a noble, De La Fille prides herself on her near-flawless gem collection. She sets out on the sky in search of the one shimmering gem that slipped through her grasp.",
             "race": [
@@ -5577,7 +5541,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040004000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040004000_02.png",
             "type": "Heal",
             "va": [
                 "Chiwa Saito"
@@ -6031,11 +5995,11 @@
             ],
             "hp": "1,788",
             "id": "3040037000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040037000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040037000_02.png",
             "jpname": "\u30aa\u30af\u30c8\u30fc",
             "link": "https://gbf.wiki/Eahta",
             "max_evo": "5",
-            "name": "Eahta",
+            "name": "Eahta [4\u2605]",
             "original": "Eahta",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This undefeated swordmaster always seeks to improve his skills. His sword does not discriminate between good and evil, but he will never cut down the weak. The powerless watch as he brings down the most fearsome of monsters; to them, he appears as a champion of justice.",
             "race": [
@@ -6049,7 +6013,7 @@
             "specialties": [
                 "Katana"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040037000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040037000_02.png",
             "type": "Attack",
             "va": [
                 "Banjo Ginga"
@@ -6099,11 +6063,11 @@
             ],
             "hp": "1,250",
             "id": "3030061000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030061000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030061000_02.png",
             "jpname": "\u30a8\u30b8\u30a7\u30ea\u30fc",
             "link": "https://gbf.wiki/Ejaeli",
             "max_evo": "5",
-            "name": "Ejaeli",
+            "name": "Ejaeli [4\u2605]",
             "original": "Ejaeli",
             "profile": "This beautiful singer's incredible voice won her fame, but also resentment. Her enemies cursed her, robbing her of speech and song. Only able to grunt, she wallowed in quiet despair for years until someone appeared who could understand her. Her heart leapt with joy as she departed on a new journey with the little band of travelers.",
             "race": [
@@ -6115,7 +6079,7 @@
             "specialties": [
                 "Harp"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030061000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030061000_02.png",
             "type": "Balanced",
             "va": [
                 "Sayuri Yahagi"
@@ -6544,11 +6508,11 @@
             ],
             "hp": "1,400",
             "id": "3040077000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040077000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040077000_02.png",
             "jpname": "\u30aa\u30a4\u30b2\u30f3",
             "link": "https://gbf.wiki/Eugen_(Grand)",
             "max_evo": "5",
-            "name": "Eugen",
+            "name": "Eugen [4\u2605]",
             "original": "Eugen_(Grand)",
             "profile": "This crafty musketeer finally shares the regret he's kept to himself all these years. The very girl intertwined with all this would feel indignant for her mother. Yet he continues to wait in high hopes.",
             "race": [
@@ -6562,7 +6526,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040077000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040077000_02.png",
             "type": "Attack",
             "va": [
                 "Keiji Fujiwara",
@@ -6612,11 +6576,11 @@
             ],
             "hp": "900",
             "id": "3030007000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030007000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030007000_02.png",
             "jpname": "\u30aa\u30a4\u30b2\u30f3",
             "link": "https://gbf.wiki/Eugen",
             "max_evo": "5",
-            "name": "Eugen",
+            "name": "Eugen [4\u2605]",
             "original": "Eugen",
             "profile": "Eugen is a crafty old soldier, yet he is filled with a kind of remorse that is rare even at his age. Nevertheless he has a good demeanor, and his skills and knowledge make him a powerful ally.",
             "race": [
@@ -6628,7 +6592,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030007000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030007000_02.png",
             "type": "Balanced",
             "va": [
                 "Keiji Fujiwara",
@@ -6817,11 +6781,11 @@
             ],
             "hp": "1,200",
             "id": "3040198000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040198000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040198000_02.png",
             "jpname": "\u30e6\u30fc\u30b9\u30c6\u30b9",
             "link": "https://gbf.wiki/Eustace_(Dark)",
             "max_evo": "5",
-            "name": "Eustace",
+            "name": "Eustace [4\u2605]",
             "original": "Eustace_(Dark)",
             "profile": "The cool lone wolf has found a tranquil calm worth protecting. Safeguarding the torch that has thawed his frozen heart, he grits his teeth as he brushes off the heavy dew that stains his path.",
             "race": [
@@ -6834,7 +6798,7 @@
                 "Gun",
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040198000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040198000_02.png",
             "type": "Attack",
             "va": [
                 "Kazuya Nakai"
@@ -7248,11 +7212,11 @@
             ],
             "hp": "1,050",
             "id": "3030078000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030078000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030078000_02.png",
             "jpname": "\u30d5\u30a7\u30b6\u30fc",
             "link": "https://gbf.wiki/Feather_(SR)",
             "max_evo": "5",
-            "name": "Feather",
+            "name": "Feather [4\u2605]",
             "original": "Feather_(SR)",
             "profile": "Blue lightning crackles across this fighter's furious fists, but his physical strength pales in comparison to the strength of his will. He raises clenched fists to the heavens, vowing to wind and sky that he'll one day surpass his rival.",
             "race": [
@@ -7264,7 +7228,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030078000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030078000_02.png",
             "type": "Attack",
             "va": [
                 "S\u014dma Sait\u014d"
@@ -7416,11 +7380,11 @@
             ],
             "hp": "1,344",
             "id": "3040033000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040033000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040033000_02.png",
             "jpname": "\u30ab\u30c8\u30eb",
             "link": "https://gbf.wiki/Feower",
             "max_evo": "6",
-            "name": "Feower",
+            "name": "Feower [4\u2605]",
             "original": "Feower",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Feower leads Stardust Town with his twin sister. The poise and dignity with which he carries himself belies a ferocious desire to defend those he cares about. He flaunts his fearsome power so that none dare insult him or his family.",
             "race": [
@@ -7434,7 +7398,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040033000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040033000_02.png",
             "type": "Special",
             "va": [
                 "Jun Fukuyama"
@@ -7450,11 +7414,11 @@
             ],
             "hp": "1,344",
             "id": "3040033000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040033000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040033000_03.png",
             "jpname": "\u30ab\u30c8\u30eb",
             "link": "https://gbf.wiki/Feower",
             "max_evo": "6",
-            "name": "Feower",
+            "name": "Feower [5\u2605]",
             "original": "Feower",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Feower leads Stardust Town with his twin sister. The poise and dignity with which he carries himself belies a ferocious desire to defend those he cares about. He flaunts his fearsome power so that none dare insult him or his family.",
             "race": [
@@ -7468,7 +7432,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040033000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040033000_03.png",
             "type": "Special",
             "va": [
                 "Jun Fukuyama"
@@ -7688,11 +7652,11 @@
             ],
             "hp": "1,855",
             "id": "3040034000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040034000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040034000_02.png",
             "jpname": "\u30d5\u30e5\u30f3\u30d5",
             "link": "https://gbf.wiki/Fif",
             "max_evo": "6",
-            "name": "Fif",
+            "name": "Fif [4\u2605]",
             "original": "Fif",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This child prodigy possesses near infinite reserves of magical power, but her splendid smile and youthful exuberance do almost as much as her magic to heal the hearts of her charges.",
             "race": [
@@ -7706,7 +7670,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040034000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040034000_02.png",
             "type": "Heal",
             "va": [
                 "Wasabi Mizuta"
@@ -7722,11 +7686,11 @@
             ],
             "hp": "1,855",
             "id": "3040034000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040034000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040034000_03.png",
             "jpname": "\u30d5\u30e5\u30f3\u30d5",
             "link": "https://gbf.wiki/Fif",
             "max_evo": "6",
-            "name": "Fif",
+            "name": "Fif [5\u2605]",
             "original": "Fif",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This child prodigy possesses near infinite reserves of magical power, but her splendid smile and youthful exuberance do almost as much as her magic to heal the hearts of her charges.",
             "race": [
@@ -7740,7 +7704,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040034000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040034000_03.png",
             "type": "Heal",
             "va": [
                 "Wasabi Mizuta"
@@ -8241,11 +8205,11 @@
             ],
             "hp": "1,760",
             "id": "3040000000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040000000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040000000_02.png",
             "jpname": "\u30ac\u30a6\u30a7\u30a4\u30f3",
             "link": "https://gbf.wiki/Gawain",
             "max_evo": "5",
-            "name": "Gawain",
+            "name": "Gawain [4\u2605]",
             "original": "Gawain",
             "profile": "Gawain trusted in his own strength a little too much and drew his blade on an incredibly powerful opponent. In order to remove the resulting curse, he must perform several good deeds. But it seems the meaning of these deeds is lost on him\u2014it does not appear the curse will lift anytime soon.",
             "race": [
@@ -8258,7 +8222,7 @@
                 "Axe",
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040000000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040000000_02.png",
             "type": "Defense",
             "va": [
                 "Tomokazu Seki"
@@ -8341,11 +8305,11 @@
             ],
             "hp": "1,320",
             "id": "3030009000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030009000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030009000_02.png",
             "jpname": "\u30ac\u30a4\u30fc\u30cc",
             "link": "https://gbf.wiki/Gayne",
             "max_evo": "5",
-            "name": "Gayne",
+            "name": "Gayne [4\u2605]",
             "original": "Gayne",
             "profile": "This woman puts on bewitching blade dances that are dreamlike in their beauty, earning the fascination of many. Contrary to appearances, she herself is incredibly shy, though her humility is the secret to her popularity.",
             "race": [
@@ -8357,7 +8321,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030009000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030009000_02.png",
             "type": "Special",
             "va": [
                 "Mai Nakahara"
@@ -8480,11 +8444,11 @@
             ],
             "hp": "1,350",
             "id": "3040052000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040052000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040052000_02.png",
             "jpname": "\u30ac\u30f3\u30c0\u30b4\u30a6\u30b6",
             "link": "https://gbf.wiki/Ghandagoza",
             "max_evo": "5",
-            "name": "Ghandagoza",
+            "name": "Ghandagoza [4\u2605]",
             "original": "Ghandagoza",
             "profile": "It's been decades since Ghandagoza left home dreaming of becoming the world's greatest warrior\u2014 and his journey continues! But know this! One day, his name will go down in history as the greatest brawler that ever lived!",
             "race": [
@@ -8496,7 +8460,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040052000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040052000_02.png",
             "type": "Attack",
             "va": [
                 "Yanada Kiyoyuki"
@@ -8859,11 +8823,11 @@
             ],
             "hp": "1,350",
             "id": "3040079000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040079000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040079000_02.png",
             "jpname": "\u30cf\u30ec\u30bc\u30ca",
             "link": "https://gbf.wiki/Hallessena",
             "max_evo": "5",
-            "name": "Hallessena",
+            "name": "Hallessena [4\u2605]",
             "original": "Hallessena",
             "profile": "After spending most of her childhood being picked on, this little lady's finally decided to turn the tables. Although she desires ease and peace of mind for all deep down, her abrasiveness has earned her the nickname \"The Walking Wraith.\"",
             "race": [
@@ -8875,7 +8839,7 @@
             "specialties": [
                 "Axe"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040079000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040079000_02.png",
             "type": "Attack",
             "va": [
                 "Sumire Uesaka"
@@ -9236,11 +9200,11 @@
             ],
             "hp": "1,250",
             "id": "3030004000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030004000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030004000_02.png",
             "jpname": "\u30d8\u30eb\u30ca\u30eb",
             "link": "https://gbf.wiki/Helnar",
             "max_evo": "5",
-            "name": "Helnar",
+            "name": "Helnar [4\u2605]",
             "original": "Helnar",
             "profile": "A free-spirited man whose conduct tends toward the inappropriate. Though he's easily excited, Helnar quiets down when scolded by the dancer he travels with.",
             "race": [
@@ -9252,7 +9216,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030004000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030004000_02.png",
             "type": "Balanced",
             "va": [
                 "Tatsuhisa Suzuki"
@@ -9648,11 +9612,11 @@
             ],
             "hp": "1,770",
             "id": "3040065000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040065000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040065000_02.png",
             "jpname": "\u30a4\u30aa",
             "link": "https://gbf.wiki/Io_(Grand)",
             "max_evo": "5",
-            "name": "Io",
+            "name": "Io [4\u2605]",
             "original": "Io_(Grand)",
             "profile": "As she criss-crosses the sky, this apprentice mage recollects her master's words. She is coming into herself like a bud bursting into flower.",
             "race": [
@@ -9666,7 +9630,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040065000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040065000_02.png",
             "type": "Balanced",
             "va": [
                 "Yukari Tamura"
@@ -9714,11 +9678,11 @@
             ],
             "hp": "1,250",
             "id": "3030006000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030006000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030006000_02.png",
             "jpname": "\u30a4\u30aa",
             "link": "https://gbf.wiki/Io",
             "max_evo": "5",
-            "name": "Io",
+            "name": "Io [4\u2605]",
             "original": "Io",
             "profile": "A young girl of Valtz. Her immaturities stand out, however her resolve to find a new magic master after her former abandoned her is inspiring.",
             "race": [
@@ -9730,7 +9694,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030006000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030006000_02.png",
             "type": "Heal",
             "va": [
                 "Yukari Tamura"
@@ -9949,11 +9913,11 @@
             ],
             "hp": "1,370",
             "id": "3040100000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040100000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040100000_02.png",
             "jpname": "\u30a4\u30b7\u30e5\u30df\u30fc\u30eb",
             "link": "https://gbf.wiki/Izmir",
             "max_evo": "5",
-            "name": "Izmir",
+            "name": "Izmir [4\u2605]",
             "original": "Izmir",
             "profile": "An ice queen formerly devoted to a life of solitude and sacrifice. Upon meeting skyfaring adventurers, she decides to give up her old life and pursue a new life in the skies.",
             "race": [
@@ -9965,7 +9929,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040100000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040100000_02.png",
             "type": "Attack",
             "va": [
                 "Aya Endo"
@@ -10286,11 +10250,11 @@
             ],
             "hp": "1,550",
             "id": "3040040000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040040000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040040000_02.png",
             "jpname": "\u30b8\u30e3\u30f3\u30cc\u30c0\u30eb\u30af",
             "link": "https://gbf.wiki/Jeanne_d'Arc",
             "max_evo": "5",
-            "name": "Jeanne d'Arc",
+            "name": "Jeanne d'Arc [4\u2605]",
             "original": "Jeanne_d'Arc",
             "profile": "The girl who had received a revelation senses the shadow of a great one from the small dragon that adorably flies about. The determination of this girl impassioned by her mission inspires her comrades, guiding the world and its people towards peace and harmony.",
             "race": [
@@ -10303,7 +10267,7 @@
                 "Sabre",
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040040000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040040000_02.png",
             "type": "Balanced",
             "va": [
                 "Megumi Han"
@@ -11507,11 +11471,11 @@
             ],
             "hp": "1,980",
             "id": "3040054000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040054000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040054000_02.png",
             "jpname": "\u30ab\u30bf\u30ea\u30ca",
             "link": "https://gbf.wiki/Katalina_(Grand)",
             "max_evo": "5",
-            "name": "Katalina",
+            "name": "Katalina [4\u2605]",
             "original": "Katalina_(Grand)",
             "profile": "This knight has left the Empire behind her, and now stands opposed to everything she once stood for. Bidding farewell to former allies, she dons the armor of her new role\u2014knight protector. She raises her face to the sky, and swears that she will show her charge that great wide world.",
             "race": [
@@ -11525,7 +11489,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040054000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040054000_02.png",
             "type": "Balanced",
             "va": [
                 "Miyuki Sawashiro"
@@ -11605,11 +11569,11 @@
             ],
             "hp": "1,320",
             "id": "3030005000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030005000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030005000_02.png",
             "jpname": "\u30ab\u30bf\u30ea\u30ca",
             "link": "https://gbf.wiki/Katalina",
             "max_evo": "5",
-            "name": "Katalina",
+            "name": "Katalina [4\u2605]",
             "original": "Katalina",
             "profile": "Lyria's bodyguard, and a girl with a mysterious past. She has let fly a banner of rebellion against the Empire, and is by turn Lyria's loyal retainer and her loving older sister.",
             "race": [
@@ -11621,7 +11585,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030005000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030005000_02.png",
             "type": "Balanced",
             "va": [
                 "Miyuki Sawashiro"
@@ -12429,11 +12393,11 @@
             ],
             "hp": "1,400",
             "id": "3040005000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040005000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040005000_02.png",
             "jpname": "\u30ec\u30c7\u30a3\u30fb\u30b0\u30ec\u30a4",
             "link": "https://gbf.wiki/Lady_Grey",
             "max_evo": "5",
-            "name": "Lady Grey",
+            "name": "Lady Grey [4\u2605]",
             "original": "Lady_Grey",
             "profile": "When death stole her true love, Lady Grey didn't wallow in grief. Instead she learned how to control the spirits of the deceased. She smiles serenely, having grown closer to her beloved than ever.",
             "race": [
@@ -12446,7 +12410,7 @@
                 "Spear",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040005000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040005000_02.png",
             "type": "Special",
             "va": [
                 "Ai Orikasa"
@@ -12734,11 +12698,11 @@
             ],
             "hp": "1,320",
             "id": "3040023000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040023000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040023000_02.png",
             "jpname": "\u30e9\u30f3\u30b9\u30ed\u30c3\u30c8",
             "link": "https://gbf.wiki/Lancelot",
             "max_evo": "5",
-            "name": "Lancelot",
+            "name": "Lancelot [4\u2605]",
             "original": "Lancelot",
             "profile": "Noble and strong, this youth leads the Order of the White Dragons. He risks his life to save his motherland from the crises that beset it, and his bravery and skill have earned the love of his men. His valor and his twin swords will carve a future for his homeland.",
             "race": [
@@ -12751,7 +12715,7 @@
                 "Sabre",
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040023000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040023000_02.png",
             "type": "Attack",
             "va": [
                 "Y\u016bki Ono"
@@ -13075,11 +13039,11 @@
             ],
             "hp": "1,570",
             "id": "3040021000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040021000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040021000_02.png",
             "jpname": "\u30ec\u30ca",
             "link": "https://gbf.wiki/Lennah",
             "max_evo": "5",
-            "name": "Lennah",
+            "name": "Lennah [4\u2605]",
             "original": "Lennah",
             "profile": "This noble girl bears a heavy burden from her childhood. She's chosen the path of anger, sadness, and pain\u2014the path that will end with a smile. Watching the flowers bloom, she offers a prayer to the petals: \"To you who I do not know, please find happiness.\"",
             "race": [
@@ -13091,7 +13055,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040021000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040021000_02.png",
             "type": "Heal",
             "va": [
                 "Mamiko Noto"
@@ -13417,11 +13381,11 @@
             ],
             "hp": "1,580",
             "id": "3040007000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040007000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040007000_02.png",
             "jpname": "\u30ea\u30ea\u30a3",
             "link": "https://gbf.wiki/Lily",
             "max_evo": "5",
-            "name": "Lily",
+            "name": "Lily [4\u2605]",
             "original": "Lily",
             "profile": "On a perpetually white land, this young princess pledges to keep praying for peace so long as she lives. She doesn't allow her sadness to surface, but deep down Lily harbors envy for the ephemeral flowers in bloom.",
             "race": [
@@ -13433,7 +13397,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040007000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040007000_02.png",
             "type": "Heal",
             "va": [
                 "Yuka Iguchi"
@@ -13624,11 +13588,11 @@
             ],
             "hp": "950",
             "id": "3030123000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030123000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030123000_02.png",
             "jpname": "\u30ed\u30fc\u30a2\u30a4\u30f3",
             "link": "https://gbf.wiki/Lowain_(Event)",
             "max_evo": "5",
-            "name": "Lowain",
+            "name": "Lowain [4\u2605]",
             "original": "Lowain_(Event)",
             "profile": "Day after day, this free-spirited trio shoots the breeze. Their only goals are to have fun, and to get the attention of their favorite knight. They might be a bit rowdy, but that's all part of the charm.",
             "race": [
@@ -13640,7 +13604,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030123000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030123000_02.png",
             "type": "Special",
             "va": [
                 "Minoru Shiraishi",
@@ -13895,11 +13859,11 @@
             ],
             "hp": "1,040",
             "id": "3030033000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030033000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030033000_02.png",
             "jpname": "\u30eb\u30b7\u30a6\u30b9",
             "link": "https://gbf.wiki/Lucius",
             "max_evo": "5",
-            "name": "Lucius",
+            "name": "Lucius [4\u2605]",
             "original": "Lucius",
             "profile": "Driven by his unquenchable hatred, Lucius transformed himself into a weapon of retribution. With chipped sword in hand, he will fell the evil beasts that murdered his mother. Those who glimpse his face in battle, twisted in rage, will doubt that he is even human.",
             "race": [
@@ -13911,7 +13875,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030033000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030033000_02.png",
             "type": "Attack",
             "va": [
                 "Takehito Koyasu"
@@ -14200,11 +14164,11 @@
             ],
             "hp": "1,280",
             "id": "3040011000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040011000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040011000_02.png",
             "jpname": "\u30de\u30ae\u30b5",
             "link": "https://gbf.wiki/Magisa",
             "max_evo": "5",
-            "name": "Magisa",
+            "name": "Magisa [4\u2605]",
             "original": "Magisa",
             "profile": "An alluring witch who dreams about the unknown. One night in a dream, she sought out the girl in blue. Their encounter at the end of the sky would be filled with possibilities that not even the witch could see...",
             "race": [
@@ -14217,7 +14181,7 @@
                 "Staff",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040011000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040011000_02.png",
             "type": "Special",
             "va": [
                 "Sayaka Ohara"
@@ -14305,11 +14269,11 @@
             ],
             "hp": "1,260",
             "id": "3040107000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040107000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040107000_02.png",
             "jpname": "\u30de\u30ad\u30e9",
             "link": "https://gbf.wiki/Mahira",
             "max_evo": "5",
-            "name": "Mahira",
+            "name": "Mahira [4\u2605]",
             "original": "Mahira",
             "profile": "One of the Twelve Divine Generals, Mahira is the Queen of the Roosters. Though she lacks the wings befitting of such a title, her small frame houses great power and creative genius. Someday she will lead the people of the sky all the way up to the heavens.",
             "race": [
@@ -14324,7 +14288,7 @@
                 "Harp",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040107000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040107000_02.png",
             "type": "Special",
             "va": [
                 "Mai Kadowaki"
@@ -14957,11 +14921,11 @@
             ],
             "hp": "1,160",
             "id": "3040022000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040022000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040022000_02.png",
             "jpname": "\u30e1\u30eb\u30a5",
             "link": "https://gbf.wiki/Melleau",
             "max_evo": "5",
-            "name": "Melleau",
+            "name": "Melleau [4\u2605]",
             "original": "Melleau",
             "profile": "Riding on the back of a masked friend, this little girl strolls around to the beat of her own drum. The two never speak, however the time they've spent together proves their bond more than any words.",
             "race": [
@@ -14974,7 +14938,7 @@
                 "Spear",
                 "Axe"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040022000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040022000_02.png",
             "type": "Attack",
             "va": [
                 "Aki Toyosaki"
@@ -15059,11 +15023,11 @@
             ],
             "hp": "800",
             "id": "3030172000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030172000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030172000_02.png",
             "jpname": "\u30df\u30e5\u30aa\u30f3",
             "link": "https://gbf.wiki/Meteon_(Event)",
             "max_evo": "5",
-            "name": "Meteon",
+            "name": "Meteon [4\u2605]",
             "original": "Meteon_(Event)",
             "profile": "This fledgling superstar pushes the sound barrier in his speedship, the Blue Orbit. As he races toward the radiant sky, a soul-blazing trail of azure is left in his wake, a cobalt comet searing itself into the memories of onlookers everywhere.",
             "race": [
@@ -15075,7 +15039,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030172000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030172000_02.png",
             "type": "Special",
             "va": [
                 "Masakazu Morita"
@@ -15125,11 +15089,11 @@
             ],
             "hp": "1,450",
             "id": "3040012000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040012000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040012000_02.png",
             "jpname": "\u30e1\u30fc\u30c6\u30e9",
             "link": "https://gbf.wiki/Metera",
             "max_evo": "5",
-            "name": "Metera",
+            "name": "Metera [4\u2605]",
             "original": "Metera",
             "profile": "She flits through the sky; her erratic nature evident in her sudden swoops and frenzied whirls. Her magic bow and powers of flight could not be bottled up within her village, so she dashed off into the vast sky in search of excitement and color.",
             "race": [
@@ -15141,7 +15105,7 @@
             "specialties": [
                 "Bow"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040012000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040012000_02.png",
             "type": "Balanced",
             "va": [
                 "Ry\u014dka Yuzuki"
@@ -15259,11 +15223,11 @@
             ],
             "hp": "800",
             "id": "3030051000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030051000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030051000_02.png",
             "jpname": "\u57ce\u30f6\u5d0e\u7f8e\u5609",
             "link": "https://gbf.wiki/Mika_Jougasaki",
             "max_evo": "5",
-            "name": "Mika Jougasaki",
+            "name": "Mika Jougasaki [4\u2605]",
             "original": "Mika_Jougasaki",
             "profile": "Mika is a young girl who landed in a sky far away, guided by a dazzling light. Despite being a bit flustered by a world so different from her own, she easily brightens up all who are near.",
             "race": [
@@ -15277,7 +15241,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030051000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030051000_02.png",
             "type": "Special",
             "va": [
                 "Haruka Yoshimura"
@@ -15752,11 +15716,11 @@
             ],
             "hp": "1,010",
             "id": "3030052000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030052000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030052000_02.png",
             "jpname": "\u672c\u7530\u672a\u592e",
             "link": "https://gbf.wiki/Mio_Honda",
             "max_evo": "5",
-            "name": "Mio Honda",
+            "name": "Mio Honda [4\u2605]",
             "original": "Mio_Honda",
             "profile": "Mio is a young girl who landed in a sky far away, guided by a dazzling light. While the everyday surprises of the Sky Realm keep her on her toes, her determination to stay bright under every circumstance shines through her smile, charming all those around her.",
             "race": [
@@ -15770,7 +15734,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030052000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030052000_02.png",
             "type": "Balanced",
             "va": [
                 "Sayuri Hara"
@@ -15958,11 +15922,11 @@
             ],
             "hp": "900",
             "id": "3030224000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030224000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030224000_02.png",
             "jpname": "\u30df\u30ea\u30f3",
             "link": "https://gbf.wiki/Mirin",
             "max_evo": "5",
-            "name": "Mirin",
+            "name": "Mirin [4\u2605]",
             "original": "Mirin",
             "profile": "A girl born and raised on an island far to the east, she loves samurai culture. She leaves home to expand her horizons, leaving traces of her smile and unique swordplay wherever she wanders.",
             "race": [
@@ -15974,7 +15938,7 @@
             "specialties": [
                 "Katana"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030224000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030224000_02.png",
             "type": "Attack",
             "va": [
                 "Miyu Takagi"
@@ -16481,11 +16445,11 @@
             ],
             "hp": "1,200",
             "id": "3030096000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030096000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030096000_02.png",
             "jpname": "\u30ce\u30a4\u30b7\u30e5",
             "link": "https://gbf.wiki/Naoise_(Event)",
             "max_evo": "5",
-            "name": "Naoise",
+            "name": "Naoise [4\u2605]",
             "original": "Naoise_(Event)",
             "profile": "His pilgrimage over, this knight returns home. The friends he made on his travels helped him come to terms with his failures, and he's a stronger man for it. Despite his remorse, he knows that he must fight for his people's future. His heroism will restore their hope, and lead them to a better tomorrow.",
             "race": [
@@ -16497,7 +16461,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030096000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030096000_02.png",
             "type": "Defense",
             "va": [
                 "G\u014d Inoue"
@@ -16613,11 +16577,11 @@
             ],
             "hp": "1,120",
             "id": "3040063000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040063000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040063000_02.png",
             "jpname": "\u30ca\u30eb\u30e1\u30a2",
             "link": "https://gbf.wiki/Narmaya",
             "max_evo": "5",
-            "name": "Narmaya",
+            "name": "Narmaya [4\u2605]",
             "original": "Narmaya",
             "profile": "This well-forged blader advances toward ultimate strength with a single-minded, half-maniacal determination. But the distant ruler of the heavens has yet to pay her heed.",
             "race": [
@@ -16629,7 +16593,7 @@
             "specialties": [
                 "Katana"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040063000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040063000_02.png",
             "type": "Attack",
             "va": [
                 "Mao Ichimichi"
@@ -16959,11 +16923,11 @@
             ],
             "hp": "1,280",
             "id": "3040003000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040003000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040003000_02.png",
             "jpname": "\u30cd\u30c4\u30a1\u30ef\u30eb\u30d4\u30ea",
             "link": "https://gbf.wiki/Nezahualpilli",
             "max_evo": "5",
-            "name": "Nezahualpilli",
+            "name": "Nezahualpilli [4\u2605]",
             "original": "Nezahualpilli",
             "profile": "The winged king wanders the sky, searching for an unknown power to bring a new dawn to a doomed people. He is a reliable and energetic man, but he has a deadly weakness shared by all in the Family of Feathers.",
             "race": [
@@ -16975,7 +16939,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040003000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040003000_02.png",
             "type": "Attack",
             "va": [
                 "Jurota Kosugi"
@@ -17264,11 +17228,11 @@
             ],
             "hp": "1,299",
             "id": "3040038000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040038000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040038000_02.png",
             "jpname": "\u30cb\u30aa",
             "link": "https://gbf.wiki/Niyon",
             "max_evo": "5",
-            "name": "Niyon",
+            "name": "Niyon [4\u2605]",
             "original": "Niyon",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Niyon reads the music of all things, spinning them into an ethereal melody. When her little fingers pluck a string, she seizes her listeners' hearts and manipulates their emotions.",
             "race": [
@@ -17282,7 +17246,7 @@
             "specialties": [
                 "Harp"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040038000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040038000_02.png",
             "type": "Special",
             "va": [
                 "Yukana"
@@ -17367,11 +17331,11 @@
             ],
             "hp": "1,000",
             "id": "3030039000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030039000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030039000_02.png",
             "jpname": "\u30ce\u30a2",
             "link": "https://gbf.wiki/Noa",
             "max_evo": "5",
-            "name": "Noa",
+            "name": "Noa [4\u2605]",
             "original": "Noa",
             "profile": "Finally able to fulfill the promise he made as a boy, this helmsman of the stars rows out into the sky, hiding many sorrows behind a small smile. His thoughts are always with the young travelers, and he prays that they will find happiness.",
             "race": [
@@ -17383,7 +17347,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030039000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030039000_02.png",
             "type": "Special",
             "va": [
                 "Kaito Ishikawa"
@@ -17574,11 +17538,11 @@
             ],
             "hp": "1,650",
             "id": "3040111000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040111000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040111000_02.png",
             "jpname": "\u30aa\u30fc\u30ad\u30b9",
             "link": "https://gbf.wiki/Orchid",
             "max_evo": "5",
-            "name": "Orchid",
+            "name": "Orchid [4\u2605]",
             "original": "Orchid",
             "profile": "A being that never expected to be, Orchid was given life by pure miracle and has questioned why ever since. On her quest for answers, she continues alone through the skies, vowing to one day reunite with those most dear to her.",
             "race": [
@@ -17593,7 +17557,7 @@
                 "Melee",
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040111000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040111000_02.png",
             "type": "Special",
             "va": [
                 "Minori Chihara"
@@ -17950,11 +17914,11 @@
             ],
             "hp": "1,540",
             "id": "3040050000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040050000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040050000_02.png",
             "jpname": "\u30d1\u30fc\u30b7\u30f4\u30a1\u30eb",
             "link": "https://gbf.wiki/Percival",
             "max_evo": "5",
-            "name": "Percival",
+            "name": "Percival [4\u2605]",
             "original": "Percival",
             "profile": "This young emperor of flame burns with a quiet intensity as he pursues the utopia he dreams of\u2014a land without war, where the weak can find succor. He crosses the skies in search of allies who share his noble dream.",
             "race": [
@@ -17966,7 +17930,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040050000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040050000_02.png",
             "type": "Attack",
             "va": [
                 "Ry\u014dta \u014csaka"
@@ -18426,11 +18390,11 @@
             ],
             "hp": "1,600",
             "id": "3040059000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040059000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040059000_02.png",
             "jpname": "\u30e9\u30ab\u30e0",
             "link": "https://gbf.wiki/Rackam_(Grand)",
             "max_evo": "5",
-            "name": "Rackam",
+            "name": "Rackam [4\u2605]",
             "original": "Rackam_(Grand)",
             "profile": "The hotshot helmsman girds himself in a new suit of armor as he prepares to guide the young skyfarers on the next leg of their journey. No one loves the ship more than he, and no one is more resolute in their determination to protect their friends.",
             "race": [
@@ -18444,7 +18408,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040059000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040059000_02.png",
             "type": "Special",
             "va": [
                 "Hiroaki Hirata"
@@ -18526,11 +18490,11 @@
             ],
             "hp": "1,250",
             "id": "3030008000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030008000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030008000_02.png",
             "jpname": "\u30e9\u30ab\u30e0",
             "link": "https://gbf.wiki/Rackam",
             "max_evo": "5",
-            "name": "Rackam",
+            "name": "Rackam [4\u2605]",
             "original": "Rackam",
             "profile": "The smoking go-getter of a helmsman at Port Breeze. His shooting abilities are as impressive as his ability to control an airship. He's very blunt, but incredibly helpful and well-liked.",
             "race": [
@@ -18542,7 +18506,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030008000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030008000_02.png",
             "type": "Special",
             "va": [
                 "Hiroaki Hirata"
@@ -19081,11 +19045,11 @@
             ],
             "hp": "800",
             "id": "3030088000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030088000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030088000_02.png",
             "jpname": "\u57ce\u30f6\u5d0e\u8389\u5609",
             "link": "https://gbf.wiki/Rika_Jougasaki",
             "max_evo": "5",
-            "name": "Rika Jougasaki",
+            "name": "Rika Jougasaki [4\u2605]",
             "original": "Rika_Jougasaki",
             "profile": "Rika is a young girl who followed a wandering soul and became lost in a sky far away. As she freely runs about the fields on her bear, her innocent smiling face fills her comrades with energy.",
             "race": [
@@ -19099,7 +19063,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030088000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030088000_02.png",
             "type": "Attack",
             "va": [
                 "Nozomi Yamamoto"
@@ -19151,11 +19115,11 @@
             ],
             "hp": "880",
             "id": "3030041000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030041000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030041000_02.png",
             "jpname": "\u6e0b\u8c37\u51db",
             "link": "https://gbf.wiki/Rin_Shibuya",
             "max_evo": "5",
-            "name": "Rin Shibuya",
+            "name": "Rin Shibuya [4\u2605]",
             "original": "Rin_Shibuya",
             "profile": "Rin is a young girl who landed in a sky far away, guided by a dazzling light. Despite her bewilderment, she does not lose herself and holds fast as her song, filled with hope, resounds throughout the bustling night sky.",
             "race": [
@@ -19169,7 +19133,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030041000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030041000_02.png",
             "type": "Attack",
             "va": [
                 "Ayaka Fukuhara"
@@ -19255,11 +19219,11 @@
             ],
             "hp": "1,100",
             "id": "3030054000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030054000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030054000_02.png",
             "jpname": "\u30ea\u30bf",
             "link": "https://gbf.wiki/Rita",
             "max_evo": "5",
-            "name": "Rita",
+            "name": "Rita [4\u2605]",
             "original": "Rita",
             "profile": "Her skin as pale as death, this little girl roams the boundless skies in search of an old ally. Untroubled by the fear and suspicion that greets her wherever she goes, she continues on her gloomy journey to find the man with the terrible haircut.",
             "race": [
@@ -19271,7 +19235,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030054000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030054000_02.png",
             "type": "Special",
             "va": [
                 "Miyuki Sawashiro"
@@ -19422,11 +19386,11 @@
             ],
             "hp": "1,500",
             "id": "3040098000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040098000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040098000_02.png",
             "jpname": "\u30ed\u30df\u30aa",
             "link": "https://gbf.wiki/Romeo",
             "max_evo": "5",
-            "name": "Romeo",
+            "name": "Romeo [4\u2605]",
             "original": "Romeo",
             "profile": "Once the former lord of Montague who offered his life in order to protect his citizens, he now lurks quietly in the shadows of Verona; the nostalgic memories of the one he loves are buried in his heart but not forgotten. Although his heart is heavy and his outlook obscured, his will remains unbroken.",
             "race": [
@@ -19439,7 +19403,7 @@
                 "Sabre",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040098000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040098000_02.png",
             "type": "Balanced",
             "va": [
                 "Yuichi Nakamura"
@@ -20205,11 +20169,11 @@
             ],
             "hp": "1,660",
             "id": "3040153000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040153000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040153000_02.png",
             "jpname": "\u30b5\u30f3\u30c0\u30eb\u30d5\u30a9\u30f3",
             "link": "https://gbf.wiki/Sandalphon_(Event)",
             "max_evo": "5",
-            "name": "Sandalphon",
+            "name": "Sandalphon [4\u2605]",
             "original": "Sandalphon_(Event)",
             "profile": "Having arisen from a deep, long slumber, this archangel has inherited the will of the supreme primarch, Lucifer. Though Sandalphon previously had no role to play, he now bears the burden of carrying out vengeance in hopes of fulfilling a promise.",
             "race": [
@@ -20222,7 +20186,7 @@
                 "Sabre",
                 "Katana"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040153000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040153000_02.png",
             "type": "Balanced",
             "va": [
                 "Kenichi Suzumura"
@@ -20439,11 +20403,11 @@
             ],
             "hp": "1,340",
             "id": "3040008000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040008000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040008000_02.png",
             "jpname": "\u30b5\u30eb\u30ca\u30fc\u30f3",
             "link": "https://gbf.wiki/Sarunan",
             "max_evo": "5",
-            "name": "Sarunan",
+            "name": "Sarunan [4\u2605]",
             "original": "Sarunan",
             "profile": "This young man was sought after by a fickle spirit, on which he placed a curse without hesitation. This spirit cannot be seen by ordinary people, but Sarunan sees it everywhere he goes.",
             "race": [
@@ -20455,7 +20419,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040008000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040008000_02.png",
             "type": "Special",
             "va": [
                 "Daisuke Namikawa"
@@ -20638,11 +20602,11 @@
             ],
             "hp": "1,610",
             "id": "3040122000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040122000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040122000_02.png",
             "jpname": "\u30b9\u30ab\u30fc\u30b5\u30cf",
             "link": "https://gbf.wiki/Scathacha",
             "max_evo": "5",
-            "name": "Scathacha",
+            "name": "Scathacha [4\u2605]",
             "original": "Scathacha",
             "profile": "She is the true dragon of Alster Island who formed a pact with mortals to oppose the Astrals during the War. For a dragon who potentially faced eternal solitude, interacting with the people of the island brought new meaning to her life. The time has come for her to open her untamable heart.",
             "race": [
@@ -20654,7 +20618,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040122000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040122000_02.png",
             "type": "Attack",
             "va": [
                 "Sachiko Kojima"
@@ -20770,11 +20734,11 @@
             ],
             "hp": "990",
             "id": "3030026000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030026000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030026000_02.png",
             "jpname": "\u30bb\u30ec\u30d5\u30a3\u30e9",
             "link": "https://gbf.wiki/Selfira_(Event)",
             "max_evo": "5",
-            "name": "Selfira",
+            "name": "Selfira [4\u2605]",
             "original": "Selfira_(Event)",
             "profile": "This young girl takes pride in the melodies that have been passed down to her, but she is fated to spend her life in the village of the serpent god. Nevertheless, she listens to the old skyfarers tell their tales with shining eyes, and dreams of adventure in the skies.",
             "race": [
@@ -20786,7 +20750,7 @@
             "specialties": [
                 "Harp"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030026000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030026000_02.png",
             "type": "Heal",
             "va": [
                 "Y\u014dko Hikasa"
@@ -20938,11 +20902,11 @@
             ],
             "hp": "1,477",
             "id": "3040036000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040036000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040036000_02.png",
             "jpname": "\u30b7\u30a8\u30c6",
             "link": "https://gbf.wiki/Seofon",
             "max_evo": "5",
-            "name": "Seofon",
+            "name": "Seofon [4\u2605]",
             "original": "Seofon",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seofon seems rather carefree for the leader of the Eternals, but he's actually a proud and driven man. The fearsome powers he commands could shake the very heavens, but he wields them only to right the world's wrongs. He's also frighteningly fond of swords.",
             "race": [
@@ -20956,7 +20920,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040036000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040036000_02.png",
             "type": "Attack",
             "va": [
                 "Junichi Suwabe"
@@ -21008,11 +20972,11 @@
             ],
             "hp": "1,666",
             "id": "3040035000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040035000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040035000_02.png",
             "jpname": "\u30b7\u30b9",
             "link": "https://gbf.wiki/Seox",
             "max_evo": "6",
-            "name": "Seox",
+            "name": "Seox [4\u2605]",
             "original": "Seox",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seox's power is unrivaled, for he bears the mark of destiny. His emotional instability is just part of his mask\u2014his love is hidden deeper. He seeks to reach beyond the sky, where the one he holds dear travels.",
             "race": [
@@ -21026,7 +20990,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040035000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040035000_02.png",
             "type": "Attack",
             "va": [
                 "Nobuyuki Hiyama"
@@ -21042,11 +21006,11 @@
             ],
             "hp": "1,666",
             "id": "3040035000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040035000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040035000_03.png",
             "jpname": "\u30b7\u30b9",
             "link": "https://gbf.wiki/Seox",
             "max_evo": "6",
-            "name": "Seox",
+            "name": "Seox [5\u2605]",
             "original": "Seox",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seox's power is unrivaled, for he bears the mark of destiny. His emotional instability is just part of his mask\u2014his love is hidden deeper. He seeks to reach beyond the sky, where the one he holds dear travels.",
             "race": [
@@ -21060,7 +21024,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040035000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040035000_03.png",
             "type": "Attack",
             "va": [
                 "Nobuyuki Hiyama"
@@ -21144,11 +21108,11 @@
             ],
             "hp": "1,150",
             "id": "3040013000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040013000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040013000_02.png",
             "jpname": "\u30bb\u30eb\u30a8\u30eb",
             "link": "https://gbf.wiki/Seruel",
             "max_evo": "5",
-            "name": "Seruel",
+            "name": "Seruel [4\u2605]",
             "original": "Seruel",
             "profile": "After a long and bitter struggle, this prince's kingdom is on the mend\u2014but the man he thought of as a brother has been accused of causing the calamity. Now the prince embarks on a quest to clear his friend's name, so that they might once again embrace as brothers.",
             "race": [
@@ -21160,7 +21124,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040013000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040013000_02.png",
             "type": "Attack",
             "va": [
                 "Toshiyuki Morikawa"
@@ -21345,11 +21309,11 @@
             ],
             "hp": "1,070",
             "id": "3030124000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030124000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030124000_02.png",
             "jpname": "\u30b7\u30e3\u30aa",
             "link": "https://gbf.wiki/Shao",
             "max_evo": "5",
-            "name": "Shao",
+            "name": "Shao [4\u2605]",
             "original": "Shao",
             "profile": "A wandering merchant of medicine. As a healer with a special talent for remedies, his skills are as mysterious as his speech, often disguising a deeper meaning in his aloof words. Like a fine line between poison and cure, his true character, whether good or evil, lies hidden beneath his gentle smile.",
             "race": [
@@ -21361,7 +21325,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030124000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030124000_02.png",
             "type": "Special",
             "va": [
                 "Takahiro Sakurai"
@@ -21624,11 +21588,11 @@
             ],
             "hp": "1,350",
             "id": "3040025000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040025000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040025000_02.png",
             "jpname": "\u30b8\u30fc\u30af\u30d5\u30ea\u30fc\u30c8",
             "link": "https://gbf.wiki/Siegfried",
             "max_evo": "5",
-            "name": "Siegfried",
+            "name": "Siegfried [4\u2605]",
             "original": "Siegfried",
             "profile": "This hero saved his country from great peril, but soon found himself the subject of intrigue and conspiracy. Now reviled by many, he's become a loyal knight of the state in the hopes that he can fulfill a promise he made to the former king.",
             "race": [
@@ -21641,7 +21605,7 @@
                 "Sabre",
                 "Katana"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040025000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040025000_02.png",
             "type": "Special",
             "va": [
                 "Kazuhiko Inoue"
@@ -21826,11 +21790,11 @@
             ],
             "hp": "1,350",
             "id": "3040049000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040049000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040049000_02.png",
             "jpname": "\u30b7\u30eb\u30f4\u30a1",
             "link": "https://gbf.wiki/Silva",
             "max_evo": "5",
-            "name": "Silva",
+            "name": "Silva [4\u2605]",
             "original": "Silva",
             "profile": "This distinguished sniper possesses a rare talent, but she never forgets to polish her technique. She hopes that one day her name will echo through the skies like a gunshot, so that even the people in her sealed off hometown might hear.",
             "race": [
@@ -21842,7 +21806,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040049000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040049000_02.png",
             "type": "Attack",
             "va": [
                 "Aya Hisakawa"
@@ -22026,11 +21990,11 @@
             ],
             "hp": "1,160",
             "id": "3040044000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040044000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040044000_02.png",
             "jpname": "\u30bd\u30b7\u30a8",
             "link": "https://gbf.wiki/Societte",
             "max_evo": "5",
-            "name": "Societte",
+            "name": "Societte [4\u2605]",
             "original": "Societte",
             "profile": "Heir to a thousand years of lost history, she travels the sky in search of many things. She works hard to find what she is looking for, but freezes up whenever she has to ask for help. Unable to vocalize her thoughts, her tail swishes nervously while her contacts impatiently tap their feet. Eventually, they all get fed up and walk away. She watches them go, head hanging in quiet shame.",
             "race": [
@@ -22043,7 +22007,7 @@
                 "Melee",
                 "Harp"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040044000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040044000_02.png",
             "type": "Special",
             "va": [
                 "Ryoko Shiraishi"
@@ -22261,11 +22225,11 @@
             ],
             "hp": "1,300",
             "id": "3040170000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040170000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040170000_02.png",
             "jpname": "\u30bd\u30ea\u30c3\u30ba",
             "link": "https://gbf.wiki/Soriz_(SSR)",
             "max_evo": "5",
-            "name": "Soriz",
+            "name": "Soriz [4\u2605]",
             "original": "Soriz_(SSR)",
             "profile": "Soriz has always lived as he wishes, never doubting himself. His entire worldview is thrown into question by another man who lives by his fists. Asked what he will leave behind to the next generation, Soriz sets out to discover the answer. In the end, he decides to bring others as much happiness as he can, in hopes the spreading ripples of his actions will outlast him.",
             "race": [
@@ -22277,7 +22241,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040170000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040170000_02.png",
             "type": "Attack",
             "va": [
                 "Rikiya Koyama"
@@ -22357,11 +22321,11 @@
             ],
             "hp": "875",
             "id": "3030020000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030020000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030020000_02.png",
             "jpname": "\u30bd\u30ea\u30c3\u30ba",
             "link": "https://gbf.wiki/Soriz",
             "max_evo": "5",
-            "name": "Soriz",
+            "name": "Soriz [4\u2605]",
             "original": "Soriz",
             "profile": "Soriz, after half a century of work, came to believe that the only weapon to be trusted is the body. In between harsh, rock-smashing training sessions, he can see paradise extend before him.",
             "race": [
@@ -22373,7 +22337,7 @@
             "specialties": [
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030020000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030020000_02.png",
             "type": "Attack",
             "va": [
                 "Rikiya Koyama"
@@ -22895,11 +22859,11 @@
             ],
             "hp": "1,310",
             "id": "3030018000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030018000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030018000_02.png",
             "jpname": "\u30b9\u30fc\u30c6\u30e9",
             "link": "https://gbf.wiki/Sutera",
             "max_evo": "5",
-            "name": "Sutera",
+            "name": "Sutera [4\u2605]",
             "original": "Sutera",
             "profile": "Thinking of her sister and her family, this palace guardian left her village. Perplexed by the freshness of everything she sees, she carries a lot of uncertainty with her as she pursues her sister.",
             "race": [
@@ -22911,7 +22875,7 @@
             "specialties": [
                 "Bow"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030018000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030018000_02.png",
             "type": "Balanced",
             "va": [
                 "Shizuka It\u014d"
@@ -23308,11 +23272,11 @@
             ],
             "hp": "1,375",
             "id": "3030034000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030034000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030034000_02.png",
             "jpname": "\u30c6\u30a3\u30ca",
             "link": "https://gbf.wiki/Teena",
             "max_evo": "5",
-            "name": "Teena",
+            "name": "Teena [4\u2605]",
             "original": "Teena",
             "profile": "Deep within the swirling flames of her magic, she sees the face of her dead mother. She vows to become stronger, but cannot force herself to cruelty to gain the strength she seeks. Her brother, hungry for revenge, has no such qualms. Standing together, they challenge a bitter enemy.",
             "race": [
@@ -23324,7 +23288,7 @@
             "specialties": [
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030034000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030034000_02.png",
             "type": "Heal",
             "va": [
                 "Yui Horie"
@@ -23616,11 +23580,11 @@
             ],
             "hp": "1,533",
             "id": "3040032000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040032000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040032000_02.png",
             "jpname": "\u30b5\u30e9\u30fc\u30b5",
             "link": "https://gbf.wiki/Threo",
             "max_evo": "6",
-            "name": "Threo",
+            "name": "Threo [4\u2605]",
             "original": "Threo",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This fierce warrior understands the laws of nature far better than any other, and survival of the fittest has become her creed. She fights tooth and claw to remain at the top of the food chain, so that she'll never have to lose anything again.",
             "race": [
@@ -23635,7 +23599,7 @@
                 "Axe",
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040032000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040032000_02.png",
             "type": "Attack",
             "va": [
                 "Minami Takayama"
@@ -23651,11 +23615,11 @@
             ],
             "hp": "1,533",
             "id": "3040032000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040032000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040032000_03.png",
             "jpname": "\u30b5\u30e9\u30fc\u30b5",
             "link": "https://gbf.wiki/Threo",
             "max_evo": "6",
-            "name": "Threo",
+            "name": "Threo [5\u2605]",
             "original": "Threo",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This fierce warrior understands the laws of nature far better than any other, and survival of the fittest has become her creed. She fights tooth and claw to remain at the top of the food chain, so that she'll never have to lose anything again.",
             "race": [
@@ -23670,7 +23634,7 @@
                 "Axe",
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040032000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040032000_03.png",
             "type": "Attack",
             "va": [
                 "Minami Takayama"
@@ -23721,11 +23685,11 @@
             ],
             "hp": "1,700",
             "id": "3040152000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040152000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040152000_02.png",
             "jpname": "\u30c6\u30a3\u30a2\u30de\u30c8",
             "link": "https://gbf.wiki/Tiamat",
             "max_evo": "5",
-            "name": "Tiamat",
+            "name": "Tiamat [4\u2605]",
             "original": "Tiamat",
             "profile": "This purveyor of protective winds has assumed a skydweller-like form. Her breath has blessed Port Breeze with prosperity for hundreds of years and will continue to do so in perpetuity. Nothing can stop her gales from blowing through every corner of the limitless sky.",
             "race": [
@@ -23738,7 +23702,7 @@
                 "Melee",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040152000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040152000_02.png",
             "type": "Special",
             "va": [
                 "-"
@@ -23790,11 +23754,11 @@
             ],
             "hp": "1,600",
             "id": "3040039000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040039000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040039000_02.png",
             "jpname": "\u30a8\u30c3\u30bb\u30eb",
             "link": "https://gbf.wiki/Tien",
             "max_evo": "5",
-            "name": "Tien",
+            "name": "Tien [4\u2605]",
             "original": "Tien",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Tien leads Stardust Town with her twin brother. Determined to find a way to end the cycle of hatred, she stepped forward to take sole responsibility for all the fighting in the reaches. She cherishes her family, and will fight hard to protect them.",
             "race": [
@@ -23808,7 +23772,7 @@
             "specialties": [
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040039000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040039000_02.png",
             "type": "Balanced",
             "va": [
                 "Rina Sat\u014d"
@@ -23930,11 +23894,11 @@
             ],
             "hp": "1,822",
             "id": "3040031000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040031000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040031000_02.png",
             "jpname": "\u30bd\u30fc\u30f3",
             "link": "https://gbf.wiki/Tweyen",
             "max_evo": "6",
-            "name": "Tweyen",
+            "name": "Tweyen [4\u2605]",
             "original": "Tweyen",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This naturally talented huntress's skills with the bow are peerless; her eagle eyes can track prey far beyond the horizon. She destroys those that wrong her in a hail of shining arrows.",
             "race": [
@@ -23948,7 +23912,7 @@
             "specialties": [
                 "Bow"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040031000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040031000_02.png",
             "type": "Balanced",
             "va": [
                 "Yuko Minaguchi"
@@ -23964,11 +23928,11 @@
             ],
             "hp": "1,822",
             "id": "3040031000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040031000_04.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040031000_03.png",
             "jpname": "\u30bd\u30fc\u30f3",
             "link": "https://gbf.wiki/Tweyen",
             "max_evo": "6",
-            "name": "Tweyen",
+            "name": "Tweyen [5\u2605]",
             "original": "Tweyen",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This naturally talented huntress's skills with the bow are peerless; her eagle eyes can track prey far beyond the horizon. She destroys those that wrong her in a hail of shining arrows.",
             "race": [
@@ -23982,7 +23946,7 @@
             "specialties": [
                 "Bow"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040031000_04.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040031000_03.png",
             "type": "Balanced",
             "va": [
                 "Yuko Minaguchi"
@@ -24138,11 +24102,11 @@
             ],
             "hp": "1,010",
             "id": "3030014000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030014000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030014000_02.png",
             "jpname": "\u30a6\u30e9\u30e0\u30cc\u30e9\u30f3",
             "link": "https://gbf.wiki/Ulamnuran",
             "max_evo": "5",
-            "name": "Ulamnuran",
+            "name": "Ulamnuran [4\u2605]",
             "original": "Ulamnuran",
             "profile": "One young man went on a journey to heal the sorrow scattered across the world. His tricks and clumsiness causes trouble for people, but even so, he still puts a smile on everyone's faces.",
             "race": [
@@ -24154,7 +24118,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030014000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030014000_02.png",
             "type": "Special",
             "va": [
                 "Ayumu Murase"
@@ -24206,11 +24170,11 @@
             ],
             "hp": "1,080",
             "id": "3030040000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030040000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030040000_02.png",
             "jpname": "\u5cf6\u6751\u536f\u6708",
             "link": "https://gbf.wiki/Uzuki_Shimamura",
             "max_evo": "5",
-            "name": "Uzuki Shimamura",
+            "name": "Uzuki Shimamura [4\u2605]",
             "original": "Uzuki_Shimamura",
             "profile": "Uzuki is a young girl who landed in a sky far away, guided by a dazzling light. Despite arriving in a world where she does not belong, her positivity is unbending as she continues searching for the light, with a ready smile on her face.",
             "race": [
@@ -24224,7 +24188,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030040000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030040000_02.png",
             "type": "Balanced",
             "va": [
                 "Ayaka Ohashi"
@@ -24277,11 +24241,11 @@
             ],
             "hp": "1,140",
             "id": "3040147000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040147000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040147000_02.png",
             "jpname": "\u30f4\u30a1\u30b8\u30e9",
             "link": "https://gbf.wiki/Vajra",
             "max_evo": "5",
-            "name": "Vajra",
+            "name": "Vajra [4\u2605]",
             "original": "Vajra",
             "profile": "Guardian of the West-Northwest and one of the Twelve Divine Generals. Revered as a deity of war along with her canine partner Garjana, she is steadfast and determined in her pursuit of strength. Her purity of heart allows her to hear the voices of the natural world, making her an invaluable asset to the crew.",
             "race": [
@@ -24296,7 +24260,7 @@
                 "Katana",
                 "Melee"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040147000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040147000_02.png",
             "type": "Attack",
             "va": [
                 "Y\u016b Serizawa"
@@ -24347,11 +24311,11 @@
             ],
             "hp": "2,180",
             "id": "3040117000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040117000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040117000_02.png",
             "jpname": "\u30f4\u30a7\u30a4\u30f3",
             "link": "https://gbf.wiki/Vane_(SSR)",
             "max_evo": "5",
-            "name": "Vane",
+            "name": "Vane [4\u2605]",
             "original": "Vane_(SSR)",
             "profile": "On a fine spring day and with his closest companion, Vane takes a mountain journey that he'd once started but never completed. Unexpected calamity befalls them, but together they rise above the ordeal. They now know that no matter what may come to pass, united they shall abide.",
             "race": [
@@ -24364,7 +24328,7 @@
                 "Spear",
                 "Axe"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040117000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040117000_02.png",
             "type": "Defense",
             "va": [
                 "Takuya Eguchi"
@@ -24553,11 +24517,11 @@
             ],
             "hp": "1,170",
             "id": "3040057000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040057000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040057000_02.png",
             "jpname": "\u30f4\u30a1\u30f3\u30d4\u30a3",
             "link": "https://gbf.wiki/Vania",
             "max_evo": "5",
-            "name": "Vania",
+            "name": "Vania [4\u2605]",
             "original": "Vania",
             "profile": "This young princess of the night now dances freely through the bright blue sky, a broad grin plastered on her face. Her capriciousness causes a lot of trouble for those around her. Still, her innocence warms the hearts of her comrades, unraveling the ancient chains that bind her people.",
             "race": [
@@ -24570,7 +24534,7 @@
                 "Staff",
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040057000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040057000_02.png",
             "type": "Special",
             "va": [
                 "Rie Kugimiya"
@@ -24752,11 +24716,11 @@
             ],
             "hp": "1,410",
             "id": "3040029000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040029000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040029000_02.png",
             "jpname": "\u30d0\u30b6\u30e9\u30ac",
             "link": "https://gbf.wiki/Vaseraga",
             "max_evo": "5",
-            "name": "Vaseraga",
+            "name": "Vaseraga [4\u2605]",
             "original": "Vaseraga",
             "profile": "He was unable to banish the shadows clinging to him, dyeing him the color of the abyss. As he struggled, he committed sin after sin until everything he cared about was taken from him. Finally forced to acknowledge his fall, he picked up a great scythe and donned ominous armor. The day of this wounded lion's redemption is still far off.",
             "race": [
@@ -24768,7 +24732,7 @@
             "specialties": [
                 "Axe"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040029000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040029000_02.png",
             "type": "Attack",
             "va": [
                 "Fumihiko Tachiki"
@@ -25128,11 +25092,11 @@
             ],
             "hp": "1,280",
             "id": "3040043000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040043000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040043000_02.png",
             "jpname": "\u30f4\u30a3\u30fc\u30e9",
             "link": "https://gbf.wiki/Vira_(SSR)",
             "max_evo": "5",
-            "name": "Vira",
+            "name": "Vira [4\u2605]",
             "original": "Vira_(SSR)",
             "profile": "The knight of the primal beasts has returned to Vira's side to grant her even greater power, drawn as it was to her dark, burning passions. Crazed by her obsession, she uses her primal energies to cut down all who dare approach the object of her affection.",
             "race": [
@@ -25144,7 +25108,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040043000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040043000_02.png",
             "type": "Attack",
             "va": [
                 "Asami Imai"
@@ -25464,11 +25428,11 @@
             ],
             "hp": "1,020",
             "id": "3030197000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030197000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030197000_02.png",
             "jpname": "\u30a6\u30a7\u30eb\u30c0\u30fc",
             "link": "https://gbf.wiki/Walder_(Event)",
             "max_evo": "5",
-            "name": "Walder",
+            "name": "Walder [4\u2605]",
             "original": "Walder_(Event)",
             "profile": "A brave warrior crosses the sky, gaining valuable experience and wisdom on his various adventures. Everything he does is for the forest's protection and to bring joy to his dear friend. The bonds in his heart cannot be cut; not even by the blade of fate.",
             "race": [
@@ -25480,7 +25444,7 @@
             "specialties": [
                 "Dagger"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030197000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030197000_02.png",
             "type": "Special",
             "va": [
                 "Kappei Yamaguchi"
@@ -25664,11 +25628,11 @@
             ],
             "hp": "1,190",
             "id": "3030092000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030092000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030092000_02.png",
             "jpname": "\u30a6\u30a3\u30eb",
             "link": "https://gbf.wiki/Will_(SR)",
             "max_evo": "5",
-            "name": "Will",
+            "name": "Will [4\u2605]",
             "original": "Will_(SR)",
             "profile": "The two-faced preacher's research has advanced by leaps and bounds over the course of his travels. His lust for knowledge knows no limits; it pushes him ever forward to seek greater discoveries. Any who dare stand in the path of his studies will regret it.",
             "race": [
@@ -25681,7 +25645,7 @@
                 "Sabre",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030092000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030092000_02.png",
             "type": "Balanced",
             "va": [
                 "Daisuke Kishio"
@@ -25804,11 +25768,11 @@
             ],
             "hp": "1,515",
             "id": "3030111000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030111000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030111000_02.png",
             "jpname": "\u30e4\u30a4\u30a2",
             "link": "https://gbf.wiki/Yaia",
             "max_evo": "5",
-            "name": "Yaia",
+            "name": "Yaia [4\u2605]",
             "original": "Yaia",
             "profile": "An innocent girl raised with love, Yaia knows nothing of misfortune. She departs for adventure in the sky and just goes on believing. Though she is but a small girl, she will surely fulfill her big dreams someday.",
             "race": [
@@ -25820,7 +25784,7 @@
             "specialties": [
                 "Sabre"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030111000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030111000_02.png",
             "type": "Special",
             "va": [
                 "Rina Hidaka"
@@ -25941,11 +25905,11 @@
             ],
             "hp": "1,860",
             "id": "3040088000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040088000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040088000_02.png",
             "jpname": "\u30a4\u30f3\u30b0\u30f4\u30a7\u30a4",
             "link": "https://gbf.wiki/Yngwie",
             "max_evo": "5",
-            "name": "Yngwie",
+            "name": "Yngwie [4\u2605]",
             "original": "Yngwie",
             "profile": "A legendary skyfarer who once took the world by storm returns for a final adventure. He fights for his whims... and for romance.",
             "race": [
@@ -25958,7 +25922,7 @@
                 "Melee",
                 "Gun"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040088000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040088000_02.png",
             "type": "Defense",
             "va": [
                 "Kazuhiro Yamaji"
@@ -26178,11 +26142,11 @@
             ],
             "hp": "1,680",
             "id": "3040006000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040006000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040006000_02.png",
             "jpname": "\u30e6\u30a8\u30eb",
             "link": "https://gbf.wiki/Yuel",
             "max_evo": "5",
-            "name": "Yuel",
+            "name": "Yuel [4\u2605]",
             "original": "Yuel",
             "profile": "She set out on a journey in search of a treasure with a thousand years of history, all to revive the royal family she serves. She's plenty curious about this world, full of surprises as it is, and today she presses on down the road once more.",
             "race": [
@@ -26195,7 +26159,7 @@
                 "Katana",
                 "Harp"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040006000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040006000_02.png",
             "type": "Balanced",
             "va": [
                 "Kana Ueda"
@@ -26486,11 +26450,11 @@
             ],
             "hp": "1,260",
             "id": "3040199000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040199000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040199000_02.png",
             "jpname": "\u30e6\u30ea\u30a6\u30b9",
             "link": "https://gbf.wiki/Yurius",
             "max_evo": "5",
-            "name": "Yurius",
+            "name": "Yurius [4\u2605]",
             "original": "Yurius",
             "profile": "A researcher who once fell prey to evil. He strives to never walk that path again as he works to rebuild his homeland. When he stares into the ominous clouds that cover Levin, his eyes reflect an even deeper shade of darkened resolution.",
             "race": [
@@ -26503,7 +26467,7 @@
                 "Sabre",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040199000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040199000_02.png",
             "type": "Special",
             "va": [
                 "Hidenobu Kiuchi"
@@ -26754,11 +26718,11 @@
             ],
             "hp": "1,280",
             "id": "3040028000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040028000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040028000_02.png",
             "jpname": "\u30bc\u30bf",
             "link": "https://gbf.wiki/Zeta",
             "max_evo": "5",
-            "name": "Zeta",
+            "name": "Zeta [4\u2605]",
             "original": "Zeta",
             "profile": "Eyes glittering sharp and blue, she proves her strength by pursuing only the most dangerous of prey. No wall nor enemy can stand up to her steely will and burning spear. Although her form may be fair, her words bite deeper than the tip of her spear\u2014sharp words are the mark of a hardened warrior.",
             "race": [
@@ -26770,7 +26734,7 @@
             "specialties": [
                 "Spear"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040028000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040028000_02.png",
             "type": "Attack",
             "va": [
                 "Kana Hanazawa"
@@ -27204,11 +27168,11 @@
             ],
             "hp": "2,219",
             "id": "3040231000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040231000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040231000_02.png",
             "jpname": "\u7d62\u702c\u7d75\u91cc\uff06\u77e2\u6fa4\u306b\u3053\uff06\u6771\u689d \u5e0c",
             "link": "https://gbf.wiki/\u039c's_Third-Years",
             "max_evo": "5",
-            "name": "\u03bc's Third-Years",
+            "name": "\u03bc's Third-Years [4\u2605]",
             "original": "\u039c's_Third-Years",
             "profile": "Originally from another world, the girls of \u03bc's ended up here somehow\u2014but that didn't stop them from putting on a concert to move toward an even brighter tomorrow. They take off running at full speed, their eyes fixed on a future where everyone is smiling.",
             "race": [
@@ -27223,7 +27187,7 @@
                 "Harp",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040231000_03.jpg",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040231000_02.png",
             "type": "Defense",
             "va": [
                 "Yoshino Nanjo",
