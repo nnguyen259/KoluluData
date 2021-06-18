@@ -20041,7 +20041,34 @@
                 "text": [
                     "Boost to \u03bc's members' ATK."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data" : [
+                    {
+                        "inLine" : false,
+                        "title" : "Boost to ATK",
+                        "text" : [
+                            "**Modifier**: Unique",
+                            "Stack additively with other \u03bc's members' EMP Skill"
+                        ]
+                    },
+                    {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text" : [
+                            "```",
+                            "╔═════╦═════╗",
+                            "║ Lvl ║ ATK ║",
+                            "╠═════╬═════╣",
+                            "║  1  ║  5% ║",
+                            "╠═════╬═════╣",
+                            "║  2  ║  8% ║",
+                            "╠═════╬═════╣",
+                            "║  3  ║ 10% ║",
+                            "╚═════╩═════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
@@ -20059,7 +20086,34 @@
                 "text": [
                     "Boost to \u03bc's members' ATK."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data" : [
+                    {
+                        "inLine" : false,
+                        "title" : "Boost to ATK",
+                        "text" : [
+                            "**Modifier**: Unique",
+                            "Stack additively with other \u03bc's members' EMP Skill"
+                        ]
+                    },
+                    {
+                        "inLine" : false,
+                        "title" : "\u200b",
+                        "text" : [
+                            "```",
+                            "╔═════╦═════╗",
+                            "║ Lvl ║ ATK ║",
+                            "╠═════╬═════╣",
+                            "║  1  ║  5% ║",
+                            "╠═════╬═════╣",
+                            "║  2  ║  8% ║",
+                            "╠═════╬═════╣",
+                            "║  3  ║ 10% ║",
+                            "╚═════╩═════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     }

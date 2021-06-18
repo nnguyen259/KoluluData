@@ -56816,10 +56816,9 @@
         "BASE": [
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "Indefinite^i": [
-                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**",
                             "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**",
                             "<:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**"
                         ]
@@ -56828,9 +56827,9 @@
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/954_4.png"
                     ],
                     "name": "Khorosho!",
-                    "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nIf successful, all allies gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**.\nBuff increased to <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**.\nIf buff removal is successful, all allies also gain <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**."
+                        "Remove 1 buff from a foe.",
+                        "If successful, all allies gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)** and <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**."
                     ],
                     "type": [
                         "4"
@@ -56839,7 +56838,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "2^t": [
                             "<:Status_DoubleUp:832590867734724618> **25% DA Up**",
@@ -56851,12 +56850,20 @@
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/955_3.png"
                     ],
                     "name": "Nico-Nico-Ni!",
-                    "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **25% DA Up** and <:Status_TripleUp:832601877920350218> **25% TA Up**.\nAll allies also gain <:Status_DmgUp:832590865767727175> **Supplemental DMG**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **25% DA Up**, <:Status_TripleUp:832601877920350218> **25% TA Up** and <:Status_DmgUp:832590865767727175> **Supplemental DMG**."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:Status_DmgUp:832590865767727175> Supplemental DMG",
+                            "text": [
+                                "**Strength**: 1% of foe's max HP (Damage Cap: 25252)"
+                            ]
+                        }
                     ]
                 }
             ],
@@ -56865,8 +56872,6 @@
                     "cooldown": "6 turns",
                     "duration": {
                         "180^s": [
-                            "<:Status_LightAtkDown:832596749901234248> **15% Light ATK Down**",
-                            "<:Status_DarkResDown:834390039550623774> **15% Dark DEF Down**",
                             "<:Status_LightAtkDown:832596749901234248> **20% Light ATK Down**",
                             "<:Status_DarkResDown:834390039550623774> **20% Dark DEF Down**",
                             "<:Status_DoubleDown:832590867336003645> **40~50% DA Down**",
@@ -56877,9 +56882,8 @@
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/956_4.png"
                     ],
                     "name": "How Spiritual!",
-                    "obtain": " Lvl 1\u21e7 Lvl 95 ",
                     "text": [
-                        "Inflict <:Status_LightAtkDown:832596749901234248> **15% Light ATK Down** and <:Status_DarkResDown:834390039550623774> **15% Dark DEF Down** on all foes.\nDebuffs increased to <:Status_LightAtkDown:832596749901234248> **20% Light ATK Down** and <:Status_DarkResDown:834390039550623774> **20% Dark DEF Down**.\nAlso inflict <:Status_DoubleDown:832590867336003645> **40~50% DA Down** and <:Status_TripleDown:832601877106393089> **20% TA Down** on all foes."
+                        "Inflict <:Status_LightAtkDown:832596749901234248> **20% Light ATK Down**, <:Status_DarkResDown:834390039550623774> **20% Dark DEF Down**, <:Status_DoubleDown:832590867336003645> **40~50% DA Down** and <:Status_TripleDown:832601877106393089> **20% TA Down** on all foes."
                     ],
                     "type": [
                         "4"
@@ -56893,15 +56897,17 @@
                         "1^t": [
                             "<:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**",
                             "<:Status_Repel:832599166844403743> **30% Repel (1 time)**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Shield:832599448872943648> **Shield (1500)**"
                         ]
                     },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/957_3.png"
                     ],
                     "name": "Melody of the Heart",
-                    "obtain": " Lvl 45\u21e7 Lvl 100 ",
                     "text": [
-                        "All allies gain <:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**.\nAll allies also gain <:Status_Repel:832599166844403743> **30% Repel (1 time)** and <:Status_Shield:832599448872943648> **Shield (1500)**."
+                        "All allies gain <:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**, <:Status_Repel:832599166844403743> **30% Repel (1 time)** and <:Status_Shield:832599448872943648> **Shield (1500)**."
                     ],
                     "type": [
                         "3"
@@ -56912,21 +56918,19 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "Indefinite^i": [
-                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**",
-                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**",
-                            "<:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**"
+                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**"
                         ]
                     },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/954_4.png"
                     ],
                     "name": "Khorosho!",
-                    "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nIf successful, all allies gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**.\nBuff increased to <:Status_CA_DMG_Boosted_1_time:832584992499695616> **50% C.A. DMG Up (1 time)**.\nIf buff removal is successful, all allies also gain <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**."
+                        "Remove 1 buff from a foe.",
+                        "If successful, all allies gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **30% C.A. DMG Up (1 time)**."
                     ],
                     "type": [
                         "4"
@@ -56935,21 +56939,19 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "2^t": [
                             "<:Status_DoubleUp:832590867734724618> **25% DA Up**",
-                            "<:Status_TripleUp:832601877920350218> **25% TA Up**",
-                            "<:Status_DmgUp:832590865767727175> **Supplemental DMG**"
+                            "<:Status_TripleUp:832601877920350218> **25% TA Up**"
                         ]
                     },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/955_3.png"
                     ],
                     "name": "Nico-Nico-Ni!",
-                    "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **25% DA Up** and <:Status_TripleUp:832601877920350218> **25% TA Up**.\nAll allies also gain <:Status_DmgUp:832590865767727175> **Supplemental DMG**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **25% DA Up** and <:Status_TripleUp:832601877920350218> **25% TA Up**."
                     ],
                     "type": [
                         "3"
@@ -56962,20 +56964,15 @@
                     "duration": {
                         "180^s": [
                             "<:Status_LightAtkDown:832596749901234248> **15% Light ATK Down**",
-                            "<:Status_DarkResDown:834390039550623774> **15% Dark DEF Down**",
-                            "<:Status_LightAtkDown:832596749901234248> **20% Light ATK Down**",
-                            "<:Status_DarkResDown:834390039550623774> **20% Dark DEF Down**",
-                            "<:Status_DoubleDown:832590867336003645> **40~50% DA Down**",
-                            "<:Status_TripleDown:832601877106393089> **20% TA Down**"
+                            "<:Status_DarkResDown:834390039550623774> **15% Dark DEF Down**"
                         ]
                     },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/956_4.png"
                     ],
                     "name": "How Spiritual!",
-                    "obtain": " Lvl 1\u21e7 Lvl 95 ",
                     "text": [
-                        "Inflict <:Status_LightAtkDown:832596749901234248> **15% Light ATK Down** and <:Status_DarkResDown:834390039550623774> **15% Dark DEF Down** on all foes.\nDebuffs increased to <:Status_LightAtkDown:832596749901234248> **20% Light ATK Down** and <:Status_DarkResDown:834390039550623774> **20% Dark DEF Down**.\nAlso inflict <:Status_DoubleDown:832590867336003645> **40~50% DA Down** and <:Status_TripleDown:832601877106393089> **20% TA Down** on all foes."
+                        "Inflict <:Status_LightAtkDown:832596749901234248> **15% Light ATK Down** and <:Status_DarkResDown:834390039550623774> **15% Dark DEF Down** on all foes."
                     ],
                     "type": [
                         "4"
@@ -56987,17 +56984,15 @@
                     "cooldown": "7 turns",
                     "duration": {
                         "1^t": [
-                            "<:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**",
-                            "<:Status_Repel:832599166844403743> **30% Repel (1 time)**"
+                            "<:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**"
                         ]
                     },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/957_3.png"
                     ],
                     "name": "Melody of the Heart",
-                    "obtain": " Lvl 45\u21e7 Lvl 100 ",
                     "text": [
-                        "All allies gain <:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**.\nAll allies also gain <:Status_Repel:832599166844403743> **30% Repel (1 time)** and <:Status_Shield:832599448872943648> **Shield (1500)**."
+                        "All allies gain <:Status_Dmg_Cut_40:834391730937135135> **40% DMG Cut**."
                     ],
                     "type": [
                         "3"

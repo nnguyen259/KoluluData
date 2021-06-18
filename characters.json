@@ -27124,14 +27124,14 @@
     "\u039c's_Third-Years": {
         "BASE": {
             "5star": "Yes",
-            "atk": "6,233",
+            "atk": "7,580",
             "element": "Dark",
             "gender": [
                 "Female"
             ],
-            "hp": "2,219",
+            "hp": "2,580",
             "id": "3040231000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040231000_03.png",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/cutin_special/3040231000_03.jpg",
             "jpname": "\u7d62\u702c\u7d75\u91cc\uff06\u77e2\u6fa4\u306b\u3053\uff06\u6771\u689d \u5e0c",
             "link": "https://gbf.wiki/\u039c's_Third-Years",
             "max_evo": "5",
@@ -27187,7 +27187,7 @@
                 "Harp",
                 "Staff"
             ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040231000_02.png",
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040231000_02.jpg",
             "type": "Defense",
             "va": [
                 "Yoshino Nanjo",
