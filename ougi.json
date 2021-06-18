@@ -4801,6 +4801,21 @@
                     "Massive Wind damage to a foe."
                 ]
             }
+        ],
+        "EARTH": [
+            {
+                "duration": {
+                  "2^t":[
+                    "<:status_6126_1_2:855527246633369630> **Spirit Blossom**"
+                  ]
+                },
+                "name": "Le Jardin De Joie",
+                "text": [
+                    "450% earth DMG to a foe.",
+                    "<:status_6126_1_2:855527246633369630> **Spirit Blossom** effect.",
+                    "2-turn cut to Lennah's skill cooldowns."
+                ]
+            }
         ]
     },
     "Leona": {
@@ -6152,6 +6167,20 @@
                 "name": "Heavenly Piercer",
                 "text": [
                     "1000% Wind damage to a foe (Damage cap: ~2,900,000).\nExtend <:Status_7072:832575753015001108> **Mana Flow**'s duration by 2 turns.\n(Can only be used during <:Status_7072:832575753015001108> **Mana Flow**.)\n"
+                ]
+            }
+        ]
+    },
+    "Nehan": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Blazing Purification",
+                "text": [
+                  "Restore 10% of light allies' HP (Healing cap: 2500)",
+                  "Remove 1 debuff from all allies.",
+                  "15% boost to all allies charge bars.",
+                  "3-turn cut to Nehan's skill cooldowns."
                 ]
             }
         ]

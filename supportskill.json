@@ -9871,6 +9871,33 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
+        ],
+        "EARTH": [
+            {
+                "duration": {},
+                "name": "Spirit Blossom Memories",
+                "text": [
+                    "Drain effect to earth allies against foes with <:Status_7176:855533866122215445> **Spirit Blossom effect** (Healing cap: 500) / 30,000 Supplemental DMG."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Wishes Which Bear Fruit",
+                "text": [
+                    "Chance to activate __Priere__ at end of turn (Chance increases based on number of allies' debuffs)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "25% base chance to activate __Priere__. Increases by 15% with each debuff. 100% activation chance at 5 debuffs.",
+                          "text": [
+                            "\u200b"
+                          ]
+                      }
+                    ]
+            }
         ]
     },
     "Leona": {
@@ -12732,6 +12759,30 @@
                 "name": "In Search of Peach Spring Valley",
                 "text": [
                     "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Lethal Attack Dodged (1 time)**.\nWhen Nectar is almost knocked out at end of turn: 100% boost to charge bar and end cooldown for Demon Purification (Consumes <:Status_7071:832575752808955904> **In Search of Peach Spring Valley**)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ]
+    },
+    "Nehan": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Morning Sunshine",
+                "text": [
+                    "20% hit to max HP / 30% hit to DEF / 30% boost to dodge rate / 6-hit light DMG to a foe upon dodging (Damage cap: ~100,000 per hit)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {
+                    "Indefinite^i": [
+                        "<:Status_Lethal_Attack_Dodged:832596749418889226> **Guts**"
+                    ]
+                },
+                "name": "Life Goes On",
+                "text": [
+                    "**When Nehan is a main ally at battle start**: <:Status_Lethal_Attack_Dodged:832596749418889226> **Guts** effect to all other light allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }

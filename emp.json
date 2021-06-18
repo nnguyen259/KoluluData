@@ -9353,6 +9353,29 @@
                 "healing",
                 "supportskill"
             ]
+        ],
+        "EARTH": [
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "debuffres"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "earthatk",
+                "cadmg"
+            ],
+            [
+                "def",
+                "skilldmgcap",
+                "cadmg",
+                "cadmgcap",
+                "lock"
+            ]
         ]
     },
     "Leona": {
@@ -11992,6 +12015,31 @@
                 "enmity",
                 "cadmgcap",
                 "chargebar",
+                "lock"
+            ]
+        ]
+    },
+    "Nehan": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "debuffres",
+                "oda",
+                "modebar"
+            ],
+            [
+                "atk",
+                "def",
+                "da",
+                "ta",
+                "lightatk"
+            ],
+            [
+                "da",
+                "ta",
+                "skilldmgcap",
+                "debuffres",
                 "lock"
             ]
         ]

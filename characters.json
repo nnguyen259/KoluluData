@@ -13061,6 +13061,38 @@
                 "Mamiko Noto"
             ],
             "weapon": "Far Away"
+        },
+        "EARTH": {
+            "5star": "No",
+            "atk": "6,800",
+            "element": "Earth",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,840",
+            "id": "3040340000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040340000_02.png",
+            "jpname": "\u30ec\u30ca",
+            "link": "https://gbf.wiki/Lennah_(Earth)",
+            "max_evo": "4",
+            "name": "Lennah",
+            "original": "Lennah_(Earth)",
+            "profile": "A lady who has walked a path tumultuous and cruel, she accepts the monstrous power at her core, choosing to use her magic to bring joy. For even the harshest of environments can give birth to the most beautiful of flowers, and rotting seeds be nurtured to blossom wholesome.",
+            "race": [
+                "Other"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040340000_02.png",
+            "type": "Balanced",
+            "va": [
+                "Mamiko Noto"
+            ],
+            "weapon": "Merveilleux"
         }
     },
     "Leona": {
@@ -16736,6 +16768,43 @@
                 "Yoshihisa Kawahara"
             ],
             "weapon": "Raijodo"
+        }
+    },
+    "Nehan": {
+        "BASE": {
+            "5star": "No",
+            "atk": "7,896",
+            "element": "Light",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,146",
+            "id": "3040341000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040341000_02.png",
+            "jpname": "\u30cd\u30cf\u30f3",
+            "link": "https://gbf.wiki/Nehan",
+            "max_evo": "4",
+            "name": "Nehan",
+            "original": "Nehan",
+            "profile": "Life must go on even for those who don't wish it. Surrendering himself to the vicissitudes of fate, he grasps the hand of someone he had once abandoned, unaware that this will lead to his own redemption.",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Flash Gala",
+            "series": [
+                "grand"
+            ],
+            "specialties": [
+                "Gun",
+                "Melee"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040341000_02.jpg",
+            "type": "Special",
+            "va": [
+                "Takashi Kondo"
+            ],
+            "weapon": "Radiant Rinne"
         }
     },
     "Nemone": {

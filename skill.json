@@ -388,7 +388,9 @@
                     "name": "Zweimal",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "300% Light damage to all foes (Damage cap: ~340,000).\nInflict <:Status_AttackDownStack:832581064017969162> **5% ATK Down (Stackable / Max: 40%)** and <:Status_DefenseDownStack:832588193722400818> **5% DEF Down (Stackable / Max: 40%)**.\n(Number of activations increased based on Aglovale's number of <:Status_Aurora_Crest:832580994745630741> **Aurora Crest** [Max: 6 times].)\n"
+                        "300% Light damage to all foes (Damage cap: ~340,000).",
+                        "Inflict <:Status_AttackDownStack:832581064017969162> **5% ATK Down (Stackable / Max: 40%)** and <:Status_DefenseDownStack:832588193722400818> **5% DEF Down (Stackable / Max: 40%)**.",
+                        "(Number of activations increased based on Aglovale's number of <:Status_Aurora_Crest:832580994745630741> **Aurora Crest** [Max: 6 times].)"
                     ],
                     "type": [
                         "1"
@@ -26875,6 +26877,78 @@
                     ]
                 }
             ]
+        ],
+        "EARTH": [
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_EarthDEFDownStack:845378621534371891> **10% Earth DEF down**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1482_1.png"
+                    ],
+                    "name": "Ville Fleurie",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "6-hit earth DMG to random foes (Damage cap: ~90,000 per hit).",
+                        "Inflict <:Status_EarthDEFDownStack:845378621534371891> **10% Earth DEF down** (Stackable / Max: 40%).",
+                        "(Activates twice when a foe has <:status_6126_1_2:855527246633369630> **Spirit Blossom** effect)"
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "4 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/3_2.png"
+                    ],
+                    "name": "Priere",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
+                    "text": [
+                        "Restore 10% of all allies' HP (Healing cap: 1000).",
+                        "Remove 1 debuff."
+                    ],
+                    "type": [
+                        "2"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1483_3.png"
+                    ],
+                    "name": "La Main Vert",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Absorb 10% of all allies' charge bars and boost caster's charge bar by 4 times the amount absorbed (Max: 120%)",
+                        "All allies gain <:Status_7176:855533866122215445> **La Main Vert**"
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "<:Status_7176:855533866122215445> **La Main Vert**:",
+                          "text": [
+                            "\u2022 Reduce all allies' DMG taken by 50%",
+                            "\u2022 1,000 boost to healing cap"
+                          ]
+                      }
+                    ]
+                }
+            ],
+            []
         ]
     },
     "Leona": {
@@ -34777,6 +34851,102 @@
                     "obtain": " Lvl 45 ",
                     "text": [
                         "Gain <:Status_7072:832575753015001108> **Mana Flow**.\nEnd cooldown for other skills.\n(Consumes 100% of charge bar.)\n"
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ]
+    },
+    "Nehan": {
+        "BASE": [
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_3121:855515094993731594> **Zen**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1486_3.png"
+                    ],
+                    "name": "Enlightenment",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "<:Status_3121:855515094993731594> **Zen** effect to all other light allies."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "<:Status_3121:855515094993731594> **Zen**:",
+                          "text": [
+                            "\u2022 **Unique** 30% ATK Up",
+                            "\u2022 50% Bonus Light damage",
+                            "\u2022 50,000 supplemental damage",
+                            "\u2022 100% hit to debuff resistance"
+                          ]
+                      }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_3122:855516111130067014> **Wolf Tonic**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1487_3.png"
+                    ],
+                    "name": "Six-Wolf Tonic",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "<:Status_3122:855516111130067014> **Wolf Tonic** effect to all other light allies."
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "<:Status_3122:855516111130067014> **Wolf Tonic**:",
+                          "text": [
+                            "\u2022 Guaranteed Triple attacks",
+                            "\u2022 100% Charge bar gain",
+                            "\u2022 30% Dodge rate up",
+                            "\u2022 70% hit to DEF"
+                          ]
+                      }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {
+                      "1^t":[
+                          "<:Status_Routine_Step:834403944415100928> **Double Strike**"
+                      ],
+                      "Indefinite^i":[
+                        "<:Status_Max_HP_Down_Stack:832597008178348092> **30% Max Hp Lowered**"
+                      ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1488_3.png"
+                    ],
+                    "name": "Nirvana",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "All other light allies gain <:Status_Routine_Step:834403944415100928> **Double Strike** .",
+                        "Inflict <:Status_Max_HP_Down_Stack:832597008178348092> **30% Max Hp Lowered** (Stackable / Max: 90% / Can't be removed)."
                     ],
                     "type": [
                         "3"
