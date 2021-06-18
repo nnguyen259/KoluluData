@@ -1755,7 +1755,7 @@
                         "title": "<:status_7026:832604284729294949> Enlightened One:",
                         "inLine": false,
                         "text": [
-                            "\u2022 Anre starts the battle with Status 7026.pngEnlightened One, which is consumed when its condition is met.",
+                            "\u2022 Anre starts the battle with <:status_7026:832604284729294949> **Enlightened One**, which is consumed when its condition is met.",
                             "\u2022 If Anre is revived (including <:Status_AutoRevive:832605672788066324> **Autorevive**), <:status_7026:832604284729294949> **Enlightened One** is restored and reusable again, even if it was used previously in battle.",
                             "\u2022 <:status_7026:832604284729294949> **Enlightened One** fully restores Anre's HP and removes all debuffs.",
                             "\u2022 The healing amount is affected by effects such as <:Status_Kailash:855241676204408853>**Kailash**."
@@ -1864,7 +1864,7 @@
                         "title": "<:status_7026:832604284729294949> Enlightened One:",
                         "inLine": false,
                         "text": [
-                            "\u2022 Anre starts the battle with Status 7026.pngEnlightened One, which is consumed when its condition is met.",
+                            "\u2022 Anre starts the battle with <:status_7026:832604284729294949> **Enlightened One**, which is consumed when its condition is met.",
                             "\u2022 If Anre is revived (including <:Status_AutoRevive:832605672788066324> **Autorevive**), <:status_7026:832604284729294949> **Enlightened One** is restored and reusable again, even if it was used previously in battle.",
                             "\u2022 <:status_7026:832604284729294949> **Enlightened One** fully restores Anre's HP and removes all debuffs.",
                             "\u2022 The healing amount is affected by effects such as <:Status_Kailash:855241676204408853>**Kailash**."
