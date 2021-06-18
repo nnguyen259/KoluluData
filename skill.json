@@ -26923,7 +26923,11 @@
             [
                 {
                     "cooldown": "12 turns",
-                    "duration": {},
+                    "duration": {
+                        "5^t": [
+                            "<:Status_7176:855533866122215445> **La Main Vert**"
+                        ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1483_3.png"
                     ],
