@@ -560,16 +560,16 @@
         "BASE": [
             {
                 "duration": {},
-                "name": "Cursed Blaze",
+                "name": "Raging Blaze",
                 "text": [
                     "Big Fire damage to a foe."
                 ]
             }
         ],
-        "SR": [
+        "R": [
             {
                 "duration": {},
-                "name": "Raging Blaze",
+                "name": "Cursed Blaze",
                 "text": [
                     "Big Fire damage to a foe."
                 ]
@@ -591,7 +591,8 @@
                 "duration": {},
                 "name": "Deterrent Thrust",
                 "text": [
-                    "Massive Water damage to a foe.\nRestore 2 <:Status_Spirit_Anne_1:832601294731476992> **Spirit** stacks."
+                    "Massive Water damage to a foe.",
+                    "Restore 2 <:Status_Spirit_Anne_1:832601294731476992> **Spirit** stacks."
                 ]
             }
         ]
@@ -610,7 +611,31 @@
                 },
                 "name": "True Spear: Righteous Annihilation",
                 "text": [
-                    "550% Water damage to a foe.\nInflict **Mode Bar Cut**.\nAll allies gain <:Status_Strength:832601501335289908> **Strength**, <:Status_Shield:832599448872943648> **Shield (2000)**, and <:Status_Drain:832590868321402890> **Drain**."
+                    "550% Water damage to a foe.\nInflict **Mode Bar Cut**.",
+                    "All allies gain <:Status_Strength:832601501335289908> **Strength**, <:Status_Shield:832599448872943648> **Shield (2000)**, and <:Status_Drain:832590868321402890> **Drain**."
+                ],
+                "data": [
+                    {
+                        "title": "Stage 1 Transcended Eternals have an increased charge attack damage cap of 2,300,000.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    },
+                    {
+                        "title": "<:Status_Strength:832601501335289908> Strength:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Above 50% HP, <:Status_Strength:832601501335289908> **Strength** is 20%. Below 50% HP, <:Status_Strength:832601501335289908> **Strength** decreases linearly until 10% at 0% HP."
+                        ]
+                    },
+                    {
+                        "title": "<:Status_Drain:832590868321402890> Drain: ",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 **Strength**: 10% of damage dealt (Healing cap: 1000)"
+                        ]
+                    }
                 ]
             }
         ],
@@ -634,6 +659,22 @@
                 "name": "Thousand-Spear Void",
                 "text": [
                     "500% Water damage to a foe.\nInflict **Mode Bar Cut**.\nAll allies gain <:Status_Strength:832601501335289908> **Strength** and <:Status_Shield:832599448872943648> **Shield (2000)**."
+                ],
+                "data": [
+                    {
+                        "title": "5\u2605 Eternals have an increased charge attack damage cap of 2,020,000.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    },
+                    {
+                        "title": "<:Status_Strength:832601501335289908> Strength:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Above 50% HP, <:Status_Strength:832601501335289908> **Strength** is 20%. Below 50% HP, <:Status_Strength:832601501335289908> **Strength** decreases linearly until 10% at 0% HP."
+                        ]
+                    }
                 ]
             }
         ]

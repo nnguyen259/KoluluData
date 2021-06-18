@@ -8,12 +8,20 @@
     "Aglovale": {},
     "Airi_Totoki": {},
     "Alanaan": {},
-    "Albert": {},
+    "Albert": {
+        "SR" : {
+            "version" : "EVENT"
+      }
+    },
     "Alec": {},
     "Aletheia": {},
     "Alexiel": {},
     "Alistair": {},
-    "Aliza": {},
+    "Aliza": {
+      "SR" : {
+          "version" : "EVENT"
+    }
+    },
     "Almeida": {},
     "Altair": {},
     "Amira": {},

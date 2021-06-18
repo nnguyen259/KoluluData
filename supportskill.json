@@ -1616,16 +1616,6 @@
         "BASE": [
             {
                 "duration": {},
-                "name": "Extended Mastery Support Skill",
-                "text": [
-                    "Fire damage and inflict <:Status_Burned:832584524088082433> **Burned** to all foes upon dodging."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
-            }
-        ],
-        "SR": [
-            {
-                "duration": {},
                 "name": "Fickle Nightmare",
                 "text": [
                     "Slight chance to dodge all foe attacks."
@@ -1639,6 +1629,38 @@
                     "Boost to skill DMG cap when HP is full"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "R": [
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Fire damage and inflict <:Status_Burned:832584524088082433> **Burned** to all foes upon dodging."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "\u2022 Dodges through <:Status_Mirror_Image:832597008539058187> **Mirror Image** do not count.",
+                          "\u2022 The damage is considered skill damage and is affected by Skill DMG Cap increases.",
+                          "\u2022 Inflicted <:Status_Burned:832584524088082433> **Burned** is the same for all ranks.",
+                          "```",
+                          "╔══════╦════════╦════════════╗",
+                          "║ Rank ║ Damage ║ Damage Cap ║",
+                          "╠══════╬════════╬════════════╣",
+                          "║   1  ║   ?%   ║  ~160,000  ║",
+                          "╠══════╬════════╬════════════╣",
+                          "║   2  ║   ?%   ║  ~300,000  ║",
+                          "╠══════╬════════╬════════════╣",
+                          "║   3  ║  400%  ║  ~480,000  ║",
+                          "╚══════╩════════╩════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
             }
         ],
         "SUMMER": [
@@ -1658,9 +1680,20 @@
                 "duration": {},
                 "name": "Protector of the Academy",
                 "text": [
-                    "More likely to be attacked.\n30% boost to ATK and DEF when Anne has <:Status_Spirit_Anne_1:832601294731476992> **Spirit** (Max: 3).\nStarts battle with 3 <:Status_Spirit_Anne_1:832601294731476992> **Spirit**."
+                    "More likely to be attacked.",
+                    "30% boost to ATK and DEF when Anne has <:Status_Spirit_Anne_1:832601294731476992> **Spirit** (Max: 3).",
+                    "Starts battle with 3 <:Status_Spirit_Anne_1:832601294731476992> **Spirit**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "title": "<:Status_Spirit_Anne_1:832601294731476992> is fully restored upon being revived.\nIn a 4-man party, the probability she gets targeted is 40% (Hostility increased by +10).",
+                      "inLine": false,
+                      "text": [
+                          "\u200b"
+                      ]
+                  }
+              ]
             },
             {
                 "duration": {
@@ -1680,7 +1713,26 @@
                 "text": [
                     "Boost to DEF and hostility."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "```",
+                          "╔══════╦════════╦══════════════╗",
+                          "║ Rank ║ DEF Up ║ Hostility Up ║",
+                          "╠══════╬════════╬══════════════╣",
+                          "║   1  ║   5%   ║      +?      ║",
+                          "╠══════╬════════╬══════════════╣",
+                          "║   2  ║   8%   ║      +?      ║",
+                          "╠══════╬════════╬══════════════╣",
+                          "║   3  ║   10%  ║      +?      ║",
+                          "╚══════╩════════╩══════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
             }
         ]
     },
@@ -1695,9 +1747,21 @@
                 },
                 "name": "Enlightened One",
                 "text": [
-                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**.\nAlso starts battle with <:status_7026:832604284729294949> **Enlightened One**."
+                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)** and <:status_7026:832604284729294949> **Enlightened One**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "<:status_7026:832604284729294949> Enlightened One:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Anre starts the battle with Status 7026.pngEnlightened One, which is consumed when its condition is met.",
+                            "\u2022 If Anre is revived (including <:Status_AutoRevive:832605672788066324> **Autorevive**), <:status_7026:832604284729294949> **Enlightened One** is restored and reusable again, even if it was used previously in battle.",
+                            "\u2022 <:status_7026:832604284729294949> **Enlightened One** fully restores Anre's HP and removes all debuffs.",
+                            "\u2022 The healing amount is affected by effects such as <:Status_Kailash:855241676204408853>**Kailash**."
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1705,7 +1769,16 @@
                 "text": [
                     "Amplify damage against Fire foes by 20%."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "This does not stack with __Wand of Gabriel__'s Blessing weapon skill.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1729,36 +1802,38 @@
                 "text": [
                     "Chance to Substitute for another ally with the lowest HP."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════╗",
+                            "║ Rank ║ Chance ║",
+                            "╠══════╬════════╣",
+                            "║   1  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   2  ║   ?%   ║",
+                            "╠══════╬════════╣",
+                            "║   3  ║  100%  ║",
+                            "╚══════╩════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
             {
                 "duration": {
                     "Indefinite^i": [
-                        "<:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**",
-                        "<:status_7026:832604284729294949> **Enlightened One**"
+                        "<:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**"
                     ]
                 },
                 "name": "Enlightened One",
                 "text": [
-                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**.\nAlso starts battle with <:status_7026:832604284729294949> **Enlightened One**."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Rakshasan Spear",
-                "text": [
-                    "Amplify damage against Fire foes by 20%."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Indestructible Shield",
-                "text": [
-                    "Caps incoming Fire damage at 10,000 per hit."
+                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1767,14 +1842,6 @@
                 "name": "Extended Mastery Support Skill",
                 "text": [
                     "Boost to skill-sealing debuff resistance."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Transcendence Extended Mastery Support Skill",
-                "text": [
-                    "Chance to Substitute for another ally with the lowest HP."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
@@ -1789,9 +1856,21 @@
                 },
                 "name": "Enlightened One",
                 "text": [
-                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**.\nAlso starts battle with <:status_7026:832604284729294949> **Enlightened One**."
+                    "Starts battle with <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)** and <:status_7026:832604284729294949> **Enlightened One**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "<:status_7026:832604284729294949> Enlightened One:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Anre starts the battle with Status 7026.pngEnlightened One, which is consumed when its condition is met.",
+                            "\u2022 If Anre is revived (including <:Status_AutoRevive:832605672788066324> **Autorevive**), <:status_7026:832604284729294949> **Enlightened One** is restored and reusable again, even if it was used previously in battle.",
+                            "\u2022 <:status_7026:832604284729294949> **Enlightened One** fully restores Anre's HP and removes all debuffs.",
+                            "\u2022 The healing amount is affected by effects such as <:Status_Kailash:855241676204408853>**Kailash**."
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1799,15 +1878,16 @@
                 "text": [
                     "Amplify damage against Fire foes by 20%."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Indestructible Shield",
-                "text": [
-                    "Caps incoming Fire damage at 10,000 per hit."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "This does not stack with __Wand of Gabriel__'s Blessing weapon skill.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -1816,14 +1896,6 @@
                     "Boost to skill-sealing debuff resistance."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Transcendence Extended Mastery Support Skill",
-                "text": [
-                    "Chance to Substitute for another ally with the lowest HP."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
         ]
     },

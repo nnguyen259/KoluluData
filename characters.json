@@ -1398,38 +1398,6 @@
     "Anna": {
         "BASE": {
             "5star": "No",
-            "atk": "4,800",
-            "element": "Fire",
-            "gender": [
-                "Female"
-            ],
-            "hp": "640",
-            "id": "3020008000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3020008000_01.png",
-            "jpname": "\u30a2\u30f3\u30ca",
-            "link": "https://gbf.wiki/Anna",
-            "max_evo": "3",
-            "name": "Anna",
-            "original": "Anna",
-            "profile": "This witch always wanted to chat, but no one would set foot in her dark, mysterious forest. So one day she became best friends with a giant stuffed animal.",
-            "race": [
-                "Human"
-            ],
-            "rarity": "R",
-            "recruitment": "Premium Draw",
-            "series": [],
-            "specialties": [
-                "Staff"
-            ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3020008000_01.jpg",
-            "type": "Attack",
-            "va": [
-                "Yuka Inokuchi"
-            ],
-            "weapon": "Feather Wand"
-        },
-        "SR": {
-            "5star": "No",
             "atk": "7,500",
             "element": "Fire",
             "gender": [
@@ -1459,6 +1427,38 @@
                 "Yuka Inokuchi"
             ],
             "weapon": "Witch's Broom"
+        },
+        "R": {
+            "5star": "No",
+            "atk": "4,800",
+            "element": "Fire",
+            "gender": [
+                "Female"
+            ],
+            "hp": "640",
+            "id": "3020008000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3020008000_01.png",
+            "jpname": "\u30a2\u30f3\u30ca",
+            "link": "https://gbf.wiki/Anna",
+            "max_evo": "3",
+            "name": "Anna",
+            "original": "Anna",
+            "profile": "This witch always wanted to chat, but no one would set foot in her dark, mysterious forest. So one day she became best friends with a giant stuffed animal.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "R",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3020008000_01.jpg",
+            "type": "Attack",
+            "va": [
+                "Yuka Inokuchi"
+            ],
+            "weapon": "Feather Wand"
         },
         "SUMMER": {
             "5star": "No",
@@ -1533,12 +1533,12 @@
     "Anre": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,911",
+            "atk": "10,411",
             "element": "Water",
             "gender": [
                 "Male"
             ],
-            "hp": "1,911",
+            "hp": "2,311",
             "id": "3040030000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040030000_04.png",
             "jpname": "\u30a6\u30fc\u30ce",
