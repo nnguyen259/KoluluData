@@ -1707,12 +1707,12 @@
     "Anzu_Futaba": {
         "BASE": {
             "5star": "Yes",
-            "atk": "5,150",
+            "atk": "6,180",
             "element": "Earth",
             "gender": [
                 "Female"
             ],
-            "hp": "910",
+            "hp": "1,100",
             "id": "3030071000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030071000_03.png",
             "jpname": "\u53cc\u8449\u674f",
@@ -1777,12 +1777,12 @@
     "Aoidos": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,400",
+            "atk": "9,980",
             "element": "Fire",
             "gender": [
                 "Male"
             ],
-            "hp": "1,440",
+            "hp": "1,710",
             "id": "3040076000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040076000_03.png",
             "jpname": "\u30a2\u30aa\u30a4\u30c9\u30b9",

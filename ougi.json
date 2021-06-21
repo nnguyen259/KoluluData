@@ -685,7 +685,8 @@
                 "duration": {},
                 "name": "Rosso Passione",
                 "text": [
-                    "450% Fire damage to a foe.\nActivate Dance of Delirium."
+                    "450% Fire damage to a foe.",
+                    "Activate Dance of Delirium."
                 ]
             }
         ],
@@ -694,7 +695,8 @@
                 "duration": {},
                 "name": "Passione Perpetua",
                 "text": [
-                    "450% Dark damage to a foe.\nExtend <:Status_Ardent_Dance:832605624830656564> **Ardent Dance**'s duration by 3 turns."
+                    "450% Dark damage to a foe.",
+                    "Extend <:Status_Ardent_Dance:832605624830656564> **Ardent Dance**'s duration by 3 turns."
                 ]
             }
         ]
@@ -709,7 +711,8 @@
                 },
                 "name": "Kirari's Got It! ++",
                 "text": [
-                    "Massive Kirari Moroboshi to a foe.\nGain <:Status_TripleUp:832601877920350218> **100% TA Up** if used after Spoil Me."
+                    "Massive Kirari Moroboshi to a foe.",
+                    "Gain <:Status_TripleUp:832601877920350218> **100% TA Up** if used after __Spoil Me__."
                 ]
             }
         ],
@@ -722,7 +725,8 @@
                 },
                 "name": "Kirari's Got It!",
                 "text": [
-                    "Big Kirari Moroboshi to a foe.\nGain <:Status_DoubleUp:832590867734724618> **100% DA Up** if used after Spoil Me."
+                    "Big Kirari Moroboshi to a foe",
+                    "nGain <:Status_DoubleUp:832590867734724618> **100% DA Up** if used after __Spoil Me__."
                 ]
             }
         ]
@@ -733,7 +737,8 @@
                 "duration": {},
                 "name": "Heavens o' Misery",
                 "text": [
-                    "500% Fire damage to a foe.\nExtend the duration of <:Status_Hype1:832594542321598505> **Hype** on all Fire allies by 2 turns."
+                    "500% Fire damage to a foe.",
+                    "Extend the duration of <:Status_Hype1:832594542321598505> **Hype** on all Fire allies by 2 turns."
                 ]
             }
         ],
@@ -742,7 +747,8 @@
                 "duration": {},
                 "name": "Heavens On Fire",
                 "text": [
-                    "450% Fire damage to a foe.\nExtend the duration of <:Status_Hype1:832594542321598505> **Hype** on Aoidos by 2 turns."
+                    "450% Fire damage to a foe.",
+                    "Extend the duration of <:Status_Hype1:832594542321598505> **Hype** on Aoidos by 2 turns."
                 ]
             }
         ]

@@ -32,7 +32,11 @@
     "Anna": {},
     "Anne": {},
     "Anre": {},
-    "Anthuria": {},
+    "Anthuria": {
+      "Summer" : {
+          "version" : "YUKATA"
+    }
+    },
     "Anzu_Futaba": {},
     "Aoidos": {},
     "Aqours_First-Years": {},

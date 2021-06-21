@@ -4039,7 +4039,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Dodge:832590866341298236> **60% Dodge Rate Up**",
@@ -4059,12 +4059,21 @@
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                        {
+                            "title": "The <:Status_AggroUpArrow:832576432018030592> Hostility Up increases the chance for her to be targeted to around 70% in a 4-man party (Hostility increased by +60).",
+                            "inLine": false,
+                            "text": [
+                                "\u200b"
+                            ]
+                        }
+                      ]
                 }
             ],
             [
                 {
-                    "cooldown": "1 turn0 turns",
+                    "cooldown": "0 turns",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_Quick_Tap:832599001479905361> **Quick Tap**",
@@ -4083,7 +4092,16 @@
                     "type": [
                         "3",
                         "3"
-                    ]
+                    ],
+                    "data": [
+                        {
+                            "title": "Anthuria always starts with <:Status_Quick_Tap:832599001479905361> Quick Tap active.",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 Dodges through <:Status_Mirror_Image:832597008539058187> **Mirror Image** or <:Status_Counter:832587321567477780> **Counters on Dodge** do not count for <:Status_Quick_Tap:832599001479905361> **Quick Tap** and <:Status_Silent_Tap:832599449523453992> **Silent Tap**."
+                            ]
+                        }
+                      ]
                 }
             ],
             [
@@ -4116,7 +4134,7 @@
         "YUKATA": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Ardent_Dance:832605624830656564> **Ardent Dance**",
@@ -4134,12 +4152,28 @@
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                  {
+                      "title": "<:Status_Ardent_Dance:832605624830656564> Ardent Dance grants the following effects:",
+                      "inLine": false,
+                      "text": [
+                          "\u2022 20% DEF Up",
+                          "\u2022 20% DA Up",
+                          "\u2022 10% TA Up",
+                          "\u2022 30% C.A. DMG Up",
+                          "\u2022 5% C.A. DMG Cap Up",
+                          "\u200b",
+                          "\u2022 In a 4-man party, <:Status_AggroUpArrow:832576432018030592> **Hostility Up** increases the chance she gets targeted to about 60% (Hostility increased by +35).",
+                          "\u2022 Only Anthuria gains <:Status_Ardent_Dance:832605624830656564> **Ardent Dance**, but it still affects all Dark allies."
+                      ]
+                  }
+              ]
                 }
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Uplift:832602899460521994> **10% Uplifted**",
@@ -4153,7 +4187,9 @@
                     "name": "Flowering Lily",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "All allies gain <:Status_Uplift:832602899460521994> **10% Uplifted** and <:Status_Hype1:832594542321598505> **Hype**.\n(When <:Status_Ardent_Dance:832605624830656564> **Ardent Dance** is in effect: All allies also gain <:Status_Strength:832601501335289908> **Strength**.)\n"
+                        "All allies gain <:Status_Uplift:832602899460521994> **10% Uplifted** and <:Status_Hype1:832594542321598505> **Hype**.",
+                        "**When <:Status_Ardent_Dance:832605624830656564> Ardent Dance is in effect**:",
+                        "All allies also gain <:Status_Strength:832601501335289908> **Strength**."
                     ],
                     "type": [
                         "3"
@@ -4188,10 +4224,9 @@
         "BASE": [
             [
                 {
-                    "cooldown": "9 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Shield:832599448872943648> **Shield (300)**",
                             "<:Status_Shield:832599448872943648> **Shield (500)**"
                         ]
                     },
@@ -4201,16 +4236,26 @@
                     "name": "Lazy Magic",
                     "obtain": " Lvl 2\u21e7 Lvl 45 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_Shield:832599448872943648> **Shield (300)**.\n.\nBuff increased to <:Status_Shield:832599448872943648> **Shield (500)**."
+                        "All allies gain <:Status_Shield:832599448872943648> **Shield (500)**.",
+                        "Kirari can be summoned."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                  {
+                      "title": "Resets the cooldown of both Kirari Moroboshi and Kirari summons.",
+                      "inLine": false,
+                      "text": [
+                          "\u200b"
+                      ]
+                  }
+              ]
                 }
             ],
             [
                 {
-                    "cooldown": "10 turns9 turns",
+                    "cooldown": "9 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **10% ATK Up**"
@@ -4222,7 +4267,8 @@
                     "name": "Gimme Candy!",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nAll allies gain <:Status_AttackUp:832581064555364362> **10% ATK Up**."
+                        "Remove 1 buff from a foe.",
+                        "All allies gain <:Status_AttackUp:832581064555364362> **10% ATK Up**."
                     ],
                     "type": [
                         "4"
@@ -4246,7 +4292,8 @@
                     "name": "Spoil Me",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Inflict <:Status_AttackDown:832581064211955722> **15% ATK Down** on a foe.\nGain <:Status_AttackUp:832581064555364362> **ATK Up**."
+                        "Inflict <:Status_AttackDown:832581064211955722> **15% ATK Down** on a foe.",
+                        "Gain <:Status_AttackUp:832581064555364362> **ATK Up**."
                     ],
                     "type": [
                         "4"
@@ -4258,11 +4305,10 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": "9 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Shield:832599448872943648> **Shield (300)**",
-                            "<:Status_Shield:832599448872943648> **Shield (500)**"
+                            "<:Status_Shield:832599448872943648> **Shield (300)**"
                         ]
                     },
                     "icon": [
@@ -4271,16 +4317,26 @@
                     "name": "Lazy Magic",
                     "obtain": " Lvl 2\u21e7 Lvl 45 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_Shield:832599448872943648> **Shield (300)**.\n.\nBuff increased to <:Status_Shield:832599448872943648> **Shield (500)**."
+                        "All allies gain <:Status_Shield:832599448872943648> **Shield (300)**.",
+                        "Kirari can be summoned."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                  {
+                      "title": "Resets the cooldown of both Kirari Moroboshi and Kirari summons.",
+                      "inLine": false,
+                      "text": [
+                          "\u200b"
+                      ]
+                  }
+              ]
                 }
             ],
             [
                 {
-                    "cooldown": "10 turns9 turns",
+                    "cooldown": "9 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **10% ATK Up**"
@@ -4292,7 +4348,8 @@
                     "name": "Gimme Candy!",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nAll allies gain <:Status_AttackUp:832581064555364362> **10% ATK Up**."
+                        "Remove 1 buff from a foe.",
+                        "All allies gain <:Status_AttackUp:832581064555364362> **10% ATK Up**."
                     ],
                     "type": [
                         "4"
@@ -4316,7 +4373,8 @@
                     "name": "Spoil Me",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Inflict <:Status_AttackDown:832581064211955722> **15% ATK Down** on a foe.\nGain <:Status_AttackUp:832581064555364362> **ATK Up**."
+                        "Inflict <:Status_AttackDown:832581064211955722> **15% ATK Down** on a foe.",
+                        "Gain <:Status_AttackUp:832581064555364362> **ATK Up**."
                     ],
                     "type": [
                         "4"
@@ -4330,7 +4388,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Hype1:832594542321598505> **Hype**",
@@ -4343,36 +4401,81 @@
                     "name": "Judgment Night",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "Gain <:Status_Hype1:832594542321598505> **Hype**.\nAlso gain <:Status_DamageCapUp:832587990952837160> **DMG Cap Up** based on <:Status_Hype1:832594542321598505> **Hype** lvl.\nWhen Aoidos's <:Status_Hype1:832594542321598505> **Hype** is at 4: All other allies also gain <:Status_Hype1:832594542321598505> **Hype**."
+                        "Gain <:Status_Hype1:832594542321598505> **Hype** and <:Status_DamageCapUp:832587990952837160> **DMG Cap Up** based on <:Status_Hype1:832594542321598505> **Hype** lvl.",
+                        "**When Aoidos's <:Status_Hype1:832594542321598505> Hype is at 4**:",
+                        "All other allies also gain <:Status_Hype1:832594542321598505> **Hype**."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "```",
+                          "╔═════╦════════════╗",
+                          "║ Lvl ║ DMG Cap Up ║",
+                          "╠═════╬════════════╣",
+                          "║  0  ║     5%     ║",
+                          "╠═════╬════════════╣",
+                          "║  1  ║     10%    ║",
+                          "╠═════╬════════════╣",
+                          "║  2  ║     15%    ║",
+                          "╠═════╬════════════╣",
+                          "║  3  ║     20%    ║",
+                          "╠═════╬════════════╣",
+                          "║  4  ║     25%    ║",
+                          "╚═════╩════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
                 }
             ],
             [
                 {
-                    "cooldown": "11 turns10 turns",
+                    "cooldown": "10 turns",
                     "duration": {
                         "6^t": [
                             "<:Status_DoubleUp:832590867734724618> **100% DA Up**",
-                            "<:Status_TripleUp:832601877920350218> **30~35% TA Up**",
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
                             "<:Status_TripleUp:832601877920350218> **TA Up**"
                         ]
                     },
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/2_3.png",
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1182_3.png"
                     ],
                     "name": "Bloody Garden",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "Gain <:Status_DoubleUp:832590867734724618> **100% DA Up**, <:Status_TripleUp:832601877920350218> **30~35% TA Up**, and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nNo longer gain <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nBoost to <:Status_TripleUp:832601877920350218> **TA Up**'s strength based on <:Status_Hype1:832594542321598505> **Hype** lvl."
+                        "Gain <:Status_DoubleUp:832590867734724618> **100% DA Up**, <:Status_TripleUp:832601877920350218> **30~35% TA Up**",
+                        "Boost to <:Status_TripleUp:832601877920350218> **TA Up**'s strength based on <:Status_Hype1:832594542321598505> **Hype** lvl."
                     ],
                     "type": [
-                        "3",
                         "3"
+                    ],
+                    "data": [
+                      {
+                          "title": "\u200b",
+                          "inLine": false,
+                          "text": [
+                              "```",
+                              "╔═════╦════════╗",
+                              "║ Lvl ║  TA Up ║",
+                              "╠═════╬════════╣",
+                              "║  0  ║ 30~35% ║",
+                              "╠═════╬════════╣",
+                              "║  1  ║        ║",
+                              "╠═════╬════════╣",
+                              "║  2  ║        ║",
+                              "╠═════╬════════╣",
+                              "║  3  ║        ║",
+                              "╠═════╬════════╣",
+                              "║  4  ║  100%  ║",
+                              "╚═════╩════════╝",
+                              "```"
+                          ]
+                      }
                     ]
                 }
             ],
@@ -4402,11 +4505,10 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_Hype1:832594542321598505> **Hype**",
-                            "<:Status_DamageCapUp:832587990952837160> **DMG Cap Up**"
+                            "<:Status_Hype1:832594542321598505> **Hype**"
                         ]
                     },
                     "icon": [
@@ -4415,7 +4517,7 @@
                     "name": "Judgment Night",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "Gain <:Status_Hype1:832594542321598505> **Hype**.\nAlso gain <:Status_DamageCapUp:832587990952837160> **DMG Cap Up** based on <:Status_Hype1:832594542321598505> **Hype** lvl.\nWhen Aoidos's <:Status_Hype1:832594542321598505> **Hype** is at 4: All other allies also gain <:Status_Hype1:832594542321598505> **Hype**."
+                        "Gain <:Status_Hype1:832594542321598505> **Hype**."
                     ],
                     "type": [
                         "3"
@@ -4424,13 +4526,12 @@
             ],
             [
                 {
-                    "cooldown": "11 turns10 turns",
+                    "cooldown": "10 turns",
                     "duration": {
                         "6^t": [
                             "<:Status_DoubleUp:832590867734724618> **100% DA Up**",
                             "<:Status_TripleUp:832601877920350218> **30~35% TA Up**",
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
-                            "<:Status_TripleUp:832601877920350218> **TA Up**"
+                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**"
                         ]
                     },
                     "icon": [
@@ -4440,7 +4541,7 @@
                     "name": "Bloody Garden",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 90 ",
                     "text": [
-                        "Gain <:Status_DoubleUp:832590867734724618> **100% DA Up**, <:Status_TripleUp:832601877920350218> **30~35% TA Up**, and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nNo longer gain <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nBoost to <:Status_TripleUp:832601877920350218> **TA Up**'s strength based on <:Status_Hype1:832594542321598505> **Hype** lvl."
+                        "Gain <:Status_DoubleUp:832590867734724618> **100% DA Up**, <:Status_TripleUp:832601877920350218> **30~35% TA Up**, and <:Status_AggroUpArrow:832576432018030592> **Hostility Up**."
                     ],
                     "type": [
                         "3",

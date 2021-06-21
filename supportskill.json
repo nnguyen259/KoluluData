@@ -1909,7 +1909,9 @@
                 },
                 "name": "Quick Step",
                 "text": [
-                    "Upon dodging while <:Status_Quick_Tap:832599001479905361> **Quick Tap** is in effect:Extend the duration of <:Status_Hype1:832594542321598505> **Hype** on all allies by 1 turn.\nAll allies gain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)**."
+                    "**Upon dodging while <:Status_Quick_Tap:832599001479905361> Quick Tap is in effect**:",
+                    "Extend the duration of <:Status_Hype1:832594542321598505> **Hype** on all allies by 1 turn.",
+                    "All allies gain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1921,7 +1923,9 @@
                 },
                 "name": "Silent Step",
                 "text": [
-                    "Upon dodging while <:Status_Silent_Tap:832599449523453992> **Silent Tap** is in effect:Restore all allies' HP (Healing cap: 1500).\nAll allies gain <:Status_DefenseUpStack:832588448413122560> **10% DEF Up (Stackable / Max: 50%)**."
+                    "**Upon dodging while <:Status_Silent_Tap:832599449523453992> Silent Tap is in effect**:",
+                    "Restore all allies' HP (Healing cap: 1500).",
+                    "All allies gain <:Status_DefenseUpStack:832588448413122560> **10% DEF Up (Stackable / Max: 50%)**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1935,7 +1939,26 @@
                 "text": [
                     "Gain <:Status_AttackUpStack:832581064383791144> **ATK Up (Stackable / Max: 30%)** upon dodging."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════════╗",
+                            "║ Rank ║ Stackable ATK ║",
+                            "╠══════╬═══════════════╣",
+                            "║   1  ║       5%      ║",
+                            "╠══════╬═══════════════╣",
+                            "║   2  ║       8%      ║",
+                            "╠══════╬═══════════════╣",
+                            "║   3  ║      10%      ║",
+                            "╚══════╩═══════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "YUKATA": [
@@ -1943,7 +1966,9 @@
                 "duration": {},
                 "name": "Steamy Journey",
                 "text": [
-                    "20% boost to Anthuria's dodge rate.\n(Upon dodging: Restore 20% of all allies' HP [Healing cap: 1800] and remove 1 debuff.)\n"
+                    "20% boost to Anthuria's dodge rate.",
+                    "**Upon dodging**:",
+                    "Restore 20% of all allies' HP (Healing cap: 1800) and remove 1 debuff."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -1961,7 +1986,26 @@
                 "text": [
                     "Slight chance to dodge all attacks from foes."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "```",
+                          "╔══════╦════════════╗",
+                          "║ Rank ║ Dodge Rate ║",
+                          "╠══════╬════════════╣",
+                          "║   1  ║     5%     ║",
+                          "╠══════╬════════════╣",
+                          "║   2  ║     8%     ║",
+                          "╠══════╬════════════╣",
+                          "║   3  ║     10%    ║",
+                          "╚══════╩════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
             }
         ]
     },
@@ -1989,7 +2033,26 @@
                 "text": [
                     "Chance to inflict <:Status_AttackDownStack:832581064017969162> **5% ATK Down (Stackable / Max: 10%)** with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "```",
+                          "╔══════╦══════════╦═════════════╗",
+                          "║ Rank ║ ATK Down ║ Probability ║",
+                          "╠══════╬══════════╬═════════════╣",
+                          "║   1  ║          ║      ?%     ║",
+                          "╠══════╣          ╠═════════════╣",
+                          "║   2  ║    5%    ║      ?%     ║",
+                          "╠══════╣          ╠═════════════╣",
+                          "║   3  ║          ║     10%     ║",
+                          "╚══════╩══════════╩═════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
             }
         ],
         "BASE_4": [
@@ -2015,7 +2078,26 @@
                 "text": [
                     "Chance to inflict <:Status_AttackDownStack:832581064017969162> **5% ATK Down (Stackable / Max: 10%)** with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                  {
+                      "title": "\u200b",
+                      "inLine": false,
+                      "text": [
+                          "```",
+                          "╔══════╦══════════╦═════════════╗",
+                          "║ Rank ║ ATK Down ║ Probability ║",
+                          "╠══════╬══════════╬═════════════╣",
+                          "║   1  ║          ║      ?%     ║",
+                          "╠══════╣          ╠═════════════╣",
+                          "║   2  ║    5%    ║      ?%     ║",
+                          "╠══════╣          ╠═════════════╣",
+                          "║   3  ║          ║     10%     ║",
+                          "╚══════╩══════════╩═════════════╝",
+                          "```"
+                      ]
+                  }
+              ]
             }
         ]
     },
@@ -2027,15 +2109,60 @@
                 "text": [
                     "Bonus Fire DMG effect to all allies based on their <:Status_Hype1:832594542321598505> **Hype** lvl."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔═════╦════════════════╗",
+                        "║ Lvl ║ Bonus Fire DMG ║",
+                        "╠═════╬════════════════╣",
+                        "║  1  ║       5%       ║",
+                        "╠═════╬════════════════╣",
+                        "║  2  ║       10%      ║",
+                        "╠═════╬════════════════╣",
+                        "║  3  ║       15%      ║",
+                        "╠═════╬════════════════╣",
+                        "║  4  ║       20%      ║",
+                        "╚═════╩════════════════╝",
+                        "```"
+                    ]
+                }
+              ]
             },
             {
                 "duration": {},
                 "name": "Absolute Wall",
                 "text": [
-                    "Boost to all allies' DEF based on their <:Status_Hype1:832594542321598505> **Hype** lvl.\nWhen an ally has <:Status_Hype1:832594542321598505> **Hype** lvl 4: Effects that remove buffs will be nullified.\n(Consumes <:Status_Hype4:832594542448214076> **Hype** upon nullifying a buff removal effect.)\n"
+                    "Boost to all allies' DEF based on their <:Status_Hype1:832594542321598505> **Hype** lvl.",
+                    "**When an ally has <:Status_Hype1:832594542321598505> Hype lvl 4**:",
+                    "Effects that remove buffs will be nullified.",
+                    "Consumes <:Status_Hype4:832594542448214076> **Hype** upon nullifying a buff removal effect."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+              {
+                  "title": "\u200b",
+                  "inLine": false,
+                  "text": [
+                      "```",
+                      "╔═════╦════════╗",
+                      "║ Lvl ║ DEF Up ║",
+                      "╠═════╬════════╣",
+                      "║  1  ║   10%  ║",
+                      "╠═════╬════════╣",
+                      "║  2  ║   20%  ║",
+                      "╠═════╬════════╣",
+                      "║  3  ║   30%  ║",
+                      "╠═════╬════════╣",
+                      "║  4  ║   40%  ║",
+                      "╚═════╩════════╝",
+                      "```"
+                  ]
+                }
+              ]
             },
             {
                 "duration": {
@@ -2045,9 +2172,28 @@
                 },
                 "name": "Extended Mastery Support Skill",
                 "text": [
-                    "Chance to boost <:Status_Hype1:832594542321598505> **Hype** with every one-foe attack"
+                    "Chance to boost <:Status_Hype1:832594542321598505> **Hype** with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔══════╦════════╗",
+                        "║ Rank ║ Chance ║",
+                        "╠══════╬════════╣",
+                        "║   1  ║   3%   ║",
+                        "╠══════╬════════╣",
+                        "║   2  ║   4%   ║",
+                        "╠══════╬════════╣",
+                        "║   3  ║   5%   ║",
+                        "╚══════╩════════╝",
+                        "```"
+                    ]
+                }
+              ]
             }
         ],
         "BASE_4": [
@@ -2057,15 +2203,28 @@
                 "text": [
                     "Bonus Fire DMG effect to all allies based on their <:Status_Hype1:832594542321598505> **Hype** lvl."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Absolute Wall",
-                "text": [
-                    "Boost to all allies' DEF based on their <:Status_Hype1:832594542321598505> **Hype** lvl.\nWhen an ally has <:Status_Hype1:832594542321598505> **Hype** lvl 4: Effects that remove buffs will be nullified.\n(Consumes <:Status_Hype4:832594542448214076> **Hype** upon nullifying a buff removal effect.)\n"
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔═════╦════════════════╗",
+                        "║ Lvl ║ Bonus Fire DMG ║",
+                        "╠═════╬════════════════╣",
+                        "║  1  ║       5%       ║",
+                        "╠═════╬════════════════╣",
+                        "║  2  ║       10%      ║",
+                        "╠═════╬════════════════╣",
+                        "║  3  ║       15%      ║",
+                        "╠═════╬════════════════╣",
+                        "║  4  ║       20%      ║",
+                        "╚═════╩════════════════╝",
+                        "```"
+                    ]
+                }
+              ]
             },
             {
                 "duration": {
@@ -2075,9 +2234,28 @@
                 },
                 "name": "Extended Mastery Support Skill",
                 "text": [
-                    "Chance to boost <:Status_Hype1:832594542321598505> **Hype** with every one-foe attack"
+                    "Chance to boost <:Status_Hype1:832594542321598505> **Hype** with every one-foe attack."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔══════╦════════╗",
+                        "║ Rank ║ Chance ║",
+                        "╠══════╬════════╣",
+                        "║   1  ║   3%   ║",
+                        "╠══════╬════════╣",
+                        "║   2  ║   4%   ║",
+                        "╠══════╬════════╣",
+                        "║   3  ║   5%   ║",
+                        "╚══════╩════════╝",
+                        "```"
+                    ]
+                }
+              ]
             }
         ]
     },
