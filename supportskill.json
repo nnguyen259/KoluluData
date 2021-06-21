@@ -2419,9 +2419,82 @@
                 "duration": {},
                 "name": "Goddess of the Shield",
                 "text": [
-                    "<:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl rises by 1 upon being targeted by a foe (Max: 5).\nTetradrachm's hit number increases by 1.\n(Tetradrachm activates upon being targeted by a foe when Goddess's Wrath lvl is 5.)\n"
+                    "<:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl rises by 1 upon being targeted by a foe (Max: 5).",
+                    "Tetradrachm's hit number increases by 1.",
+                    "Tetradrachm activates upon being targeted by a foe when Goddess's Wrath lvl is 5."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Gains only 1 <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl, even when targeted multiple times in a single turn.",
+                            "\u2022 Auto-activates the skill __**Tetradrachm**__ if Athena has <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl 5 and is targeted by a foe during the attack phase.",
+                            "\u2022 Activates even if it is on cooldown, and does not put it on cooldown if it's not already.",
+                            "\u2022 <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** does not reset upon activation."
+                        ]
+                    }
+                ]
+            },
+            {
+                "duration": {},
+                "name": "Searing Crimson",
+                "text": [
+                    "30% boost to C.A. DMG and 10% boost to C.A. DMG cap to all allies against foes with <:Status_Burned:832584524088082433> **Burned** effect."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Lessen Wind damage for all allies."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {},
+                "name": "Goddess of the Shield",
+                "text": [
+                    "<:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl rises by 1 upon being targeted by a foe (Max: 5).",
+                    "Tetradrachm's hit number increases by 1.",
+                    "Tetradrachm activates upon being targeted by a foe when Goddess's Wrath lvl is 5."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Gains only 1 <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl, even when targeted multiple times in a single turn.",
+                            "\u2022 Auto-activates the skill __**Tetradrachm**__ if Athena has <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl 5 and is targeted by a foe during the attack phase.",
+                            "\u2022 Activates even if it is on cooldown, and does not put it on cooldown if it's not already.",
+                            "\u2022 <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** does not reset upon activation."
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -2437,7 +2510,26 @@
                 "text": [
                     "Lessen Wind damage for all allies."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     },

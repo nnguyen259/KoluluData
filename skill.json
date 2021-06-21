@@ -5593,7 +5593,105 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "1^t": [
+                            "<:Status_Wind_Cut_40:834407137442529300> **40% Wind Cut**"
+                        ],
+                        "3^t": [
+                            "<:Status_Wind_Switch:834407287534780438> **Wind Switch**",
+                            "<:Status_Heal:832593788375400470> **Refresh**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/761_3.png"
+                    ],
+                    "name": "Shield of the Gods: Aigis",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "All allies gain <:Status_Wind_Cut_40:834407137442529300> **40% Wind Cut**, <:Status_Wind_Switch:834407287534780438> **Wind Switch**, <:Status_Heal:832593788375400470> **Refresh** (Healing cap: 800), and <:Status_Dispel_Cancel:834391730295537694> **Dispel Cancel**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**",
+                            "<:Status_Burned:832584524088082433> **Burned (5000)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/762_1.png"
+                    ],
+                    "name": "Tetradrachm",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "5-hit, 100% Fire damage to random foes (Damage cap: ~120,000 per hit).",
+                        "Inflict <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)** and <:Status_Burned:832584524088082433> **Burned (5000)** on all foes.",
+                        "Hit number increases based on <:Status_Goddesss_Wrath_1:832593687451140177> **Goddess's Wrath** lvl / Max: 10."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_DoubleDown:832590867336003645> **100% DA Down**",
+                            "<:Status_Blind:832583965428678656> **Blinded**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/763_4.png"
+                    ],
+                    "name": "Glare of Glafkos",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Inflict <:Status_DoubleDown:832590867336003645> **100% DA Down**, <:Status_Blind:832583965428678656> **Blinded**, and <:Status_Gravity:832593788052177016> **Delay** on all foes."
+                    ],
+                    "type": [
+                        "4"
+                    ]
+                }
+            ],
+            [
+              {
+                  "cooldown": "Ready in 10 turns. 10-turn cooldown upon use.",
+                  "duration": {
+                      "Indefinite^i": [
+                          "<:Status_Repel:832599166844403743> **Unchallenged (1 time)**",
+                          "<:Status_Veil:832602900122828840> **Veil**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1485_3.png"
+                  ],
+                  "name": "Palladium",
+                  "obtain": " Lvl 100 ",
+                  "text": [
+                      "All allies gain <:Status_Repel:832599166844403743> **Unchallenged (1 time)** and <:Status_Veil:832602900122828840> **Veil**."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+              }
+            ]
+        ],
+        "BASE_4": [
+            [
+                {
+                    "cooldown": "7 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_Wind_Cut_40:834407137442529300> **40% Wind Cut**"
@@ -5609,7 +5707,7 @@
                     "name": "Shield of the Gods: Aigis",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_Wind_Cut_40:834407137442529300> **40% Wind Cut**, <:Status_Wind_Switch:834407287534780438> **Wind Switch**, and <:Status_Heal:832593788375400470> **Refresh**."
+                        "All allies gain <:Status_Wind_Cut_40:834407137442529300> **40% Wind Cut**, <:Status_Wind_Switch:834407287534780438> **Wind Switch**, and <:Status_Heal:832593788375400470> **Refresh** (Healing cap: 400)."
                     ],
                     "type": [
                         "3"
@@ -5618,7 +5716,7 @@
             ],
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {
                         "180^s": [
                             "<:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**",

@@ -2369,7 +2369,39 @@
     },
     "Athena": {
         "BASE": {
-            "5star": "No",
+            "5star": "Yes",
+            "atk": "8,300",
+            "element": "Fire",
+            "gender": [
+                "Female"
+            ],
+            "hp": "2,330",
+            "id": "3040202000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040202000_03.png",
+            "jpname": "\u30a2\u30c6\u30ca",
+            "link": "https://gbf.wiki/Athena",
+            "max_evo": "5",
+            "name": "Athena",
+            "original": "Athena",
+            "profile": "The guardian primal beast of the aegis. Traversing the skies as a patron knight of peace, she strives to protect all who yearn to live free from conflict. Due to her disdain for violence, she prefers to mediate with words. When words fail, as a primal beast she unwillingly lays great flames of vengeance upon wrongdoers.",
+            "race": [
+                "Primal"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Spear"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040202000_03.jpg",
+            "type": "Defense",
+            "va": [
+                "Ayako Kawasumi"
+            ],
+            "weapon": "Sacred Lance"
+        },
+        "BASE_4": {
+            "5star": "Yes",
             "atk": "7,000",
             "element": "Fire",
             "gender": [
@@ -2380,8 +2412,8 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040202000_02.png",
             "jpname": "\u30a2\u30c6\u30ca",
             "link": "https://gbf.wiki/Athena",
-            "max_evo": "4",
-            "name": "Athena",
+            "max_evo": "5",
+            "name": "Athena [4\u2605]",
             "original": "Athena",
             "profile": "The guardian primal beast of the aegis. Traversing the skies as a patron knight of peace, she strives to protect all who yearn to live free from conflict. Due to her disdain for violence, she prefers to mediate with words. When words fail, as a primal beast she unwillingly lays great flames of vengeance upon wrongdoers.",
             "race": [

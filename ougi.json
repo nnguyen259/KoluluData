@@ -940,11 +940,31 @@
                     "3.5^t": [
                         "<:Status_FireAtkUp:832592559683010590> **15% Fire ATK Up**",
                         "<:Status_Armored:832577248602095656> **70% / 30% Armored**"
+                    ],
+                    "180^s": [
+                        "<:Status_WindAtkDown:832603015650344991> **10% Wind ATK Down**"
+                    ]
+                },
+                "name": "Minerva Finis",
+                "text": [
+                  "500% Fire damage to a foe.",
+                  "All allies gain <:Status_FireAtkUp:832592559683010590> **15% Fire ATK Up** and <:Status_Armored:832577248602095656> **70% / 30% Armored**.",
+                  "Inflict <:Status_WindAtkDown:832603015650344991> **10% Wind ATK Down**."
+                ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {
+                    "3.5^t": [
+                        "<:Status_FireAtkUp:832592559683010590> **15% Fire ATK Up**",
+                        "<:Status_Armored:832577248602095656> **70% / 30% Armored**"
                     ]
                 },
                 "name": "Minerva Thrust",
                 "text": [
-                    "450% Fire damage to a foe.\nAll allies gain <:Status_FireAtkUp:832592559683010590> **15% Fire ATK Up** and <:Status_Armored:832577248602095656> **70% / 30% Armored**."
+                    "450% Fire damage to a foe.",
+                    "All allies gain <:Status_FireAtkUp:832592559683010590> **15% Fire ATK Up** and <:Status_Armored:832577248602095656> **70% / 30% Armored**."
                 ]
             }
         ]
