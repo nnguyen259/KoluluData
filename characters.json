@@ -5993,10 +5993,44 @@
             ],
             "hp": "1,788",
             "id": "3040037000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040037000_04.png",
+            "jpname": "\u30aa\u30af\u30c8\u30fc",
+            "link": "https://gbf.wiki/Eahta",
+            "max_evo": "6",
+            "name": "Eahta",
+            "original": "Eahta",
+            "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This undefeated swordmaster always seeks to improve his skills. His sword does not discriminate between good and evil, but he will never cut down the weak. The powerless watch as he brings down the most fearsome of monsters; to them, he appears as a champion of justice.",
+            "race": [
+                "Draph"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Fully-upgraded Eight-Life Katana",
+            "series": [
+                "eternals"
+            ],
+            "specialties": [
+                "Katana"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040037000_04.jpg",
+            "type": "Attack",
+            "va": [
+                "Banjo Ginga"
+            ],
+            "weapon": null
+        },
+        "BASE_5": {
+            "5star": "Yes",
+            "atk": "10,788",
+            "element": "Earth",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,788",
+            "id": "3040037000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040037000_03.png",
             "jpname": "\u30aa\u30af\u30c8\u30fc",
             "link": "https://gbf.wiki/Eahta",
-            "max_evo": "5",
+            "max_evo": "6",
             "name": "Eahta",
             "original": "Eahta",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This undefeated swordmaster always seeks to improve his skills. His sword does not discriminate between good and evil, but he will never cut down the weak. The powerless watch as he brings down the most fearsome of monsters; to them, he appears as a champion of justice.",
@@ -6030,7 +6064,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040037000_02.png",
             "jpname": "\u30aa\u30af\u30c8\u30fc",
             "link": "https://gbf.wiki/Eahta",
-            "max_evo": "5",
+            "max_evo": "6",
             "name": "Eahta [4\u2605]",
             "original": "Eahta",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. This undefeated swordmaster always seeks to improve his skills. His sword does not discriminate between good and evil, but he will never cut down the weak. The powerless watch as he brings down the most fearsome of monsters; to them, he appears as a champion of justice.",
@@ -20969,10 +21003,44 @@
             ],
             "hp": "1,477",
             "id": "3040036000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040036000_04.png",
+            "jpname": "\u30b7\u30a8\u30c6",
+            "link": "https://gbf.wiki/Seofon",
+            "max_evo": "6",
+            "name": "Seofon",
+            "original": "Seofon",
+            "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seofon seems rather carefree for the leader of the Eternals, but he's actually a proud and driven man. The fearsome powers he commands could shake the very heavens, but he wields them only to right the world's wrongs. He's also frighteningly fond of swords.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Fully-upgraded Seven-Star Sword",
+            "series": [
+                "eternals"
+            ],
+            "specialties": [
+                "Sabre"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040036000_04.jpg",
+            "type": "Attack",
+            "va": [
+                "Junichi Suwabe"
+            ],
+            "weapon": null
+        },
+        "BASE_5": {
+            "5star": "Yes",
+            "atk": "10,777",
+            "element": "Wind",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,477",
+            "id": "3040036000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040036000_03.png",
             "jpname": "\u30b7\u30a8\u30c6",
             "link": "https://gbf.wiki/Seofon",
-            "max_evo": "5",
+            "max_evo": "6",
             "name": "Seofon",
             "original": "Seofon",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seofon seems rather carefree for the leader of the Eternals, but he's actually a proud and driven man. The fearsome powers he commands could shake the very heavens, but he wields them only to right the world's wrongs. He's also frighteningly fond of swords.",
@@ -21006,7 +21074,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040036000_02.png",
             "jpname": "\u30b7\u30a8\u30c6",
             "link": "https://gbf.wiki/Seofon",
-            "max_evo": "5",
+            "max_evo": "6",
             "name": "Seofon [4\u2605]",
             "original": "Seofon",
             "profile": "One of the Eternals\u2014they who stand astride the skies and across the path of any would-be calamity. Seofon seems rather carefree for the leader of the Eternals, but he's actually a proud and driven man. The fearsome powers he commands could shake the very heavens, but he wields them only to right the world's wrongs. He's also frighteningly fond of swords.",

@@ -5087,7 +5087,72 @@
                 "duration": {},
                 "name": "Blade God",
                 "text": [
-                    "Has a maximum charge bar limit of 200%.\nCharge bar fills up 100% faster.\nAlso boosts double attack rate by 20%."
+                    "Has a maximum charge bar limit of 200%.",
+                    "Charge bar fills up 100% faster.",
+                    "Boosts double attack rate by 20%."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Devil Divine",
+                "text": [
+                    "Amplify damage against Water foes by 20%."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Level 120 Support Skill",
+                "text": [
+                    "Boost to chainburst specs."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Boost to other allies' charge bar upon using a chain burst of 2 or more chains."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔══════╦════════════╗",
+                        "║ Rank ║ Charge bar ║",
+                        "╠══════╬════════════╣",
+                        "║   1  ║     +5%    ║",
+                        "╠══════╬════════════╣",
+                        "║   2  ║     +8%    ║",
+                        "╠══════╬════════════╣",
+                        "║   3  ║    +10%    ║",
+                        "╚══════╩════════════╝",
+                        "```"
+                    ]
+                }
+              ]
+            },
+            {
+                "duration": {},
+                "name": "Transcendence Extended Mastery Support Skill",
+                "text": [
+                    "Chance chance of a 1-turn cut to skill cooldown with every charge attack."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "BASE_5": [
+            {
+                "duration": {},
+                "name": "Blade God",
+                "text": [
+                    "Has a maximum charge bar limit of 200%.",
+                    "Charge bar fills up 100% faster.",
+                    "Boosts double attack rate by 20%."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -5105,7 +5170,26 @@
                 "text": [
                     "Boost to other allies' charge bar upon using a chain burst of 2 or more chains."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                {
+                    "title": "\u200b",
+                    "inLine": false,
+                    "text": [
+                        "```",
+                        "╔══════╦════════════╗",
+                        "║ Rank ║ Charge bar ║",
+                        "╠══════╬════════════╣",
+                        "║   1  ║     +5%    ║",
+                        "╠══════╬════════════╣",
+                        "║   2  ║     +8%    ║",
+                        "╠══════╬════════════╣",
+                        "║   3  ║    +10%    ║",
+                        "╚══════╩════════════╝",
+                        "```"
+                    ]
+                }
+              ]
             }
         ],
         "BASE_4": [
@@ -15811,9 +15895,107 @@
                 "duration": {},
                 "name": "Star Sword Sovereign",
                 "text": [
-                    "50% boost to Wind allies' C.A. damage.\nBoost to Seofon's ATK and multiattack rate based on <:Status_Swordshine:832601757078913106> **Swordshine** lvl.\n<:Status_Swordshine:832601757078913106> **Swordshine** lvl rises every turn by 1 and lowers by 2 upon taking damage (Max: 3).\nAlso boosts Wind allies' C.A. damage cap by 10%.\nNow <:Status_Swordshine:832601757078913106> **Swordshine** lvl rises every turn by 2 and lowers by 2 upon taking damage (Max: 5)."
+                    "50% boost to Wind allies' C.A. damage and  C.A. damage cap by 10%.",
+                    "Boost to Seofon's ATK and multiattack rate based on <:Status_Swordshine:832601757078913106> **Swordshine** lvl.",
+                    "<:Status_Swordshine:832601757078913106> **Swordshine** lvl rises every turn by 2 and lowers by 2 upon taking damage (Max: 5)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "Seofon can take damage and not lose <:Status_Swordshine:832601757078913106> Swordshine as long as his HP is the same or higher than it was at the start of the turn.",
+                        "inLine": false,
+                        "text": [
+                          "\u2022 Buffs like <:Status_Heal:832593788375400470> **Refresh** and <:Status_Col:832587063597596683> **Col** may help Seofon from losing <:Status_Swordshine:832601757078913106> **Swordshine**.",
+                          "\u2022 Losing HP via turn-based damage effects such as <:Status_Poison:832598586335428660> **Poisoned** does not remove <:Status_Swordshine:832601757078913106> **Swordshine** stacks.",
+                          "\u2022 **Seofon gains the following effects based on <:Status_Swordshine:832601757078913106> Swordshine lvl:**",
+                            "```",
+                            "╔═════╦════════╦═══════╦═══════╗",
+                            "║ Lvl ║ ATK Up ║ DA Up ║ TA Up ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  1  ║   10%  ║  50%  ║       ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  2  ║   20%  ║  100% ║       ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  3  ║   30%  ║       ║  100% ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  4  ║   40%  ║       ║  100% ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  5  ║   50%  ║       ║  100% ║",
+                            "╚═════╩════════╩═══════╩═══════╝",
+                            "```"
+                        ]
+                    }
+                  ]
+            },
+            {
+                "duration": {},
+                "name": "Campione",
+                "text": [
+                    "Amplify damage against Earth foes by 20%."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Level 120 Support Skill",
+                "text": [
+                    "Amplify Fated Chain damage by 100% and extend it's duration by 3 turns."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Slight chance to dodge all attacks from foes"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Transcendence Extended Mastery Support Skill",
+                "text": [
+                    "Chance to consume 1 <:Status_Swordshine:832601757078913106> **Swordshine** to clear debuffs."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "BASE_5": [
+            {
+                "duration": {},
+                "name": "Star Sword Sovereign",
+                "text": [
+                    "50% boost to Wind allies' C.A. damage and  C.A. damage cap by 10%.",
+                    "Boost to Seofon's ATK and multiattack rate based on <:Status_Swordshine:832601757078913106> **Swordshine** lvl.",
+                    "<:Status_Swordshine:832601757078913106> **Swordshine** lvl rises every turn by 2 and lowers by 2 upon taking damage (Max: 5)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "Seofon can take damage and not lose <:Status_Swordshine:832601757078913106> Swordshine as long as his HP is the same or higher than it was at the start of the turn.",
+                        "inLine": false,
+                        "text": [
+                          "\u2022 Buffs like <:Status_Heal:832593788375400470> **Refresh** and <:Status_Col:832587063597596683> **Col** may help Seofon from losing <:Status_Swordshine:832601757078913106> **Swordshine**.",
+                          "\u2022 Losing HP via turn-based damage effects such as <:Status_Poison:832598586335428660> **Poisoned** does not remove <:Status_Swordshine:832601757078913106> **Swordshine** stacks.",
+                          "\u2022 **Seofon gains the following effects based on <:Status_Swordshine:832601757078913106> Swordshine lvl:**",
+                            "```",
+                            "╔═════╦════════╦═══════╦═══════╗",
+                            "║ Lvl ║ ATK Up ║ DA Up ║ TA Up ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  1  ║   10%  ║  50%  ║       ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  2  ║   20%  ║  100% ║       ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  3  ║   30%  ║       ║  100% ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  4  ║   40%  ║       ║  100% ║",
+                            "╠═════╬════════╬═══════╬═══════╣",
+                            "║  5  ║   50%  ║       ║  100% ║",
+                            "╚═════╩════════╩═══════╩═══════╝",
+                            "```"
+                        ]
+                    }
+                  ]
             },
             {
                 "duration": {},

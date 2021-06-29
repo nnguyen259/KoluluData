@@ -4287,11 +4287,34 @@
                 "supportskill"
             ],
             [
-                "lock",
-                "lock",
+                "specialcadmgcap",
+                "transcendencesupportskill",
                 "lock",
                 "lock",
                 "lock"
+            ]
+        ],
+        "BASE_5": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "crithit",
+                "waterdmg"
+            ],
+            [
+                "atk",
+                "crithit",
+                "cadmg",
+                "cadmg",
+                "supportskill"
             ]
         ],
         "BASE_4": [
@@ -4315,13 +4338,6 @@
                 "cadmg",
                 "cadmg",
                 "supportskill"
-            ],
-            [
-                "lock",
-                "lock",
-                "lock",
-                "lock",
-                "lock"
             ]
         ]
     },
@@ -15001,11 +15017,34 @@
                 "supportskill"
             ],
             [
-                "lock",
-                "lock",
+                "specialcadmgcap",
+                "transcendencesupportskill",
                 "lock",
                 "lock",
                 "lock"
+            ]
+        ],
+        "BASE_5": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "atk",
+                "cadmg",
+                "hostilitydown",
+                "dodge",
+                "supportskill"
             ]
         ],
         "BASE_4": [
@@ -15029,13 +15068,6 @@
                 "hostilitydown",
                 "dodge",
                 "supportskill"
-            ],
-            [
-                "lock",
-                "lock",
-                "lock",
-                "lock",
-                "lock"
             ]
         ]
     },

@@ -2309,6 +2309,34 @@
                     "2.5^t": [
                         "<:Status_DoubleUp:832590867734724618> **50% DA Up**",
                         "<:Status_TripleUp:832601877920350218> **50% TA Up**",
+                        "<:Status_EarthAtkUp:832591143799226398> **20% Earth ATK Up**",
+                        "<:Status_Water_Cut_20:832603014425477150> **20% Water Cut**"
+                    ]
+                },
+                "name": "Ethreal Blade, Fangs of Purification",
+                "text": [
+                    "550% Earth damage to a foe.",
+                    "Inflict <:Status_Death:832588130434547732> **Lethal Hit**.",
+                    "Eahta gains <:Status_DoubleUp:832590867734724618> **50% DA Up** and <:Status_TripleUp:832601877920350218> **50% TA Up**.",
+                    "All allies gain <:Status_EarthAtkUp:832591143799226398> **20% Earth ATK Up** and <:Status_Water_Cut_20:832603014425477150> **20% Water Cut**."
+                ],
+                "data": [
+                    {
+                        "title": "Stage 1 Transcended Eternals have an increased charge attack damage cap of 2,300,000.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    }
+                  ]
+            }
+        ],
+        "BASE_5": [
+            {
+                "duration": {
+                    "2.5^t": [
+                        "<:Status_DoubleUp:832590867734724618> **50% DA Up**",
+                        "<:Status_TripleUp:832601877920350218> **50% TA Up**",
                         "<:Status_EarthAtkUp:832591143799226398> **20% Earth ATK Up**"
                     ]
                 },
@@ -7701,12 +7729,38 @@
                 "duration": {
                     "2.5^t": [
                         "<:Status_AttackUp:832581064555364362> **30% ATK Up**",
+                        "<:Status_Repel:832599166844403743> **Unchallenged (1 time)**",
+                        "<:Status_DamageCapUp:832587990952837160> **15% Damage Cap Up**"
+                    ]
+                },
+                "name": "Espada Galaxia",
+                "text": [
+                    "550% Wind damage to a foe.",
+                    "All allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_DamageCapUp:832587990952837160> **15% Damage Cap Up**.",
+                    "Seofon gains <:Status_Repel:832599166844403743> **Unchallenged (1 time)**."
+                ],
+                "data": [
+                    {
+                        "title": "Stage 1 Transcended Eternals have an increased charge attack damage cap of 2,300,000.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    }
+                  ]
+            }
+        ],
+        "BASE_5": [
+            {
+                "duration": {
+                    "2.5^t": [
+                        "<:Status_AttackUp:832581064555364362> **30% ATK Up**",
                         "<:Status_Repel:832599166844403743> **Unchallenged (1 time)**"
                     ]
                 },
                 "name": "Cien Mil Espadas",
                 "text": [
-                    "Massive Wind damage to a foe.\nAll allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up**.\nSeofon gains <:Status_Repel:832599166844403743> **Unchallenged (1 time)**."
+                    "500% Wind damage to a foe.\nAll allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up**.\nSeofon gains <:Status_Repel:832599166844403743> **Unchallenged (1 time)**."
                 ]
             }
         ],

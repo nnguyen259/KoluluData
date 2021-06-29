@@ -48,6 +48,7 @@
     "defupatkdown" : 45,
     "skilldmgcap" : 46,
     "cadmgcap" : 47,
+    "specialcadmgcap" : 47,
     "chargebar" : 48,
     "atkbreak" : 49,
     "oda" : 50,

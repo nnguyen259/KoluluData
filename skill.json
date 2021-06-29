@@ -12925,13 +12925,13 @@
         "BASE": [
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **50% ATK Up**",
-                            "<:Status_CriticalUp:832587322133970986> **30% / 30% Critical Hit Rate Up**",
                             "<:Status_CriticalUp:832587322133970986> **75% / 100% Critical Hit Rate Up**",
-                            "<:Status_Defiance:832588448593346600> **Arda Frava**"
+                            "<:Status_Defiance:832588448593346600> **Arda Frava**",
+                            "**Special C.A Damage Cap Up**"
                         ]
                     },
                     "icon": [
@@ -12940,16 +12940,27 @@
                     "name": "Open Spirit",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 85 ",
                     "text": [
-                        "Gain <:Status_AttackUp:832581064555364362> **50% ATK Up** and <:Status_CriticalUp:832587322133970986> **30% / 30% Critical Hit Rate Up**.\n(Consumes 10% of charge bar.)\nBuff increased to <:Status_CriticalUp:832587322133970986> **75% / 100% Critical Hit Rate Up**.\nCharge bar cost removed.\nAlso gain <:Status_Defiance:832588448593346600> **Arda Frava**."
+                        "Gain <:Status_AttackUp:832581064555364362> **50% ATK Up**, <:Status_CriticalUp:832587322133970986> **75% / 100% Critical Hit Rate Up**, <:Status_Defiance:832588448593346600> **Arda Frava** and **Special C.A Damage Cap Up**."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 **If charge attack is used once**: +20% C.A. DMG Up and 10% C.A. DMG Cap Up.",
+                            "\u2022 **If charge attack is used twice**: +100% C.A. DMG Up and 30% C.A. DMG Cap Up.",
+                            "\u2022 <:Status_Defiance:832588448593346600> **Arda Frava** stacks with other cap-breaking effects such as <:Status_Path_of_Destruction:855232599928471562> **Path of Destruction** and <:Status_DamageCapUp:832587990952837160> **DMG Cap Up**."
+                        ]
+                    }
+                  ]
                 }
             ],
             [
                 {
-                    "cooldown": "1 turn0 turns",
+                    "cooldown": "0 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1409_3.png"
@@ -12957,7 +12968,8 @@
                     "name": "Purgatory",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Transfer charge bar evenly to all other allies.\n(Consumes 30% of charge bar.)\n"
+                        "Transfer charge bar evenly to all other allies.",
+                        "(Consumes 30% of charge bar.)"
                     ],
                     "type": [
                         "3"
@@ -12966,7 +12978,7 @@
             ],
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_Aiki_1:834386784100024350> **Aiki**"
@@ -12978,11 +12990,33 @@
                     "name": "Dance of the Gods",
                     "obtain": " Lvl 45\u21e7 Lvl 95 ",
                     "text": [
-                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.\nIf successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**.\nAlso gain 1 <:Status_Aiki_1:834386784100024350> **Aiki** (Max: 3)."
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.",
+                        "If successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**.",
+                        "Also gain 1 <:Status_Aiki_1:834386784100024350> **Aiki** (Max: 3)."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "Eahta will gain <:Status_Aiki_1:834386784100024350> Aiki regardless of whether the <:Status_Gravity:832593788052177016> gDelay (Special) was successful or not.",
+                        "inLine": false,
+                        "text": [
+                            "Buffs are based on the number of <:Status_Aiki_1:834386784100024350> **Aik**i and are shown in the following table:",
+                            "```",
+                            "╔═══╦═════╦═════╦═════╦═════╦═══════╗",
+                            "║Lvl║ ATK ║ DEF ║  DA ║  TA ║DMG Cap║",
+                            "╠═══╬═════╬═════╬═════╬═════╬═══════╣",
+                            "║ 1 ║     ║     ║  -  ║  -  ║   -   ║",
+                            "╠═══╣     ║     ╠═════╬═════╬═══════╣",
+                            "║ 2 ║ 20% ║ 50% ║     ║     ║   -   ║",
+                            "╠═══╣     ║     ║ 30% ║ 30% ╠═══════╣",
+                            "║ 3 ║     ║     ║     ║     ║  10%  ║",
+                            "╚═══╩═════╩═════╩═════╩═════╩═══════╝",
+                            "```"
+                        ]
+                    }
+                  ]
                 }
             ],
             [
@@ -12999,7 +13033,127 @@
                     "name": "Eight-Life's Pilgrimage",
                     "obtain": " Lvl 100 ",
                     "text": [
-                        "Gain <:Status_Uplift:832602899460521994> **Charge Bar +200%** and <:Status_EightLifes_Pilgrimage:834407741555605524> **Eight-Life's Pilgrimage**.\n(Can't recast.)\n"
+                        "Gain <:Status_Uplift:832602899460521994> **Charge Bar +200%** and <:Status_EightLifes_Pilgrimage:834407741555605524> **Eight-Life's Pilgrimage**.",
+                        "(Can't recast.)"
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ]
+        ],
+        "BASE_5": [
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_AttackUp:832581064555364362> **50% ATK Up**",
+                            "<:Status_CriticalUp:832587322133970986> **75% / 100% Critical Hit Rate Up**",
+                            "<:Status_Defiance:832588448593346600> **Arda Frava**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/77_3.png"
+                    ],
+                    "name": "Open Spirit",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 85 ",
+                    "text": [
+                        "Gain <:Status_AttackUp:832581064555364362> **50% ATK Up**, <:Status_CriticalUp:832587322133970986> **75% / 100% Critical Hit Rate Up**, <:Status_Defiance:832588448593346600> **Arda Frava**."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 **If charge attack is used once**: +20% C.A. DMG Up and 10% C.A. DMG Cap Up.",
+                            "\u2022 **If charge attack is used twice**: +100% C.A. DMG Up and 30% C.A. DMG Cap Up.",
+                            "\u2022 <:Status_Defiance:832588448593346600> **Arda Frava** stacks with other cap-breaking effects such as <:Status_Path_of_Destruction:855232599928471562> **Path of Destruction** and <:Status_DamageCapUp:832587990952837160> **DMG Cap Up**."
+                        ]
+                    }
+                  ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "0 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1409_3.png"
+                    ],
+                    "name": "Purgatory",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Transfer charge bar evenly to all other allies.",
+                        "(Consumes 30% of charge bar.)"
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_Aiki_1:834386784100024350> **Aiki**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1410_3.png"
+                    ],
+                    "name": "Dance of the Gods",
+                    "obtain": " Lvl 45\u21e7 Lvl 95 ",
+                    "text": [
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay (Special)**.",
+                        "If successful, gain <:Status_Uplift:832602899460521994> **Charged +30%**.",
+                        "Also gain 1 <:Status_Aiki_1:834386784100024350> **Aiki** (Max: 3)."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                    {
+                        "title": "Eahta will gain <:Status_Aiki_1:834386784100024350> Aiki regardless of whether the <:Status_Gravity:832593788052177016> gDelay (Special) was successful or not.",
+                        "inLine": false,
+                        "text": [
+                            "Buffs are based on the number of <:Status_Aiki_1:834386784100024350> **Aik**i and are shown in the following table:",
+                            "```",
+                            "╔═══╦═════╦═════╦═════╦═════╦═══════╗",
+                            "║Lvl║ ATK ║ DEF ║  DA ║  TA ║DMG Cap║",
+                            "╠═══╬═════╬═════╬═════╬═════╬═══════╣",
+                            "║ 1 ║     ║     ║  -  ║  -  ║   -   ║",
+                            "╠═══╣     ║     ╠═════╬═════╬═══════╣",
+                            "║ 2 ║ 20% ║ 50% ║     ║     ║   -   ║",
+                            "╠═══╣     ║     ║ 30% ║ 30% ╠═══════╣",
+                            "║ 3 ║     ║     ║     ║     ║  10%  ║",
+                            "╚═══╩═════╩═════╩═════╩═════╩═══════╝",
+                            "```"
+                        ]
+                    }
+                  ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "Ready in 10 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_EightLifes_Pilgrimage:834407741555605524> **Eight-Life's Pilgrimage**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/367_3.png"
+                    ],
+                    "name": "Eight-Life's Pilgrimage",
+                    "obtain": " Lvl 100 ",
+                    "text": [
+                        "Gain <:Status_Uplift:832602899460521994> **Charge Bar +200%** and <:Status_EightLifes_Pilgrimage:834407741555605524> **Eight-Life's Pilgrimage**.",
+                        "(Can't recast.)"
                     ],
                     "type": [
                         "3"
@@ -43585,86 +43739,193 @@
         ]
     },
     "Seofon": {
-        "BASE": [
-            [
-                {
-                    "cooldown": "7 turns6 turns5 turns",
-                    "duration": {
-                        "Indefinite^i": [
-                            "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)**",
-                            "<:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/394_3.png"
-                    ],
-                    "name": "Emblema",
-                    "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
-                    "text": [
-                        "Gain **Instant Charge**.\nRaise <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 1 (Max: 3).\nNow raises <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 2 (Max: 5).\nAlso gain <:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)** and <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**."
-                    ],
-                    "type": [
-                        "3"
+      "BASE": [
+          [
+              {
+                  "cooldown": "5 turns",
+                  "duration": {
+                      "Indefinite^i": [
+                          "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)**",
+                          "<:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/394_3.png"
+                  ],
+                  "name": "Emblema",
+                  "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
+                  "text": [
+                      "Gain **Instant Charge**, <:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)** and <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**.",
+                      "Raise <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 2 (Max: 5)."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/19_1.png"
+                  ],
+                  "name": "Infinito Creare",
+                  "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
+                  "text": [
+                      "10-hit, 100%-150% Wind damage to random foes (Damage cap: ~70,000 per hit).",
+                      "Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "14 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1005_3.png"
+                  ],
+                  "name": "Cuore di Leone",
+                  "obtain": " Lvl 80 ",
+                  "text": [
+                      "All allies gain **Instant Charge**.",
+                      "Increase Fated Chain bar by 30%.",
+                      "Lower <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 3. (Requires <:Status_Swordshine:832601757078913106> **Swordshine** lvl 3 or higher.)"
+                  ],
+                  "type": [
+                      "3"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "Ready in 10 turns",
+                  "duration": {
+                      "1^t": [
+                          "<:Status_Defiance:832588448593346600> **150% C.A. DMG Up**",
+                          "<:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/366_3.png"
+                  ],
+                  "name": "Seven-Star's Brilliance",
+                  "obtain": " Lvl 100 ",
+                  "text": [
+                      "All allies gain **Instant Charge**, <:Status_Defiance:832588448593346600> **150% C.A. DMG Up**, and <:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**.",
+                      "(Can't recast.)"
+                  ],
+                  "type": [
+                      "3"
+                  ],
+                  "data": [
+                      {
+                          "title": "The <:Status_Defiance:832588448593346600> **C.A. DMG Up** and Status <:Status_CA_DMG_Cap:834389296139731014> **C.A. DMG Cap Up** are additive with the support skill __Star Sword Sovereign__.",
+                          "inLine": false,
+                          "text": [
+                              "\u2022 Thus, together with the support skill, the boost to C.A. DMG equals 200% and the boost to C.A. DMG Cap equals 100%."
+                          ]
+                      }
                     ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "6 turns5 turns",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/19_1.png"
-                    ],
-                    "name": "Infinito Creare",
-                    "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
-                    "text": [
-                        "10-hit, 100%-150% Wind damage to random foes (Damage cap: ~70,000 per hit).\nEffect enhanced.\nSeofon also gains <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
-                    ],
-                    "type": [
-                        "1"
+              }
+          ]
+      ],
+      "BASE_5": [
+          [
+              {
+                  "cooldown": "5 turns",
+                  "duration": {
+                      "Indefinite^i": [
+                          "<:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)**",
+                          "<:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/394_3.png"
+                  ],
+                  "name": "Emblema",
+                  "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
+                  "text": [
+                      "Gain **Instant Charge**, <:Status_CA_DMG_Boosted_1_time:832584992499695616> **80% C.A. DMG Up (1 time)** and <:Status_CA_DMG_Cap:834389296139731014> **20% C.A. DMG Cap Up (1 time)**.",
+                      "Raise <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 2 (Max: 5)."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/19_1.png"
+                  ],
+                  "name": "Infinito Creare",
+                  "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
+                  "text": [
+                      "10-hit, 100%-150% Wind damage to random foes (Damage cap: ~70,000 per hit).",
+                      "Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "14 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1005_3.png"
+                  ],
+                  "name": "Cuore di Leone",
+                  "obtain": " Lvl 80 ",
+                  "text": [
+                      "All allies gain **Instant Charge**.",
+                      "Lower <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 3. (Requires <:Status_Swordshine:832601757078913106> **Swordshine** lvl 3 or higher.)"
+                  ],
+                  "type": [
+                      "3"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "Ready in 10 turns",
+                  "duration": {
+                      "1^t": [
+                          "<:Status_Defiance:832588448593346600> **150% C.A. DMG Up**",
+                          "<:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/366_3.png"
+                  ],
+                  "name": "Seven-Star's Brilliance",
+                  "obtain": " Lvl 100 ",
+                  "text": [
+                      "All allies gain **Instant Charge**, <:Status_Defiance:832588448593346600> **150% C.A. DMG Up**, and <:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**.",
+                      "(Can't recast.)"
+                  ],
+                  "type": [
+                      "3"
+                  ],
+                  "data": [
+                      {
+                          "title": "The <:Status_Defiance:832588448593346600> **C.A. DMG Up** and Status <:Status_CA_DMG_Cap:834389296139731014> **C.A. DMG Cap Up** are additive with the support skill __Star Sword Sovereign__.",
+                          "inLine": false,
+                          "text": [
+                              "\u2022 Thus, together with the support skill, the boost to C.A. DMG equals 200% and the boost to C.A. DMG Cap equals 100%."
+                          ]
+                      }
                     ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "14 turns",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1005_3.png"
-                    ],
-                    "name": "Cuore di Leone",
-                    "obtain": " Lvl 80 ",
-                    "text": [
-                        "All allies gain **Instant Charge**.\nLower <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 3.\n(Requires <:Status_Swordshine:832601757078913106> **Swordshine** lvl 3 or higher.)\n"
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "Ready in 10 turns",
-                    "duration": {
-                        "1^t": [
-                            "<:Status_Defiance:832588448593346600> **150% C.A. DMG Up**",
-                            "<:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/366_3.png"
-                    ],
-                    "name": "Seven-Star's Brilliance",
-                    "obtain": " Lvl 100 ",
-                    "text": [
-                        "All allies gain **Instant Charge**, <:Status_Defiance:832588448593346600> **150% C.A. DMG Up**, and <:Status_CA_DMG_Cap:834389296139731014> **90% C.A. DMG Cap Up**.\n(Can't recast.)\n"
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ]
-        ],
+              }
+          ]
+      ],
         "BASE_4": [
             [
                 {
