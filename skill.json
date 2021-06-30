@@ -21244,7 +21244,7 @@
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
                         "600% Fire damage to a foe (Damage cap: ~700,000).",
-                        "Inflict Status <:Status_DefenseDown:832588131140108339> **15% DEF Down**, Status <:Status_FireResDown:832592559896395780> **20% Fire DEF Down**, and <:Status_DebuffResDown:832588130741125150> **10% Debuff Res. Down**."
+                        "Inflict <:Status_DefenseDown:832588131140108339> **15% DEF Down**, <:Status_FireResDown:832592559896395780> **20% Fire DEF Down**, and <:Status_DebuffResDown:832588130741125150> **10% Debuff Res. Down**."
                     ],
                     "type": [
                         "1"
