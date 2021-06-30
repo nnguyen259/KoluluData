@@ -392,7 +392,11 @@
     "Yaia": {},
     "Yamanbagiri_Kunihiro": {},
     "Yggdrasil": {},
-    "Yngwie": {},
+    "Yngwie": {
+      "SUMMER" : {
+          "version" : "YUKATA"
+    }
+    },
     "Yodarha": {},
     "You": {},
     "Young_Cat": {},

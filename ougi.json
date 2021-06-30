@@ -3783,6 +3783,17 @@
                     "Massive Water damage to a foe.\nConsume all <:Status_Icy_Blade1:832594543001206854> **Icy Blade**."
                 ]
             }
+        ],
+        "YUKATA": [
+            {
+                "duration": {},
+                "name": "Strast Blast",
+                "text": [
+                    "1250% Fire damage to a foe (Damage cap: 2,430,000).",
+                    "Activate __Steam Flow__.",
+                    "Lower <:Status_7184:859925832231157780> **Flushed** lvl by 1."
+                ]
+            }
         ]
     },
     "Izuminokami_Kanesada": {
@@ -9648,6 +9659,20 @@
                 "name": "Tough Guy mode:Full Metal Sights",
                 "text": [
                     "500% Water damage to a foe.\nEnd Tough Guy mode."
+                ]
+            }
+        ],
+        "YUKATA": [
+            {
+                "duration": {
+                    "1.5^t": [
+                        "<:Status_TripleUp:832601877920350218> **Guaranteed TA**"
+                    ]
+                },
+                "name": "Full Metal Buster",
+                "text": [
+                    "450% Wind damage to a foe.",
+                    "Gain <:Status_TripleUp:832601877920350218> **Guaranteed TA**."
                 ]
             }
         ]
