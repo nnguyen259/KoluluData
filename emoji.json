@@ -68,5 +68,19 @@
         "yukata" : "<:series_yukata:829048166804094996>",
         "tie-in" : "<:series_tie_in:829048166489653248>",
         "valentine" : "<:series_valentine:829048166590578729>"
+    },
+    "Summons" : {
+        "arcarum" : "<:summon_arcarum:859999673628229654>",
+        "archangel" : "<:summon_archangel:859999674114244608>",
+        "carbuncle" : "<:summon_carbuncle:859999674357907476>",
+        "cryptid" : "<:summon_cryptid:859999674479411210>",
+        "demi optimus" : "<:summon_demi_optimus:859999674596851752>",
+        "dynamis" : "<:summon_dynamis:859999674778124328>",
+        "epic" : "<:summon_epic:859999674986528829>",
+        "genesis" : "<:summon_genesis:859999675331510272>",
+        "omega" : "<:summon_omega:859999675498364958>",
+        "optimus" : "<:summon_optimus:859999675368734731>",
+        "six dragons" : "<:summon_six_dragons:859999676036284436>",
+        "upgrader" : "<:summon_upgrader:859999675980709950>"
     }
 }
