@@ -8167,6 +8167,40 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
+        ],
+        "YUKATA": [
+            {
+                "duration": {
+                    "Indefinite^i":[
+                      "<:Status_7184:859925832231157780> **Flushed**"
+                    ]
+                },
+                "name": "Clad in Heat",
+                "text": [
+                    "Amplify normal attack damage by 30%.",
+                    "500% Fire damage to all foes (Damage cap: ~635,000) and gain <:Status_Uplift:832602899460521994> **Charge Bar +10%** after normal attacks.",
+                    "Can't deal multiattacks while <:Status_7184:859925832231157780> **Flushed**. (Lvl 3 at battle start.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Bathed Beauty",
+                "text": [
+                    "Supplement Fire allies' C.A. damage (Damage cap: 100,000).",
+                    "Amplify Fire allies' damage against Wind foes by 20%."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                      {
+                          "inLine" : false,
+                          "title" : "Does not stack with __Sword of Michael__'s weapon skill. Only the highest boost takes effect.",
+                          "text": [
+                            "\u200b"
+                          ]
+                      }
+                    ]
+            }
         ]
     },
     "Izuminokami_Kanesada": {
@@ -19682,6 +19716,25 @@
                     "Slight chance to counter upon taking damage."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "YUKATA": [
+            {
+                "duration": {},
+                "name": "Cool Guy",
+                "text": [
+                    "**While Full Metal mode is in effect:**",
+                    "600% boost to DEF, 100% boost to debuff resistance, Substitute effect (Receives all-ally attacks), amplify normal attack damage by 30%, Tank-and-Counter effect (5 hits), and can't use charge attack."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Borderline II",
+                "text": [
+                    "Activate Hold On at end of turn when HP is 50% or below."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
         ]
     },

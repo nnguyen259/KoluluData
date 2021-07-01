@@ -21225,6 +21225,90 @@
                 }
             ],
             []
+        ],
+        "YUKATA": [
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_DefenseDown:832588131140108339> **15% DEF Down**",
+                            "<:Status_FireResDown:832592559896395780>",
+                            "<:Status_DebuffResDown:832588130741125150> **10% Debuff Res. Down**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1510_1.png"
+                    ],
+                    "name": "Permafrost",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "600% Fire damage to a foe (Damage cap: ~700,000).",
+                        "Inflict <:Status_DefenseDown:832588131140108339> **15% DEF Down**, <:Status_FireResDown:832592559896395780> **20% Fire DEF Down**, and <:Status_DebuffResDown:832588130741125150> **10% Debuff Res. Down**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_CriticalUpFire:832587863693983784> **70% / 30% Critical Hit Rate Up**",
+                            "<:Status_FireATKUpStack:832592559968223312> **10% Fire ATK Up (Stackable / Max: 50%)**",
+                            "<:Status_Uplift:832602899460521994> **Charge Bar +10%**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1511_3.png"
+                    ],
+                    "name": "Steam Flow",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "All Fire allies gain <:Status_CriticalUpFire:832587863693983784> **70% / 30% Critical Hit Rate Up**, <:Status_FireATKUpStack:832592559968223312> **10% Fire ATK Up (Stackable / Max: 50%)**, and <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "9 turns",
+                    "duration": {
+                        "5^t": [
+                            "<:status_7185:859925832074919947> **Icy Smile**",
+                            "<:Status_Uplift:832602899460521994> **20% Uplifted**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1512_3.png"
+                    ],
+                    "name": "Ice Rapture",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Gain <:status_7185:859925832074919947> **Icy Smile** and <:Status_Uplift:832602899460521994> **20% Uplifted**.",
+                        "(Affects all allies when caster is not <:Status_7184:859925832231157780> **Flushed**.)"
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data":[
+                          {
+                              "inLine" : false,
+                              "title" : "<:status_7185:859925832074919947> **Icy Smile** grants the following effects:",
+                              "text": [
+                                "\u2022 100% / 20% Critical Up",
+                                "\u2022 50% C.A. DMG Up",
+                                "\u2022 30% C.A. DMG Cap Up"
+                              ]
+                          }
+                        ]
+                }
+            ],
+            []
         ]
     },
     "Izuminokami_Kanesada": {
@@ -54833,6 +54917,74 @@
                     ]
                 }
             ]
+        ],
+        "YUKATA": [
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Full_Metal_Beam:834395142034685963> **Full Metal Mode**",
+                            ""
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1507_3.png"
+                    ],
+                    "name": "Full Metal Transformation",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
+                    "text": [
+                        "Switch into <:Status_Full_Metal_Beam:834395142034685963> **Full Metal Mode**.",
+                        "Gain <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1508_1.png"
+                    ],
+                    "name": "Hold On",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "400% Wind damage to all foes (Damage cap: ~480,000).",
+                        "Restore 20% of caster's HP (Healing cap: 1500)."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_AttackDown:832581064211955722> **25% ATK Down**",
+                            "<:Status_Blind:832583965428678656> **Blinded**",
+                            "<:Status_Accuracy_Lowered_2:834386454578593813> **Accuracy Lowered**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1509_4.png"
+                    ],
+                    "name": "Heaven Tonight",
+                    "obtain": " Lvl 45\u21e7 Lvl 95 ",
+                    "text": [
+                        "Inflict <:Status_AttackDown:832581064211955722> **25% ATK Down**, <:Status_Blind:832583965428678656> **Blinded**, and <:Status_Accuracy_Lowered_2:834386454578593813> **Accuracy Lowered**."
+                    ],
+                    "type": [
+                        "3",
+                        "3"
+                    ]
+                }
+            ],
+            []
         ]
     },
     "Yodarha": {

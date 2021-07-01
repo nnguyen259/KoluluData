@@ -10035,6 +10035,40 @@
                 "Aya Endo"
             ],
             "weapon": "Frostbite"
+        },
+        "YUKATA": {
+            "5star": "No",
+            "atk": "10,200",
+            "element": "Fire",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,320",
+            "id": "3040343000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040343000_02.png",
+            "jpname": "\u30a4\u30b7\u30e5\u30df\u30fc\u30eb",
+            "link": "https://gbf.wiki/Izmir_(Yukata)",
+            "max_evo": "4",
+            "name": "Izmir (Yukata)",
+            "original": "Izmir_(Yukata)",
+            "profile": "\u200b",
+            "race": [
+                "Draph"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "yukata"
+            ],
+            "specialties": [
+                "Sabre"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040343000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Aya Endo"
+            ],
+            "weapon": "Auriculata Bow"
         }
     },
     "Izuminokami_Kanesada": {
@@ -26097,6 +26131,39 @@
                 "Kazuhiro Yamaji"
             ],
             "weapon": "Meteora"
+        },
+        "YUKATA": {
+            "5star": "No",
+            "atk": "7,630",
+            "element": "Wind",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,830",
+            "id": "3040342000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040342000_02.png",
+            "jpname": "\u30a4\u30f3\u30b0\u30f4\u30a7\u30a4",
+            "link": "https://gbf.wiki/Yngwie_(Yukata)",
+            "max_evo": "4",
+            "name": "Yngwie (Yukata)",
+            "original": "Yngwie_(Yukata)",
+            "profile": "\u200b",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [],
+            "specialties": [
+                "Melee",
+                "Gun"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040342000_02.jpg",
+            "type": "Defense",
+            "va": [
+                "Kazuhiro Yamaji"
+            ],
+            "weapon": "C'est la vie"
         }
     },
     "Yodarha": {

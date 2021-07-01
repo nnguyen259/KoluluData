@@ -7182,6 +7182,29 @@
                 "chargebar",
                 "supportskill"
             ]
+        ],
+        "YUKATA": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "crithit",
+                "winddmg"
+            ],
+            [
+                "cadmg",
+                "cadmgcap",
+                "cadmgcap",
+                "debuffacc",
+                "lock"
+            ]
         ]
     },
     "Izuminokami_Kanesada": {
@@ -18742,6 +18765,29 @@
                 "firedmg",
                 "hostilityup",
                 "supportskill"
+            ]
+        ],
+        "YUKATA": [
+            [
+                "atk",
+                "def",
+                "def",
+                "hp",
+                "earthdmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "def",
+                "hp",
+                "da",
+                "ta",
+                "lock"
             ]
         ]
     },
