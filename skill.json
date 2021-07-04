@@ -43857,8 +43857,9 @@
                   "name": "Infinito Creare",
                   "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                   "text": [
-                      "10-hit, 100%-150% Wind damage to random foes (Damage cap: ~70,000 per hit).",
-                      "Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
+                      "10-hit, 100%-150% Wind damage to random foes (Damage cap: ~250,000 per hit).",
+                      "Gain <:Status_Uplift:832602899460521994> **Charge Bar +30%**.",
+                      "Increase Fated Chain bar by 30%."
                   ],
                   "type": [
                       "1"
@@ -43876,7 +43877,6 @@
                   "obtain": " Lvl 80 ",
                   "text": [
                       "All allies gain **Instant Charge**.",
-                      "Increase Fated Chain bar by 30%.",
                       "Lower <:Status_Swordshine:832601757078913106> **Swordshine** lvl by 3. (Requires <:Status_Swordshine:832601757078913106> **Swordshine** lvl 3 or higher.)"
                   ],
                   "type": [
