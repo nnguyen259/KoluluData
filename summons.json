@@ -805,7 +805,7 @@
         "id": "2040369000",
         "jpname": "\u30a2\u30c6\u30ca",
         "link": "https://gbf.wiki/Athena_(Summer)",
-        "name": "Athena",
+        "name": "Athena (Summer)",
         "original": "Athena_(Summer)",
         "profile": "The guardian primal beast of the aegis puts on a vivid swimsuit and steps out onto the beach, ready to protect the smiles of all looking for a fun and relaxing summer vacation.",
         "series": null,
@@ -1022,7 +1022,7 @@
         "id": "2040013000",
         "jpname": "\u30d0\u30a2\u30eb",
         "link": "https://gbf.wiki/Baal_(Summon)",
-        "name": "Baal (Summon)",
+        "name": "Baal",
         "original": "Baal",
         "profile": "Thunder shook the sky and lightning pierced the earth. His wrath was feared throughout the sky and the worst of storms raged as he passed.",
         "series": null,
@@ -1758,7 +1758,7 @@
         "id": "2040331000",
         "jpname": "C. C.",
         "link": "https://gbf.wiki/C.C.",
-        "name": "C. C.",
+        "name": "C.C.",
         "original": "C.C.",
         "profile": "If I grant you power, could you go on? I propose a deal. In exchange for this power, you must agree to make my one wish come true. Accept this contract, and you accept its conditions: while living in a world of humans, you will live unlike any other. A different providence, a different time, a different life... The power of the king will condemn you to a life of solitude. Are you prepared for this?",
         "series": null,
@@ -2892,7 +2892,7 @@
         "id": "2040238000",
         "jpname": "\u30c7\u30b9",
         "link": "https://gbf.wiki/Death_(SSR)",
-        "name": "Death",
+        "name": "Death (SSR)",
         "original": "Death_(SSR)",
         "profile": "This fate-affirming entity takes the form of a bearer of demise, swinging scythes in elegant strokes. It offers intimate destruction to all those who embrace profound transition. Celestially bound to the yearning Lover, zealous passion shall be drowned in an exquisite and eternal adieu.",
         "series": "arcarum",
@@ -3747,7 +3747,7 @@
             }
         ]
     },
-    "Dragon%27s_Rage": {
+    "Dragon's_Rage": {
         "aura_name": "Ultima Catastrophe",
         "call_reuse": "Yes",
         "comboable": "Yes",
@@ -3756,7 +3756,7 @@
         "id": "2040324000",
         "jpname": "\u795e\u6483\u306e\u7adc",
         "link": "https://gbf.wiki/Dragon%27s_Rage",
-        "name": "Dragon&#39;s Rage",
+        "name": "Dragon's Rage",
         "original": "Dragon%27s_Rage",
         "profile": "The empyreal dragon descends upon the world, his appellation well-deserved, his power surpassing all of creation. Witness the unbroken sky tremble from his thundering roar. What else can the living do but revere this dragon with fear and awe?",
         "series": null,
@@ -4606,7 +4606,7 @@
         "id": "2040374000",
         "jpname": "\u30d5\u30ec\u30a4",
         "link": "https://gbf.wiki/Freyr_(Yukata)",
-        "name": "Freyr",
+        "name": "Freyr (Yukata)",
         "original": "Freyr_(Yukata)",
         "profile": "A breathtaking primal beast finds himself partaking in skydweller customs, adopting a summer style that's popular with the locals. Smiling in the sapphire moonlight, with a cool breeze caressing his body, he's the model of beauty no mortal can hope to achieve.",
         "series": null,
@@ -5251,7 +5251,7 @@
             }
         ]
     },
-    "Golden_Pi%C3%B1a": {
+    "Golden_Pi\u00f1a": {
         "aura_name": "Overwhelming Brilliance",
         "call_reuse": "Yes",
         "comboable": "Yes",
@@ -5856,7 +5856,7 @@
         "id": "2040298000",
         "jpname": "\u5751\u9053\u7528\u5927\u578b\u6398\u524a\u6a5f",
         "link": "https://gbf.wiki/H.D._Mining_Excavator",
-        "name": "H. D. Mining Excavator",
+        "name": "H.D. Mining Excavator",
         "original": "H.D._Mining_Excavator",
         "profile": "A tool's worth is determined not by its purpose but by the person using it. It's said this excavator's built-in drill can put a hole in any pavement, while its built-in crusher can demolish any building.",
         "series": null,
@@ -5919,7 +5919,7 @@
         "id": "2040207000",
         "jpname": "K\u30fbB\u30fbS\u30fbN",
         "link": "https://gbf.wiki/H.P.A.",
-        "name": "H. P. A.",
+        "name": "H.P.A.",
         "original": "H.P.A.",
         "profile": "Don't matter if we're just hangin' back on the G. Cyph\u2014we'll be there in a flash when Lyria hollers for us. You might already know this, but we kick butt and takes names with the H.P.A. where we're from. Especially if you put Katapillar beside me, I'll be in, like, Super Lowain Mode. But that's just to make me totes happy though, so don't expect a damage boost or effect or anything. lolz",
         "series": null,
@@ -6788,8 +6788,8 @@
             }
         ]
     },
-    "Jack-o%27-Lantern": {
-        "aura_name": "Jack-o%27-Lantern's Aura",
+    "Jack-o'-Lantern": {
+        "aura_name": "Jack-o'-Lantern's Aura",
         "call_reuse": "Yes",
         "comboable": "Yes",
         "element": "dark",
@@ -6797,7 +6797,7 @@
         "id": "2040041000",
         "jpname": "\u30b8\u30e3\u30c3\u30af\u30fb\u30aa\u30fc\u30fb\u30e9\u30f3\u30bf\u30f3",
         "link": "https://gbf.wiki/Jack-o%27-Lantern",
-        "name": "Jack-o&#39;-Lantern",
+        "name": "Jack-o'-Lantern",
         "original": "Jack-o%27-Lantern",
         "profile": "This poor, lost king wanders the lonely boundaries between worlds in perpetuity, not quite dead and yet not quite alive. His only guide a faintly flickering lamp, he seeks a way to escape this awful purgatory like a caged bird seeks the sky.",
         "series": null,
@@ -6887,7 +6887,7 @@
         "id": "2040245000",
         "jpname": "\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
         "link": "https://gbf.wiki/Judgement_(SSR)",
-        "name": "Judgement",
+        "name": "Judgement (SSR)",
         "original": "Judgement_(SSR)",
         "profile": "This fate-affirming entity takes the form of a triumphant chorus, heralding the arrival of judgment fair and swift. Its echoing tune fills the skies, resurrecting the dead from their eternal slumber. Celestially bound to the all-ruling Emperor, their authority to deliver judgment is also their sole source of opposition.",
         "series": "arcarum",
@@ -6972,7 +6972,7 @@
         "id": "2040236000",
         "jpname": "\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9",
         "link": "https://gbf.wiki/Justice_(SSR)",
-        "name": "Justice",
+        "name": "Justice (SSR)",
         "original": "Justice_(SSR)",
         "profile": "This fate-affirming entity takes the form of a sword-wielding scale come to life, protecting the values it's sworn to champion. Its balance directs the path toward equity, forcing objectivity upon conflicting powers. Celestially bound to the benevolent Empress, an all-consuming love influences harmony within domination.",
         "series": "arcarum",
@@ -7116,7 +7116,7 @@
         "id": "2040375000",
         "jpname": "\u30ab\u30b0\u30e4",
         "link": "https://gbf.wiki/Kaguya_(Summer)",
-        "name": "Kaguya",
+        "name": "Kaguya (Summer)",
         "original": "Kaguya_(Summer)",
         "profile": "The princess descends from the heavens on a balmy midsummer's night, a vision of pale splendor that lingers not. Her beauty confounds mortal eyes\u2014was it all but a mirage?",
         "series": null,
@@ -7278,7 +7278,7 @@
         "id": "2040073000",
         "jpname": "[\u30e9\u30d6\u30ea\u30fc\u30ca\u30a4\u30c8]\u304d\u3089\u308a",
         "link": "https://gbf.wiki/Kirari",
-        "name": "[Skybound] Kirari",
+        "name": "Kirari",
         "original": "Kirari",
         "profile": "With a cheer from the crowd, a torrent of strength surges forward and this young girl grows as giant as her heart's desire. Before long, her legend is surpassed as she easily outgrows even the boundaries of the world.",
         "series": null,
@@ -8053,7 +8053,7 @@
         "id": "2040002000",
         "jpname": "\u30de\u30ad\u30e5\u30e9\u30fb\u30de\u30ea\u30a6\u30b9",
         "link": "https://gbf.wiki/Macula_Marius_(Summon)",
-        "name": "Macula Marius (Summon)",
+        "name": "Macula Marius",
         "original": "Macula_Marius",
         "profile": "Skyfarers must avoid staring at the maiden's shimmering ice crystals. Anyone touched by her icy winds will become her eternal thrall.",
         "series": null,
@@ -8112,7 +8112,7 @@
         "id": "2040293000",
         "jpname": "\u30de\u30ad\u30e5\u30e9\u30fb\u30de\u30ea\u30a6\u30b9",
         "link": "https://gbf.wiki/Macula_Marius_(Summer)",
-        "name": "Macula Marius",
+        "name": "Macula Marius (Summer)",
         "original": "Macula_Marius_(Summer)",
         "profile": "A beautiful maiden of soft petal snow alights on sun-kissed shoals. Her caprice determines who is fortunate enough to be granted sanctuary from the withering heat, but delighting in a Sky Realm summer is entirely her prerogative.",
         "series": null,
@@ -9015,7 +9015,7 @@
         "id": "2040122000",
         "jpname": "\u30d0\u30a4\u30f4\u30ab\u30cf",
         "link": "https://gbf.wiki/Morrigna_(Summon)",
-        "name": "Morrigna (Summon)",
+        "name": "Morrigna",
         "original": "Morrigna",
         "profile": "Three waves of guardians descend to the bottom of the sky, pushing across the equinox battlefield. As warriors seeking combat, they give a might battle cry. As soldiers seeking valor, they gain glory. Maidens admire their courage above all things, and yet cannot ignore their fleeting destinies.",
         "series": "epic",
@@ -10674,7 +10674,7 @@
         "id": "2040057000",
         "jpname": "[\u899a\u9192\u9b54\u738b]\u795e\u5d0e\u862d\u5b50",
         "link": "https://gbf.wiki/Ranko_Kanzaki_(Summon)",
-        "name": "[Skybound] Ranko Kanzaki",
+        "name": "Ranko Kanzaki",
         "original": "Ranko_Kanzaki",
         "profile": "This young girl is awaked by a power from another world, following the forbidden melody of the exalted black wings. Wrapped in a pitch black veil, the true demon ruler descends from the twilight sky.",
         "series": null,
@@ -10974,7 +10974,7 @@
         "id": "2040336000",
         "jpname": "\u30ed\u30fc\u30ba\u30af\u30a4\u30fc\u30f3",
         "link": "https://gbf.wiki/Rose_Queen_(Summer)",
-        "name": "Rose Queen",
+        "name": "Rose Queen (Summer)",
         "original": "Rose_Queen_(Summer)",
         "profile": "Once feared as the guardian of a labyrinthine forest, this rose has sheathed her thorns to grace the beach with a blossoming smile. Her petals glow still brighter under the summer sun's rays, enrapturing all who behold her.",
         "series": null,
@@ -11337,7 +11337,7 @@
         "id": "2040388000",
         "jpname": "\u30b5\u30ea\u30a8\u30eb",
         "link": "https://gbf.wiki/Sariel_(Holiday)",
-        "name": "Sariel",
+        "name": "Sariel (Holiday)",
         "original": "Sariel_(Holiday)",
         "profile": "A wandering fallen angel trudges through the snow, searching for hibernating ants. Will the truth he seeks manifest as a holiday miracle, or will it continue to be buried away like the ants slumbering beneath the surface?",
         "series": null,
@@ -11550,7 +11550,7 @@
         "id": "2040335000",
         "jpname": "\u30b5\u30c6\u30e5\u30ed\u30b9",
         "link": "https://gbf.wiki/Satyr_(Summer)",
-        "name": "Satyr",
+        "name": "Satyr (Summer)",
         "original": "Satyr_(Summer)",
         "profile": "A summer of fun with precious friends amidst the waves of the crystal blue ocean. Satyr's radiant smile and vivacious spirit are like the sun itself, illuminating summer memories which will last a lifetime.",
         "series": null,
@@ -12579,7 +12579,7 @@
         "id": "2040239000",
         "jpname": "\u30c6\u30f3\u30da\u30e9\u30f3\u30b9",
         "link": "https://gbf.wiki/Temperance_(SSR)",
-        "name": "Temperance",
+        "name": "Temperance (SSR)",
         "original": "Temperance_(SSR)",
         "profile": "This fate-affirming entity takes the form of pertinent restraint, upholding the virtues of prudence through its measured control of the flowing chalices. It emerges as the mediator of universal disorder, ruling all weal and woe. Celestially bound to the cautious Hermit, they trifle with opposite extremes which will only be mastered at journey's end.",
         "series": "arcarum",
@@ -12732,7 +12732,7 @@
         "id": "2040240000",
         "jpname": "\u30b6\u30fb\u30c7\u30d3\u30eb",
         "link": "https://gbf.wiki/The_Devil_(SSR)",
-        "name": "The Devil",
+        "name": "The Devil (SSR)",
         "original": "The_Devil_(SSR)",
         "profile": "This fate-affirming entity takes the form of a coaxing demon, clawing at the innocents tempted to draw near. It instigates chaos wherever it appears, dragging all into ruin amongst the panic. Celestially bound to the indomitable Strength, their limitless will shall abide the inferno to ultimately rule above all.",
         "series": "arcarum",
@@ -12904,7 +12904,7 @@
         "id": "2040237000",
         "jpname": "\u30b6\u30fb\u30cf\u30f3\u30b0\u30c9\u30de\u30f3",
         "link": "https://gbf.wiki/The_Hanged_Man_(SSR)",
-        "name": "The Hanged Man",
+        "name": "The Hanged Man (SSR)",
         "original": "The_Hanged_Man_(SSR)",
         "profile": "This fate-affirming entity takes the form of an inverted man, hanging by an ankle as punishment for his transgressions. It bestows twisted trials upon those who dare oppose it, inciting enviable\u2014or even undesirable\u2014evolutions of their spirits. Celestially bound to the glorious Fool, an encounter with The Hanged Man may yield rebirth through calamity.",
         "series": "arcarum",
@@ -12977,7 +12977,7 @@
         "id": "2040243000",
         "jpname": "\u30b6\u30fb\u30e0\u30fc\u30f3",
         "link": "https://gbf.wiki/The_Moon_(SSR)",
-        "name": "The Moon",
+        "name": "The Moon (SSR)",
         "original": "The_Moon_(SSR)",
         "profile": "This fate-affirming entity takes the form of a bewitching lunar warrior, illuminating the delusions hidden deep within one's heart. While exposing deceit in every form, it adorns itself in truth as fabrication. Celestially bound to the enlightened High Priestess, the pure light from the orb of the night sky shall reflect still the corruption of the Sun.",
         "series": "arcarum",
@@ -13050,7 +13050,7 @@
         "id": "2040242000",
         "jpname": "\u30b6\u30fb\u30b9\u30bf\u30fc",
         "link": "https://gbf.wiki/The_Star_(SSR)",
-        "name": "The Star",
+        "name": "The Star (SSR)",
         "original": "The_Star_(SSR)",
         "profile": "This fate-affirming entity takes the form of a luminous hope, wielding sparks of stellar proportions. Its bolts of light pierce the darkest night, becoming the beacons of paths unknown. Celestially bound to the undaunted Chariot, their haughty faith shall bring about inevitable carnage.",
         "series": "arcarum",
@@ -13135,7 +13135,7 @@
         "id": "2040244000",
         "jpname": "\u30b6\u30fb\u30b5\u30f3",
         "link": "https://gbf.wiki/The_Sun_(SSR)",
-        "name": "The Sun",
+        "name": "The Sun (SSR)",
         "original": "The_Sun_(SSR)",
         "profile": "This fate-affirming entity takes the form of an auspicious sphere, brilliantly glowing as its halos burst forth with energy. Its promise of splendor and success both tempts and consumes the hearts of all living things. Celestially bound to the merciful Hierophant, its reverent radiance blinds all to the corrupted truth hidden in its shadow.",
         "series": "arcarum",
@@ -13220,7 +13220,7 @@
         "id": "2040241000",
         "jpname": "\u30b6\u30fb\u30bf\u30ef\u30fc",
         "link": "https://gbf.wiki/The_Tower_(SSR)",
-        "name": "The Tower",
+        "name": "The Tower (SSR)",
         "original": "The_Tower_(SSR)",
         "profile": "This fate-affirming entity takes the form of a calamitous fortress, ascending through the skies to foreshadow an approaching crisis. Its purpose serves only to unleash a crushing blow upon carefully laid efforts, bringing about one's gruesome collapse. Celestially bound to the shrewd Magician, what remains after the stardust has settled may be heaven or hell.",
         "series": "arcarum",
@@ -13541,13 +13541,13 @@
                 "call_cd_first": "3",
                 "call_name": "Vortical Destruction",
                 "duration_aura": {
-                  "Indefinite^i": [
-                    "<:Status_Veil:832602900122828840> **Veil**"
-                  ]
+                    "Indefinite^i": [
+                        "<:Status_Veil:832602900122828840> **Veil**"
+                    ]
                 },
                 "duration_call": {
                     "180^s": [
-                      "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
+                        "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
                     ]
                 },
                 "hp": "1,030",
@@ -13563,13 +13563,13 @@
                 "call_cd_first": "3",
                 "call_name": "Vortical Destruction",
                 "duration_aura": {
-                  "Indefinite^i": [
-                    "<:Status_Veil:832602900122828840> **Veil**"
-                  ]
+                    "Indefinite^i": [
+                        "<:Status_Veil:832602900122828840> **Veil**"
+                    ]
                 },
                 "duration_call": {
                     "180^s": [
-                      "<:Status_WindResDown:832603016032813088> **25% Wind DEF Down**"
+                        "<:Status_WindResDown:832603016032813088> **25% Wind DEF Down**"
                     ]
                 },
                 "hp": "850",
@@ -13585,13 +13585,13 @@
                 "call_cd_first": "3",
                 "call_name": "Vortical Destruction",
                 "duration_aura": {
-                  "Indefinite^i": [
-                    "<:Status_Veil:832602900122828840> **Veil**"
-                  ]
+                    "Indefinite^i": [
+                        "<:Status_Veil:832602900122828840> **Veil**"
+                    ]
                 },
                 "duration_call": {
                     "180^s": [
-                      "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
+                        "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
                     ]
                 },
                 "hp": "140",
@@ -14143,7 +14143,7 @@
             }
         ]
     },
-    "Vane%27s_Cooking": {
+    "Vane's_Cooking": {
         "aura_name": "Bon Appetit",
         "call_reuse": "Yes",
         "comboable": "Yes",
@@ -14152,7 +14152,7 @@
         "id": "2040300000",
         "jpname": "\u30af\u30c3\u30ad\u30f3\u30b0\u30fb\u30f4\u30a7\u30a4\u30f3",
         "link": "https://gbf.wiki/Vane%27s_Cooking",
-        "name": "Vane&#39;s Cooking",
+        "name": "Vane's Cooking",
         "original": "Vane%27s_Cooking",
         "profile": "Welcome to the Bistro Feendrache! I'm Chef Vane! Now then, what sort of morsels are you in the mood for today? For appetizers I've prepared soup, followed by entrees of fish and meat. After the meal come dulcet desserts and hot drinks. How does the full course sound? Please sit wherever you'd like, and place your order. After that, you need only wait! Wahahaha, feast to your heart's content!",
         "series": null,
