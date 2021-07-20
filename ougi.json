@@ -3607,6 +3607,16 @@
                     "450% Fire damage to a foe.\nGain 1 <:status_6864:832604143871983646> **Piece**.\n(When at 3 <:status_6864:832604143871983646> **Piece**: All additional effects activate.\nConsumes all <:Status_68643:832575202369863711> **Piece**.)\n"
                 ]
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Bomb the System",
+                "text": [
+                    "450% Earth damage to a foe.",
+                    "Consume 1 <:status_6864:832604143871983646> **Piece** to activate __Piece Out__."
+                ]
+            }
         ]
     },
     "Ilsa": {

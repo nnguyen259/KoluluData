@@ -9522,6 +9522,40 @@
                 "Akari Kit\u014d"
             ],
             "weapon": "Mystic Spray Gun"
+        },
+        "SUMMER": {
+            "5star": "No",
+            "atk": "8,550",
+            "element": "Earth",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,330",
+            "id": "3040277000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040345000_02.png",
+            "jpname": "\u30a4\u30eb\u30ce\u30fc\u30c8",
+            "link": "https://gbf.wiki/Illnott_(Summer)",
+            "max_evo": "4",
+            "name": "Illnott (Summer)",
+            "original": "Illnott_(Summer)",
+            "profile": "This enchanting king of the night takes her favorite captain to the night pool. There, she pulls off a terrible and beautiful prank that brings the word 'illegal' to a whole new level.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Gun"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040345000_02.jpg",
+            "type": "Special",
+            "va": [
+                "Akari Kit\u014d"
+            ],
+            "weapon": "Bubble Sketcher"
         }
     },
     "Ilsa": {

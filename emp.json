@@ -6802,6 +6802,29 @@
                 "chargebar",
                 "lock"
             ]
+        ],
+        "SUMMER": [
+            [
+                "atk",
+                "def",
+                "debuffres",
+                "oda",
+                "modebar"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "skilldmg",
+                "skilldmgcap",
+                "cadmg",
+                "cadmgcap",
+                "lock"
+            ]
         ]
     },
     "Ilsa": {

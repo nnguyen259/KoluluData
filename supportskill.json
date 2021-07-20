@@ -7780,6 +7780,28 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Summer Prank",
+                "text": [
+                    "**When Illnott is a main ally at battle start:** 40% boost to Earth allies' charge bars."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {
+                    "Indefinite^i": [
+                        "<:status_6864:832604143871983646> **Piece**"
+                    ]
+                },
+                "name": "Night Pool Graffiti",
+                "text": [
+                    "Gain 1 <:status_6864:832604143871983646> **Piece** when targeted by a foe's attack (Max: 3)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
         ]
     },
     "Ilsa": {

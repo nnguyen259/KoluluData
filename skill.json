@@ -20141,6 +20141,97 @@
                 }
             ],
             []
+        ],
+        "SUMMER": [
+            [
+                {
+                    "cooldown": "8 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1516_1.png"
+                    ],
+                    "name": "Piece Out",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "500% Earth damage to a foe (Damage cap: ~730,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay** and remove 1 buff.",
+                        "**Additional effect when 1 <:status_6864:832604143871983646> Piece is consumed:** Activates twice."
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data":[
+                          {
+                              "inLine" : false,
+                              "title" : "\u200b",
+                              "text": [
+                                "\u2022 Activates even if it is on cooldown, and does not put it on cooldown if it's not already.",
+                                "\u2022 If Illnott has at least 2 <:status_6864:832604143871983646> **Piece** upon using charge attack, 2 are consumed and __Piece Out__ activates twice."
+                              ]
+                          }
+                        ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "4^t": [
+                            "<:Status_TripleUp:832601877920350218> **100% TA Up**",
+                            "<:Status_Bonus_Damage:832584447911264276> **30% Bonus Earth DMG**",
+                            "<:Status_Shorted:834405115678162954> **Shorted**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1517_3.png"
+                    ],
+                    "name": "Roaring Crew",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "All allies gain <:Status_TripleUp:832601877920350218> **100% TA Up** and <:Status_Bonus_Damage:832584447911264276> **30% Bonus Earth DMG**.",
+                        "Inflict <:Status_Shorted:834405115678162954> **Shorted** on all allies.",
+                        "Consumes 100% of all allies' charge bars."
+                    ],
+                    "type": [
+                        "4"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "-",
+                    "duration": {
+                      "5^t": [
+                          "<:status_3124_5:866910440339406848> **Fluorescence**"
+                      ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1518_4.png"
+                    ],
+                    "name": "Fluorescence",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Inflict <:status_3124_5:866910440339406848> **Fluorescence** (Can't be extended / Can't be removed)."
+                    ],
+                    "type": [
+                        "2"
+                    ],
+                    "data":[
+                          {
+                              "inLine" : false,
+                              "title" : "<:status_3124_5:866910440339406848> Fluorescence has the following effects:",
+                              "text": [
+                                "\u2022 50% ATK Down",
+                                "\u2022 50% DEF Down",
+                                "\u2022 100% DA Down",
+                                "\u2022 100% TA Down",
+                                "\u2022 DMG taken is boosted based on 1% of foe's max HP (Damage cap: 30,000)"
+                              ]
+                          }
+                        ]
+                }
+            ],
+            []
         ]
     },
     "Ilsa": {
