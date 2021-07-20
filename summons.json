@@ -4790,6 +4790,59 @@
             }
         ]
     },
+    "Galleon": {
+        "aura_name": "Galleon's Aura",
+        "call_reuse": "Yes",
+        "comboable": "No",
+        "element": "Earth",
+        "evo_max": "3",
+        "id": "2040401000",
+        "jpname": "\u30ac\u30ec\u30f2\u30f3",
+        "link": "https://gbf.wiki/Galleon",
+        "name": "Galleon",
+        "original": "Galleon",
+        "profile": "The colossal dragon topples mountains, so that it may dye the world gold and rule supreme, while its unbreakable might crushes harmony into dust, bearing the providence of the six.",
+        "series": "six dragons",
+        "uncap_art": false,
+        "versions": [
+            {
+                "atk": "2049",
+                "aura": "120% boost to Earth ATK.",
+                "call": "900% Earth damage to all foes. All Earth allies gain <:Status_DmgUp:832590865767727175> **Supplemental DMG**.",
+                "call_cd": "9",
+                "call_cd_first": "3",
+                "call_name": "Island Hurl",
+                "duration_aura": {},
+                "duration_call": {
+                    "1^t": [
+                        "<:Status_DmgUp:832590865767727175> **Supplemental DMG**"
+                    ]
+                },
+                "hp": "831",
+                "id": null,
+                "name": "3\u2605",
+                "subaura": "20% boost to Earth's, Mountain's, and Terra's weapon skills."
+            },
+            {
+                "atk": "324",
+                "aura": "100% boost to Earth ATK.",
+                "call": "900% Earth damage to all foes. All Earth allies gain <:Status_DmgUp:832590865767727175> **Supplemental DMG**.",
+                "call_cd": "9",
+                "call_cd_first": "3",
+                "call_name": "Island Hurl",
+                "duration_aura": {},
+                "duration_call": {
+                    "1^t": [
+                        "<:Status_DmgUp:832590865767727175> **Supplemental DMG**"
+                    ]
+                },
+                "hp": "142",
+                "id": null,
+                "name": "0\u2605",
+                "subaura": "10% boost to Earth's, Mountain's, and Terra's weapon skills."
+            }
+        ]
+    },
     "Garuda": {
         "aura_name": "Garuda's Aura",
         "call_reuse": "Yes",
@@ -13462,6 +13515,89 @@
                 "id": null,
                 "name": "0\u2605",
                 "subaura": null
+            }
+        ]
+    },
+    "Tiamat_Summer": {
+        "aura_name": "Tiamat's Aura",
+        "call_reuse": "Yes",
+        "comboable": "Yes",
+        "element": "wind",
+        "evo_max": "4",
+        "id": "2040402000",
+        "jpname": "\u30c6\u30a3\u30a2\u30de\u30c8\u30fb\u30de\u30b0\u30ca",
+        "link": "https://gbf.wiki/Tiamat_(Summer)",
+        "name": "Tiamat (Summer)",
+        "original": "Tiamat_(Summer)",
+        "profile": "The mighty dragon of wind plunges into the sea as though answering its call. Surrounded by a watery landscape as blue as the skies above, she glides this way and that, her movements light and free.",
+        "series": null,
+        "uncap_art": false,
+        "versions": [
+            {
+                "atk": "2,230",
+                "aura": "110% boost to Wind Elemental ATK.",
+                "call": "Massive Wind damage to all foes. Inflict <:Status_WindResDown:832603016032813088> **25% Wind DEF Down** and <:Status_Gravity:832593788052177016> **Delay**.",
+                "call_cd": "9",
+                "call_cd_first": "3",
+                "call_name": "Vortical Destruction",
+                "duration_aura": {
+                  "Indefinite^i": [
+                    "<:Status_Veil:832602900122828840> **Veil**"
+                  ]
+                },
+                "duration_call": {
+                    "180^s": [
+                      "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
+                    ]
+                },
+                "hp": "1,030",
+                "id": null,
+                "name": "4\u2605",
+                "subaura": "Wind allies start battle with <:Status_Veil:832602900122828840> **Veil** and deal triple attacks for 1 turn."
+            },
+            {
+                "atk": "1,850",
+                "aura": "100% boost to Wind Elemental ATK.",
+                "call": "Massive Wind damage to all foes. Inflict <:Status_WindResDown:832603016032813088> **25% Wind DEF Down**.",
+                "call_cd": "9",
+                "call_cd_first": "3",
+                "call_name": "Vortical Destruction",
+                "duration_aura": {
+                  "Indefinite^i": [
+                    "<:Status_Veil:832602900122828840> **Veil**"
+                  ]
+                },
+                "duration_call": {
+                    "180^s": [
+                      "<:Status_WindResDown:832603016032813088> **25% Wind DEF Down**"
+                    ]
+                },
+                "hp": "850",
+                "id": null,
+                "name": "3\u2605",
+                "subaura": "Wind allies start battle with <:Status_Veil:832602900122828840> **Veil** and boost to multiattack rate for 1 turn."
+            },
+            {
+                "atk": "315",
+                "aura": "80% boost to Wind Elemental ATK.",
+                "call": "Massive Wind damage to all foes. Inflict <:Status_WindResDown:832603016032813088> **20% Wind DEF Down**.",
+                "call_cd": "9",
+                "call_cd_first": "3",
+                "call_name": "Vortical Destruction",
+                "duration_aura": {
+                  "Indefinite^i": [
+                    "<:Status_Veil:832602900122828840> **Veil**"
+                  ]
+                },
+                "duration_call": {
+                    "180^s": [
+                      "<:Status_WindResDown:832603016032813088> **20% Wind DEF Down**"
+                    ]
+                },
+                "hp": "140",
+                "id": null,
+                "name": "0\u2605",
+                "subaura": "Wind allies start battle with <:Status_Veil:832602900122828840> **Veil**."
             }
         ]
     },
