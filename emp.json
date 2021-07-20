@@ -15676,6 +15676,29 @@
                 "supportskill"
             ]
         ],
+        "SUMMER": [
+            [
+                "atk",
+                "def",
+                "def",
+                "hp",
+                "firedmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "cadmg",
+                "crithit"
+            ],
+            [
+                "def",
+                "hp",
+                "enmity",
+                "cadmgcap",
+                "lock"
+            ]
+        ],
         "YUKATA": [
             [
                 "atk",

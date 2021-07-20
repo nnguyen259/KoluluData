@@ -45798,6 +45798,77 @@
             ],
             []
         ],
+        "SUMMER": [
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Jammed:832595932305424394> **Jammed**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1513_1.png"
+                    ],
+                    "name": "Zwei Harpunieren",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "2-hit, 400% Water damage to random foes (Damage cap: ~420,000 per hit).",
+                        "Gain <:Status_Jammed:832595932305424394> **Jammed**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Fire_Cut_20:834392499744276490> **20% Fire Cut**",
+                            "<:Status_Fire_Switch:834392593994612807> **Fire Switch**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1514_1.png"
+                    ],
+                    "name": "Dernier Allie",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "500% Water damage to a foe (Damage cap: ~730,000).",
+                        "All allies gain <:Status_Fire_Cut_20:834392499744276490> **20% Fire Cut** and <:Status_Fire_Switch:834392593994612807> **Fire Switch**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Shield:832599448872943648> **Shield (10000)**",
+                            "<:Status_Bonus_Damage:832584447911264276> **80% Bonus Water DMG**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1515_3.png"
+                    ],
+                    "name": "Loin d'Ici",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Sacrifice 60% of caster's current HP to gain <:Status_Shield:832599448872943648> **Shield (10000)** and <:Status_Bonus_Damage:832584447911264276> **80% Bonus Water DMG**.",
+                        "Bonus Water DMG effect ends upon taking damage."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ],
         "YUKATA": [
             [
                 {

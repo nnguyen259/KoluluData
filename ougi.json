@@ -8091,6 +8091,16 @@
                 ]
             }
         ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Rauesee Faenge",
+                "text": [
+                    "450% Water damage to a foe.",
+                    "Activate __Zwei Harpunieren__."
+                ]
+            }
+        ],
         "YUKATA": [
             {
                 "duration": {

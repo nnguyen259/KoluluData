@@ -22016,6 +22016,40 @@
             ],
             "weapon": "Black Dragon's Maw"
         },
+        "SUMMER": {
+            "5star": "No",
+            "atk": "6,850",
+            "element": "Water",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,990",
+            "id": "3040128000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040344000_02.png",
+            "jpname": "\u30b8\u30fc\u30af\u30d5\u30ea\u30fc\u30c8",
+            "link": "https://gbf.wiki/Siegfried_(Yukata)",
+            "max_evo": "4",
+            "name": "Siegfried (Summer)",
+            "original": "Siegfried_(Summer)",
+            "profile": "Sensing a change in the ocean, the knight takes up a harpoon in place of his sword and dives into the deep waters. Who will be the one to defeat the sea creature—the hero who slayed the black dragon, or a man turned monster?",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Spear"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040344000_02.jpg",
+            "type": "Defense",
+            "va": [
+                "Kazuhiko Inoue"
+            ],
+            "weapon": "Ravening Harpoon"
+        },
         "YUKATA": {
             "5star": "No",
             "atk": "9,500",

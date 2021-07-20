@@ -16708,6 +16708,35 @@
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
         ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Dragon's Spirit",
+                "text": [
+                    "Siegfried takes 7% max HP damage every turn (Damage cap: 800).",
+                    "30% boost to ATK, 100% boost to DEF, and guaranteed double attacks.",
+                    "When HP is 50% or below at end of turn: Gain <:Status_Uplift:832602899460521994> **Charge Bar +25%**"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Seaside Defender",
+                "text": [
+                    "Cap incoming Fire damage at 5,000 per hit."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data":[
+                  {
+                      "inLine" : false,
+                      "title" : "Incoming Fire damage is capped before <:Status_Shield:832599448872943648> **Shield** is applied.",
+                      "text": [
+                        "\u200b"
+                      ]
+                  }
+                ]
+            }
+        ],
         "YUKATA": [
             {
                 "duration": {
