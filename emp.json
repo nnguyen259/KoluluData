@@ -6800,7 +6800,7 @@
                 "cadmg",
                 "cadmgcap",
                 "chargebar",
-                "lock"
+                "supportskill"
             ]
         ],
         "SUMMER": [
@@ -13021,7 +13021,7 @@
                 "skilldmg",
                 "skilldmgcap",
                 "debuffacc",
-                "lock"
+                "supportskill"
             ]
         ],
         "SUMMER": [
@@ -13215,7 +13215,7 @@
                 "skilldmgcap",
                 "dodge",
                 "dodge",
-                "lock"
+                "supportskill"
             ]
         ],
         "SR": [
@@ -13601,7 +13601,7 @@
                 "def",
                 "skilldmg",
                 "skilldmgcap",
-                "lock"
+                "supportskill"
             ]
         ],
         "SR": [
@@ -14822,7 +14822,7 @@
                 "hostilityup",
                 "healing",
                 "healing",
-                "lock"
+                "supportskill"
             ]
         ]
     },
@@ -15602,7 +15602,7 @@
                 "skilldmg",
                 "skilldmgcap",
                 "debuffacc",
-                "lock"
+                "supportskill"
             ]
         ]
     },

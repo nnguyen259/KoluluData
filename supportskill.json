@@ -7888,7 +7888,34 @@
                     "When a foe uses a special attack: Activate Burner Bomb.\nGain 1 <:status_6864:832604143871983646> **Piece** (Max: 3)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Boost to multiattack rate based on number of Pieces."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════╦═══════╗",
+                                "║ Rank ║ DA Up ║ TA Up ║",
+                                "╠══════╬═══════╬═══════╣",
+                                "║   1  ║       ║       ║",
+                                "╠══════╬═══════╬═══════╣",
+                                "║   2  ║       ║       ║",
+                                "╠══════╬═══════╬═══════╣",
+                                "║   3  ║  30%  ║  20%  ║",
+                                "╚══════╩═══════╩═══════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SUMMER": [
             {
@@ -14314,7 +14341,34 @@
                     "Boost to Light allies' skill specs based on their number of <:Status_Aurora_Crest:832580994745630741> **Aurora Crest**.\n(Takes effect even when Percival is a sub ally.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Chance to gain 1 Aurora Crest upon normal attacks."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║   5%   ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║   8%   ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║   10%  ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SUMMER": [
             {
@@ -14476,7 +14530,34 @@
                     "Big boost to all allies' ATK based on how low Predator's HP is."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Slight chance to dodge all attacks from foes."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════════╗",
+                                "║ Rank ║ Dodge Rate ║",
+                                "╠══════╬════════════╣",
+                                "║   1  ║            ║",
+                                "╠══════╬════════════╣",
+                                "║   2  ║            ║",
+                                "╠══════╬════════════╣",
+                                "║   3  ║     10%    ║",
+                                "╚══════╩════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SR": [
             {
@@ -14881,7 +14962,34 @@
                     "10% boost to double attack rate, 5% boost to triple attack rate, and amplify normal attack damage by 3% for melee-specialty allies."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Supplement skill DMG."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦══════════════════╗",
+                                "║ Rank ║ Supplemental DMG ║",
+                                "╠══════╬══════════════════╣",
+                                "║   1  ║      10,000      ║",
+                                "╠══════╬══════════════════╣",
+                                "║   2  ║      20,000      ║",
+                                "╠══════╬══════════════════╣",
+                                "║   3  ║      30,000      ║",
+                                "╚══════╩══════════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SR": [
             {
@@ -16013,7 +16121,34 @@
                     "Gain these effects in order based on number of main allies upon attacking:20% reduced Wind damage taken, charge bar fills up 100% faster from damage taken, Revitalize effect."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Chance to not consume Twinkle Star upon using skills."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║   10%  ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║   30%  ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║   50%  ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ]
     },
     "Scathacha": {
@@ -16924,7 +17059,34 @@
                     "While <:status_3100:832603245053476874> **Aquablossom** is in effect: Guaranteed triple attacks and 50% Bonus Water DMG effect.\n(Consumes 30% of charge bar every turn to maintain <:status_3100:832603245053476874> **Aquablossom** effect.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Boost to charge bar gain."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════════════════╗",
+                                "║ Rank ║ Charge Bar Gain Up ║",
+                                "╠══════╬════════════════════╣",
+                                "║   1  ║         10%        ║",
+                                "╠══════╬════════════════════╣",
+                                "║   2  ║         15%        ║",
+                                "╠══════╬════════════════════╣",
+                                "║   3  ║         20%        ║",
+                                "╚══════╩════════════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ]
     },
     "Siegfried": {
