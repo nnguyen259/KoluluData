@@ -4682,6 +4682,34 @@
                     "Withstand lethal turn-based damage (Leaves 1 HP)."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Chance to convert turn-based debuff DMG to HP recovery (Poison, Burn, Wither, etc.)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║   50%  ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║   75%  ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║  100%  ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+
             }
         ],
         "HALLOWEEN": [
@@ -7858,7 +7886,34 @@
                     "3 <:status_6788:832603246769340427> **War Funds** to Ilsa at battle start (Max: 3).\n(Consumes 1 <:status_6788:832603246769340427> **War Funds** at end of turn to auto-activate Guns R Us.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Chance to gain 1 War Fund upon using a linked skill."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║   50%  ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║   75%  ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║  100%  ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SUMMER": [
             {
@@ -8618,7 +8673,34 @@
                     "Raise <:Status_Martial_Spirit:832597007709372458> **Martial Spirit** lvl by 1 upon taking big damage."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Chance to raise Martial Spirit lvl by 1 upon using charge attack."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                      {
+                          "inLine": false,
+                          "title": "\u200b",
+                          "text": [
+                              "```",
+                              "╔══════╦════════╗",
+                              "║ Rank ║ Chance ║",
+                              "╠══════╬════════╣",
+                              "║   1  ║   50%  ║",
+                              "╠══════╬════════╣",
+                              "║   2  ║   80%  ║",
+                              "╠══════╬════════╣",
+                              "║   3  ║  100%  ║",
+                              "╚══════╩════════╝",
+                              "```"
+                          ]
+                      }
+                  ]
+          }
         ],
         "EVENT": [
             {

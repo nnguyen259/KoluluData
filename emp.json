@@ -3833,7 +3833,7 @@
                 "da",
                 "ta",
                 "enmity",
-                "lock"
+                "supportskill"
             ]
         ],
         "HALLOWEEN": [
@@ -6871,7 +6871,7 @@
                 "skilldmgcap",
                 "skilldmgcap",
                 "healing",
-                "lock"
+                "supportskill"
             ]
         ],
         "SUMMER": [
@@ -7654,7 +7654,7 @@
                 "atkupdefdown",
                 "cadmg",
                 "cadmg",
-                "lock"
+                "supportskill"
             ]
         ],
         "EVENT": [
