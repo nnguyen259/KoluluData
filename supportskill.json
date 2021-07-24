@@ -7325,6 +7325,33 @@
                     "Raise <:status_67961:832604008693628990> **Cyclone** lvl by 1 at end of turn when allies deal damage 30 or more times to the current target in 1 turn."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Earth DMG reduction to all allies."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════════╗",
+                                "║ Rank ║ Reduction ║",
+                                "╠══════╬═══════════╣",
+                                "║   1  ║     2%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   2  ║     4%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   3  ║     5%    ║",
+                                "╚══════╩═══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },
@@ -15896,6 +15923,33 @@
                     "10% bonus Fire damage effect to allies with <:Status_Shield:832599448872943648> **Shield** effect."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Boost to healing specs."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦══════════════════╗",
+                                "║ Rank ║ Healing Specs Up ║",
+                                "╠══════╬══════════════════╣",
+                                "║   1  ║        10%       ║",
+                                "╠══════╬══════════════════╣",
+                                "║   2  ║        20%       ║",
+                                "╠══════╬══════════════════╣",
+                                "║   3  ║        30%       ║",
+                                "╚══════╩══════════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },
@@ -20035,6 +20089,33 @@
                     "Boost to dodge rate when Yodarha has <:Status_Bonus_Damage:832584447911264276> **Bonus Wind DMG**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Chance to boost ATK with every normal attack (Stackable)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╦════════╗",
+                                "║ Rank ║ ATK Up ║ Chance ║",
+                                "╠══════╬════════╬════════╣",
+                                "║   1  ║        ║   5%   ║",
+                                "╠══════╣        ╠════════╣",
+                                "║   2  ║   10%  ║   8%   ║",
+                                "╠══════╣        ╠════════╣",
+                                "║   3  ║        ║   10%  ║",
+                                "╚══════╩════════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },

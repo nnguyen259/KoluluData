@@ -6308,7 +6308,7 @@
                 "skilldmgcap",
                 "crithit",
                 "crithit",
-                "lock"
+                "supportskill"
             ]
         ]
     },
@@ -14893,7 +14893,7 @@
                 "skilldmgcap",
                 "hostilityup",
                 "healing",
-                "lock"
+                "supportskill"
             ]
         ]
     },
@@ -18927,7 +18927,7 @@
                 "crithit",
                 "cadmgcap",
                 "dodge",
-                "lock"
+                "supportskill"
             ]
         ]
     },
