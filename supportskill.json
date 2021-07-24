@@ -10307,7 +10307,34 @@
                     "**When Sub Ally:** When a Water chain burst activates: Water damage to a foe based on number of chains."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Boost to triple attack rate based on number of foe's debuffs."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════╗",
+                                "║ Rank ║ TA Up ║",
+                                "╠══════╬═══════╣",
+                                "║   1  ║   ?   ║",
+                                "╠══════╬═══════╣",
+                                "║   2  ║   ?   ║",
+                                "╠══════╬═══════╣",
+                                "║   3  ║  10%  ║",
+                                "╚══════╩═══════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ]
     },
     "Lelouch_Lamperouge": {
@@ -14699,7 +14726,34 @@
                     "30% boost to C.A. damage and 10% boost to C.A. damage cap for Dark allies against foes with <:status_6803:832604007218151504> **Celestial Vision**.\n(Takes effect even when Rei is a sub ally.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Light DMG reduction to all allies."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════════╗",
+                                "║ Rank ║ Reduction ║",
+                                "╠══════╬═══════════╣",
+                                "║   1  ║     2%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   2  ║     4%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   3  ║     5%    ║",
+                                "╚══════╩═══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ]
     },
     "Reinhardtzar": {
@@ -19070,7 +19124,34 @@
                     "Upon taking damage: Lose 2 <:status_6798:832604007066501160> **Dragon Fruit**.\nGain <:Status_AggroDownArrow:832575957197651978> **Hostility Down**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Slight chance of a 1-turn cut to skill cooldowns with every normal attack."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║    ?   ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║    ?   ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║   5%   ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SR": [
             {

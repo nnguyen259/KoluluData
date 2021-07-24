@@ -9340,7 +9340,7 @@
                 "skilldmgcap",
                 "skilldmgcap",
                 "cadmgcap",
-                "lock"
+                "supportskill"
             ]
         ]
     },
@@ -13576,7 +13576,7 @@
                 "stamina",
                 "stamina",
                 "hostilitydown",
-                "lock"
+                "supportskill"
             ]
         ]
     },
@@ -17858,7 +17858,7 @@
                 "cadmg",
                 "hostilitydown",
                 "healing",
-                "lock"
+                "supportskill"
             ]
         ],
         "SR": [
