@@ -9638,6 +9638,17 @@
         "BASE": [
             {
                 "duration": {},
+                "name": "Luminox Genesi",
+                "text": [
+                    "500% Earth damage to a foe.",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +20%** and <:Status_Wasteland_Crest_1:832602901296709693> **Wasteland Crest**.",
+                    "Restore 30% of Yggdrasil's HP (Healing cap: 4000)."
+                ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {},
                 "name": "Axis Mundi",
                 "text": [
                     "Massive Earth damage to a foe.\nGain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."

@@ -26303,7 +26303,39 @@
     },
     "Yggdrasil": {
         "BASE": {
-            "5star": "No",
+            "5star": "Yes",
+            "atk": "7,500",
+            "element": "Earth",
+            "gender": [
+                "Female"
+            ],
+            "hp": "2,200",
+            "id": "3040125000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040125000_03.png",
+            "jpname": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+            "link": "https://gbf.wiki/Yggdrasil",
+            "max_evo": "5",
+            "name": "Yggdrasil",
+            "original": "Yggdrasil",
+            "profile": "For ages she has been a silent witness to all around her, unmoving from her place in the forest. Now she longs to journey out from her home and see the world. But without the ability to speak, there is only one who can hear the innermost desires of her heart.",
+            "race": [
+                "Primal"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Melee"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040125000_03.jpg",
+            "type": "Special",
+            "va": [
+                "-"
+            ],
+            "weapon": "Bella Aeterna"
+        },
+        "BASE_4": {
+            "5star": "Yes",
             "atk": "6,300",
             "element": "Earth",
             "gender": [
@@ -26314,7 +26346,7 @@
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040125000_02.png",
             "jpname": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
             "link": "https://gbf.wiki/Yggdrasil",
-            "max_evo": "4",
+            "max_evo": "5",
             "name": "Yggdrasil",
             "original": "Yggdrasil",
             "profile": "For ages she has been a silent witness to all around her, unmoving from her place in the forest. Now she longs to journey out from her home and see the world. But without the ability to speak, there is only one who can hear the innermost desires of her heart.",

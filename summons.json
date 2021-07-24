@@ -2951,20 +2951,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Dark allies' damage dealt against Light foes."
-            },
-            {
-                "atk": "300",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Deathly Thirteen",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "109",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -6946,20 +6932,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Wind allies' damage dealt against Earth foes."
-            },
-            {
-                "atk": "290",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Verdict Sphere",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "107",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -7019,20 +6991,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "20% boost to Water allies' HP"
-            },
-            {
-                "atk": "260",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Jurist Scales",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "116",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -12626,20 +12584,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "20% boost to Wind allies' HP"
-            },
-            {
-                "atk": "275",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Yin Yang",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "113",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -12803,20 +12747,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "20% boost to Fire allies' HP."
-            },
-            {
-                "atk": "280",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Power Plant",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "112",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -12951,20 +12881,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Earth allies' damage dealt against Water foes."
-            },
-            {
-                "atk": "280",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Golden Dawn",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "109",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -13024,20 +12940,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Water allies' damage against Fire foes."
-            },
-            {
-                "atk": "275",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Koph",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "110",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -13109,20 +13011,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Light allies' damage against Dark foes"
-            },
-            {
-                "atk": "280",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Stardeath",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "113",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -13194,20 +13082,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "7% boost to Fire allies' damage dealt against Wind foes."
-            },
-            {
-                "atk": "295",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Coronal Ejection",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "106",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },
@@ -13279,20 +13153,6 @@
                 "id": null,
                 "name": "3\u2605",
                 "subaura": "20% boost to Earth allies' HP"
-            },
-            {
-                "atk": "265",
-                "aura": null,
-                "call": null,
-                "call_cd": null,
-                "call_cd_first": null,
-                "call_name": "Callous Fist",
-                "duration_aura": null,
-                "duration_call": null,
-                "hp": "115",
-                "id": null,
-                "name": "0\u2605",
-                "subaura": null
             }
         ]
     },

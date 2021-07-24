@@ -18764,6 +18764,29 @@
                 "healing",
                 "supportskill"
             ]
+        ],
+        "BASE_4": [
+            [
+                "atk",
+                "def",
+                "debuffres",
+                "oda",
+                "modebar"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "earthatk",
+                "cadmg"
+            ],
+            [
+                "chargebar",
+                "hostilityup",
+                "hostilitydown",
+                "healing",
+                "supportskill"
+            ]
         ]
     },
     "Yngwie": {

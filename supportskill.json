@@ -19694,9 +19694,101 @@
                 "duration": {},
                 "name": "Grace of the Great Tree",
                 "text": [
-                    "More likely to be attacked.\nCharge bar fills up 100% faster from damage taken."
+                    "+10 boost to hostility.",
+                    "Charge bar fills up 100% faster from damage taken."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "In a 4-man party, the probability she gets targeted is 40% (Hostility increased by +10).",
+                            "text": [
+                                "\u200b"
+                            ]
+                        }
+                    ]
+            },
+            {
+                "duration": {},
+                "name": "Anima Aeternus",
+                "text": [
+                    "Amplify damage against Water foes by 20%.",
+                    "**When Yggdrasil is a main ally:**",
+                    "Amplifies other Earth allies' damage against Water foes by 20%.",
+                    "Boost to Earth allies' healing specs based on their number of <:Status_Wasteland_Crest:832602901028274247> **Wasteland Crest**.",
+                    "(Boost to healing specs takes effect even when Yggdrasil is a sub ally.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔═════╦═══════════════╗",
+                                "║ Lvl ║ Healing Specs ║",
+                                "╠═════╬═══════════════╣",
+                                "║  1  ║       2%      ║",
+                                "╠═════╬═══════════════╣",
+                                "║  2  ║       4%      ║",
+                                "╠═════╬═══════════════╣",
+                                "║  3  ║       6%      ║",
+                                "╠═════╬═══════════════╣",
+                                "║  4  ║       8%      ║",
+                                "╠═════╬═══════════════╣",
+                                "║  5  ║      10%      ║",
+                                "╚═════╩═══════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Boost to all allies' healing cap"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦══════════╗",
+                                "║ Rank ║ Heal Cap ║",
+                                "╠══════╬══════════╣",
+                                "║   1  ║  +100 HP ║",
+                                "╠══════╬══════════╣",
+                                "║   2  ║  +150 HP ║",
+                                "╠══════╬══════════╣",
+                                "║   3  ║  +200 HP ║",
+                                "╚══════╩══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+            }
+        ],
+        "BASE_4": [
+            {
+                "duration": {},
+                "name": "Grace of the Great Tree",
+                "text": [
+                    "+10 boost to hostility.",
+                    "Charge bar fills up 100% faster from damage taken."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "In a 4-man party, the probability she gets targeted is 40% (Hostility increased by +10).",
+                            "text": [
+                                "\u200b"
+                            ]
+                        }
+                    ]
             },
             {
                 "duration": {},
@@ -19712,7 +19804,26 @@
                 "text": [
                     "Boost to all allies' healing cap"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦══════════╗",
+                                "║ Rank ║ Heal Cap ║",
+                                "╠══════╬══════════╣",
+                                "║   1  ║  +100 HP ║",
+                                "╠══════╬══════════╣",
+                                "║   2  ║  +150 HP ║",
+                                "╠══════╬══════════╣",
+                                "║   3  ║  +200 HP ║",
+                                "╚══════╩══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },

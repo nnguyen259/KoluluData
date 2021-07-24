@@ -54829,12 +54829,135 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "5^t": [
+                            " <:status_7202:868432023210065970> **Urdarbrunnr**",
+                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Wasteland_Crest_1:832602901296709693> **Wasteland Crest**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/436_3.png"
+                    ],
+                    "name": "Blathnat Norn",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "All allies gain <:status_7202:868432023210065970> **Urdarbrunnr**, <:Status_Wasteland_Crest_1:832602901296709693> **Wasteland Crest** and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**"
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:status_7202:868432023210065970> Urdarbrunnr grants the following effects:",
+                            "text": [
+                                "\u2022 50% Normal ATK UP",
+                                "\u2022 50% DEF up"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **20% ATK Up**",
-                            "<:Status_DefenseUp:832588447800885249> **20% DEF Up**",
-                            "<:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up**",
+                            "<:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Shield:832599448872943648> **Shield (3500)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/437_3.png"
+                    ],
+                    "name": "Ziggurat",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "All Earth allies gain <:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**.",
+                        "All other allies gain <:Status_Shield:832599448872943648> **Shield (3500)**.",
+                        "(Consumes 20% of charge bar.)",
+                        "**When Yggdrasil's <:Status_Wasteland_Crest:832602901028274247> Wasteland Crest is 3 or more: Skill changes to __Eunir__**"
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**",
+                            "<:status_7203:868432194970996756> **Vessel of the World Tree**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Shield:832599448872943648> **Shield (3500)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1519_3.png"
+                    ],
+                    "name": "Eunir",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                      "All Earth allies gain <:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**.",
+                      "All other allies gain <:Status_Shield:832599448872943648> **Shield (3500)**.",
+                      "Caster gains <:status_7203:868432194970996756> **Vessel of the World Tree**.",
+                      "Does not consume charge bar."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:status_7203:868432194970996756> Vessel of the World Tree grants the following effects:",
+                            "text": [
+                                "\u2022 Substitute effect (one-ally attacks only)",
+                                "\u2022 50% reduced DMG taken",
+                                "\u2022 **At end of turn in which damage is taken:** 4-hit, 100% Earth damage to random foes (Damage cap: ~150,000 per hit) and 1-turn cut to Yggdrasil's skill cooldowns"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "3^t": [
+                            "<:Status_Heal:832593788375400470> **Refresh**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/438_2.png"
+                    ],
+                    "name": "Cerasus Gratia",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Restore all allies' HP (Healing cap: 500) and remove 1 debuff.",
+                        "All allies gain <:Status_Heal:832593788375400470> **Refresh**."
+                    ],
+                    "type": [
+                        "2"
+                    ]
+                }
+            ],
+            []
+        ],
+        "BASE_4": [
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "3^t": [
                             "<:Status_AttackUp:832581064555364362> **25% ATK Up**",
                             "<:Status_DefenseUp:832588447800885249> **25% DEF Up**",
                             "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**"
@@ -54846,7 +54969,8 @@
                     "name": "Blathnat Norn",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up**, <:Status_DefenseUp:832588447800885249> **20% DEF Up**, and <:Status_Uplift:832602899460521994> **20% Charge Bar Gain Up**.\n(Consumes 10% of charge bar.)\nBuffs increased to <:Status_AttackUp:832581064555364362> **25% ATK Up**, <:Status_DefenseUp:832588447800885249> **25% DEF Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**."
+                        "All allies gain <:Status_AttackUp:832581064555364362> **25% ATK Up**, <:Status_DefenseUp:832588447800885249> **25% DEF Up**, and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.",
+                        "(Consumes 10% of charge bar)."
                     ],
                     "type": [
                         "3"
@@ -54855,7 +54979,7 @@
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**",
@@ -54868,7 +54992,9 @@
                     "name": "Ziggurat",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "All Earth allies gain <:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**.\nAll other allies gain <:Status_Shield:832599448872943648> **Shield (2000)**.\n(Consumes 20% of charge bar.)\n"
+                        "All Earth allies gain <:Status_CriticalUpEarth:834389759312134166> **80% / 30% Critical Hit Rate Up**.",
+                        "All other allies gain <:Status_Shield:832599448872943648> **Shield (2000)**.",
+                        "(Consumes 20% of charge bar.)\n"
                     ],
                     "type": [
                         "3"
@@ -54889,7 +55015,8 @@
                     "name": "Cerasus Gratia",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Restore all allies' HP (Healing cap: 500) and remove 1 debuff.\nAll allies gain <:Status_Heal:832593788375400470> **Refresh**."
+                        "Restore all allies' HP (Healing cap: 500) and remove 1 debuff.",
+                        "All allies gain <:Status_Heal:832593788375400470> **Refresh**."
                     ],
                     "type": [
                         "2"
