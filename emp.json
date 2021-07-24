@@ -4211,7 +4211,7 @@
                 "fireatk",
                 "debuffacc",
                 "dodge",
-                "lock"
+                "supportskill"
             ]
         ],
         "GRAND": [
@@ -6704,7 +6704,7 @@
                 "hp",
                 "waterdmg",
                 "hostilityup",
-                "lock"
+                "supportskill"
             ]
         ],
         "R": [
@@ -11115,7 +11115,7 @@
                 "crithit",
                 "skilldmgcap",
                 "debuffacc",
-                "lock"
+                "supportskill"
             ]
         ],
         "SR": [
