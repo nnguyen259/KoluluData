@@ -12967,7 +12967,34 @@
                     "When in Rampage: Use an automatic skill every 3 turns based on Mugen's status.\nUse charge attack when charge bar is at max."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Slight chance to withstand lethal DMG (leaves 1 HP)."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╗",
+                                "║ Rank ║ Chance ║",
+                                "╠══════╬════════╣",
+                                "║   1  ║   10%  ║",
+                                "╠══════╬════════╣",
+                                "║   2  ║   20%  ║",
+                                "╠══════╬════════╣",
+                                "║   3  ║   30%  ║",
+                                "╚══════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ]
     },
     "Naga": {
@@ -17607,7 +17634,34 @@
                     "When a foe uses a special attack: Activate Dual Swords."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Chance to boost ATK with every normal attack (Stackable)."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦════════╦════════╗",
+                                "║ Rank ║ ATK Up ║ Chance ║",
+                                "╠══════╬════════╬════════╣",
+                                "║   1  ║        ║   5%   ║",
+                                "╠══════╣        ╠════════╣",
+                                "║   2  ║   10%  ║   8%   ║",
+                                "╠══════╣        ╠════════╣",
+                                "║   3  ║        ║   10%  ║",
+                                "╚══════╩════════╩════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "GRAND": [
             {
@@ -18021,7 +18075,34 @@
                     "Boost to Fire allies' C.A. specs based on their number of <:Status_Hellfire_Crest:832594035956776980> **Hellfire Crest**.\n(Takes effect even when Teena is a sub ally.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            }
+            },
+            {
+              "duration": {},
+              "name": "Extended Mastery Support Skill",
+              "text": [
+                  "Boost to triple attack rate based on number of foe's debuffs."
+              ],
+              "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+              "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════╗",
+                                "║ Rank ║ TA Up ║",
+                                "╠══════╬═══════╣",
+                                "║   1  ║       ║",
+                                "╠══════╬═══════╣",
+                                "║   2  ║       ║",
+                                "╠══════╬═══════╣",
+                                "║   3  ║  10%  ║",
+                                "╚══════╩═══════╝",
+                                "```"
+                            ]
+                        }
+                    ]
+          }
         ],
         "SR": [
             {
