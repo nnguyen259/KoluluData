@@ -4577,7 +4577,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "180^s": [
                             "<:Status_Blind:832583965428678656> **Blinded**",
@@ -4664,7 +4664,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "10 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "5^t": [
                             "<:Status_DoubleUp:832590867734724618> **35% DA Up**",
@@ -4687,7 +4687,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_Heal:832593788375400470> **Let's Shine**"
@@ -4769,7 +4769,7 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": "10 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "5^t": [
                             "<:Status_DoubleUp:832590867734724618> **35% DA Up**",
@@ -4792,7 +4792,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_Heal:832593788375400470> **Let's Shine**"
@@ -4865,7 +4865,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "5 turns4 turns",
+                    "cooldown": "4 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_Dmg_Cut_20:834391730765168690> **20% DMG Cut**"
@@ -4886,7 +4886,7 @@
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "180^s": [
                             "<:Status_AttackDown:832581064211955722> **15% ATK Down**",
