@@ -4678,7 +4678,7 @@
                     "name": "Omoiyo Hitotsuninare",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **35% DA Up** and <:Status_TripleUp:832601877920350218> **5% TA Up**.\nAll allies also gain <:Status_Revitalize:832599167606980638> **Revitalize**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **35% DA Up**, <:Status_TripleUp:832601877920350218> **5% TA Up** and <:Status_Revitalize:832599167606980638> **Revitalize**."
                     ],
                     "type": [
                         "3"
@@ -4699,11 +4699,20 @@
                     "name": "I Want to Shine!",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "Gain **Instant Charge**.\nAlso gain <:Status_Heal:832593788375400470> **Let's Shine**."
+                        "Gain **Instant Charge** and <:Status_Heal:832593788375400470> **Let's Shine**."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "<:Status_Heal:832593788375400470> Let's Shine: Next charge attack will restore 30% of all allies' HP (Healing cap: 2000) instead of its standard amount.",
+                        "inLine": false,
+                        "text": [
+                            "\u200b"
+                        ]
+                    }
+                ]
                 }
             ],
             [
@@ -4724,7 +4733,9 @@
                     "name": "Full Speed Ahead! Aye Aye!",
                     "obtain": " Lvl 1\u21e7 Lvl 100 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nGain <:Status_Dodge:832590866341298236> **Dodge Rate Up**.\nAlso gain <:Status_EffectOnDodge:834407741275373609> **Bonus Effect on Dodge** (1 time).\n(All allies gain <:Status_Hype1:832594542321598505> **Hype** upon dodging.)\n"
+                        "Remove 1 buff from a foe.",
+                        "Gain <:Status_Dodge:832590866341298236> **Dodge Rate Up** and <:Status_EffectOnDodge:834407741275373609> **Bonus Effect on Dodge** (1 time).",
+                        "(All allies gain <:Status_Hype1:832594542321598505> **Hype** upon dodging.)"
                     ],
                     "type": [
                         "4"
@@ -4746,7 +4757,8 @@
                     "name": "Kimetayo Hand in Hand",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Inflict <:Status_Charm_3:834389296445784075> **Charmed** on a foe.\n(All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** upon landing Charm effect.)\n"
+                        "Inflict <:Status_Charm_3:834389296445784075> **Charmed** on a foe.",
+                        "(All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** upon landing Charm effect.)"
                     ],
                     "type": [
                         "4"
@@ -4771,7 +4783,7 @@
                     "name": "Omoiyo Hitotsuninare",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 90 ",
                     "text": [
-                        "All allies gain <:Status_DoubleUp:832590867734724618> **35% DA Up** and <:Status_TripleUp:832601877920350218> **5% TA Up**.\nAll allies also gain <:Status_Revitalize:832599167606980638> **Revitalize**."
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **35% DA Up** and <:Status_TripleUp:832601877920350218> **5% TA Up**."
                     ],
                     "type": [
                         "3"
@@ -4792,7 +4804,7 @@
                     "name": "I Want to Shine!",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "Gain **Instant Charge**.\nAlso gain <:Status_Heal:832593788375400470> **Let's Shine**."
+                        "Gain **Instant Charge**."
                     ],
                     "type": [
                         "3"
@@ -4817,7 +4829,7 @@
                     "name": "Full Speed Ahead! Aye Aye!",
                     "obtain": " Lvl 1\u21e7 Lvl 100 ",
                     "text": [
-                        "Remove 1 buff from a foe.\nGain <:Status_Dodge:832590866341298236> **Dodge Rate Up**.\nAlso gain <:Status_EffectOnDodge:834407741275373609> **Bonus Effect on Dodge** (1 time).\n(All allies gain <:Status_Hype1:832594542321598505> **Hype** upon dodging.)\n"
+                        "Remove 1 buff from a foe.\nGain <:Status_Dodge:832590866341298236> **Dodge Rate Up**."
                     ],
                     "type": [
                         "4"
@@ -4839,7 +4851,8 @@
                     "name": "Kimetayo Hand in Hand",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Inflict <:Status_Charm_3:834389296445784075> **Charmed** on a foe.\n(All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** upon landing Charm effect.)\n"
+                        "Inflict <:Status_Charm_3:834389296445784075> **Charmed** on a foe.",
+                        "(All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** upon landing Charm effect.)"
                     ],
                     "type": [
                         "4"

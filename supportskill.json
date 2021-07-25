@@ -2322,7 +2322,26 @@
                 "text": [
                     "Boost to Aqours members' ATK"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═════╗",
+                            "║ Rank ║ ATK ║",
+                            "╠══════╬═════╣",
+                            "║   1  ║  5% ║",
+                            "╠══════╬═════╣",
+                            "║   2  ║  8% ║",
+                            "╠══════╬═════╣",
+                            "║   3  ║ 10% ║",
+                            "╚══════╩═════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
@@ -2348,7 +2367,26 @@
                 "text": [
                     "Boost to Aqours members' ATK"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═════╗",
+                            "║ Rank ║ ATK ║",
+                            "╠══════╬═════╣",
+                            "║   1  ║  5% ║",
+                            "╠══════╬═════╣",
+                            "║   2  ║  8% ║",
+                            "╠══════╬═════╣",
+                            "║   3  ║ 10% ║",
+                            "╚══════╩═════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     },

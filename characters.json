@@ -1915,12 +1915,12 @@
     "Aqours_Second-Years": {
         "BASE": {
             "5star": "Yes",
-            "atk": "9,660",
+            "atk": "10,500",
             "element": "Water",
             "gender": [
                 "Female"
             ],
-            "hp": "1,000",
+            "hp": "1,700",
             "id": "3040183000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040183000_03.png",
             "jpname": "\u685c\u5185\u68a8\u5b50\uff06\u9ad8\u6d77\u5343\u6b4c\uff06\u6e21\u8fba \u66dc",
