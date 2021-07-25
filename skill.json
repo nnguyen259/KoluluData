@@ -4971,7 +4971,8 @@
                     "name": "Shining Sprite",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Restore all allies' HP (Healing cap: 700).\nInflict <:Status_AttackDown:832581064211955722> **10% ATK Down** on all foes.\nHealing cap increased to 900 HP."
+                        "Restore all allies' HP (Healing cap: 900).",
+                        "Inflict <:Status_AttackDown:832581064211955722> **10% ATK Down** on all foes."
                     ],
                     "type": [
                         "2"

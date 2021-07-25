@@ -2458,7 +2458,26 @@
                 "text": [
                     "Boost to C.A. DMG and C.A. DMG cap based on number of <:Status_Fairy:832592396948471808> **Fairy** stacks (Max: 3)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔═════╦══════════╦═════════════════╗",
+                            "║ Lvl ║ C.A. DMG ║ C.A. DMG Cap Up ║",
+                            "╠═════╬══════════╬═════════════════╣",
+                            "║  1  ║   400%   ║       10%       ║",
+                            "╠═════╬══════════╬═════════════════╣",
+                            "║  2  ║   450%   ║       15%       ║",
+                            "╠═════╬══════════╬═════════════════╣",
+                            "║  3  ║   550%   ║       30%       ║",
+                            "╚═════╩══════════╩═════════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
