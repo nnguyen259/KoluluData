@@ -4607,7 +4607,7 @@
                     "name": "It's the Future, Zura!",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Restore 30% of all allies' HP (Healing cap: 1500).\nEffect enhanced."
+                        "Restore 30% of all allies' HP (Healing cap: 1500)."
                     ],
                     "type": [
                         "2"
@@ -4650,7 +4650,8 @@
                     "name": "Reality Is Justice",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain <:Status_DefenseUp:832588447800885249> **Dodge All** and <:Status_EffectOnDodge:834407741275373609> **Bonus Effect on Dodge**.\n(Restore 10% of all allies' HP upon dodging [Healing cap: 1000].)\n"
+                        "Gain <:Status_DefenseUp:832588447800885249> **Dodge All** and <:Status_EffectOnDodge:834407741275373609> **Bonus Effect on Dodge**.",
+                        "(Restore 10% of all allies' HP upon dodging [Healing cap: 1000].)"
                     ],
                     "type": [
                         "3"
