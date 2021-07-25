@@ -5024,11 +5024,9 @@
             ],
             [
                 {
-                    "cooldown": "8 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **25% ATK Up**",
-                            "<:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**",
                             "<:Status_AttackUp:832581064555364362> **30% ATK Up**",
                             "<:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**"
                         ]
@@ -5039,7 +5037,7 @@
                     "name": "Secret Garden",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "All allies gain <:Status_AttackUp:832581064555364362> **25% ATK Up** and <:Status_Uplift:832602899460521994> **25% Charge Bar Gain Up**.\nBuffs increased to <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
+                        "All allies gain <:Status_AttackUp:832581064555364362> **30% ATK Up** and <:Status_Uplift:832602899460521994> **30% Charge Bar Gain Up**."
                     ],
                     "type": [
                         "3"
@@ -5064,7 +5062,8 @@
                     "name": "Euphoria",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "All allies gain <:Status_Overdrive_Curbed:834402844416147476> **Mode Bar Cut Boosted**.\nInflict <:Status_AttackDown:832581064211955722> **25% ATK Down** and <:Status_DefenseDown:832588131140108339> **25% DEF Down** on all foes."
+                        "All allies gain <:Status_Overdrive_Curbed:834402844416147476> **Mode Bar Cut Boosted**.",
+                        "Inflict <:Status_AttackDown:832581064211955722> **25% ATK Down** and <:Status_DefenseDown:832588131140108339> **25% DEF Down** on all foes."
                     ],
                     "type": [
                         "3"

@@ -841,7 +841,8 @@
                 },
                 "name": "Alluring Melody",
                 "text": [
-                    "Massive Wind damage to a foe.\nInflict <:Status_Sleep_3:832601206353952829> **Sleep**."
+                    "Massive Wind damage to a foe.",
+                    "Inflict <:Status_Sleep_3:832601206353952829> **Sleep**."
                 ]
             }
         ]

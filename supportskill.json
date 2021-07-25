@@ -2505,7 +2505,26 @@
                 "text": [
                     "Lessen earth DMG for all allies"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     },
