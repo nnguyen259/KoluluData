@@ -5680,8 +5680,6 @@
                     "cooldown": "8 turns7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **10% ATK Up**",
-                            "<:Status_DefenseUp:832588447800885249> **10% DEF Up**",
                             "<:Status_AttackUp:832581064555364362> **20% ATK Up**",
                             "<:Status_DefenseUp:832588447800885249> **20% DEF Up**"
                         ]
@@ -5692,7 +5690,7 @@
                     "name": "Chasse",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "All allies gain <:Status_AttackUp:832581064555364362> **10% ATK Up** and <:Status_DefenseUp:832588447800885249> **10% DEF Up**.\nBuffs increased to <:Status_AttackUp:832581064555364362> **20% ATK Up** and <:Status_DefenseUp:832588447800885249> **20% DEF Up**."
+                        "All allies gain <:Status_AttackUp:832581064555364362> **20% ATK Up** and <:Status_DefenseUp:832588447800885249> **20% DEF Up**."
                     ],
                     "type": [
                         "3"
@@ -5713,7 +5711,8 @@
                     "name": "Reverence",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Light damage to all foes.\nInflict <:Status_DoubleDown:832590867336003645> **DA Down**."
+                        "Light damage to all foes.",
+                        "Inflict <:Status_DoubleDown:832590867336003645> **DA Down**."
                     ],
                     "type": [
                         "1"
