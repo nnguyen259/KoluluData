@@ -929,15 +929,6 @@
     "Aster": {
         "BASE": [
             {
-                "duration": {},
-                "name": "Blasts of Ennead",
-                "text": [
-                    "Big Wind damage to a foe."
-                ]
-            }
-        ],
-        "SR": [
-            {
                 "duration": {
                     "1.5^t": [
                         "<:Status_DoubleUp:832590867734724618> **Guaranteed DA**"
@@ -945,7 +936,17 @@
                 },
                 "name": "Crimson Foliage",
                 "text": [
-                    "Big Fire damage to a foe.\nGain <:Status_DoubleUp:832590867734724618> **Guaranteed DA**."
+                    "Big Fire damage to a foe.",
+                    "Gain <:Status_DoubleUp:832590867734724618> **Guaranteed DA**."
+                ]
+            }
+        ],
+        "EVENT": [
+            {
+                "duration": {},
+                "name": "Blasts of Ennead",
+                "text": [
+                    "Big Wind damage to a foe."
                 ]
             }
         ]
@@ -992,7 +993,27 @@
                 "duration": {},
                 "name": "Merry Rondo",
                 "text": [
-                    "Big Earth damage to a foe.\nBonus effect based on number of Concerto effects."
+                    "Big Earth damage to a foe.",
+                    "Bonus effect based on number of Concerto effects."
+                ],
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════════════════╦═══════════╗",
+                            "║ Concerto effects ║ Bonus DMG ║",
+                            "╠══════════════════╬═══════════╣",
+                            "║         1        ║    10%    ║",
+                            "╠══════════════════╬═══════════╣",
+                            "║         2        ║    40%    ║",
+                            "╠══════════════════╬═══════════╣",
+                            "║     3 or more    ║    80%    ║",
+                            "╚══════════════════╩═══════════╝",
+                            "```"
+                        ]
+                    }
                 ]
             }
         ]

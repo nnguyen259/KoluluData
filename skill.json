@@ -5598,7 +5598,7 @@
         "YUKATA": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "180^s": [
                             "<:Status_LightAtkDown:832596749901234248> **15% Light ATK Down**"
@@ -5620,7 +5620,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/53_3.png"
@@ -5660,7 +5660,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/54_2.png"
@@ -5677,7 +5677,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_AttackUp:832581064555364362> **20% ATK Up**",
@@ -5726,73 +5726,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "6 turns4 turns",
-                    "duration": {
-                        "1^t": [
-                            "<:Status_DefenseUp:832588447800885249> **Dodge All**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/51_3.png"
-                    ],
-                    "name": "Alert",
-                    "obtain": " Lvl 1\u21e7 Lvl 45 ",
-                    "text": [
-                        "Gain <:Status_DefenseUp:832588447800885249> **Dodge All**."
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "5 turns4 turns",
-                    "duration": {
-                        "180^s": [
-                            "<:Status_DefenseDown:832588131140108339> **10% DEF Down**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/11_1.png"
-                    ],
-                    "name": "Balmy Breeze",
-                    "obtain": " Lvl 1\u21e7 Lvl 65 ",
-                    "text": [
-                        "150% Wind damage to a foe.\nInflict <:Status_DefenseDown:832588131140108339> **10% DEF Down**.\nEffect enhanced."
-                    ],
-                    "type": [
-                        "1"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "6 turns",
-                    "duration": {
-                        "180^s": [
-                            "<:Status_AttackDown:832581064211955722> **10% ATK Down**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/42_1.png"
-                    ],
-                    "name": "The One That Will Not Bow",
-                    "obtain": " Lvl 35 ",
-                    "text": [
-                        "Wind damage to a debuffed foe.\nInflict <:Status_AttackDown:832581064211955722> **10% ATK Down**."
-                    ],
-                    "type": [
-                        "1"
-                    ]
-                }
-            ],
-            []
-        ],
-        "SR": [
-            [
-                {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "5^t": [
                             "<:Status_TripleUp:832601877920350218> **50% TA Up**",
@@ -5827,11 +5761,21 @@
                     "name": "Dancing Maple Leaves",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "All allies gain <:Status_Maple_Leaves:834402578674352179> **Maple Leaves**.\nAll Fire allies gain <:Status_CriticalUpFire:832587863693983784> **30% / 30% Critical Hit Rate Up**."
+                        "All allies gain <:Status_Maple_Leaves:834402578674352179> **Maple Leaves**.",
+                        "All Fire allies gain <:Status_CriticalUpFire:832587863693983784> **30% / 30% Critical Hit Rate Up**."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "<:Status_Maple_Leaves:834402578674352179> **Maple Leaves** grants the following effect:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 30% boost to Double attack rate"
+                        ]
+                    }
+                ]
                 }
             ],
             [
@@ -5853,6 +5797,72 @@
                     ],
                     "type": [
                         "3"
+                    ]
+                }
+            ],
+            []
+        ],
+        "EVENT": [
+            [
+                {
+                    "cooldown": "4 turns",
+                    "duration": {
+                        "1^t": [
+                            "<:Status_DefenseUp:832588447800885249> **Dodge All**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/51_3.png"
+                    ],
+                    "name": "Alert",
+                    "obtain": " Lvl 1\u21e7 Lvl 45 ",
+                    "text": [
+                        "Gain <:Status_DefenseUp:832588447800885249> **Dodge All**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "4 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_DefenseDown:832588131140108339> **10% DEF Down**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/11_1.png"
+                    ],
+                    "name": "Balmy Breeze",
+                    "obtain": " Lvl 1\u21e7 Lvl 65 ",
+                    "text": [
+                        "150% Wind damage to a foe.\nInflict <:Status_DefenseDown:832588131140108339> **10% DEF Down**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_AttackDown:832581064211955722> **10% ATK Down**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/42_1.png"
+                    ],
+                    "name": "The One That Will Not Bow",
+                    "obtain": " Lvl 35 ",
+                    "text": [
+                        "Wind damage to a debuffed foe.\nInflict <:Status_AttackDown:832581064211955722> **10% ATK Down**."
+                    ],
+                    "type": [
+                        "1"
                     ]
                 }
             ],
@@ -6064,10 +6074,20 @@
                     "name": "Concentre",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Gain <:Status_ConcertoEarth:834389757442261063> **Focus**, boosting <:Status_ConcertoEarth:834389757442261063> **Adagio**'s effect.\n(Can't attack while focusing.\nRecast to end focus.)\n"
+                        "Gain <:Status_ConcertoEarth:834389757442261063> **Focus**, boosting <:Status_ConcertoEarth:834389757442261063> **Adagio**'s effect.",
+                        "(Can't attack while focusing. Recast to end focus.)"
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "\u200b",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 While <:Status_ConcertoEarth:834389757442261063> **Focus** is in effect,<:Status_ConcertoEarth:834389757442261063> **Adagio**'s effect strength increases to <:Status_EarthAtkUp:832591143799226398> **45% Earth ATK Up** and <:Status_DefenseUp:832588447800885249> **15% DEF Up**."
+                            ]
+                        }
                     ]
                 }
             ],
@@ -6081,7 +6101,8 @@
                     "name": "Finale",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Earth damage to all foes.\nRemoves all Concerto effects from all allies."
+                        "Earth damage to all foes.",
+                        "Removes all Concerto effects from all allies."
                     ],
                     "type": [
                         "1"

@@ -2336,38 +2336,6 @@
     "Aster": {
         "BASE": {
             "5star": "No",
-            "atk": "4,500",
-            "element": "Wind",
-            "gender": [
-                "Female"
-            ],
-            "hp": "720",
-            "id": "3030044000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030044000_02.png",
-            "jpname": "\u30a2\u30b9\u30c6\u30fc\u30eb",
-            "link": "https://gbf.wiki/Aster_(Event)",
-            "max_evo": "4",
-            "name": "Aster",
-            "original": "Aster_(Event)",
-            "profile": "This fragile little girl made a wish; to have the strength to protect another. She knew that knowledge was what she lacked, and she must leave home to find it. Her kindness was the key she needed to open the door to the outside world.",
-            "race": [
-                "Erune"
-            ],
-            "rarity": "SR",
-            "recruitment": "Yesterday's Scars and Tomorrow's Hope",
-            "series": [],
-            "specialties": [
-                "Bow"
-            ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030044000_02.jpg",
-            "type": "Balanced",
-            "va": [
-                "Risa Taneda"
-            ],
-            "weapon": null
-        },
-        "SR": {
-            "5star": "No",
             "atk": "5,688",
             "element": "Fire",
             "gender": [
@@ -2397,6 +2365,38 @@
                 "Risa Taneda"
             ],
             "weapon": "Mythril Bolt"
+        },
+        "EVENT": {
+            "5star": "No",
+            "atk": "4,500",
+            "element": "Wind",
+            "gender": [
+                "Female"
+            ],
+            "hp": "720",
+            "id": "3030044000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030044000_02.png",
+            "jpname": "\u30a2\u30b9\u30c6\u30fc\u30eb",
+            "link": "https://gbf.wiki/Aster_(Event)",
+            "max_evo": "4",
+            "name": "Aster",
+            "original": "Aster_(Event)",
+            "profile": "This fragile little girl made a wish; to have the strength to protect another. She knew that knowledge was what she lacked, and she must leave home to find it. Her kindness was the key she needed to open the door to the outside world.",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SR",
+            "recruitment": "Yesterday's Scars and Tomorrow's Hope",
+            "series": [],
+            "specialties": [
+                "Bow"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030044000_02.jpg",
+            "type": "Balanced",
+            "va": [
+                "Risa Taneda"
+            ],
+            "weapon": null
         }
     },
     "Athena": {

@@ -51,7 +51,11 @@
           }
     },
     "Arusha": {},
-    "Aster": {},
+    "Aster": {
+      "SR" : {
+          "version" : "EVENT"
+          }
+    },
     "Athena": {},
     "Augusta": {},
     "Ayer": {},

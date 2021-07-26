@@ -2792,24 +2792,6 @@
     "Aster": {
         "BASE": [
             {
-                "duration": {},
-                "name": "Well Behaved",
-                "text": [
-                    "Boost to ATK against foes with a debuff"
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Extended Mastery Support Skill",
-                "text": [
-                    "Wind DMG and Blind effect to all foes upon dodging"
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
-            }
-        ],
-        "SR": [
-            {
                 "duration": {
                     "Indefinite^i": [
                         "<:Status_AttackUpStack:832581064383791144> **Hard Worker**"
@@ -2834,6 +2816,24 @@
                 "name": "Extended Mastery Support Skill",
                 "text": [
                     "Chance to end Refreshing Breeze's cooldown upon one-foe attacks."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "EVENT": [
+            {
+                "duration": {},
+                "name": "Well Behaved",
+                "text": [
+                    "Boost to ATK against foes with a debuff"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Wind DMG and Blind effect to all foes upon dodging"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
@@ -2975,7 +2975,27 @@
                 "text": [
                     "Charge boost to all allies upon using Adagio"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦══════════════╗",
+                            "║ Rank ║ Charge Bar + ║",
+                            "║      ║              ║",
+                            "╠══════╬══════════════╣",
+                            "║   1  ║      5%      ║",
+                            "╠══════╬══════════════╣",
+                            "║   2  ║      8%      ║",
+                            "╠══════╬══════════════╣",
+                            "║   3  ║      10%     ║",
+                            "╚══════╩══════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     },
