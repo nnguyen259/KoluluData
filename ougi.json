@@ -1074,7 +1074,8 @@
                 },
                 "name": "Scapegoat",
                 "text": [
-                    "450% Dark damage to a foe.\nGain <:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**."
+                    "450% Dark damage to a foe.",
+                    "Gain <:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**."
                 ]
             }
         ],
@@ -1087,7 +1088,9 @@
                 },
                 "name": "Grigori's Inferno",
                 "text": [
-                    "450% Fire damage to a foe.\n(30% boost to C.A. damage and 10% boost to C.A. damage cap against foes with Petrified.)\nInflict <:Status_Blind_2:832583965365764127> **Blinded**."
+                    "450% Fire damage to a foe.",
+                    "(30% boost to C.A. damage and 10% boost to C.A. damage cap against foes with Petrified.)",
+                    "Inflict <:Status_Blind_2:832583965365764127> **Blinded**."
                 ]
             }
         ]

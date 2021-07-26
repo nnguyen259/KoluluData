@@ -3142,7 +3142,8 @@
                 "duration": {},
                 "name": "Brazen Wings",
                 "text": [
-                    "Boost to dodge rate for <:Status_Blind:832583965428678656> **Blinded** foe attacks.\nBoost to critical hit rate against <:Status_Poison:832598586335428660> **Poisoned** foes."
+                    "Boost to dodge rate for <:Status_Blind:832583965428678656> **Blinded** foe attacks.",
+                    "Boost to critical hit rate against <:Status_Poison:832598586335428660> **Poisoned** foes."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -3152,15 +3153,43 @@
                 "text": [
                     "Boost to C.A. DMG and C.A. DMG cap against foes that are both <:Status_Blind:832583965428678656> **Blinded** and <:Status_Poison:832598586335428660> **Poisoned**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                      {
+                          "title": "C.A. DMG increased to 650% and Cap raised to ~2,420,000",
+                          "inLine": false,
+                          "text": [
+                              "\u200b"
+                          ]
+                      }
+                  ]
             },
             {
                 "duration": {},
                 "name": "Extended Mastery Support Skill",
                 "text": [
-                    "Boost to multiattack rate when dark ATK is boosted"
+                    "Boost to multiattack rate when dark ATK is boosted."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                      {
+                          "title": "\u200b",
+                          "inLine": false,
+                          "text": [
+                              "```",
+                              "╔══════╦═══════╦═══════╗",
+                              "║ Rank ║ DA Up ║ TA Up ║",
+                              "╠══════╬═══════╬═══════╣",
+                              "║   1  ║   ?%  ║   ?%  ║",
+                              "╠══════╬═══════╬═══════╣",
+                              "║   2  ║   ?%  ║   ?%  ║",
+                              "╠══════╬═══════╬═══════╣",
+                              "║   3  ║  20%  ║  10%  ║",
+                              "╚══════╩═══════╩═══════╝",
+                              "```"
+                          ]
+                      }
+                  ]
             }
         ],
         "HALLOWEEN": [
@@ -3180,7 +3209,7 @@
                 },
                 "name": "What Do You Mean I'm Not Scary?",
                 "text": [
-                    "If no foes have Petrified: All allies gain <:Status_FireATKUpStack:832592559968223312> **5% Fire ATK Up (Stackable / Max: 30%)** at end of turn."
+                    "**If no foes have Petrified:** All allies gain <:Status_FireATKUpStack:832592559968223312> **5% Fire ATK Up (Stackable / Max: 30%)** at end of turn."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }

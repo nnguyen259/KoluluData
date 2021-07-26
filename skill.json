@@ -6371,7 +6371,7 @@
                     "name": "Merciless Doom",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Inflict <:Status_Blind:832583965428678656> **Blinded** and <:Status_DarkResDown:834390039550623774> **20% Dark DEF Down** on all foes.\nDebuff increased to <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down**."
+                        "Inflict <:Status_Blind:832583965428678656> **Blinded** and <:Status_DarkResDown:834390039550623774> **25% Dark DEF Down** on all foes."
                     ],
                     "type": [
                         "4"
@@ -6388,7 +6388,8 @@
                     "name": "Thanatos Bane",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "350%-400% Dark damage to a foe.\n(Damage cap: ~620,000 / ~700,000 against <:Status_Poison:832598586335428660> **Poisoned** foes).\nInflict <:Status_Poison:832598586335428660> **Poisoned (10000)**.\nDamage increased to 400%-500% and <:Status_Poison:832598586335428660> **Poisoned (20000)** increased to 20,000 per turn."
+                        "400%-500% Dark damage to a foe (Damage cap: ~620,000 / ~700,000 against <:Status_Poison:832598586335428660> **Poisoned** foes).",
+                        "Inflict <:Status_Poison:832598586335428660> **Poisoned (20000)**."
                     ],
                     "type": [
                         "1"
@@ -6410,7 +6411,8 @@
                     "name": "Malice Wing",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain <:Status_DarkAtkUp:832588129894006794> **70% Dark ATK Up**.\nSelf-inflict <:Status_LightResDown:832596750580842527> **20% Light DEF Down**."
+                        "Gain <:Status_DarkAtkUp:832588129894006794> **70% Dark ATK Up**.",
+                        "Self-inflict <:Status_LightResDown:832596750580842527> **20% Light DEF Down**."
                     ],
                     "type": [
                         "3"
@@ -6422,7 +6424,7 @@
         "HALLOWEEN": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_CriticalUp:832587322133970986> **70% / 30% Critical Hit Rate Up**",
@@ -6437,7 +6439,9 @@
                     "name": "Dark Dominator",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_CriticalUp:832587322133970986> **70% / 30% Critical Hit Rate Up**, <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Keen:832595932620783736> **Keen**.\n(If a foe has Petrified: Instantly perform a normal attack without using up a turn.\nOtherwise: Affects all allies.)\n"
+                        "Gain <:Status_CriticalUp:832587322133970986> **70% / 30% Critical Hit Rate Up**, <:Status_DoubleUp:832590867734724618> **30% DA Up**, <:Status_TripleUp:832601877920350218> **15% TA Up**, and <:Status_Keen:832595932620783736> **Keen**.",
+                        "**If a foe has Petrified:** Instantly perform a normal attack without using up a turn.",
+                        "**Otherwise:** Affects all allies."
                     ],
                     "type": [
                         "3"
@@ -6446,7 +6450,7 @@
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Petrified_3:832598586352730112> **Petrified**"
@@ -6458,7 +6462,10 @@
                     "name": "Fields of Despair",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "300% Fire damage to a foe (Damage cap: ~630,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**.\n(If a foe has Petrified: Damage increased to 700%.\nDamage cap increased to ~1,160,000.\nOtherwise: Also inflict <:Status_Petrified_3:832598586352730112> **Petrified**.)\n"
+                        "300% Fire damage to a foe (Damage cap: ~630,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**.",
+                        "**If a foe has Petrified:** Damage increased to 700%. Damage cap increased to ~1,160,000.",
+                        "**Otherwise:** Also inflict <:Status_Petrified_3:832598586352730112> **Petrified**."
                     ],
                     "type": [
                         "1"
@@ -6483,7 +6490,9 @@
                     "name": "Shadow Cloak",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain <:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)** and <:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**.\n(If a foe has Petrified: Also gain <:Status_Adversity:834386783583862794> **10% DMG Amplified**.\nOtherwise: Affects all allies.)\n"
+                        "Gain <:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)** and <:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**.",
+                        "**If a foe has Petrified:** Also gain <:Status_Adversity:834386783583862794> **10% DMG Amplified**.",
+                        "**Otherwise:** Affects all allies."
                     ],
                     "type": [
                         "3"
