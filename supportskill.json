@@ -2598,7 +2598,26 @@
                 "text": [
                     "Lessen Water damage for all allies."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
@@ -2616,7 +2635,26 @@
                 "text": [
                     "Lessen Water damage for all allies."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "HOLIDAY": [
@@ -2634,7 +2672,26 @@
                 "text": [
                     "Slight chance to be able to use all skills immediately upon using skill."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═════════════╗",
+                            "║ Rank ║ Probability ║",
+                            "╠══════╬═════════════╣",
+                            "║   1  ║      ?%     ║",
+                            "╠══════╬═════════════╣",
+                            "║   2  ║      ?%     ║",
+                            "╠══════╬═════════════╣",
+                            "║   3  ║     1.7%    ║",
+                            "╚══════╩═════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "YUKATA": [
@@ -2644,7 +2701,44 @@
                 "text": [
                     "Big boost to all allies' ATK based on how high Arulumaya's HP is"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔════════════════╦══════════════╗",
+                            "║ Arulumaya's HP ║ Party ATK Up ║",
+                            "╠════════════════╬══════════════╣",
+                            "║      100%      ║      15%     ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       95%      ║    ~12.7%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       90%      ║    ~10.6%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       85%      ║     ~8.8%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       80%      ║     ~7.2%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       75%      ║     ~5.8%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       70%      ║     ~4.7%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       65%      ║     ~3.7%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       60%      ║     ~2.8%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       55%      ║     ~2.1%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║       50%      ║     ~1.5%    ║",
+                            "╠════════════════╬══════════════╣",
+                            "║      <50%      ║      0%      ║",
+                            "╚════════════════╩══════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -2652,7 +2746,26 @@
                 "text": [
                     "Lessen light DMG for all allies"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╗",
+                            "║ Rank ║ Reduction ║",
+                            "╠══════╬═══════════╣",
+                            "║   1  ║     2%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   2  ║     4%    ║",
+                            "╠══════╬═══════════╣",
+                            "║   3  ║     5%    ║",
+                            "╚══════╩═══════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ]
     },

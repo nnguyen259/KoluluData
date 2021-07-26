@@ -5204,10 +5204,9 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "180^s": [
-                            "<:Status_AttackDown:832581064211955722> **10% ATK Down**",
                             "<:Status_AttackDown:832581064211955722> **25% ATK Down**",
                             "<:Status_WaterAtkDown:832603014111690764> **10% Water ATK Down**"
                         ]
@@ -5218,7 +5217,8 @@
                     "name": "Heaven's Moon",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "150% Earth damage to all foes (Damage cap: ~240,000).\nInflict <:Status_AttackDown:832581064211955722> **10% ATK Down**.\nDamage increased to 200%.\nDamage increased to 400%-450%.\nDamage cap increased to ~500,000.\nDebuff increased to <:Status_AttackDown:832581064211955722> **25% ATK Down**.\nAlso inflict <:Status_WaterAtkDown:832603014111690764> **10% Water ATK Down** on all foes."
+                        "400-450% Earth damage to all foes (Damage cap: ~500,000).",
+                        "Inflict <:Status_AttackDown:832581064211955722> **10% ATK Down** and inflict <:Status_WaterAtkDown:832603014111690764> **10% Water ATK Down** on all foes."
                     ],
                     "type": [
                         "1"
@@ -5230,10 +5230,11 @@
                     "cooldown": "8 turns7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **20% Skill DMG Up**",
-                            "<:Status_AttackUp:832581064555364362> **30% Skill DMG Up**",
                             "<:Status_AttackUp:832581064555364362> **60% Skill DMG Up**",
                             "<:Status_Skill_DMG_Cap_Up:832599898687668276> **10% Skill DMG Cap Up**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Veil:832602900122828840> **Veil**"
                         ]
                     },
                     "icon": [
@@ -5242,7 +5243,7 @@
                     "name": "Tabula Rasa",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "All allies gain <:Status_Veil:832602900122828840> **Veil** and <:Status_AttackUp:832581064555364362> **20% Skill DMG Up**.\nBuff increased to <:Status_AttackUp:832581064555364362> **30% Skill DMG Up**.\nBuff further increased to <:Status_AttackUp:832581064555364362> **60% Skill DMG Up**.\nAll allies also gain <:Status_Skill_DMG_Cap_Up:832599898687668276> **10% Skill DMG Cap Up**"
+                        "All allies gain <:Status_Veil:832602900122828840> **Veil** and <:Status_AttackUp:832581064555364362> **60% Skill DMG Up** and <:Status_Skill_DMG_Cap_Up:832599898687668276> **10% Skill DMG Cap Up**."
                     ],
                     "type": [
                         "3"
@@ -5259,7 +5260,8 @@
                     "name": "Nakshatra",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "250%-300% Earth damage to a foe (Damage cap: ~240,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**."
+                        "250%-300% Earth damage to a foe (Damage cap: ~240,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**."
                     ],
                     "type": [
                         "1"
@@ -5268,25 +5270,104 @@
             ],
             [
                 {
-                    "cooldown": "0 turns6 turns",
+                    "cooldown": "Gaze: 0 turns",
                     "duration": {},
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/308_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/309_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/310_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/566_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/567_3.png"
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/308_3.png"
                     ],
                     "name": "Gaze into Crystal Ball /End Gaze",
                     "obtain": " Lvl 90 ",
                     "text": [
-                        "Gaze into crystal ball.\n()"
+                        "Gaze into crystal ball."
                     ],
                     "type": [
-                        "3",
-                        "3",
-                        "3",
-                        "3",
+                        "3"
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 When cast once, gain a random dream. Every turn, the skill can be recast if not activated a second time. Does not go on cooldown at the first activation.",
+                            "\u2022 When cast a second time, the dream is consumed and the corresponding effects become active for 3 turns. The skill then goes on a 6-turn cooldown.",
+                            "\u2022 Different non-Dream of the Moon effects can stack with each other, but cannot stack with a Dream of the Moon effect and get overwritten instead."
+                        ]
+                    }
+                  ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "End Gaze: 6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/309_3.png"
+                    ],
+                    "name": "Dream of Flowers",
+                    "obtain": " Lvl 90 ",
+                    "text": [
+                        "**Normal Probablity:** 30%",
+                        "**Charge Attack Probablity:** 25%",
+                        "All allies gain <:Status_Bonus_Damage:832584447911264276> **20% Bonus Earth DMG**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "End Gaze: 6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/310_3.png"
+                    ],
+                    "name": "Dream of Snow",
+                    "obtain": " Lvl 90 ",
+                    "text": [
+                        "**Normal Probablity:** 30%",
+                        "**Charge Attack Probablity:** 25%",
+                        "All Earth allies gain <:Status_CriticalUpEarth:834389759312134166> **50% / 20% Critical Hit Rate Up**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "End Gaze: 6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/566_3.png"
+                    ],
+                    "name": "Dream of Stars",
+                    "obtain": " Lvl 90 ",
+                    "text": [
+                        "**Normal Probablity:** 30%",
+                        "**Charge Attack Probablity:** 25%",
+                        "All allies gain <:Status_DoubleUp:832590867734724618> **20% DA Up** and <:Status_TripleUp:832601877920350218> **10% TA Up**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "End Gaze: 6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/567_3.png"
+                    ],
+                    "name": "Dream of the Moon",
+                    "obtain": " Lvl 90 ",
+                    "text": [
+                        "**Normal Probablity:** 10%",
+                        "**Charge Attack Probablity:** 25%",
+                        "All allies gain the effects of all other dreams."
+                    ],
+                    "type": [
                         "3"
                     ]
                 }
@@ -5295,12 +5376,10 @@
         "BASE_4": [
             [
                 {
-                    "cooldown": "8 turns7 turns6 turns",
+                    "cooldown": "7 turns",
                     "duration": {
                         "180^s": [
-                            "<:Status_AttackDown:832581064211955722> **10% ATK Down**",
-                            "<:Status_AttackDown:832581064211955722> **25% ATK Down**",
-                            "<:Status_WaterAtkDown:832603014111690764> **10% Water ATK Down**"
+                            "<:Status_AttackDown:832581064211955722> **10% ATK Down**"
                         ]
                     },
                     "icon": [
@@ -5309,7 +5388,8 @@
                     "name": "Heaven's Moon",
                     "obtain": " Lvl 1\u21e7 Lvl 55 \u21ee Lvl 100 ",
                     "text": [
-                        "150% Earth damage to all foes (Damage cap: ~240,000).\nInflict <:Status_AttackDown:832581064211955722> **10% ATK Down**.\nDamage increased to 200%.\nDamage increased to 400%-450%.\nDamage cap increased to ~500,000.\nDebuff increased to <:Status_AttackDown:832581064211955722> **25% ATK Down**.\nAlso inflict <:Status_WaterAtkDown:832603014111690764> **10% Water ATK Down** on all foes."
+                        "200% Earth damage to all foes (Damage cap: ~240,000).",
+                        "Inflict <:Status_AttackDown:832581064211955722> **10% ATK Down**."
                     ],
                     "type": [
                         "1"
@@ -5321,10 +5401,10 @@
                     "cooldown": "8 turns7 turns",
                     "duration": {
                         "3^t": [
-                            "<:Status_AttackUp:832581064555364362> **20% Skill DMG Up**",
-                            "<:Status_AttackUp:832581064555364362> **30% Skill DMG Up**",
-                            "<:Status_AttackUp:832581064555364362> **60% Skill DMG Up**",
-                            "<:Status_Skill_DMG_Cap_Up:832599898687668276> **10% Skill DMG Cap Up**"
+                            "<:Status_AttackUp:832581064555364362> **30% Skill DMG Up**"
+                        ],
+                        "Indefinite^i": [
+                            "<:Status_Veil:832602900122828840> **Veil**"
                         ]
                     },
                     "icon": [
@@ -5333,7 +5413,7 @@
                     "name": "Tabula Rasa",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "All allies gain <:Status_Veil:832602900122828840> **Veil** and <:Status_AttackUp:832581064555364362> **20% Skill DMG Up**.\nBuff increased to <:Status_AttackUp:832581064555364362> **30% Skill DMG Up**.\nBuff further increased to <:Status_AttackUp:832581064555364362> **60% Skill DMG Up**.\nAll allies also gain <:Status_Skill_DMG_Cap_Up:832599898687668276> **10% Skill DMG Cap Up**"
+                        "All allies gain <:Status_Veil:832602900122828840> **Veil** and <:Status_AttackUp:832581064555364362> **30% Skill DMG Up**."
                     ],
                     "type": [
                         "3"
@@ -5350,51 +5430,34 @@
                     "name": "Nakshatra",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "250%-300% Earth damage to a foe (Damage cap: ~240,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**."
+                        "250%-300% Earth damage to a foe (Damage cap: ~240,000)",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**."
                     ],
                     "type": [
                         "1"
                     ]
                 }
             ],
-            [
-                {
-                    "cooldown": "0 turns6 turns",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/308_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/309_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/310_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/566_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/567_3.png"
-                    ],
-                    "name": "Gaze into Crystal Ball /End Gaze",
-                    "obtain": " Lvl 90 ",
-                    "text": [
-                        "Gaze into crystal ball.\n()"
-                    ],
-                    "type": [
-                        "3",
-                        "3",
-                        "3",
-                        "3",
-                        "3"
-                    ]
-                }
-            ]
+            []
         ],
         "HOLIDAY": [
             [
                 {
-                    "cooldown": "6 turns5 turns",
-                    "duration": {},
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_WaterResDown:832603014933643324> **25% Water DEF Down**"
+                      ]
+                    },
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/307_1.png"
                     ],
                     "name": "Let it Snow",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "150%-200% Water damage to a foe (Damage cap: 220,000).\nInflict <:Status_WaterResDown:832603014933643324> **25% Water DEF Down**.\n(Consumes 10% of charge bar.)\nDamage increased to 200%-250%."
+                        "200%-250% Water damage to a foe (Damage cap: 220,000).",
+                        "Inflict <:Status_WaterResDown:832603014933643324> **25% Water DEF Down**.",
+                        "Consumes 10% of charge bar."
                     ],
                     "type": [
                         "1"
@@ -5403,7 +5466,7 @@
             ],
             [
                 {
-                    "cooldown": "9 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Revitalize:832599167606980638> **Revitalize**"
@@ -5424,22 +5487,113 @@
             ],
             [
                 {
-                    "cooldown": "0 turns5 turns",
+                    "cooldown": "Gaze: 0 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/308_3.png"
                     ],
-                    "name": "Gaze into Snow Globe /End Gaze",
+                    "name": "Gaze into Snow Globe/End Gaze",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gaze into snow globe.\n()"
+                        "Gaze into snow globe."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 When cast once, gain a random sparkle. Every turn, the skill can be recast if not activated a second time. Does not go on cooldown at the first activation.",
+                            "\u2022 When cast a second time, the sparkle is consumed and the corresponding effects become active for 3 turns. The skill then goes on a 5-turn cooldown.",
+                            "\u2022 Different non-Holy Sparkle effects can stack with each other, but cannot stack with a Holy Sparkle and get overwritten instead."
+                        ]
+                    }
+                  ]
+
                 }
             ],
-            []
+            [
+              {
+                  "cooldown": "End Gaze: 5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/309_3.png"
+                  ],
+                  "name": "Red Sparkle",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                    "**Normal Probablity:** 30%",
+                    "**Charge Attack Probablity:** 25%",
+                    "All allies gain <:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+
+              }
+            ],
+            [
+              {
+                  "cooldown": "End Gaze: 5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/310_3.png"
+                  ],
+                  "name": "Gaze into Snow Globe/End Gaze",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                    "**Normal Probablity:** 25%",
+                    "**Charge Attack Probablity:** 20%",
+                    "All allies gain <:Status_Shield:832599448872943648> **Shield (2000)**."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+
+              }
+            ],
+            [
+              {
+                  "cooldown": "End Gaze: 5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/311_3.png"
+                  ],
+                  "name": "Gaze into Snow Globe/End Gaze",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                    "**Normal Probablity:** 35%",
+                    "**Charge Attack Probablity:** 30%",
+                    "All allies gain <:Status_DoubleUp:832590867734724618> **20% DA Up** and <:Status_TripleUp:832601877920350218> **10% TA Up**."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+
+              }
+            ],
+            [
+              {
+                  "cooldown": "End Gaze: 5 turns",
+                  "duration": {},
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/312_3.png"
+                  ],
+                  "name": "Gaze into Snow Globe/End Gaze",
+                  "obtain": " Lvl 45 ",
+                  "text": [
+                      "**Normal Probablity:** 10%",
+                      "**Charge Attack Probablity:** 25%",
+                      "Gain the effects of all other sparkles."
+                  ],
+                  "type": [
+                      "3"
+                  ]
+
+              }
+            ]
         ],
         "YUKATA": [
             [
@@ -5456,7 +5610,8 @@
                     "name": "Sickle Moon",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Dark damage to all foes (Damage cap: ~240,000).\nInflict <:Status_LightAtkDown:832596749901234248> **15% Light ATK Down**."
+                        "Dark damage to all foes (Damage cap: ~240,000).",
+                        "Inflict <:Status_LightAtkDown:832596749901234248> **15% Light ATK Down**."
                     ],
                     "type": [
                         "1"
@@ -5490,7 +5645,8 @@
                     "name": "Navagraha",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Dark damage to a foe (Damage cap: ~500,000).\nInflict <:Status_Gravity:832593788052177016> **Delay**."
+                        "Dark damage to a foe (Damage cap: ~500,000).",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**."
                     ],
                     "type": [
                         "1"

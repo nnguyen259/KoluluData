@@ -2168,12 +2168,12 @@
     "Arulumaya": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,400",
+            "atk": "9,980",
             "element": "Earth",
             "gender": [
                 "Female"
             ],
-            "hp": "1,160",
+            "hp": "1,380",
             "id": "3040019000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040019000_03.png",
             "jpname": "\u30a2\u30eb\u30eb\u30e1\u30a4\u30e4",

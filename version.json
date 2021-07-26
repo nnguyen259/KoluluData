@@ -45,7 +45,11 @@
     "Arisa": {},
     "Arriet": {},
     "Arthur": {},
-    "Arulumaya": {},
+    "Arulumaya": {
+        "CHRISTMAS" : {
+            "version" : "HOLIDAY"
+          }
+    },
     "Arusha": {},
     "Aster": {},
     "Athena": {},

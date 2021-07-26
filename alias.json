@@ -6,5 +6,9 @@
     "SAnthuria" : {
         "character" : "Anthuria",
         "version" : "YUKATA"
+    },
+    "XArulumaya": {
+      "character" : "Arulumaya",
+      "version" : "HOLIDAY"
     }
 }

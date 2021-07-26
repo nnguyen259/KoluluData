@@ -881,7 +881,9 @@
                 "duration": {},
                 "name": "Selene Timoria",
                 "text": [
-                    "Massive Earth damage to a foe.\nGaze into Crystal Ball and can reuse End Gaze.\nAll allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
+                    "Massive Earth damage to a foe.",
+                    "Gaze into Crystal Ball and can reuse End Gaze.",
+                    "All allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
                 ]
             }
         ],
