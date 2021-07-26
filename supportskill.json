@@ -3005,9 +3005,31 @@
                 "duration": {},
                 "name": "Blood Strife",
                 "text": [
-                    "Also boosts Ayer's triple attack rate based on how low HP is."
+                    "Boost to Ayer's double attack rate, triple attack rate and damage cap based on how low HP is."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔═══════╦══════╦════════╦═══╦═══╗",
+                            "║       ║Normal║        ║   ║   ║",
+                            "║   HP  ║Attack║C.A. Cap║DA ║TA ║",
+                            "║       ║Cap Up║        ║   ║   ║",
+                            "╠═══════╬══════╬════════╬═══╬═══╣",
+                            "║60%-40%║  10% ║   10%  ║20%║10%║",
+                            "╠═══════╬══════╬════════╬═══╬═══╣",
+                            "║40%-20%║  20% ║   15%  ║30%║15%║",
+                            "╠═══════╬══════╬════════╬═══╬═══╣",
+                            "║ 20%-0%║  30% ║   20%  ║50%║25%║",
+                            "╚═══════╩══════╩════════╩═══╩═══╝",
+                            "```"
+                        ]
+                    }
+                ]
+
             },
             {
                 "duration": {},
@@ -3015,7 +3037,26 @@
                 "text": [
                     "Slight chance to dodge all attacks from foes"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════════╗",
+                            "║ Rank ║ Dodge Rate ║",
+                            "╠══════╬════════════╣",
+                            "║   1  ║     5%     ║",
+                            "╠══════╬════════════╣",
+                            "║   2  ║     8%     ║",
+                            "╠══════╬════════════╣",
+                            "║   3  ║     10%    ║",
+                            "╚══════╩════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "BASE_4": [
@@ -3023,9 +3064,30 @@
                 "duration": {},
                 "name": "Blood Strife",
                 "text": [
-                    "Also boosts Ayer's triple attack rate based on how low HP is."
+                    "Boost to Ayer's double attack rate and damage cap based on how low HP is."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔═════════╦════════╦════════╦═════╗",
+                            "║         ║ Normal ║        ║     ║",
+                            "║    HP   ║ Attack ║C.A. Cap║  DA ║",
+                            "║         ║ Cap Up ║        ║     ║",
+                            "╠═════════╬════════╬════════╬═════╣",
+                            "║60% - 40%║   10%  ║   10%  ║ 10% ║",
+                            "╠═════════╬════════╬════════╬═════╣",
+                            "║40% - 20%║   20%  ║   15%  ║ 20% ║",
+                            "╠═════════╬════════╬════════╬═════╣",
+                            "║ 20% - 0%║   30%  ║   20%  ║ 30% ║",
+                            "╚═════════╩════════╩════════╩═════╝",
+                            "```"
+                        ]
+                    }
+                ]
             },
             {
                 "duration": {},
@@ -3033,7 +3095,26 @@
                 "text": [
                     "Slight chance to dodge all attacks from foes"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════════╗",
+                            "║ Rank ║ Dodge Rate ║",
+                            "╠══════╬════════════╣",
+                            "║   1  ║     5%     ║",
+                            "╠══════╬════════════╣",
+                            "║   2  ║     8%     ║",
+                            "╠══════╬════════════╣",
+                            "║   3  ║     10%    ║",
+                            "╚══════╩════════════╝",
+                            "```"
+                        ]
+                    }
+                ]
             }
         ],
         "SUMMER": [

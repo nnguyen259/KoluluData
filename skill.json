@@ -6128,10 +6128,19 @@
                     "name": "Guilty Break",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Guilty Break**, greatly boosting ATK as HP decreases.\nEffect enhanced."
+                        "Gain <:Status_Jammed:832595932305424394> **Guilty Break**, greatly boosting ATK as HP decreases."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Jammed:832595932305424394> **Guilty Break** is unique and stacks multiplicatively with all other buffs.",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 At 100% HP equals 40% and increases up to ~120% at 0% HP."
+                            ]
+                        }
                     ]
                 }
             ],
@@ -6142,10 +6151,15 @@
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/23_1.png"
                     ],
-                    "name": "Jolt CounterAt level 95:Jolt Counter II",
+                    "name": "Jolt Counter II",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Jolt Counter**.\nWhile Jolt Counter is active: Can't attack.\nCharge bar doesn't rise.\nDodge one-ally attacks and counter up to 2 times per turn.\nCosts 10% charge bar each turn.\n(Ends on recast or when charge bar is 0.)\nCounter increased up to 3 times per turn.\n<:Status_Counter:832587321567477780> **Jolt Counter** upgraded to <:Status_Counter:832587321567477780> **Jolt Counter II**.\n(Can now use one-foe one-ally attacks and gain charge bar while Jolt Counter II is active.)\nAlso gain <:Status_Uplift:832602899460521994> **Charge Bar +30%** upon cast."
+                        "Gain <:Status_Counter:832587321567477780> **Jolt Counter II** and <:Status_Uplift:832602899460521994> **Charge Bar +30%**.",
+                        "**While <:Status_Counter:832587321567477780> Jolt Counter II is active:**",
+                        "\u2022 Can't use charge attacks.",
+                        "\u2022 Dodge one-ally attacks and counter up to 3 times per turn.",
+                        "\u2022 Costs 10% charge bar each turn.",
+                        "(Ends on recast or when charge bar is 0.)"
                     ],
                     "type": [
                         "1"
@@ -6157,9 +6171,7 @@
                     "cooldown": "6 turns",
                     "duration": {
                         "2^t": [
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
                             "<:Status_Substitute:832601501934288916> **Substitute**",
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
                             "<:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)**"
                         ]
                     },
@@ -6170,12 +6182,22 @@
                     "name": "ProvokeAt level 100:Ashen Roar",
                     "obtain": " Lvl 45\u21e7 Lvl 100 ",
                     "text": [
-                        "You want a shot at me? Go ahead! Take it!(Gain <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nTake a lethal hit without being knocked out if Ayer has 1% of his max HP or more.)\nI swing my fists to protect others!(Gain <:Status_Substitute:832601501934288916> **Substitute** [instead of <:Status_AggroUpArrow:832576432018030592> **Hostility Up**] and <:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)**.)\n"
+                        "I swing my fists to protect others!",
+                        "(Gain <:Status_Substitute:832601501934288916> **Substitute** and <:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)**."
                     ],
                     "type": [
                         "3",
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "<:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)** grants the following effect:",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Can withstand lethal DMG (Leaves 1 HP / Can't be removed)"
+                        ]
+                    }
+                ]
                 }
             ],
             []
@@ -6195,10 +6217,19 @@
                     "name": "Guilty Break",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Guilty Break**, greatly boosting ATK as HP decreases.\nEffect enhanced."
+                        "Gain <:Status_Jammed:832595932305424394> **Guilty Break**, greatly boosting ATK as HP decreases."
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_Jammed:832595932305424394> **Guilty Break** is unique and stacks multiplicatively with all other buffs.",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 At 100% HP equals 40% and increases up to ~120% at 0% HP."
+                            ]
+                        }
                     ]
                 }
             ],
@@ -6209,10 +6240,16 @@
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/23_1.png"
                     ],
-                    "name": "Jolt CounterAt level 95:Jolt Counter II",
+                    "name": "Jolt Counter",
                     "obtain": " Lvl 1\u21e7 Lvl 75 \u21ee Lvl 95 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Jolt Counter**.\nWhile Jolt Counter is active: Can't attack.\nCharge bar doesn't rise.\nDodge one-ally attacks and counter up to 2 times per turn.\nCosts 10% charge bar each turn.\n(Ends on recast or when charge bar is 0.)\nCounter increased up to 3 times per turn.\n<:Status_Counter:832587321567477780> **Jolt Counter** upgraded to <:Status_Counter:832587321567477780> **Jolt Counter II**.\n(Can now use one-foe one-ally attacks and gain charge bar while Jolt Counter II is active.)\nAlso gain <:Status_Uplift:832602899460521994> **Charge Bar +30%** upon cast."
+                        "Gain <:Status_Counter:832587321567477780> **Jolt Counter**.",
+                        "While Jolt Counter is active:",
+                        "\u2022 Can't attack.",
+                        "\u2022 Charge bar doesn't rise.",
+                        "\u2022 Dodge one-ally attacks and counter up to 2 times per turn.",
+                        "\u2022 Costs 10% charge bar each turn.",
+                        "(Ends on recast or when charge bar is 0.)"
                     ],
                     "type": [
                         "1"
@@ -6225,9 +6262,7 @@
                     "duration": {
                         "2^t": [
                             "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
-                            "<:Status_Substitute:832601501934288916> **Substitute**",
-                            "<:Status_AggroUpArrow:832576432018030592> **Hostility Up**",
-                            "<:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)**"
+                            "<:Status_Substitute:832601501934288916> **Substitute**"
                         ]
                     },
                     "icon": [
@@ -6237,7 +6272,8 @@
                     "name": "ProvokeAt level 100:Ashen Roar",
                     "obtain": " Lvl 45\u21e7 Lvl 100 ",
                     "text": [
-                        "You want a shot at me? Go ahead! Take it!(Gain <:Status_AggroUpArrow:832576432018030592> **Hostility Up**.\nTake a lethal hit without being knocked out if Ayer has 1% of his max HP or more.)\nI swing my fists to protect others!(Gain <:Status_Substitute:832601501934288916> **Substitute** [instead of <:Status_AggroUpArrow:832576432018030592> **Hostility Up**] and <:Status_Dauntless_Spirit:834390039085056031> **Dauntless Spirit (1 time)**.)\n"
+                        "You want a shot at me? Go ahead! Take it!",
+                        "(Gain <:Status_AggroUpArrow:832576432018030592> **Hostility Up**. Take a lethal hit without being knocked out if Ayer has 1% of his max HP or more.)"
                     ],
                     "type": [
                         "3",
@@ -6262,7 +6298,8 @@
                     "name": "Blazing Break",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Blazing Break**.\n(Consumes 40% of max HP.)\nEffect enhanced."
+                        "Gain <:Status_Jammed:832595932305424394> **Blazing Break**.",
+                        "(Consumes 40% of max HP.)"
                     ],
                     "type": [
                         "3"
@@ -6283,7 +6320,7 @@
                     "name": "Schnell Counter",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)**.\nCounter strength increased to 150%."
+                        "Gain <:Status_Counter:832587321567477780> **Counters on Dodge (3 times)**."
                     ],
                     "type": [
                         "1"

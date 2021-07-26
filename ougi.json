@@ -1031,7 +1031,8 @@
                 },
                 "name": "Beat the Wall",
                 "text": [
-                    "Massive Earth damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG** and <:Status_TripleUp:832601877920350218> **Guaranteed TA**."
+                    "Massive Earth damage to a foe.",
+                    "Gain <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG** and <:Status_TripleUp:832601877920350218> **Guaranteed TA**."
                 ]
             }
         ],
@@ -1044,7 +1045,8 @@
                 },
                 "name": "Deadly Sin",
                 "text": [
-                    "Massive Earth damage to a foe.\nGain <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG**."
+                    "Massive Earth damage to a foe.",
+                    "Gain <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG**."
                 ]
             }
         ],

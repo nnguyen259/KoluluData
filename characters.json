@@ -2502,12 +2502,12 @@
     "Ayer": {
         "BASE": {
             "5star": "Yes",
-            "atk": "8,800",
+            "atk": "10,450",
             "element": "Earth",
             "gender": [
                 "Male"
             ],
-            "hp": "1,440",
+            "hp": "1,710",
             "id": "3040084000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040084000_03.png",
             "jpname": "\u30a2\u30a4\u30eb",
