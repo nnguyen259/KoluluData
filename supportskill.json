@@ -3221,7 +3221,8 @@
                 "duration": {},
                 "name": "Dual Leads",
                 "text": [
-                    "While <:Status_Session:832599448386666546> **Session** is in effect: 50% boost to double attack rate, 25% boost to triple attack rate, 100% boost to DEF, boost to hostility, and 20% Bonus Earth DMG effect.\n(Grants the same effects to an ally with <:Status_Session:832599448386666546> **Session** effect.)\n"
+                    "**While <:Status_Session:832599448386666546> Session is in effect:** 50% boost to double attack rate, 25% boost to triple attack rate, 100% boost to DEF, boost to hostility, and 20% Bonus Earth DMG effect.",
+                    "Grants the same effects to an ally with <:Status_Session:832599448386666546> **Session** effect."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             },
@@ -3229,9 +3230,42 @@
                 "duration": {},
                 "name": "Resonance",
                 "text": [
-                    "<:Status_Resonance:832599166647533612> **Resonance** lvl rises by 1 upon chain burst activation (Max: 3).\nBuffs to all allies upon chain burst activation based on Resonance lvl."
+                    "<:Status_Resonance:832599166647533612> **Resonance** lvl rises by 1 upon chain burst activation (Max: 3).",
+                    "Buffs to all allies upon chain burst activation based on Resonance lvl."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                        {
+                            "inLine": true,
+                            "title": "<:Status_Resonance:832599166647533612> **Resonance**",
+                            "text": [
+                                "\u200b",
+                                "1",
+                                "\u200b",
+                                "\u200b",
+                                "2",
+                                "\u200b",
+                                "\u200b",
+                                "\u200b",
+                                " 3"
+                            ]
+                        },
+                        {
+                            "inLine": true,
+                            "title": "Buffs granted",
+                            "text": [
+                                "\u200b",
+                                "All allies gain <:Status_Strength:832601501335289908> **Strength**.",
+                                "\u200b",
+                                "\u200b",
+                                "All allies gain <:Status_Strength:832601501335289908> **Strength** and <:Status_CA_DMG_Boosted_1_time:832584992499695616> **20% C.A. DMG Up (1 time)**.",
+                                "\u200b",
+                                "\u200b",
+                                "All allies gain <:Status_Strength:832601501335289908> **Strength**, <:Status_CA_DMG_Boosted_1_time:832584992499695616> **20% C.A. DMG Up (1 time)**, and <:Status_Armored:832577248602095656> **70% / 30% Armored**."
+                            ]
+                        }
+                    ]
+
             },
             {
                 "duration": {},
@@ -3239,7 +3273,26 @@
                 "text": [
                     "Water DMG reduction to all allies."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════════╗",
+                                "║ Rank ║ Reduction ║",
+                                "╠══════╬═══════════╣",
+                                "║   1  ║     2%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   2  ║     4%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   3  ║     5%    ║",
+                                "╚══════╩═══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },

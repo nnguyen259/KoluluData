@@ -1101,7 +1101,9 @@
                 "duration": {},
                 "name": "Amplified Resonance",
                 "text": [
-                    "Massive Earth damage to a foe.\nAll allies gain <:Status_Defiance:832588448593346600> **30% C.B. DMG Up** and <:Status_CB_DMG_Cap_Up:832585053149855744> **10% C.B. DMG Cap Up**.\n(Restore 100 + 20% HP of allies with <:Status_Session:832599448386666546> **Session** [Healing cap: 2500].)\n"
+                    "Massive Earth damage to a foe.",
+                    "All allies gain <:Status_Defiance:832588448593346600> **30% C.B. DMG Up** and <:Status_CB_DMG_Cap_Up:832585053149855744> **10% C.B. DMG Cap Up**.",
+                    "Restore 100 + 20% HP of allies with <:Status_Session:832599448386666546> **Session** (Healing cap: 2500)."
                 ]
             }
         ]

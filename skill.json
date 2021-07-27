@@ -6506,7 +6506,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {
                         "180^s": [
                             "<:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**",
@@ -6519,7 +6519,9 @@
                     "name": "Adad Edge",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "400% Earth damage to all foes (Damage cap: ~400,000).\nInflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**.\n(When <:Status_Resonance:832599166647533612> **Resonance** lvl is 3: Activates twice.)\n"
+                        "400% Earth damage to all foes (Damage cap: ~400,000).",
+                        "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**.",
+                        "**When <:Status_Resonance:832599166647533612> Resonance lvl is 3:** Activates twice."
                     ],
                     "type": [
                         "1"
@@ -6528,7 +6530,7 @@
             ],
             [
                 {
-                    "cooldown": "6 turns5 turns",
+                    "cooldown": "5 turns",
                     "duration": {
                         "5^t": [
                             "<:Status_Session:832599448386666546> **Session**"
@@ -6540,7 +6542,8 @@
                     "name": "Session",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Grant <:Status_Session:832599448386666546> **Session** to caster and an ally.\n(Can't grant Session effect to more than 1 other ally at a time.)\n"
+                        "Grant <:Status_Session:832599448386666546> **Session** to caster and an ally.",
+                        "(Can't grant Session effect to more than 1 other ally at a time.)"
                     ],
                     "type": [
                         "3"
@@ -6561,7 +6564,9 @@
                     "name": "Rock Out",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "3-hit 150% Earth damage to random foes (Damage cap: ~150,000).\nRemove 1 buff from all foes.\nInflict <:Status_Tuning:832601878293512202> **Tuning** on all foes."
+                        "3-hit 150% Earth damage to random foes (Damage cap: ~150,000).",
+                        "Remove 1 buff from all foes.",
+                        "Inflict <:Status_Tuning:832601878293512202> **Tuning** on all foes."
                     ],
                     "type": [
                         "1"
