@@ -6846,7 +6846,72 @@
         "BASE": [
             [
                 {
-                    "cooldown": "5 turns4 turns",
+                    "cooldown": "4 turns",
+                    "duration": {
+                        "1^t": [
+                            "<:Status_ATK_Up_1:834386455521787924> **ATK Up**"
+                        ],
+                        "4^t": [
+                            "<:Status_Identification_4:834397490152996925> **Identification**",
+                            "<:Status_Defiance:832588448593346600> **C.A. DMG Up**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/80_3.png"
+                    ],
+                    "name": "Identification",
+                    "obtain": " Lvl 1\u21e7 Lvl 45 ",
+                    "text": [
+                        "Inflict <:Status_Identification_4:834397490152996925> **Identification** on a foe.",
+                        "Gain <:Status_Defiance:832588448593346600> **C.A. DMG Up**.",
+                        "(Foe gains <:Status_ATK_Up_1:834386455521787924> **ATK Up** when failing to inflict Identification effect.)"
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/49_1.png"
+                    ],
+                    "name": "Bluff",
+                    "obtain": " Lvl 1\u21e7 Lvl 65 ",
+                    "text": [
+                        "Random Light damage to a foe (Max: 100,000%)."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "2 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/70_3.png"
+                    ],
+                    "name": "Bulldoze II",
+                    "obtain": " Lvl 35 ",
+                    "text": [
+                        "End cooldown for Barawa's other skills.",
+                        "Self-inflict 1 <:Status_No_Turning_Back_1:834402678293135390> **No Turning Back** stack ."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ],
+        "EVENT": [
+            [
+                {
+                    "cooldown": "4 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/80_3.png"
@@ -6863,7 +6928,7 @@
             ],
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/49_1.png"
@@ -6892,7 +6957,8 @@
                     "name": "Bulldoze",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Resets the cooldown on Bluff.\nSelf-inflict <:Status_Barawa:832583804085600283> **No Turning Back**."
+                        "Resets the cooldown on Bluff.",
+                        "Self-inflict <:Status_Barawa:832583804085600283> **No Turning Back**."
                     ],
                     "type": [
                         "3"
@@ -6912,7 +6978,7 @@
                     "name": "Deduce",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Gain <:Status_AttackUpStack:832581064383791144> **C.A. DMG Up (Stackable)**.\nEffect enhanced"
+                        "Gain <:Status_AttackUpStack:832581064383791144> **C.A. DMG Up (Stackable)**."
                     ],
                     "type": [
                         "3"
@@ -6937,68 +7003,6 @@
                 }
             ],
             [],
-            []
-        ],
-        "SR": [
-            [
-                {
-                    "cooldown": "5 turns4 turns",
-                    "duration": {
-                        "1^t": [
-                            "<:Status_ATK_Up_1:834386455521787924> **ATK Up**"
-                        ],
-                        "4^t": [
-                            "<:Status_Identification_4:834397490152996925> **Identification**",
-                            "<:Status_Defiance:832588448593346600> **C.A. DMG Up**"
-                        ]
-                    },
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/80_3.png"
-                    ],
-                    "name": "Identification",
-                    "obtain": " Lvl 1\u21e7 Lvl 45 ",
-                    "text": [
-                        "Inflict <:Status_Identification_4:834397490152996925> **Identification** on a foe.\nGain <:Status_Defiance:832588448593346600> **C.A. DMG Up**.\n(Foe gains <:Status_ATK_Up_1:834386455521787924> **ATK Up** when failing to inflict Identification effect.)\n"
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "8 turns7 turns",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/49_1.png"
-                    ],
-                    "name": "Bluff",
-                    "obtain": " Lvl 1\u21e7 Lvl 65 ",
-                    "text": [
-                        "Random Light damage to a foe (Max: 100,000%)."
-                    ],
-                    "type": [
-                        "1"
-                    ]
-                }
-            ],
-            [
-                {
-                    "cooldown": "2 turns",
-                    "duration": {},
-                    "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/70_3.png"
-                    ],
-                    "name": "Bulldoze II",
-                    "obtain": " Lvl 35 ",
-                    "text": [
-                        "End cooldown for Barawa's other skills.\nSelf-inflict 1 <:Status_No_Turning_Back_1:834402678293135390> **No Turning Back** stack ."
-                    ],
-                    "type": [
-                        "3"
-                    ]
-                }
-            ],
             []
         ]
     },

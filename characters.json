@@ -2841,6 +2841,38 @@
     "Barawa": {
         "BASE": {
             "5star": "No",
+            "atk": "7,760",
+            "element": "Light",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,080",
+            "id": "3030239000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030239000_02.png",
+            "jpname": "\u30d0\u30ed\u30ef",
+            "link": "https://gbf.wiki/Barawa_(SR)",
+            "max_evo": "4",
+            "name": "Barawa (SR)",
+            "original": "Barawa_(SR)",
+            "profile": "Where there's a dastard, there's a detective. The self-proclaimed \"great detective\" Barawa works tirelessly to prove the innocence of his clients by gathering evidence from all sorts of places. Whether it be luck or ability, for Barawa the hidden truth prevails.",
+            "race": [
+                "Draph"
+            ],
+            "rarity": "SR",
+            "recruitment": "Premium Draw",
+            "series": [],
+            "specialties": [
+                "Gun"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030239000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Shunsuke Takeuchi"
+            ],
+            "weapon": "Crocskin Glove"
+        },
+        "EVENT": {
+            "5star": "No",
             "atk": "6,300",
             "element": "Fire",
             "gender": [
@@ -2902,38 +2934,6 @@
                 "Shunsuke Takeuchi"
             ],
             "weapon": "Derringer"
-        },
-        "SR": {
-            "5star": "No",
-            "atk": "7,760",
-            "element": "Light",
-            "gender": [
-                "Male"
-            ],
-            "hp": "1,080",
-            "id": "3030239000",
-            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3030239000_02.png",
-            "jpname": "\u30d0\u30ed\u30ef",
-            "link": "https://gbf.wiki/Barawa_(SR)",
-            "max_evo": "4",
-            "name": "Barawa (SR)",
-            "original": "Barawa_(SR)",
-            "profile": "Where there's a dastard, there's a detective. The self-proclaimed \"great detective\" Barawa works tirelessly to prove the innocence of his clients by gathering evidence from all sorts of places. Whether it be luck or ability, for Barawa the hidden truth prevails.",
-            "race": [
-                "Draph"
-            ],
-            "rarity": "SR",
-            "recruitment": "Premium Draw",
-            "series": [],
-            "specialties": [
-                "Gun"
-            ],
-            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3030239000_02.jpg",
-            "type": "Attack",
-            "va": [
-                "Shunsuke Takeuchi"
-            ],
-            "weapon": "Crocskin Glove"
         }
     },
     "Beatrix": {

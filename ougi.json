@@ -1156,6 +1156,16 @@
         "BASE": [
             {
                 "duration": {},
+                "name": "No More Thinking",
+                "text": [
+                    "Big Light damage to a foe.",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +15%**."
+                ]
+            }
+        ],
+        "EVENT": [
+            {
+                "duration": {},
                 "name": "Beyond Reasoning",
                 "text": [
                     "Big Fire damage to a foe"
@@ -1168,15 +1178,6 @@
                 "name": "Abandon Reasoning",
                 "text": [
                     "Big Fire damage to a foe."
-                ]
-            }
-        ],
-        "SR": [
-            {
-                "duration": {},
-                "name": "No More Thinking",
-                "text": [
-                    "Big Light damage to a foe.\nGain <:Status_Uplift:832602899460521994> **Charge Bar +15%**."
                 ]
             }
         ]

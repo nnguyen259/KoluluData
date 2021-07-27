@@ -3412,6 +3412,32 @@
         "BASE": [
             {
                 "duration": {},
+                "name": "Bridge Is Burned",
+                "text": [
+                    "Boost to <:Status_Identification_1:832594543332687913> **Identification** effect success rate as <:Status_Barawa:832583804085600283> **No Turning Back** effect lvl rises."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Case Closed!",
+                "text": [
+                    "40% Bonus Light damage effect to all allies against foes with <:Status_Identification_1:832594543332687913> **Identification** effect."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Extended Mastery Support Skill",
+                "text": [
+                    "Boost to DEF as it gets harder to turn back"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "EVENT": [
+            {
+                "duration": {},
                 "name": "One Tough Detective",
                 "text": [
                     "Slight chance to gain <:Status_Uplift:832602899460521994> **Charge Bar +10%** upon taking damage."
@@ -3433,32 +3459,6 @@
                 "name": "Extended Mastery Support Skill",
                 "text": [
                     "Chance to reset cooldown on Bluff with every one-foe attack."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
-            }
-        ],
-        "SR": [
-            {
-                "duration": {},
-                "name": "Bridge Is Burned",
-                "text": [
-                    "Boost to <:Status_Identification_1:832594543332687913> **Identification** effect success rate as <:Status_Barawa:832583804085600283> **No Turning Back** effect lvl rises."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Case Closed!",
-                "text": [
-                    "40% Bonus Light damage effect to all allies against foes with <:Status_Identification_1:832594543332687913> **Identification** effect."
-                ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
-            },
-            {
-                "duration": {},
-                "name": "Extended Mastery Support Skill",
-                "text": [
-                    "Boost to DEF as it gets harder to turn back"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
