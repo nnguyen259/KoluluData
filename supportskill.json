@@ -3316,7 +3316,26 @@
                 "text": [
                     "Gain Bonus Elemental DMG effect against foes in overdrive"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔══════╦═══════════╗",
+                                "║ Rank ║ Bonus DMG ║",
+                                "╠══════╬═══════════╣",
+                                "║   1  ║     ?%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   2  ║     ?%    ║",
+                                "╠══════╬═══════════╣",
+                                "║   3  ║    30%    ║",
+                                "╚══════╩═══════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             }
         ]
     },

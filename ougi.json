@@ -1114,7 +1114,8 @@
                 "duration": {},
                 "name": "Song of Silence",
                 "text": [
-                    "Big Dark damage to a foe.\nGain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."
+                    "Big Dark damage to a foe",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +20%**."
                 ]
             }
         ]

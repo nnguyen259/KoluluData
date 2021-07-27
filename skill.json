@@ -6580,7 +6580,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "4 turns3 turns",
+                    "cooldown": "3 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/281_1.png"
@@ -6588,11 +6588,41 @@
                     "name": "Oblivion",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Dark damage to a foe (Damage cap: 420,000).\nBoost to damage with each cast.\nDamage resets to normal after 7 casts."
+                        "Dark damage to a foe (Damage cap: 420,000).",
+                        "Boost to damage with each cast.",
+                        "Damage resets to normal after 7 casts."
                     ],
                     "type": [
                         "1"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "\u200b",
+                            "text": [
+                                "```",
+                                "╔════════════════╦═══════╗",
+                                "║      Name      ║  DMG  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion       ║ 100%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion II    ║ 250%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion III   ║ 400%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion IV    ║ 540%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion V     ║ 670%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Oblivion VI    ║ 850%  ║",
+                                "╠════════════════╬═══════╣",
+                                "║ Final Oblivion ║ 1000% ║",
+                                "╚════════════════╩═══════╝",
+                                "```"
+                            ]
+                        }
                     ]
+
                 }
             ],
             [
@@ -6605,7 +6635,9 @@
                     "name": "Deliverance",
                     "obtain": " Lvl 25 ",
                     "text": [
-                        "Restore an ally's HP (Healing cap: 300).\nBoost healing cap by 100 HP with each cast.\nHealing resets to normal after 7 casts."
+                        "Restore an ally's HP (Healing cap: 300).",
+                        "Boost healing cap by 100 HP with each cast.",
+                        "Healing resets to normal after 7 casts."
                     ],
                     "type": [
                         "2"
@@ -6620,7 +6652,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "8 turns7 turns",
+                    "cooldown": "7 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/10_1.png"
@@ -6628,7 +6660,7 @@
                     "name": "Reckless Fire",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Earth damage to all foes (Boost to damage as HP decreases)Effect enhanced."
+                        "Earth damage to all foes (Boost to damage as HP decreases)."
                     ],
                     "type": [
                         "1"
