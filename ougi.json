@@ -1137,7 +1137,8 @@
                 "duration": {},
                 "name": "Heavenly Retribution",
                 "text": [
-                    "450% Light damage to a foe.\n300% Bonus Light damage (Damage cap: ~295,000)."
+                    "450% Light damage to a foe.",
+                    "300% Bonus Light damage (Damage cap: ~295,000)."
                 ]
             }
         ],

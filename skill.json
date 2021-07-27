@@ -6697,7 +6697,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "4 turns3 turns",
+                    "cooldown": "3 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/430_3.png"
@@ -6705,16 +6705,31 @@
                     "name": "Valiant Shield",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Gain <:Status_Bulwark:832584523916902400> **Bulwark**.\n(Deals 40% less damage and doesn't deal multiattacks while in effect.\nEnds on recast.)\n"
+                        "Gain <:Status_Bulwark:832584523916902400> **Bulwark**.",
+                        "(Deals 40% less damage and doesn't deal multiattacks while in effect. Ends on recast.)"
                     ],
                     "type": [
                         "3"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:Status_Bulwark:832584523916902400> **Bulwark** grants the following effects:",
+                            "text": [
+                                "\u2022 DEF +200%",
+                                "\u2022 Increases the probability he gets targeted in a 4-man party to ~62%",
+                                "\u2022 Gain 300% more charge bar upon taking damage.",
+                                "\u2022 Decreases damage dealt by 40%.",
+                                "\u2022 Gain <:Status_Divine_1:832588555645091871> **Divine** upon taking damage in a turn, boosting C.A. damage and C.A. damage cap.",
+                                "\u2022 Unable to multiattack."
+                            ]
+                        }
                     ]
                 }
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "3^t": [
                             "<:Status_Repel:832599166844403743> **Unchallenged**"
@@ -6726,7 +6741,8 @@
                     "name": "Sacred Surge",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "400%-500% Light damage to all foes (Damage cap: ~655,000).\nGain 1-hit <:Status_Repel:832599166844403743> **Unchallenged**."
+                        "400%-500% Light damage to all foes (Damage cap: ~655,000).",
+                        "Gain 1-hit <:Status_Repel:832599166844403743> **Unchallenged**."
                     ],
                     "type": [
                         "1"
@@ -6774,7 +6790,7 @@
                     "name": "Caballero Shield",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Gain <:Status_Substitute:832601501934288916> **Substitute**.\nAlso gain <:Status_AttackUp:832581064555364362> **ATK Up**."
+                        "Gain <:Status_Substitute:832601501934288916> **Substitute** and <:Status_AttackUp:832581064555364362> **ATK Up**."
                     ],
                     "type": [
                         "3"
@@ -6795,7 +6811,7 @@
                     "name": "Overbattle",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Gain <:Status_Strength:832601501335289908> **Strength**.\nEffect enhanced."
+                        "Gain <:Status_Strength:832601501335289908> **Strength**."
                     ],
                     "type": [
                         "3"

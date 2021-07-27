@@ -3345,9 +3345,32 @@
                 "duration": {},
                 "name": "Bulwark",
                 "text": [
-                    "While <:Status_Bulwark:832584523916902400> **Bulwark** is active:Boost to hostility and 200% boost to defense specs.\nAlso gain <:Status_Divine_1:832588555645091871> **Divine** upon taking damage, boosting C.A. damage and C.A. damage cap (Max: <:Status_Divine_5:832588556156403722> **Divine**)."
+                    "**While <:Status_Bulwark:832584523916902400> Bulwark is active:** Boost to hostility and 200% boost to defense specs. Also gain <:Status_Divine_1:832588555645091871> **Divine** upon taking damage, boosting C.A. damage and C.A. damage cap (Max: <:Status_Divine_5:832588556156403722> **Divine**)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:Status_Divine_5:832588556156403722> Divine is consumed upon using a charge attack.",
+                            "text": [
+                                "```",
+                                "╔═════╦═══════════╦═══════════════╗",
+                                "║Level║C.A. DMG Up║C.A. DMG Cap Up║",
+                                "╠═════╬═══════════╬═══════════════╣",
+                                "║  1  ║    +20%   ║      +10%     ║",
+                                "╠═════╬═══════════╬═══════════════╣",
+                                "║  2  ║    +40%   ║      +25%     ║",
+                                "╠═════╬═══════════╬═══════════════╣",
+                                "║  3  ║    +60%   ║      +40%     ║",
+                                "╠═════╬═══════════╬═══════════════╣",
+                                "║  4  ║    +80%   ║      +55%     ║",
+                                "╠═════╬═══════════╬═══════════════╣",
+                                "║  5  ║   +100%   ║      +70%     ║",
+                                "╚═════╩═══════════╩═══════════════╝",
+                                "```"
+                            ]
+                        }
+                    ]
             },
             {
                 "duration": {},
