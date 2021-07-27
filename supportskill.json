@@ -3480,7 +3480,26 @@
                 "text": [
                     "Clock hands moves upon dealing triple attacks (Max: 3) (Boost to C.A. specs based on clock hands' position)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦═══════════╦═══════════════╗",
+                            "║Stacks║C.A. DMG Up║C.A. DMG Cap Up║",
+                            "╠══════╬═══════════╬═══════════════╣",
+                            "║   1  ║    10%    ║       5%      ║",
+                            "╠══════╬═══════════╬═══════════════╣",
+                            "║   2  ║    20%    ║      10%      ║",
+                            "╠══════╬═══════════╬═══════════════╣",
+                            "║   3  ║    40%    ║      15%      ║",
+                            "╚══════╩═══════════╩═══════════════╝",
+                            "```"
+                        ]
+                    }
+                  ]
             },
             {
                 "duration": {},
@@ -3488,7 +3507,26 @@
                 "text": [
                     "Slight chance to dodge all attacks from foes"
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════╦════════════╗",
+                            "║ Rank ║ Dodge Rate ║",
+                            "╠══════╬════════════╣",
+                            "║   1  ║     5%     ║",
+                            "╠══════╬════════════╣",
+                            "║   2  ║     8%     ║",
+                            "╠══════╬════════════╣",
+                            "║   3  ║     10%    ║",
+                            "╚══════╩════════════╝",
+                            "```"
+                        ]
+                    }
+                  ]
             }
         ],
         "EARTH": [
@@ -3496,17 +3534,55 @@
                 "duration": {},
                 "name": "Embrasque Resonance",
                 "text": [
-                    "Charge bar fills up 20% slower.\nGuaranteed double attacks and 50% boost to triple attack rate.\nBig boost to Earth allies' ATK based on how low Beatrix's HP is."
+                    "Charge bar fills up 20% slower.",
+                    "Guaranteed double attacks and 50% boost to triple attack rate.",
+                    "Big boost to Earth allies' ATK based on how low Beatrix's HP is."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔══════════════╦══════════════╗",
+                            "║ Beatrix's HP ║ Party ATK Up ║",
+                            "╠══════════════╬══════════════╣",
+                            "║     100%     ║      0%      ║",
+                            "╠══════════════╬══════════════╣",
+                            "║      75%     ║     3.75%    ║",
+                            "╠══════════════╬══════════════╣",
+                            "║      50%     ║      10%     ║",
+                            "╠══════════════╬══════════════╣",
+                            "║      25%     ║    18.75%    ║",
+                            "╠══════════════╬══════════════╣",
+                            "║      20%     ║     20.8%    ║",
+                            "╠══════════════╬══════════════╣",
+                            "║     1 HP     ║     ~30%     ║",
+                            "╚══════════════╩══════════════╝",
+                            "```"
+                        ]
+                    }
+                  ]
             },
             {
                 "duration": {},
                 "name": "Delta Clock",
                 "text": [
-                    "Move the clock hand upon triple attacks (Max: 3 times).\nWhen Beatrix's HP is 50% or below: Gain <:Status_7098:832575816679948329> **Immortal Blue**."
+                    "Move the clock hand upon triple attacks (Max: 3 times).",
+                    "When Beatrix's HP is 50% or below: Gain <:Status_7098:832575816679948329> **Immortal Blue**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "<:Status_7098:832575816679948329> **Immortal Blue** grants the following effects: ",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 20% Bonus Earth DMG",
+                            "\u2022 Charge attack can be used"
+                        ]
+                    }
+                  ]
             }
         ],
         "HALLOWEEN": [
@@ -3516,7 +3592,18 @@
                 "text": [
                     "Boost to critical hit rate and dodge rate based on how low HP is (Only activates when below 60%)."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 Critical hit rate goes from ~20% at 60% HP to ~40% at 1 HP.",
+                            "\u2022 Critical damage multiplier equals 150%.",
+                            "\u2022 Dodge rate equals ~20%."
+                          ]
+                    }
+                  ]
             },
             {
                 "duration": {},
@@ -3558,9 +3645,18 @@
                 "duration": {},
                 "name": "Timeout!",
                 "text": [
-                    "At end of turn when Beatrix's HP is 50% or below: Chance to gain <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**."
+                    "**At end of turn when Beatrix's HP is 50% or below:** Chance to gain <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**."
                 ],
-                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "Beatrix has a ~25% chance to gain <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)** at the end of a turn when her HP is 50% or below."
+                        ]
+                    }
+                  ]
             },
             {
                 "duration": {},

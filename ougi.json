@@ -1192,7 +1192,8 @@
                 },
                 "name": "Immortal Assault",
                 "text": [
-                    "Massive Dark damage to a foe.\nGain 1-hit <:Status_Repel:832599166844403743> **Unchallenged**."
+                    "Massive Dark damage to a foe.",
+                    "Gain 1-hit <:Status_Repel:832599166844403743> **Unchallenged**."
                 ]
             }
         ],
@@ -1205,7 +1206,10 @@
                 },
                 "name": "Immortal Raid",
                 "text": [
-                    "1250% Earth damage to a foe (Damage cap: ~2,420,000).\nActivate Answerer's Splatter.\nGain <:Status_TripleUp:832601877920350218> **Guaranteed TA**.\n(Consumes <:Status_7098:832575816679948329> **Immortal Blue** to activate.)\n"
+                    "1250% Earth damage to a foe (Damage cap: ~2,420,000).",
+                    "Activate Answerer's Splatter.",
+                    "Gain <:Status_TripleUp:832601877920350218> **Guaranteed TA**.",
+                    "(Consumes <:Status_7098:832575816679948329> **Immortal Blue** to activate.)"
                 ]
             }
         ],
@@ -1230,7 +1234,8 @@
                 },
                 "name": "Immortal Warrior",
                 "text": [
-                    "Big Earth damage to a foe.\nInflict <:Status_WaterAtkDown:832603014111690764> **15% Water ATK Down**.\nGain <:Status_Lethal_Attack_Dodged:832596749418889226> **Lethal Attack Dodged (25% HP) (1 time)**."
+                    "Big Earth damage to a foe.\nInflict <:Status_WaterAtkDown:832603014111690764> **15% Water ATK Down**.",
+                    "Gain <:Status_Lethal_Attack_Dodged:832596749418889226> **Lethal Attack Dodged (25% HP) (1 time)**."
                 ]
             }
         ],
@@ -1243,7 +1248,8 @@
                 },
                 "name": "Immortal Assault",
                 "text": [
-                    "450% Fire damage to a foe.\nGain <:Status_Dodge_1:832590866371182602> **Dodge All (1 time)**."
+                    "450% Fire damage to a foe.",
+                    "Gain <:Status_Dodge_1:832590866371182602> **Dodge All (1 time)**."
                 ]
             }
         ]

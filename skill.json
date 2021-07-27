@@ -7010,7 +7010,7 @@
         "BASE": [
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/703_1.png"
@@ -7018,7 +7018,8 @@
                     "name": "Embrasque Sword",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "400%-500% Dark damage to a foe (Damage cap ~640,000).\nGain <:Status_TripleUp:832601877920350218> **Guaranteed TA**."
+                        "400%-500% Dark damage to a foe (Damage cap ~640,000).",
+                        "Gain <:Status_TripleUp:832601877920350218> **Guaranteed TA**."
                     ],
                     "type": [
                         "1"
@@ -7027,7 +7028,7 @@
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {},
                     "icon": [
                         "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/704_4.png"
@@ -7056,11 +7057,22 @@
                     "name": "Soaring Star",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Jammed**."
+                        "Gain <:Status_Jammed:832595932305424394> **Jammed**.",
+                        "(Uses 40% of max HP)."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 The modifier is unique and stacks multiplicatively with all other buffs.",
+                            "\u2022 <:Status_Jammed:832595932305424394> **Jammed** boosts Beatrix's ATK by 30% at 100% HP up to 90% at 0% HP. ATK increases linearly with HP lost."
+                            ]
+                    }
+                  ]
                 }
             ],
             []
@@ -7068,7 +7080,7 @@
         "EARTH": [
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)**",
@@ -7081,7 +7093,9 @@
                     "name": "Answerer's Splatter",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "3-hit, 100% Earth damage to random foes (Damage cap: ~90,000 per hit).\nGain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)** and <:Status_DefenseUpStack:832588448413122560> **10% DEF Up (Stackable / Max: 50%)**.\n(Number of activations increased based on the clock hand's position [Max: 4 times].)\n"
+                        "3-hit, 100% Earth damage to random foes (Damage cap: ~90,000 per hit).",
+                        "Gain <:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 50%)** and <:Status_DefenseUpStack:832588448413122560> **10% DEF Up (Stackable / Max: 50%)**.",
+                        "Number of activations increased based on the clock hand's position (Max: 4 times)."
                     ],
                     "type": [
                         "1"
@@ -7090,7 +7104,7 @@
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "6^t": [
                             "<:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)**"
@@ -7105,11 +7119,33 @@
                     "name": "Absolute Survival",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "Gain <:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)** and <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**.\n(Boost to number of counterattacks based on the clock hand's position.)\n"
+                        "Gain <:Status_Counter_DodgeDMG:832587064579063858> **Counters on Dodge/DMG (2 times)** and <:Status_Lethal_Attack_Dodged:832596749418889226> **Undying (1 time)**.",
+                        "Boost to number of counterattacks based on the clock hand's position."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "```",
+                            "╔═════╦═══════════════════════╗",
+                            "║ Lvl ║ Counters on Dodge/DMG ║",
+                            "╠═════╬═══════════════════════╣",
+                            "║  0  ║        2 times        ║",
+                            "╠═════╬═══════════════════════╣",
+                            "║  1  ║        4 times        ║",
+                            "╠═════╬═══════════════════════╣",
+                            "║  2  ║        6 times        ║",
+                            "╠═════╬═══════════════════════╣",
+                            "║  3  ║        8 times        ║",
+                            "╚═════╩═══════════════════════╝",
+                            "```"
+                        ]
+                    }
+                  ]
                 }
             ],
             [
@@ -7130,7 +7166,8 @@
                     "name": "Rising Nova",
                     "obtain": " Lvl 45 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Jammed**, <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG**, and <:Status_Routine_Step:834403944415100928> **Double Strike**.\n(Consumes 40% of max HP.)\n"
+                        "Gain <:Status_Jammed:832595932305424394> **Jammed**, <:Status_Bonus_Damage:832584447911264276> **50% Bonus Earth DMG**, and <:Status_Routine_Step:834403944415100928> **Double Strike**.",
+                        "(Consumes 40% of max HP.)"
                     ],
                     "type": [
                         "3"
@@ -7150,16 +7187,26 @@
                     "name": "Nayde Sinine",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "Gain <:Status_NaydeBlue:834402581597650985> **Nayde Sinine**, boosting double attack, triple attack, and hostility, but lowers DEF.\nEffect enhanced."
+                        "Gain <:Status_NaydeBlue:834402581597650985> **Nayde Sinine**, boosting double attack, triple attack, and hostility, but lowers DEF."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 <:Status_NaydeBlue:834402581597650985> **Nayde Sinine** grants 60% DA Up, 30% TA Up, and 50% DEF Down.",
+                            "\u2022 The hostility boost increases the probability she gets targeted in a 4-man party to ~55%."
+                            ]
+                    }
+                  ]
                 }
             ],
             [
                 {
-                    "cooldown": "9 turns8 turns",
+                    "cooldown": "8 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_NaydeRed:834402676493910018> **Nayde Vanaroosa (1 time)**"
@@ -7171,11 +7218,20 @@
                     "name": "Nayde Vanaroosa",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Gain <:Status_NaydeRed:834402676493910018> **Nayde Vanaroosa (1 time)**, boosting mode bar cut and sharply boosting ATK against a foe in Overdrive for 1 hit.\nEffect enhanced."
+                        "Gain <:Status_NaydeRed:834402676493910018> **Nayde Vanaroosa (1 time)**, boosting mode bar cut and sharply boosting ATK against a foe in Overdrive for 1 hit."
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 <:Status_NaydeRed:834402676493910018> **Nayde Vanaroosa** grants 20% ATK Up at all times, as well as 230% ATK Up when the enemy is in overdrive."
+                            ]
+                    }
+                  ]
                 }
             ],
             [
@@ -7192,11 +7248,22 @@
                     "name": "Soaring Star",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "Gain <:Status_Jammed:832595932305424394> **Jammed**."
+                        "Gain <:Status_Jammed:832595932305424394> **Jammed**.",
+                        "(Uses 40% of max HP)"
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                    {
+                        "title": "\u200b",
+                        "inLine": false,
+                        "text": [
+                            "\u2022 The modifier is unique and stacks multiplicatively with all other buffs.",
+                            "\u2022 <:Status_Jammed:832595932305424394> **Jammed** boosts Beatrix's ATK by 30% at 100% HP up to 90% at 0% HP. ATK increases linearly with HP lost."
+                            ]
+                    }
+                  ]
                 }
             ],
             []
@@ -7216,7 +7283,8 @@
                     "name": "Solid Splatter",
                     "obtain": " Lvl 1\u21e7 Lvl 45 ",
                     "text": [
-                        "5-hit Earth damage to random foes (Damage cap: ~80,000 per hit).\nInflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** on all foes."
+                        "5-hit Earth damage to random foes (Damage cap: ~80,000 per hit).",
+                        "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 30%)** on all foes."
                     ],
                     "type": [
                         "1"
@@ -7239,7 +7307,10 @@
                     "name": "Recurrent Drive",
                     "obtain": " Lvl 1\u21e7 Lvl 65 ",
                     "text": [
-                        "Earth damage to a foe (Damage cap: ~290,000).\nGain <:Status_EarthAtkUp:832591143799226398> **50% Earth ATK Up**.\n(From 2nd cast onward: Also gain <:Status_Bonus_Damage:832584447911264276> **20% Bonus Earth DMG**.)\n(From 3rd cast onward: Also gain <:Status_Jammed:832595932305424394> **Jammed**.)\n"
+                        "Earth damage to a foe (Damage cap: ~290,000).",
+                        "Gain <:Status_EarthAtkUp:832591143799226398> **50% Earth ATK Up**.",
+                        "**From 2nd cast onward:** Also gain <:Status_Bonus_Damage:832584447911264276> **20% Bonus Earth DMG**.",
+                        "**From 3rd cast onward:** Also gain <:Status_Jammed:832595932305424394> **Jammed**."
                     ],
                     "type": [
                         "1"
@@ -7261,7 +7332,8 @@
                     "name": "Exaltation",
                     "obtain": " Lvl 35 ",
                     "text": [
-                        "1-turn cut to an Earth ally's skill cooldown.\nAlly gains <:Status_DmgUp:832590865767727175> **Supplemental DMG**, <:Status_AggroUpArrow:832576432018030592> **Hostility Up**, and <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
+                        "1-turn cut to an Earth ally's skill cooldown.",
+                        "Ally gains <:Status_DmgUp:832590865767727175> **Supplemental DMG**, <:Status_AggroUpArrow:832576432018030592> **Hostility Up**, and <:Status_Uplift:832602899460521994> **Charge Bar +30%**."
                     ],
                     "type": [
                         "3"
@@ -7277,30 +7349,46 @@
                     "duration": {
                         "Indefinite^i": [
                             "<:Status_NaydeBlue:834402581597650985> **Nayde Sinine**",
-                            "<:Status_NaydeBlue:834402581597650985> **Nayde Sinine**",
                             "<:Status_Nayde_Kollane:834402581308112918> **Nayde Kollane**"
                         ]
                     },
                     "icon": [
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/292_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/347_3.png",
-                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/359_3.png"
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/292_3.png"
                     ],
                     "name": "Nayde Sinine /Nayde Kollane /Nayde Valge",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "Nayde Sinine: Gain <:Status_NaydeBlue:834402581597650985> **Nayde Sinine**.\nSkill changes to Nayde Kollane.\nNayde Kollane: Replace <:Status_NaydeBlue:834402581597650985> **Nayde Sinine** with <:Status_Nayde_Kollane:834402581308112918> **Nayde Kollane**.\nSkill changes to Nayde Valge.\nNayde Valge: Toggle off <:Status_Nayde_Kollane:834402581308112918> **Nayde Kollane**.\nSkill changes to Nayde Sinine.\nEffect enhanced."
+                        "**Nayde Sinine:** Gain <:Status_NaydeBlue:834402581597650985> **Nayde Sinine**. Skill changes to Nayde Kollane.",
+                        "**Nayde Kollane:** Replace <:Status_NaydeBlue:834402581597650985> **Nayde Sinine** with <:Status_Nayde_Kollane:834402581308112918> **Nayde Kollane**. Skill changes to Nayde Valge.",
+                        "**Nayde Valge:** Toggle off <:Status_Nayde_Kollane:834402581308112918> **Nayde Kollane**. Skill changes to Nayde Sinine."
                     ],
                     "type": [
-                        "3",
-                        "3",
                         "3"
-                    ]
+                    ],
+                    "data": [
+                        {
+                            "title": "\u200b",
+                            "inLine": false,
+                            "text": [
+                                "```",
+                                "╔═════════════╦══════════╦═════╦════╗",
+                                "║             ║          ║Bonus║DEF ║",
+                                "║    Status   ║   TA UP  ║Fire ║Down║",
+                                "║             ║          ║DMG  ║    ║",
+                                "╠═════════════╬══════════╬═════╬════╣",
+                                "║ Nayde Sinine║          ║  -  ║ 50%║",
+                                "╠═════════════╣Guaranteed╠═════╬════╣",
+                                "║Nayde Kollane║          ║ 50% ║ 75%║",
+                                "╚═════════════╩══════════╩═════╩════╝",
+                                "```"
+                            ]
+                        }
+                      ]
                 }
             ],
             [
                 {
-                    "cooldown": "7 turns6 turns",
+                    "cooldown": "6 turns",
                     "duration": {
                         "1^t": [
                             "<:Status_NaydeRed:834402676493910018> **Nayde Vanaroosa (1 time)**",
@@ -7317,7 +7405,16 @@
                     ],
                     "type": [
                         "3"
-                    ]
+                    ],
+                    "data": [
+                        {
+                            "title": "<:Status_NaydeRed:834402676493910018> Nayde Vanaroosa (1 time) also increases one-foe attack damage cap to ~1,160,000 and C.A. damage cap by 30%.",
+                            "inLine": false,
+                            "text": [
+                                "\u200b"
+                            ]
+                        }
+                      ]
                 }
             ],
             [
