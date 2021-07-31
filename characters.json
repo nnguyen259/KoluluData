@@ -10117,7 +10117,7 @@
             "max_evo": "4",
             "name": "Izmir (Yukata)",
             "original": "Izmir_(Yukata)",
-            "profile": "\u200b",
+            "profile": "Hailing from icy lands, she seeks thrills more intense than the summer sun's rays. Saunas are paradise for a woman like her, and together alongside good company, she'll enjoy searing new passions during this year's vacation.",
             "race": [
                 "Draph"
             ],
@@ -14973,6 +14973,41 @@
     },
     "Meg": {
         "BASE": {
+            "5star": "No",
+            "atk": "10,600",
+            "element": "Dark",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,080",
+            "id": "3030290000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040346000_02.png",
+            "jpname": "\u30e1\u30b0",
+            "link": "https://gbf.wiki/Meg_(Summer)",
+            "max_evo": "4",
+            "name": "Meg (Summer)",
+            "original": "Meg_(Summer)",
+            "profile": "A valiant warrior who vanquished Auguste's enemies and overcame numerous crises finally gets some time off. During her brief respite, her smile recovers the once-lost innocence of her youth.",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Dagger",
+                "Melee"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040346000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Tomoyo Kurosawa"
+            ],
+            "weapon": "Ursula Glove"
+        },
+        "EVENT": {
             "5star": "No",
             "atk": "7,550",
             "element": "Dark",
@@ -24235,7 +24270,7 @@
             "max_evo": "4",
             "name": "Troue",
             "original": "Troue",
-            "profile": "\u200b",
+            "profile": "Afflicted by a mysterious bloom, this young man has gained the power to read thoughts in exchange for his own memories. Despite knowing that he'll forget them again and again, he continues to seek out new experiences, spurred onward by the unwavering support of his friends.",
             "race": [
                 "Erune"
             ],
@@ -26449,7 +26484,7 @@
             "max_evo": "4",
             "name": "Yngwie (Yukata)",
             "original": "Yngwie_(Yukata)",
-            "profile": "\u200b",
+            "profile": "A legendary skyfarer who once took the world by storm returns for a final adventure. He fights for his whims... and for romance.",
             "race": [
                 "Human"
             ],

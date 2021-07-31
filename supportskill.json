@@ -12528,6 +12528,55 @@
                 "duration": {},
                 "name": "Crazy about Auguste",
                 "text": [
+                    "Swimwear and yukata remind Meg of fun memories and enhance her will to protect Auguste.",
+                    "**Boost to specs based on number of summer and yukata version allies in the party other than MC.**"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                          {
+                              "inLine": false,
+                              "title": "Meg herself and Summer/Yukata sub allies count.",
+                              "text": [
+                                  "\u2022 The Main Character and non-summer/yukata allies in summer-themed outfits do not count.",
+                                  "```",
+                                  "╔══════╦═════════════════╗",
+                                  "║Summer║      Buffs      ║",
+                                  "║Allies║                 ║",
+                                  "╠══════╬═════════════════╣",
+                                  "║   1  ║    30% ATK UP   ║",
+                                  "╠══════╬═════════════════╣",
+                                  "║      ║   + 50% DEF UP  ║",
+                                  "║   2  ║ + Guaranteed TA ║",
+                                  "║      ║ + 20% Bonus Dark║",
+                                  "║      ║       DMG       ║",
+                                  "╠══════╬═════════════════╣",
+                                  "║   3  ║+ Debuff immunity║",
+                                  "╠══════╬═════════════════╣",
+                                  "║   4  ║ + Buffs can't be║",
+                                  "║      ║     removed     ║",
+                                  "╠══════╬═════════════════╣",
+                                  "║   5  ║ + 20% Damage Cap║",
+                                  "║      ║        up       ║",
+                                  "╚══════╩═════════════════╝",
+                                  "```"
+                              ]
+                          }
+                      ]
+            },
+            {
+                "duration": {},
+                "name": "Ordinary Girl's Ordinary Vacation",
+                "text": [
+                    "10% Bonus Dark DMG effect to Dark allies' critical hits on normal attacks."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ],
+        "EVENT": [
+            {
+                "duration": {},
+                "name": "Crazy about Auguste",
+                "text": [
                     "Swimwear and yukata remind Meg of past calamities in Auguste.\n(Boost to attack specs based on number of version allies in the party other than MC.)\n"
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"

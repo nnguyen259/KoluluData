@@ -10677,6 +10677,29 @@
                 "crithit"
             ],
             [
+                "crithit",
+                "crithit",
+                "crithit",
+                "crithit",
+                "lock"
+            ]
+        ],
+        "EVENT": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
                 "atk",
                 "crithit",
                 "crithit",

@@ -31369,7 +31369,81 @@
         ]
     },
     "Meg": {
-        "BASE": [
+      "BASE": [
+          [
+              {
+                  "cooldown": "6 turns",
+                  "duration": {
+                      "180^s": [
+                          "<:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**",
+                          "<:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**"
+                      ],
+                      "4^t": [
+                          "<:status_7207_4:870941808228700181> **Chum**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1529_1.png"
+                  ],
+                  "name": "Sharklone Assault",
+                  "obtain": " Lvl 1\u21e7 Lvl 45 ",
+                  "text": [
+                      "4-hit Dark damage to a foe.",
+                      "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**, and <:status_7207_4:870941808228700181> **Chum**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "6 turns",
+                  "duration": {
+                      "3^t": [
+                          "<:Status_CriticalUp:832587322133970986> **Critical Hit Rate Up**",
+                          "<:Status_Keen:832595932620783736> **Keen**",
+                          "<:Status_Adversity:834386783583862794> **DMG Amplified**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1530_3.png"
+                  ],
+                  "name": "Shark in Open Water",
+                  "obtain": " Lvl 1\u21e7 Lvl 65 ",
+                  "text": [
+                      "Gain <:Status_CriticalUp:832587322133970986> **Critical Hit Rate Up**, <:Status_Keen:832595932620783736> **Keen**, and <:Status_Adversity:834386783583862794> **DMG Amplified**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+          ],
+          [
+              {
+                  "cooldown": "6 turns",
+                  "duration": {
+                      "1^t": [
+                          "<:Status_Defiance:832588448593346600> **Salted Wound (Chum) (1 time)**"
+                      ]
+                  },
+                  "icon": [
+                      "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1531_1.png"
+                  ],
+                  "name": "Calamity Rejection",
+                  "obtain": " Lvl 35 ",
+                  "text": [
+                      "Dark damage to all foes.",
+                      "Gain <:Status_Defiance:832588448593346600> **Salted Wound (Chum) (1 time)**."
+                  ],
+                  "type": [
+                      "1"
+                  ]
+              }
+          ],
+          []
+      ],
+        "EVENT": [
             [
                 {
                     "cooldown": "8 turns7 turns",

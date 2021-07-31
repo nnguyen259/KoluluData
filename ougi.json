@@ -5522,6 +5522,17 @@
     "Meg": {
         "BASE": [
             {
+                "duration": {},
+                "name": "Heavy Sharklone",
+                "text": [
+                    "Massive Dark damage to a foe.",
+                    "Next Shark in Open Water affects all allies.",
+                    "End __Shark in Open Water__'s cooldown."
+                ]
+            }
+        ],
+        "EVENT": [
+            {
                 "duration": {
                     "Indefinite^i": [
                         "<:Status_AttackUpStack:832581064383791144> **10% ATK Up (Stackable / Max: 30%)**"
