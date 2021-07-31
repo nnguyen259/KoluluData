@@ -10967,6 +10967,29 @@
                 "hostilityup",
                 "supportskill"
             ]
+        ],
+        "SUMMER": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "da",
+                "ta",
+                "earthatk"
+            ],
+            [
+                "crithit",
+                "skilldmgcap",
+                "skilldmgcap",
+                "debuffacc",
+                "lock"
+            ]
         ]
     },
     "Mika_Jougasaki": {

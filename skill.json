@@ -31415,7 +31415,7 @@
                       "Gain <:Status_CriticalUp:832587322133970986> **Critical Hit Rate Up**, <:Status_Keen:832595932620783736> **Keen**, and <:Status_Adversity:834386783583862794> **DMG Amplified**."
                   ],
                   "type": [
-                      "1"
+                      "3"
                   ]
               }
           ],
@@ -32292,6 +32292,121 @@
                     ],
                     "type": [
                         "3"
+                    ]
+                }
+            ],
+            []
+        ],
+        "SUMMER": [
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1532_1.png"
+                    ],
+                    "name": "Starry Sky",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "5-hit Earth damage to a foe.",
+                        "Gain 5 <:Status_Aetherial_Seal1:832575956811776070> **Aetherial Seal**.",
+                        "(Random debuffs to foe based on number of <:Status_Aetherial_Seal1:832575956811776070> **Aetherial Seal** upon cast.)"
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data":[
+                        {
+                            "inLine" : true,
+                            "title" : "Status",
+                            "text": [
+                              "\u200b",
+                              "<:Status_DebuffResDown:832588130741125150> **Debuff Res. Down**",
+                              "",
+                              "<:Status_Poison:832598586335428660> **Poisoned**",
+                              "",
+                              "<:Status_Putrefy:834402938204979240> **Putrefied**",
+                              "",
+                              "<:Status_Burned:832584524088082433> **Burned**",
+                              "",
+                              "<:Status_Blind:832583965428678656> **Blinded**",
+                              "",
+                              "<:Status_Charm:832585566574215168> **Charmed**",
+                              "",
+                              "<:Status_DoubleDown:832590867336003645> **DA Down**",
+                              "",
+                              "<:Status_TripleDown:832601877106393089> **TA Down**",
+                              "",
+                              "<:Status_Accuracy_Lowered_3:834386454825140224> **Accuracy Lowered**",
+                              "",
+                              "<:Status_Paralyzed_2:834402844601483325> **Paralyzed**"
+                            ]
+                        },
+                        {
+                            "inLine" : true,
+                            "title" : "Duration",
+                            "text" : [
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "3 turns",
+                                "\u200b",
+                                "2 turns"
+                            ]
+                        }
+                    ]
+
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1533_1.png"
+                    ],
+                    "name": "Adorned Sunray Fall",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Earth damage to a foe.",
+                        "Inflict <:Status_Gravity:832593788052177016> **Delay**.",
+                        "**When the foe has 10 or more debuffs:** Activates twice."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1534_1.png"
+                    ],
+                    "name": "Heart Seeker",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Earth damage to a foe.",
+                        "Gain Instant Charge.",
+                        "End cooldown for other skills."
+                    ],
+                    "type": [
+                        "1"
                     ]
                 }
             ],

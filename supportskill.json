@@ -12915,6 +12915,25 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Complete Arcane Bow",
+                "text": [
+                    "Consume 1 <:Status_Aetherial_Seal1:832575956811776070> **Aetherial Seal** upon normal attacks to deal 4-hit Earth damage to a foe.",
+                    "Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)** and <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Breezy Summer Butterfly",
+                "text": [
+                    "Supplement Earth allies' skill damage (Damage cap: 50,000)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
         ]
     },
     "Mika_Jougasaki": {

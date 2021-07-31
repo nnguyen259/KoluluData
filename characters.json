@@ -14980,7 +14980,7 @@
                 "Female"
             ],
             "hp": "1,080",
-            "id": "3030290000",
+            "id": "3040346000",
             "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040346000_02.png",
             "jpname": "\u30e1\u30b0",
             "link": "https://gbf.wiki/Meg_(Summer)",
@@ -15410,6 +15410,40 @@
                 "Ry\u014dka Yuzuki"
             ],
             "weapon": "Pinkie Needle"
+        },
+        "SUMMER": {
+            "5star": "No",
+            "atk": "8,740",
+            "element": "Earth",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,140",
+            "id": "3040347000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040347000_02.png",
+            "jpname": "\u30e1\u30fc\u30c6\u30e9",
+            "link": "https://gbf.wiki/Metera_(Summer)",
+            "max_evo": "4",
+            "name": "Metera (Summer)",
+            "original": "Metera_(Summery)",
+            "profile": "The young prodigy with lazy tendencies slips on an alluring swimsuit and makes her way to the beach. Heads turn, some out of envy and other with ulterior motives, but the beauty simply struts by, paying them no heed. Her confidence only makes her that much more beguiling.",
+            "race": [
+                "Erune"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Bow"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040347000_02.jpg",
+            "type": "Balanced",
+            "va": [
+                "Ry\u014dka Yuzuki"
+            ],
+            "weapon": "Aethreal Marine"
         }
     },
     "Mika_Jougasaki": {

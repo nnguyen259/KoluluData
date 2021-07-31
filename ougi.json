@@ -5658,6 +5658,17 @@
                     "Massive Light damage to a foe.\nConsume 1 <:Status_Aetherial_Seal_Holiday_1:832575956677951499> **Aetherial Seal**: 200% Bonus Light damage (Damage cap: ~580,000)."
                 ]
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Dense Caress",
+                "text": [
+                    "Massive Earth damage to a foe.",
+                    "2-turn cut to __Sun-Kissed Blooming__'s cooldown.",
+                    "(Bonus Earth damage based on <:Status_Aetherial_Seal1:832575956811776070> **Aetherial Seal** count [Max: 5 hits].)"
+                ]
+            }
         ]
     },
     "Mika_Jougasaki": {
