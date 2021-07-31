@@ -18615,6 +18615,42 @@
             "weapon": "Taisai Spirit Bow"
         }
     },
+    "Poseidon": {
+        "BASE": {
+            "5star": "No",
+            "atk": "9,700",
+            "element": "Water",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,260",
+            "id": "3040348000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040348000_02.png",
+            "jpname": "\u30dd\u30bb\u30a4\u30c9\u30f3",
+            "link": "https://gbf.wiki/Poseidon",
+            "max_evo": "4",
+            "name": "Poseidon",
+            "original": "Poseidon",
+            "profile": "Freed from the dark chains of captivity, this water god silently watches the path taken by the children of man. Only at journey's end will he decide to either offer his blessing or deliver justice.",
+            "race": [
+                "Primal"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Premium Gala",
+            "series": [
+                "grand"
+            ],
+            "specialties": [
+                "Spear"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040348000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Daisuke Ono"
+            ],
+            "weapon": "Atlantis"
+        }
+    },
     "Predator": {
         "BASE": {
             "5star": "No",

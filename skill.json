@@ -39130,6 +39130,133 @@
             []
         ]
     },
+    "Poseidon": {
+        "BASE": [
+            [
+                {
+                    "cooldown": "7 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_7129:838784405120090122> **Thunderstruck**"
+                        ],
+                        "Indefinite^i": [
+                            "<:status_7204:870963254443270175> **Tide Father's Judgment**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1526_1.png"
+                    ],
+                    "name": "Triaina",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "800% Water damage to a foe (Damage cap: ~1,160,000).",
+                        "Inflict <:status_7204:870963254443270175> **Tide Father's Judgment**.",
+                        "Raise foe's <:Status_7129:838784405120090122> **Thunderstruck** lvl by 1 (Max: 10)."
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data": [
+                        {
+                            "title": "<:status_7204:870963254443270175> Tide Father's Judgment has the following effects:",
+                            "inLine": false,
+                            "text": [
+                                "\u2022 HP is lowered on every turn (Damage cap: 50,000)",
+                                "\u2022 10% ATK Down",
+                                "\u2022 10% DEF Down",
+                                "**Does not stack with other permanent local debuffs that have overlapping effects. Only the highest strength takes effect.**",
+                                "Reduce the multiattack rate of foes afflicted with <:Status_7129:838784405120090122> **Thunderstruck**",
+                                "```",
+                                "╔═════╦════════════════╗",
+                                "║ Lvl ║ DA and TA Down ║",
+                                "╠═════╬════════════════╣",
+                                "║  1  ║       2%       ║",
+                                "╠═════╬════════════════╣",
+                                "║  2  ║       4%       ║",
+                                "╠═════╬════════════════╣",
+                                "║  3  ║       6%       ║",
+                                "╠═════╬════════════════╣",
+                                "║  4  ║       8%       ║",
+                                "╠═════╬════════════════╣",
+                                "║  5  ║       10%      ║",
+                                "╠═════╬════════════════╣",
+                                "║  6  ║       12%      ║",
+                                "╠═════╬════════════════╣",
+                                "║  7  ║       14%      ║",
+                                "╠═════╬════════════════╣",
+                                "║  8  ║       16%      ║",
+                                "╠═════╬════════════════╣",
+                                "║  9  ║       18%      ║",
+                                "╠═════╬════════════════╣",
+                                "║  10 ║       20%      ║",
+                                "╚═════╩════════════════╝",
+                                "```"
+
+                            ]
+                        }
+                      ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "8 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_AttackUpStack:832581064383791144> **5% ATK Up (Stackable / Max: 30%)**",
+                            " <:Status_DefenseUpStack:832588448413122560> **5% DEF Up (Stackable / Max: 30%)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1527_1.png"
+                    ],
+                    "name": "Triaina",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "150% Water damage to all foes (Damage cap: ~340,000).",
+                        "All allies gain <:Status_AttackUpStack:832581064383791144> **5% ATK Up (Stackable / Max: 30%)**, <:Status_DefenseUpStack:832588448413122560> **5% DEF Up (Stackable / Max: 30%)**, and <:Status_Uplift:832602899460521994> **Charge Bar +20%**.",
+                        "Consumes all <:status_7205:870963395728396338> **Tide Father** lvls.",
+                        "Boost to activations based on number consumed (Max: 10 times)."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "5^t": [
+                            "<:status_7206:870963485029322793> **Isthmia**"
+                        ]
+                      },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1528_3.png"
+                    ],
+                    "name": "Triaina",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "All Water allies gain <:status_7206:870963485029322793> **Isthmia**."
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data": [
+                      {
+                          "title": "<:status_7206:870963485029322793> **Isthmia** grants the following effects:",
+                          "inLine": false,
+                          "text": [
+                              "\u2022 100% Debuff Resistance Up",
+                              "\u2022 20% reduced DMG taken",
+                              "\u2022 Drain effect (Healing cap: 1000)"
+                          ]
+                      }
+                    ]
+                }
+            ],
+            []
+        ]
+      },
     "Predator": {
         "BASE": [
             [

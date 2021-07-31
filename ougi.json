@@ -6895,6 +6895,23 @@
             }
         ]
     },
+    "Poseidon": {
+        "BASE": [
+            {
+                "duration": {
+                    "3.5^t": [
+                        "<:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**"
+                    ]
+                },
+                "name": "Thousand Claws",
+                "text": [
+                    "450% Water damage to a foe.",
+                    "All allies gain <:Status_WaterAtkUp:832603014598623233> **30% Water ATK Up**.",
+                    "(700% Bonus damage to a foe with <:status_7204:870963254443270175> **Tide Father's Judgment** [Damage cap: ~1,160,000].)"
+                ]
+            }
+        ]
+    },
     "Predator": {
         "BASE": [
             {

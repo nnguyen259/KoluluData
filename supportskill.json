@@ -15150,6 +15150,37 @@
             }
         ]
     },
+    "Poseidon": {
+        "BASE": [
+            {
+                "duration": {},
+                "name": "Three Prongs of Judgment",
+                "text": [
+                    "Guaranteed triple attacks, charge bar fills up 35% slower, and normal attacks deal 3-hit damage to random foes."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png",
+                "data": [
+                      {
+                          "title": "Poseidon's 3-hit normal attack is counted as 3 separate damage instances.",
+                          "inLine": false,
+                          "text": [
+                              "\u2022 Effects such as <:Status_Bonus_Damage:832584447911264276> **Bonus Water DMG**, <:Status_DmgUp:832590865767727175> **Supplemental DMG**, and <:Status_Keen:832595932620783736> **Keen** are applied to each damage instance."
+                          ]
+                      }
+                    ]
+            },
+            {
+                "duration": {},
+                "name": "Tide Father's Glory",
+                "text": [
+                    "**When a Water ally uses a charge attack:**",
+                    "Gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**.",
+                    "Raise <:status_7205:870963395728396338> **Tide Father** lvl by 1 (Max: 9)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
+        ]
+    },
     "Predator": {
         "BASE": [
             {

@@ -13240,6 +13240,31 @@
             ]
         ]
     },
+    "Poseidon": {
+        "BASE": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "wateratk",
+                "cadmg"
+            ],
+            [
+                "wateratk",
+                "stamina",
+                "skilldmgcap",
+                "cadmgcap",
+                "lock"
+            ]
+        ]
+    },
     "Predator": {
         "BASE": [
             [
