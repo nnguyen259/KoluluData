@@ -16723,6 +16723,29 @@
                 "debuffacc",
                 "supportskill"
             ]
+        ],
+        "SUMMER": [
+            [
+                "atk",
+                "def",
+                "da",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "da",
+                "crithit"
+            ],
+            [
+                "crithit",
+                "skilldmg",
+                "skilldmgcap",
+                "debuffacc",
+                "lock"
+            ]
         ]
     },
     "Tanjiro,_Nezuko,_Zenitsu,": {

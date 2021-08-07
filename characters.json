@@ -23497,6 +23497,41 @@
                 "Kaede Hondo"
             ],
             "weapon": "Hand Axe"
+        },
+        "SUMMER": {
+            "5star": "No",
+            "atk": "9,775",
+            "element": "Dark",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,245",
+            "id": "3040350000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040350000_02.png",
+            "jpname": "\u30bf\u30f4\u30a3\u30fc\u30ca",
+            "link": "https://gbf.wiki/Tabina_(Summer)",
+            "max_evo": "4",
+            "name": "Tabina (Summer)",
+            "original": "Tabina_(Summer)",
+            "profile": "\u200b",
+            "race": [
+                "Human"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Bow",
+                "Axe"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040350000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Kaede Hondo"
+            ],
+            "weapon": "Tahar Masala"
         }
     },
     "Tanjiro,_Nezuko,_Zenitsu,": {

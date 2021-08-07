@@ -49235,6 +49235,140 @@
                 }
             ],
             []
+        ],
+        "SUMMER": [
+            [
+                {
+                    "cooldown": "5 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                          "<:Status_Dodge_1:832590866371182602> **Dodge All(1 time)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1523_1.png"
+                    ],
+                    "name": "Shams Al-Saif",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "4-hit dark DMG to a foe.",
+                        "Gain <:Status_Dodge_1:832590866371182602> **Dodge All(1 time)**.",
+                        "Refill 2 <:Status_Hunters_Arrow_1:832594542066139176> **Hunter's Arrows**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "0 turns",
+                    "duration": {
+                        "180^s": [
+                            "<:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**",
+                            "<:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1524_1.png"
+                    ],
+                    "name": "Al-Mawj Takil",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "4-hit dark DMG to a foe.",
+                        "Inflict Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**.",
+                        "Random debuff.",
+                        "Consumes 1 <:Status_Hunters_Arrow_1:832594542066139176> **Hunter's Arrows**."
+                    ],
+                    "type": [
+                        "1"
+                    ],
+                    "data":[
+                        {
+                            "inLine" : true,
+                            "title" : "Status",
+                            "text": [
+                              "\u200b",
+                              "<:Status_DebuffResDown:832588130741125150> **Debuff Res. Down**",
+                              "",
+                              "<:Status_Poison:832598586335428660> **Poisoned**",
+                              "",
+                              "<:Status_Putrefy:834402938204979240> **Putrefied**",
+                              "",
+                              "<:Status_Burned:832584524088082433> **Burned**",
+                              "",
+                              "<:Status_Blind:832583965428678656> **Blinded**",
+                              "",
+                              "<:Status_Charm:832585566574215168> **Charmed**",
+                              "",
+                              "<:Status_DoubleDown:832590867336003645> **DA Down**",
+                              "",
+                              "<:Status_TripleDown:832601877106393089> **TA Down**",
+                              "",
+                              "<:Status_Accuracy_Lowered_3:834386454825140224> **Accuracy Lowered**",
+                              "",
+                              "<:Status_Paralyzed_2:834402844601483325> **Paralyzed**"
+                            ]
+                        },
+                        {
+                            "inLine" : true,
+                            "title" : "Duration",
+                            "text" : [
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "180 seconds",
+                                "\u200b",
+                                "3 turns",
+                                "\u200b",
+                                "2 turns"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "8 turns",
+                    "duration": {},
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1525_3.png"
+                    ],
+                    "name": "Hubu Al-Raqs",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "All Dark allies gain <:status_7210_2:873525410737049620> **Hubu Al-Raqs**.",
+                        "(Ends upon taking damage 2 times.)"
+                    ],
+                    "type": [
+                        "3"
+                    ],
+                    "data":[
+                        {
+                            "inLine" : false,
+                            "title" : "<:status_7210_2:873525410737049620> **Hubu Al-Raqs** grants the following effects:",
+                            "text": [
+                                "\u2022 Boost to Debuff Success Rate",
+                                "\u2022 Boost to Skill Specs",
+                                "\u2022 Supplement damage dealt"
+                            ]
+                        }
+                      ]
+                }
+            ],
+            []
         ]
     },
     "Tanjiro,_Nezuko,_Zenitsu,": {

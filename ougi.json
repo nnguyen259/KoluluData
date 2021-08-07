@@ -8659,6 +8659,16 @@
                     "Massive Fire damage to a foe.\n(40% boost to C.A. damage and 20% boost to C.A. damage cap against foes with <:Status_Eayan_AlRamal_1:832591790220640293> **Eayan Al-Ramal**.)\nExtend <:Status_Eayan_AlRamal_1:832591790220640293> **Eayan Al-Ramal**'s duration by 2 turns."
                 ]
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Raqsat Al-Habi",
+                "text": [
+                    "Massive dark DMG to a foe.",
+                    "Activate __Shams Al-Saif__"
+                ]
+            }
         ]
     },
     "Tanjiro,_Nezuko,_Zenitsu,": {

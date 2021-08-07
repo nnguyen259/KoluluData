@@ -18833,6 +18833,26 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Beach Huntress",
+                "text": [
+                    "Starts battle with 4 <:Status_Hunters_Arrow_1:832594542066139176> **Hunter's Arrow** (Max: 4).",
+                    "**At end of turn when 1 or more <:Status_Hunters_Arrow_1:832594542066139176> are granted:** __Activate Al-Mawj Takil__"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Spice of Love",
+                "text": [
+                    "Boost to dodge rate based on attacking foe's number of debuffs.",
+                    "**Upon dodging**: 4-hit dark DMG to random foes. All allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
         ]
     },
     "Tanjiro,_Nezuko,_Zenitsu,": {
