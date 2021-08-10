@@ -10036,7 +10036,7 @@
                 "duration": {
                     "2.5^t": [
                         "<:Status_LightAtkUp:832596750144503828> **20% Light ATK Up**",
-                        "<:Status_Dark_Cut_20:832587991124803604> *20% Dark Cut**"
+                        "<:Status_Dark_Cut_20:832587991124803604> **20% Dark Cut**"
                     ]
                 },
                 "name": "Alexander Plasma",
