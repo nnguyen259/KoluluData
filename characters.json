@@ -23513,7 +23513,7 @@
             "max_evo": "4",
             "name": "Tabina (Summer)",
             "original": "Tabina_(Summer)",
-            "profile": "\u200b",
+            "profile": "The lovely young lady travels to the beach for the first time in her life, marveling at all the new sights and sounds. She hopes that, one day, she can visit again with her beloved. But for now, she wholeheartedly throws herself into a new business opportunity—and once she's done, all the skies will know of Tahar masala.",
             "race": [
                 "Human"
             ],
@@ -27185,6 +27185,40 @@
                 "Yumi Hara"
             ],
             "weapon": "Starblaze Rings"
+        },
+        "YUKATA": {
+            "5star": "No",
+            "atk": "9,040",
+            "element": "Light",
+            "gender": [
+                "Female"
+            ],
+            "hp": "1,510",
+            "id": "3040349000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040349000_02.png",
+            "jpname": "\u30b6\u30eb\u30cf\u30e1\u30ea\u30ca",
+            "link": "https://gbf.wiki/Zahlhamelina_(Yukata)",
+            "max_evo": "4",
+            "name": "Zahlhamelina (Yukata)",
+            "original": "Zahlhamelina_(Yukata)",
+            "profile": "The priestess of the divine sun shall light the way for any souls trapped in never-ending darkness, guiding them to where they belong—away from the cold and the rain, and into the sun's warm embrace.",
+            "race": [
+                "Harvin"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "yukata"
+            ],
+            "specialties": [
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040349000_02.jpg",
+            "type": "Special",
+            "va": [
+                "Yumi Hara"
+            ],
+            "weapon": "Bitternote Sun"
         }
     },
     "Zaja": {

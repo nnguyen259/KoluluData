@@ -19336,6 +19336,29 @@
                 "healing",
                 "supportskill"
             ]
+        ],
+        "YUKATA": [
+            [
+                "atk",
+                "def",
+                "debuffres",
+                "oda",
+                "modebar"
+            ],
+            [
+                "atk",
+                "atk",
+                "da",
+                "lightatk",
+                "cadmg"
+            ],
+            [
+                "hp",
+                "stamina",
+                "darkdmg",
+                "darkdmg",
+                "lock"
+            ]
         ]
     },
     "Zaja": {

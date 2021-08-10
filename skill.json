@@ -49251,7 +49251,7 @@
                     "name": "Shams Al-Saif",
                     "obtain": " Lvl 1\u21e7 Lvl 55 ",
                     "text": [
-                        "4-hit dark DMG to a foe.",
+                        "4-hit dark DMG to a foe (Damage cap: ~80,000 per hit).",
                         "Gain <:Status_Dodge_1:832590866371182602> **Dodge All(1 time)**.",
                         "Refill 2 <:Status_Hunters_Arrow_1:832594542066139176> **Hunter's Arrows**."
                     ],
@@ -49275,7 +49275,7 @@
                     "name": "Al-Mawj Takil",
                     "obtain": " Lvl 1\u21e7 Lvl 75 ",
                     "text": [
-                        "4-hit dark DMG to a foe.",
+                        "4-hit dark DMG to a foe (Damage cap: ~60,000 per hit).",
                         "Inflict Inflict <:Status_AttackDownStack:832581064017969162> **10% ATK Down (Stackable / Max: 40%)**, <:Status_DefenseDownStack:832588193722400818> **10% DEF Down (Stackable / Max: 40%)**.",
                         "Random debuff.",
                         "Consumes 1 <:Status_Hunters_Arrow_1:832594542066139176> **Hunter's Arrows**."
@@ -57421,6 +57421,91 @@
                     "obtain": " Lvl 45 ",
                     "text": [
                         "All Fire allies gain <:Status_FireAtkUp:832592559683010590> **20% Fire ATK Up**, <:Status_Wind_Cut_20:834407136700006431> **20% Wind Cut**, and <:Status_Hellfire_Crest_1:832594036094795797> **Hellfire Crest**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
+        ],
+        "YUKATA": [
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_Shield:832599448872943648> **Shield (5000)**",
+                            "<:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**"
+                        ],
+                        "3^t": [
+                            "<:Status_Armored:832577248602095656> **100% / 50% Armored**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1520_3.png"
+                    ],
+                    "name": "Katachnia",
+                    "obtain": " Lvl 1 ",
+                    "text": [
+                        "All Light allies gain <:Status_Shield:832599448872943648> **Shield (5000)**, <:Status_Mirror_Image:832597008539058187> **Mirror Image (1 time)**, and <:Status_Armored:832577248602095656> **100% / 50% Armored**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "8^t": [
+                            "<:status_5043:874783368204673064> **Iliofaneia**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1521_5.png"
+                    ],
+                    "name": "Iliofaneia",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "Illuminate the field with sunlight.",
+                        "Deploy the <:status_5043:874783368204673064> **Iliofaneia** field effect."
+                    ],
+                    "type": [
+                        "5"
+                    ],
+                    "data": [
+                        {
+                            "inLine": false,
+                            "title": "<:status_5043:874783368204673064> **Iliofaneia** provides the following effects to all allies and foes:",
+                            "text": [
+                                "\u2022 20% Unique ATK Up",
+                                "\u2022 DEF Down",
+                                "\u2022 Can deal critical hits regardless of element",
+                                "\u2022 10% / 50% boost to foes' critical hit rate"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "12 turns",
+                    "duration": {
+                        "5^t": [
+                            "<:Status_CriticalUpLight:832587863928733696> **100% / 20% Critical Hit Rate Up**",
+                            "<:Status_DamageCapUp:832587990952837160> **15% DMG Cap Up**",
+                            "<:Status_Bonus_Damage:832584447911264276> **20% Bonus Light DMG**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1522_3.png"
+                    ],
+                    "name": "Ilios Fotizo",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "All Light allies gain <:Status_CriticalUpLight:832587863928733696> **100% / 20% Critical Hit Rate Up**, <:Status_DamageCapUp:832587990952837160> **15% DMG Cap Up**, and <:Status_Bonus_Damage:832584447911264276> **20% Bonus Light DMG**."
                     ],
                     "type": [
                         "3"

@@ -8665,7 +8665,7 @@
                 "duration": {},
                 "name": "Raqsat Al-Habi",
                 "text": [
-                    "Massive dark DMG to a foe.",
+                    "450% Dark DMG to a foe.",
                     "Activate __Shams Al-Saif__"
                 ]
             }
@@ -10028,6 +10028,21 @@
                 "name": "Alexander Plasma",
                 "text": [
                     "Massive Fire damage to a foe.\n(50% boost to C.A. damage and 20% boost to C.A. damage cap when the field effect <:Status_Flare:832592782589034516> **Flare** is active.)\nAll allies gain <:Status_CriticalUp:832587322133970986> **30% / 30% Critical Hit Rate Up**."
+                ]
+            }
+        ],
+        "YUKATA": [
+            {
+                "duration": {
+                    "2.5^t": [
+                        "<:Status_LightAtkUp:832596750144503828> **20% Light ATK Up**",
+                        "<:Status_Dark_Cut_20:832587991124803604> *20% Dark Cut**"
+                    ]
+                },
+                "name": "Alexander Plasma",
+                "text": [
+                    "450% Light damage to a foe.",
+                    "All allies gain <:Status_LightAtkUp:832596750144503828> **20% Light ATK Up** and <:Status_Dark_Cut_20:832587991124803604> **20% Dark Cut**."
                 ]
             }
         ]

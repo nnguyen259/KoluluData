@@ -18849,7 +18849,7 @@
                 "name": "Spice of Love",
                 "text": [
                     "Boost to dodge rate based on attacking foe's number of debuffs.",
-                    "**Upon dodging**: 4-hit dark DMG to random foes. All allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
+                    "**Upon dodging**: 4-hit dark DMG to random foes (Damage cap: ~80,000 per hit). All allies gain <:Status_Uplift:832602899460521994> **Charge Bar +10%**."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
@@ -21628,6 +21628,25 @@
                     "Boost to all allies' healing cap."
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
+            }
+        ],
+        "YUKATA": [
+            {
+                "duration": {},
+                "name": "Sun's Divine Protection",
+                "text": [
+                    "10% Dark damage reduction to Light allies.",
+                    "All Light allies start battle with <:Status_Veil:832602900122828840> **Veil**. (Takes effect even when Zahlhamelina is a sub ally.)"
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Vivid Sunshine",
+                "text": [
+                    "Supplement Light allies' critical hit damage (Damage cap: 3000)."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
             }
         ]
     },
