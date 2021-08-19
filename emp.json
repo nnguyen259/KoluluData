@@ -15625,6 +15625,29 @@
                 "ta",
                 "supportskill"
             ]
+        ],
+        "SUMMER": [
+            [
+                "atk",
+                "def",
+                "hp",
+                "crithit",
+                "cadmg"
+            ],
+            [
+                "atk",
+                "def",
+                "hp",
+                "lightatk",
+                "cadmg"
+            ],
+            [
+                "crithit",
+                "crithit",
+                "cadmgcap",
+                "darkdmg",
+                "lock"
+            ]
         ]
     },
     "Sho": {

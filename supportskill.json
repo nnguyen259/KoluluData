@@ -17672,6 +17672,34 @@
                 ],
                 "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/410_3.png"
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {},
+                "name": "Rays that Light the Sky",
+                "text": [
+                    "Amplify Light allies' damage against Dark foes by 20%.",
+                    "**While Shiva has <:status_7217:877926903007309874> Sri Rudram:** Effect increased to 30%."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Sacred Fires of Renewal",
+                "text": [
+                    "Restore all allies' HP at end of turn (Healing cap: 500).",
+                    "**While Shiva has <:status_7218:877926942966427668> Shankara:** Healing cap increased to 1000."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            },
+            {
+                "duration": {},
+                "name": "Lustrous Cleansing",
+                "text": [
+                    "No charge bar gain upon normal attacks, amplify normal attack damage by 20%, guaranteed triple attacks, and buffs can't be removed."
+                ],
+                "thumbnail": "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/55_3.png"
+            }
         ]
     },
     "Sho": {

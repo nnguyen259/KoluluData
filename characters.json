@@ -21951,6 +21951,41 @@
                 "Sh\u014d Hayami"
             ],
             "weapon": "Purifying Thunderbolt"
+        },
+        "SUMMER": {
+            "5star": "No",
+            "atk": "11,000",
+            "element": "Light",
+            "gender": [
+                "Male"
+            ],
+            "hp": "1,300",
+            "id": "3040352000",
+            "image": "http://game-a.granbluefantasy.jp/assets_en/img/sp/assets/npc/detail/3040352000_02.png",
+            "jpname": "\u30b7\u30f4\u30a1",
+            "link": "https://gbf.wiki/Shiva_(Summer)",
+            "max_evo": "4",
+            "name": "Shiva (Summer)",
+            "original": "Shiva_(Summer)",
+            "profile": "Dancing to the tune of wildfire and the melody of rebirth, this war god flows like a steady stream on a breezy day. His graceful steps purify both life and death in equal measure, helping to push the wheel of reincarnation. Even souls lost to the darkness are able to find peace by following the spark of his incandescent flames.",
+            "race": [
+                "Primal"
+            ],
+            "rarity": "SSR",
+            "recruitment": "Summer Premium Draw",
+            "series": [
+                "summer"
+            ],
+            "specialties": [
+                "Spear",
+                "Staff"
+            ],
+            "thumbnail": "http://game-a1.granbluefantasy.jp/assets_en/img/sp/assets/npc/m/3040352000_02.jpg",
+            "type": "Attack",
+            "va": [
+                "Sh\u014d Hayami"
+            ],
+            "weapon": "Impossible Diagram"
         }
     },
     "Sho": {

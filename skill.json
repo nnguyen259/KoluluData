@@ -46143,6 +46143,79 @@
                 }
             ],
             []
+        ],
+        "SUMMER": [
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {
+                        "5^t": [
+                            "<:status_7217:877926903007309874> **Sri Rudram**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1541_1.png"
+                    ],
+                    "name": "Trishula",
+                    "obtain": " Lvl 1\u21e7 Lvl 55 ",
+                    "text": [
+                        "20-hit, 100% Light damage to random foes (Damage cap: ~70,000 per hit).",
+                        "Remove 1 buff from all foes.",
+                        "Gain <:status_7217:877926903007309874> **Sri Rudram**."
+                    ],
+                    "type": [
+                        "1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "10 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_Veil:832602900122828840> **Veil**"
+                        ],
+                        "5^t": [
+                            "<:status_7218:877926942966427668> **Shankara**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1542_3.png"
+                    ],
+                    "name": "Brahma and Rudra",
+                    "obtain": " Lvl 1\u21e7 Lvl 75 ",
+                    "text": [
+                        "All allies gain <:Status_Veil:832602900122828840> **Veil**.",
+                        "Gain <:status_7218:877926942966427668> **Shankara**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "cooldown": "6 turns",
+                    "duration": {
+                        "Indefinite^i": [
+                            "<:Status_CA_Reactivation:834389295753199626> **C.A. Reactivation (1 time)**"
+                        ]
+                    },
+                    "icon": [
+                        "http://game-a.granbluefantasy.jp/assets_en/img/sp/ui/icon/ability/m/1544_3.png"
+                    ],
+                    "name": "Tandava",
+                    "obtain": " Lvl 45 ",
+                    "text": [
+                        "Gain **Instant Charge**.",
+                        "**When cast from 10th turn onward:** Also gain <:Status_CA_Reactivation:834389295753199626> **C.A. Reactivation (1 time)**."
+                    ],
+                    "type": [
+                        "3"
+                    ]
+                }
+            ],
+            []
         ]
     },
     "Sho": {

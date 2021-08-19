@@ -8116,6 +8116,20 @@
                     "Massive Fire damage to a foe.\nConsume <:Status_Inner_Eye:832594644419739678> **Inner Eye**."
                 ]
             }
+        ],
+        "SUMMER": [
+            {
+                "duration": {
+                    "1.5^t": [
+                        "<:Status_Defiance:832588448593346600> **100% Sharp ATK Up (1 time)**"
+                    ]
+                },
+                "name": "Awaken Inner Eye",
+                "text": [
+                    "1250% Light damage to a foe (Damage cap: ~2,900,000).",
+                    "Gain <:Status_Defiance:832588448593346600> **100% Sharp ATK Up (1 time)**."
+                ]
+            }
         ]
     },
     "Sho": {
